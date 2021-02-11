@@ -1,0 +1,114 @@
+{
+  "responsePayloadData": {
+    "currentTime": "2021-02-11T10:05:00.436",
+    "data": {
+      "MD": [
+        {
+          "totalAvailable": "0",
+          "city": "BALTIMORE",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "BETHESDA",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "-1",
+          "city": "BOWIE",
+          "state": "MD",
+          "pctAvailable": "-0.22%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "DUNKIRK",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "ELDERSBURG",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "ELKTON",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "FREDERICK",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "FULTON",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "HAGERSTOWN",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "HAVRE DE GRACE",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "LEONARDTOWN",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "MILLERSVILLE",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "OCEAN CITY",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "totalAvailable": "0",
+          "city": "WHITE PLAINS",
+          "state": "MD",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        }
+      ]
+    }
+  },
+  "responseMetaData": {
+    "statusDesc": "Success",
+    "conversationId": "Id-1413e53450c44a1a8593d7b917049738",
+    "refId": "Id-bb6325602b3db906e0241048",
+    "operation": "getInventorybyCity",
+    "statusCode": "0000"
+  }
+}
