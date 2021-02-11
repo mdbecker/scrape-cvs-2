@@ -3,8 +3,8 @@
     "statusCode": "0000",
     "statusDesc": "Success",
     "operation": "getInventorybyCity",
-    "conversationId": "Id-ebd81736f1f6448c888641fab4415d83",
-    "refId": "Id-c76c2560354a596cdff63132"
+    "conversationId": "Id-5e9f1392ec944cf9a218b1ee961daba5",
+    "refId": "Id-4170256012471e91cb485216"
   },
   "responsePayloadData": {
     "data": {
@@ -75,8 +75,8 @@
         {
           "state": "NJ",
           "city": "HACKETTSTOWN",
-          "totalAvailable": "-3",
-          "pctAvailable": "-0.65%",
+          "totalAvailable": "-2",
+          "pctAvailable": "-0.43%",
           "status": "Fully Booked"
         },
         {
@@ -173,8 +173,8 @@
         {
           "state": "NJ",
           "city": "VINELAND",
-          "totalAvailable": "0",
-          "pctAvailable": "0.00%",
+          "totalAvailable": "1",
+          "pctAvailable": "0.22%",
           "status": "Fully Booked"
         },
         {
@@ -187,8 +187,8 @@
         {
           "state": "NJ",
           "city": "WEST ORANGE",
-          "totalAvailable": "-1",
-          "pctAvailable": "-0.22%",
+          "totalAvailable": "-2",
+          "pctAvailable": "-0.43%",
           "status": "Fully Booked"
         },
         {
@@ -200,6 +200,6 @@
         }
       ]
     },
-    "currentTime": "2021-02-11T10:43:35.775"
+    "currentTime": "2021-02-11T10:58:25.877"
   }
 }
