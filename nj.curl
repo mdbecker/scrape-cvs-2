@@ -13,4 +13,4 @@ curl 'https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.NJ.json?
   -H 'accept-language: en-US,en;q=0.9' \
   -H 'dnt: 1' \
   -H 'sec-gpc: 1' \
-  --compressed | jq . > nj.json
+  --compressed | jq --sort-keys . | egrep -v "conversationId|refId|currentTime" > nj.json
