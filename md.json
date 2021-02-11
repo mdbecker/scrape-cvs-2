@@ -1,114 +1,114 @@
 {
+  "responseMetaData": {
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "operation": "getInventorybyCity",
+    "conversationId": "Id-813147617e8f4bf697735913b0c9e35b",
+    "refId": "Id-816c2560313c7649afd09cfd"
+  },
   "responsePayloadData": {
-    "currentTime": "2021-02-11T10:05:00.436",
     "data": {
       "MD": [
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "BALTIMORE",
-          "state": "MD",
-          "pctAvailable": "0.00%",
-          "status": "Fully Booked"
-        },
-        {
           "totalAvailable": "0",
-          "city": "BETHESDA",
-          "state": "MD",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "-1",
-          "city": "BOWIE",
           "state": "MD",
+          "city": "BETHESDA",
+          "totalAvailable": "0",
+          "pctAvailable": "0.00%",
+          "status": "Fully Booked"
+        },
+        {
+          "state": "MD",
+          "city": "BOWIE",
+          "totalAvailable": "-1",
           "pctAvailable": "-0.22%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "DUNKIRK",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "ELDERSBURG",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "ELKTON",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "FREDERICK",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "FULTON",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "HAGERSTOWN",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "HAVRE DE GRACE",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "LEONARDTOWN",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "MILLERSVILLE",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
+          "state": "MD",
           "city": "OCEAN CITY",
-          "state": "MD",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         },
         {
-          "totalAvailable": "0",
-          "city": "WHITE PLAINS",
           "state": "MD",
+          "city": "WHITE PLAINS",
+          "totalAvailable": "0",
           "pctAvailable": "0.00%",
           "status": "Fully Booked"
         }
       ]
-    }
-  },
-  "responseMetaData": {
-    "statusDesc": "Success",
-    "conversationId": "Id-1413e53450c44a1a8593d7b917049738",
-    "refId": "Id-bb6325602b3db906e0241048",
-    "operation": "getInventorybyCity",
-    "statusCode": "0000"
+    },
+    "currentTime": "2021-02-11T10:42:25.896"
   }
 }
