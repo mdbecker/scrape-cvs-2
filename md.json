@@ -30,10 +30,10 @@
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "3.70%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "17"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "ELDERSBURG",
@@ -44,10 +44,10 @@
         },
         {
           "city": "ELKTON",
-          "pctAvailable": "0.29%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "FREDERICK",
@@ -65,10 +65,10 @@
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "HAVRE DE GRACE",
@@ -79,10 +79,10 @@
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "14.77%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "65"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "MILLERSVILLE",
@@ -93,17 +93,17 @@
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "14.55%",
+          "pctAvailable": "-0.23%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "64"
+          "status": "Fully Booked",
+          "totalAvailable": "-1"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "5.00%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "22"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         }
       ]
     }
