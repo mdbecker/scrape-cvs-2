@@ -23,31 +23,31 @@
         },
         {
           "city": "BOWIE",
-          "pctAvailable": "2.73%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "12"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "18.70%",
+          "pctAvailable": "14.35%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "86"
+          "totalAvailable": "66"
         },
         {
           "city": "ELDERSBURG",
-          "pctAvailable": "3.18%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "14"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "ELKTON",
-          "pctAvailable": "20.86%",
+          "pctAvailable": "10.29%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "73"
+          "totalAvailable": "36"
         },
         {
           "city": "FREDERICK",
@@ -65,45 +65,45 @@
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "7.73%",
+          "pctAvailable": "0.23%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "34"
+          "status": "Fully Booked",
+          "totalAvailable": "1"
         },
         {
           "city": "HAVRE DE GRACE",
-          "pctAvailable": "10.45%",
+          "pctAvailable": "5.91%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "46"
+          "totalAvailable": "26"
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "21.14%",
+          "pctAvailable": "19.77%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "93"
+          "totalAvailable": "87"
         },
         {
           "city": "MILLERSVILLE",
-          "pctAvailable": "4.09%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "20.23%",
+          "pctAvailable": "17.27%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "89"
+          "totalAvailable": "76"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "19.55%",
+          "pctAvailable": "17.95%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "86"
+          "totalAvailable": "79"
         }
       ]
     }
