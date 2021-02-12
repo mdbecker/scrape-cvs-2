@@ -30,10 +30,10 @@
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "14.35%",
+          "pctAvailable": "8.91%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "66"
+          "status": "Fully Booked",
+          "totalAvailable": "41"
         },
         {
           "city": "ELDERSBURG",
@@ -44,10 +44,10 @@
         },
         {
           "city": "ELKTON",
-          "pctAvailable": "10.29%",
+          "pctAvailable": "0.29%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "36"
+          "status": "Fully Booked",
+          "totalAvailable": "1"
         },
         {
           "city": "FREDERICK",
@@ -65,24 +65,24 @@
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "HAVRE DE GRACE",
-          "pctAvailable": "5.91%",
+          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "26"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "19.77%",
+          "pctAvailable": "17.50%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "87"
+          "status": "Fully Booked",
+          "totalAvailable": "77"
         },
         {
           "city": "MILLERSVILLE",
@@ -93,17 +93,17 @@
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "17.27%",
+          "pctAvailable": "17.50%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "76"
+          "status": "Fully Booked",
+          "totalAvailable": "77"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "17.95%",
+          "pctAvailable": "13.18%",
           "state": "MD",
-          "status": "Available",
-          "totalAvailable": "79"
+          "status": "Fully Booked",
+          "totalAvailable": "58"
         }
       ]
     }
