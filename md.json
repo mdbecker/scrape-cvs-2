@@ -23,17 +23,17 @@
         },
         {
           "city": "BOWIE",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "4.57%",
+          "pctAvailable": "5.65%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "21"
+          "totalAvailable": "26"
         },
         {
           "city": "ELDERSBURG",
@@ -65,24 +65,24 @@
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "0.45%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "HAVRE DE GRACE",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "15.23%",
+          "pctAvailable": "17.05%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "67"
+          "totalAvailable": "75"
         },
         {
           "city": "MILLERSVILLE",
@@ -93,17 +93,17 @@
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "15.91%",
+          "pctAvailable": "16.14%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "70"
+          "totalAvailable": "71"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "10.91%",
+          "pctAvailable": "11.59%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "48"
+          "totalAvailable": "51"
         }
       ]
     }
