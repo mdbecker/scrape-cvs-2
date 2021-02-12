@@ -9,10 +9,10 @@
       "NJ": [
         {
           "city": "BRIGANTINE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.23%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "CEDAR GROVE",
@@ -23,10 +23,10 @@
         },
         {
           "city": "CHATHAM",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.22%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "DUMONT",
@@ -51,10 +51,10 @@
         },
         {
           "city": "ELIZABETH",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "-0.23%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "-1"
         },
         {
           "city": "FLEMINGTON",
@@ -100,10 +100,10 @@
         },
         {
           "city": "LEDGEWOOD",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.20%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "NORTHVALE",
@@ -163,17 +163,17 @@
         },
         {
           "city": "VILLAS",
-          "pctAvailable": "5.91%",
+          "pctAvailable": "-0.23%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "26"
+          "status": "Fully Booked",
+          "totalAvailable": "-1"
         },
         {
           "city": "VINELAND",
-          "pctAvailable": "0.48%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "VOORHEES",
@@ -184,10 +184,10 @@
         },
         {
           "city": "WEST ORANGE",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "WHITING",
