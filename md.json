@@ -9,38 +9,38 @@
       "MD": [
         {
           "city": "BALTIMORE",
-          "pctAvailable": "14.25%",
+          "pctAvailable": "11.25%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "57"
+          "totalAvailable": "45"
         },
         {
           "city": "BETHESDA",
-          "pctAvailable": "10.45%",
+          "pctAvailable": "6.82%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "46"
+          "totalAvailable": "30"
         },
         {
           "city": "BOWIE",
-          "pctAvailable": "15.45%",
+          "pctAvailable": "14.77%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "68"
+          "totalAvailable": "65"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "21.52%",
+          "pctAvailable": "21.30%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "99"
+          "totalAvailable": "98"
         },
         {
           "city": "ELDERSBURG",
-          "pctAvailable": "16.36%",
+          "pctAvailable": "15.68%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "72"
+          "totalAvailable": "69"
         },
         {
           "city": "ELKTON",
@@ -51,31 +51,31 @@
         },
         {
           "city": "FREDERICK",
-          "pctAvailable": "15.68%",
-          "state": "MD",
-          "status": "Available",
-          "totalAvailable": "69"
-        },
-        {
-          "city": "FULTON",
-          "pctAvailable": "12.39%",
+          "pctAvailable": "12.95%",
           "state": "MD",
           "status": "Available",
           "totalAvailable": "57"
         },
         {
-          "city": "HAGERSTOWN",
-          "pctAvailable": "20.68%",
+          "city": "FULTON",
+          "pctAvailable": "10.22%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "91"
+          "totalAvailable": "47"
         },
         {
-          "city": "HAVRE DE GRACE",
+          "city": "HAGERSTOWN",
           "pctAvailable": "19.55%",
           "state": "MD",
           "status": "Available",
           "totalAvailable": "86"
+        },
+        {
+          "city": "HAVRE DE GRACE",
+          "pctAvailable": "17.73%",
+          "state": "MD",
+          "status": "Available",
+          "totalAvailable": "78"
         },
         {
           "city": "LEONARDTOWN",
@@ -86,10 +86,10 @@
         },
         {
           "city": "MILLERSVILLE",
-          "pctAvailable": "16.59%",
+          "pctAvailable": "15.00%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "73"
+          "totalAvailable": "66"
         },
         {
           "city": "OCEAN CITY",
@@ -100,10 +100,10 @@
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "20.91%",
+          "pctAvailable": "21.36%",
           "state": "MD",
           "status": "Available",
-          "totalAvailable": "92"
+          "totalAvailable": "94"
         }
       ]
     }
