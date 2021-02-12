@@ -9,10 +9,10 @@
       "AR": [
         {
           "city": "RUSSELLVILLE",
-          "pctAvailable": "1.67%",
+          "pctAvailable": "0.00%",
           "state": "AR",
-          "status": "Available",
-          "totalAvailable": "2"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "SPRINGDALE",
@@ -32,10 +32,10 @@
       "CA": [
         {
           "city": "ADELANTO",
-          "pctAvailable": "80.50%",
+          "pctAvailable": "72.00%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "322"
+          "totalAvailable": "288"
         },
         {
           "city": "AGOURA HILLS",
@@ -95,17 +95,17 @@
         },
         {
           "city": "AZUSA",
-          "pctAvailable": "0.26%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "BAKERSFIELD",
-          "pctAvailable": "61.81%",
+          "pctAvailable": "60.00%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "989"
+          "totalAvailable": "960"
         },
         {
           "city": "BELL",
@@ -151,10 +151,10 @@
         },
         {
           "city": "CARLSBAD",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "CARMICHAEL",
@@ -172,17 +172,17 @@
         },
         {
           "city": "CHULA VISTA",
-          "pctAvailable": "12.50%",
+          "pctAvailable": "9.50%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "50"
+          "totalAvailable": "38"
         },
         {
           "city": "CITY OF INDUSTRY",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.26%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "COACHELLA",
@@ -242,10 +242,10 @@
         },
         {
           "city": "FRESNO",
-          "pctAvailable": "-0.12%",
+          "pctAvailable": "-0.06%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "-2"
+          "totalAvailable": "-1"
         },
         {
           "city": "GLENDALE",
@@ -256,10 +256,10 @@
         },
         {
           "city": "GRIDLEY",
-          "pctAvailable": "0.27%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "HANFORD",
@@ -270,10 +270,10 @@
         },
         {
           "city": "HEMET",
-          "pctAvailable": "0.50%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "HUNTINGTON BEACH",
@@ -284,10 +284,10 @@
         },
         {
           "city": "HUNTINGTON PARK",
-          "pctAvailable": "0.25%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "INDIO",
@@ -347,10 +347,10 @@
         },
         {
           "city": "LANCASTER",
-          "pctAvailable": "7.63%",
+          "pctAvailable": "1.63%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "61"
+          "totalAvailable": "13"
         },
         {
           "city": "LODI",
@@ -368,10 +368,10 @@
         },
         {
           "city": "LONG BEACH",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.26%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "LOS ANGELES",
@@ -389,10 +389,10 @@
         },
         {
           "city": "MARYSVILLE",
-          "pctAvailable": "0.50%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "MENIFEE",
@@ -417,10 +417,10 @@
         },
         {
           "city": "MONTCLAIR",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.25%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "MONTEREY",
@@ -431,17 +431,17 @@
         },
         {
           "city": "MOUNT SHASTA",
-          "pctAvailable": "47.78%",
+          "pctAvailable": "42.78%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "86"
+          "totalAvailable": "77"
         },
         {
           "city": "MOUNTAIN VIEW",
-          "pctAvailable": "0.25%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "NEWBURY PARK",
@@ -494,31 +494,31 @@
         },
         {
           "city": "POWAY",
-          "pctAvailable": "38.00%",
+          "pctAvailable": "34.00%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "152"
+          "totalAvailable": "136"
         },
         {
           "city": "RANCHO BERNARDO",
-          "pctAvailable": "32.44%",
+          "pctAvailable": "28.00%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "146"
+          "totalAvailable": "126"
         },
         {
           "city": "RED BLUFF",
-          "pctAvailable": "1.11%",
-          "state": "CA",
-          "status": "Available",
-          "totalAvailable": "4"
-        },
-        {
-          "city": "REDDING",
           "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
           "totalAvailable": "0"
+        },
+        {
+          "city": "REDDING",
+          "pctAvailable": "2.00%",
+          "state": "CA",
+          "status": "Available",
+          "totalAvailable": "8"
         },
         {
           "city": "REDONDO BEACH",
@@ -536,10 +536,10 @@
         },
         {
           "city": "RIVERSIDE",
-          "pctAvailable": "0.25%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "ROCKLIN",
@@ -578,10 +578,10 @@
         },
         {
           "city": "SAN BERNARDINO",
-          "pctAvailable": "0.13%",
+          "pctAvailable": "0.63%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "5"
         },
         {
           "city": "SAN CLEMENTE",
@@ -592,10 +592,10 @@
         },
         {
           "city": "SAN DIEGO",
-          "pctAvailable": "54.94%",
+          "pctAvailable": "52.12%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "467"
+          "totalAvailable": "443"
         },
         {
           "city": "SAN DIMAS",
@@ -620,10 +620,10 @@
         },
         {
           "city": "SAN MARCOS",
-          "pctAvailable": "1.28%",
+          "pctAvailable": "0.26%",
           "state": "CA",
-          "status": "Available",
-          "totalAvailable": "5"
+          "status": "Fully Booked",
+          "totalAvailable": "1"
         },
         {
           "city": "SANTA CLARA",
@@ -648,17 +648,17 @@
         },
         {
           "city": "SANTEE",
-          "pctAvailable": "58.00%",
+          "pctAvailable": "54.89%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "261"
+          "totalAvailable": "247"
         },
         {
           "city": "SEAL BEACH",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.22%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "SONOMA",
@@ -718,10 +718,10 @@
         },
         {
           "city": "VICTORVILLE",
-          "pctAvailable": "60.26%",
+          "pctAvailable": "57.44%",
           "state": "CA",
           "status": "Available",
-          "totalAvailable": "235"
+          "totalAvailable": "224"
         },
         {
           "city": "WALNUT PARK",
@@ -753,10 +753,10 @@
         },
         {
           "city": "YUBA CITY",
-          "pctAvailable": "0.25%",
+          "pctAvailable": "0.00%",
           "state": "CA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         }
       ],
       "CO": [
@@ -820,10 +820,10 @@
         },
         {
           "city": "PUTNAM",
-          "pctAvailable": "0.10%",
+          "pctAvailable": "0.00%",
           "state": "CT",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "UNCASVILLE",
@@ -871,10 +871,10 @@
         },
         {
           "city": "AUGUSTA",
-          "pctAvailable": "0.29%",
+          "pctAvailable": "0.00%",
           "state": "GA",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "BUFORD",
@@ -892,10 +892,10 @@
         },
         {
           "city": "COLUMBUS",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.16%",
           "state": "GA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "CUMMING",
@@ -934,10 +934,10 @@
         },
         {
           "city": "SAVANNAH",
-          "pctAvailable": "3.43%",
+          "pctAvailable": "0.16%",
           "state": "GA",
-          "status": "Available",
-          "totalAvailable": "22"
+          "status": "Fully Booked",
+          "totalAvailable": "1"
         },
         {
           "city": "STONE MOUNTAIN",
@@ -950,45 +950,45 @@
       "HI": [
         {
           "city": "AIEA",
-          "pctAvailable": "46.60%",
+          "pctAvailable": "42.60%",
           "state": "HI",
           "status": "Available",
-          "totalAvailable": "233"
+          "totalAvailable": "213"
         },
         {
           "city": "HILO",
-          "pctAvailable": "93.92%",
+          "pctAvailable": "93.53%",
           "state": "HI",
           "status": "Available",
-          "totalAvailable": "479"
+          "totalAvailable": "477"
         },
         {
           "city": "HONOLULU",
-          "pctAvailable": "82.20%",
+          "pctAvailable": "80.60%",
           "state": "HI",
           "status": "Available",
-          "totalAvailable": "411"
+          "totalAvailable": "403"
         },
         {
           "city": "KAHULUI",
-          "pctAvailable": "1.59%",
+          "pctAvailable": "0.68%",
           "state": "HI",
-          "status": "Available",
-          "totalAvailable": "7"
+          "status": "Fully Booked",
+          "totalAvailable": "3"
         },
         {
           "city": "KANEOHE",
-          "pctAvailable": "78.60%",
+          "pctAvailable": "78.00%",
           "state": "HI",
           "status": "Available",
-          "totalAvailable": "393"
+          "totalAvailable": "390"
         },
         {
           "city": "KAPAA",
-          "pctAvailable": "95.85%",
+          "pctAvailable": "96.34%",
           "state": "HI",
           "status": "Available",
-          "totalAvailable": "393"
+          "totalAvailable": "395"
         }
       ],
       "IA": [
@@ -1052,17 +1052,17 @@
         },
         {
           "city": "HOOPESTON",
-          "pctAvailable": "0.22%",
+          "pctAvailable": "1.12%",
           "state": "IL",
-          "status": "Fully Booked",
-          "totalAvailable": "2"
+          "status": "Available",
+          "totalAvailable": "10"
         },
         {
           "city": "MENDOTA",
-          "pctAvailable": "-0.23%",
+          "pctAvailable": "0.00%",
           "state": "IL",
           "status": "Fully Booked",
-          "totalAvailable": "-2"
+          "totalAvailable": "0"
         },
         {
           "city": "PEKIN",
@@ -1075,52 +1075,52 @@
       "MA": [
         {
           "city": "BOSTON",
-          "pctAvailable": "76.82%",
+          "pctAvailable": "71.14%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "338"
+          "totalAvailable": "313"
         },
         {
           "city": "BRAINTREE",
-          "pctAvailable": "29.35%",
+          "pctAvailable": "21.96%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "135"
+          "totalAvailable": "101"
         },
         {
           "city": "CAMBRIDGE",
-          "pctAvailable": "28.04%",
+          "pctAvailable": "22.35%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "143"
+          "totalAvailable": "114"
         },
         {
           "city": "CHELSEA",
-          "pctAvailable": "91.96%",
+          "pctAvailable": "91.18%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "469"
+          "totalAvailable": "465"
         },
         {
           "city": "EAST BOSTON",
-          "pctAvailable": "91.56%",
+          "pctAvailable": "90.00%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "824"
+          "totalAvailable": "810"
         },
         {
           "city": "EAST FALMOUTH",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.23%",
           "state": "MA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "FALL RIVER",
-          "pctAvailable": "31.74%",
+          "pctAvailable": "30.22%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "146"
+          "totalAvailable": "139"
         },
         {
           "city": "HOLYOKE",
@@ -1131,136 +1131,136 @@
         },
         {
           "city": "HUDSON",
-          "pctAvailable": "0.98%",
+          "pctAvailable": "0.39%",
           "state": "MA",
           "status": "Fully Booked",
-          "totalAvailable": "5"
+          "totalAvailable": "2"
         },
         {
           "city": "IPSWICH",
-          "pctAvailable": "82.39%",
+          "pctAvailable": "80.65%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "379"
+          "totalAvailable": "371"
         },
         {
           "city": "LYNN",
-          "pctAvailable": "90.78%",
+          "pctAvailable": "87.45%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "463"
+          "totalAvailable": "446"
         },
         {
           "city": "MALDEN",
-          "pctAvailable": "84.52%",
+          "pctAvailable": "81.72%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "786"
+          "totalAvailable": "760"
         },
         {
           "city": "MEDFIELD",
-          "pctAvailable": "72.55%",
+          "pctAvailable": "67.84%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "370"
+          "totalAvailable": "346"
         },
         {
           "city": "METHUEN",
-          "pctAvailable": "42.94%",
+          "pctAvailable": "35.69%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "219"
+          "totalAvailable": "182"
         },
         {
           "city": "MILFORD",
-          "pctAvailable": "51.82%",
+          "pctAvailable": "52.73%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "228"
+          "totalAvailable": "232"
         },
         {
           "city": "NEW BEDFORD",
-          "pctAvailable": "59.56%",
+          "pctAvailable": "59.67%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "536"
+          "totalAvailable": "537"
         },
         {
           "city": "NORTH EASTON",
-          "pctAvailable": "61.71%",
+          "pctAvailable": "57.56%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "253"
+          "totalAvailable": "236"
         },
         {
           "city": "NORTH GRAFTON",
-          "pctAvailable": "50.23%",
+          "pctAvailable": "48.41%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "221"
+          "totalAvailable": "213"
         },
         {
           "city": "PALMER",
-          "pctAvailable": "93.04%",
+          "pctAvailable": "92.17%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "428"
+          "totalAvailable": "424"
         },
         {
           "city": "PEABODY",
-          "pctAvailable": "65.91%",
+          "pctAvailable": "59.32%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "290"
+          "totalAvailable": "261"
         },
         {
           "city": "RANDOLPH",
-          "pctAvailable": "59.61%",
+          "pctAvailable": "57.84%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "304"
+          "totalAvailable": "295"
         },
         {
           "city": "SEEKONK",
-          "pctAvailable": "50.20%",
+          "pctAvailable": "48.43%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "256"
+          "totalAvailable": "247"
         },
         {
           "city": "SPRINGFIELD",
-          "pctAvailable": "90.45%",
+          "pctAvailable": "90.23%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "398"
+          "totalAvailable": "397"
         },
         {
           "city": "STURBRIDGE",
-          "pctAvailable": "88.48%",
+          "pctAvailable": "86.09%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "407"
+          "totalAvailable": "396"
         },
         {
           "city": "WATERTOWN",
-          "pctAvailable": "2.83%",
+          "pctAvailable": "0.43%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "13"
+          "status": "Fully Booked",
+          "totalAvailable": "2"
         },
         {
           "city": "WEYMOUTH",
-          "pctAvailable": "11.59%",
+          "pctAvailable": "8.18%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "51"
+          "totalAvailable": "36"
         },
         {
           "city": "WORCESTER",
-          "pctAvailable": "47.39%",
+          "pctAvailable": "45.87%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "218"
+          "totalAvailable": "211"
         }
       ],
       "MD": [
@@ -1287,10 +1287,10 @@
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "-0.22%",
+          "pctAvailable": "0.22%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "-1"
+          "totalAvailable": "1"
         },
         {
           "city": "ELDERSBURG",
@@ -1599,10 +1599,10 @@
         },
         {
           "city": "ENDWELL",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.24%",
           "state": "NY",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "FAIRPORT",
@@ -1676,10 +1676,10 @@
         },
         {
           "city": "OWEGO",
-          "pctAvailable": "0.22%",
+          "pctAvailable": "0.00%",
           "state": "NY",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "POUGHKEEPSIE",
@@ -1832,17 +1832,17 @@
         },
         {
           "city": "SIDNEY",
+          "pctAvailable": "0.22%",
+          "state": "OH",
+          "status": "Fully Booked",
+          "totalAvailable": "1"
+        },
+        {
+          "city": "SPRINGFIELD",
           "pctAvailable": "0.00%",
           "state": "OH",
           "status": "Fully Booked",
           "totalAvailable": "0"
-        },
-        {
-          "city": "SPRINGFIELD",
-          "pctAvailable": "0.34%",
-          "state": "OH",
-          "status": "Fully Booked",
-          "totalAvailable": "1"
         },
         {
           "city": "TOLEDO",
@@ -1943,24 +1943,24 @@
       "SC": [
         {
           "city": "AIKEN",
-          "pctAvailable": "1.59%",
+          "pctAvailable": "0.00%",
           "state": "SC",
-          "status": "Available",
-          "totalAvailable": "7"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "ANDERSON",
-          "pctAvailable": "0.68%",
+          "pctAvailable": "0.23%",
           "state": "SC",
           "status": "Fully Booked",
-          "totalAvailable": "3"
+          "totalAvailable": "1"
         },
         {
           "city": "CAMDEN",
-          "pctAvailable": "14.51%",
+          "pctAvailable": "13.33%",
           "state": "SC",
           "status": "Available",
-          "totalAvailable": "74"
+          "totalAvailable": "68"
         },
         {
           "city": "CHESNEE",
@@ -1971,52 +1971,52 @@
         },
         {
           "city": "CLEMSON",
+          "pctAvailable": "0.23%",
+          "state": "SC",
+          "status": "Fully Booked",
+          "totalAvailable": "1"
+        },
+        {
+          "city": "CLINTON",
+          "pctAvailable": "71.82%",
+          "state": "SC",
+          "status": "Available",
+          "totalAvailable": "316"
+        },
+        {
+          "city": "CLOVER",
+          "pctAvailable": "26.14%",
+          "state": "SC",
+          "status": "Available",
+          "totalAvailable": "115"
+        },
+        {
+          "city": "COLUMBIA",
+          "pctAvailable": "14.12%",
+          "state": "SC",
+          "status": "Available",
+          "totalAvailable": "72"
+        },
+        {
+          "city": "DARLINGTON",
+          "pctAvailable": "31.82%",
+          "state": "SC",
+          "status": "Available",
+          "totalAvailable": "140"
+        },
+        {
+          "city": "FLORENCE",
+          "pctAvailable": "0.39%",
+          "state": "SC",
+          "status": "Fully Booked",
+          "totalAvailable": "2"
+        },
+        {
+          "city": "GOOSE CREEK",
           "pctAvailable": "0.00%",
           "state": "SC",
           "status": "Fully Booked",
           "totalAvailable": "0"
-        },
-        {
-          "city": "CLINTON",
-          "pctAvailable": "75.45%",
-          "state": "SC",
-          "status": "Available",
-          "totalAvailable": "332"
-        },
-        {
-          "city": "CLOVER",
-          "pctAvailable": "26.36%",
-          "state": "SC",
-          "status": "Available",
-          "totalAvailable": "116"
-        },
-        {
-          "city": "COLUMBIA",
-          "pctAvailable": "16.27%",
-          "state": "SC",
-          "status": "Available",
-          "totalAvailable": "83"
-        },
-        {
-          "city": "DARLINGTON",
-          "pctAvailable": "33.41%",
-          "state": "SC",
-          "status": "Available",
-          "totalAvailable": "147"
-        },
-        {
-          "city": "FLORENCE",
-          "pctAvailable": "1.76%",
-          "state": "SC",
-          "status": "Available",
-          "totalAvailable": "9"
-        },
-        {
-          "city": "GOOSE CREEK",
-          "pctAvailable": "0.45%",
-          "state": "SC",
-          "status": "Fully Booked",
-          "totalAvailable": "2"
         },
         {
           "city": "GREENVILLE",
@@ -2034,17 +2034,17 @@
         },
         {
           "city": "LANCASTER",
-          "pctAvailable": "72.95%",
+          "pctAvailable": "71.82%",
           "state": "SC",
           "status": "Available",
-          "totalAvailable": "321"
+          "totalAvailable": "316"
         },
         {
           "city": "MOUNT PLEASANT",
-          "pctAvailable": "0.43%",
+          "pctAvailable": "0.00%",
           "state": "SC",
           "status": "Fully Booked",
-          "totalAvailable": "2"
+          "totalAvailable": "0"
         },
         {
           "city": "MYRTLE BEACH",
@@ -2055,10 +2055,10 @@
         },
         {
           "city": "ORANGEBURG",
-          "pctAvailable": "53.18%",
+          "pctAvailable": "47.73%",
           "state": "SC",
           "status": "Available",
-          "totalAvailable": "234"
+          "totalAvailable": "210"
         },
         {
           "city": "PORT ROYAL",
@@ -2069,10 +2069,10 @@
         },
         {
           "city": "SENECA",
-          "pctAvailable": "5.91%",
+          "pctAvailable": "0.45%",
           "state": "SC",
-          "status": "Available",
-          "totalAvailable": "26"
+          "status": "Fully Booked",
+          "totalAvailable": "2"
         },
         {
           "city": "SUMMERVILLE",
@@ -2083,40 +2083,40 @@
         },
         {
           "city": "SUMTER",
-          "pctAvailable": "70.91%",
+          "pctAvailable": "69.55%",
           "state": "SC",
           "status": "Available",
-          "totalAvailable": "312"
+          "totalAvailable": "306"
         },
         {
           "city": "WEST COLUMBIA",
-          "pctAvailable": "3.64%",
+          "pctAvailable": "1.36%",
           "state": "SC",
           "status": "Available",
-          "totalAvailable": "16"
+          "totalAvailable": "6"
         }
       ],
       "TX": [
         {
           "city": "ABILENE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "2.86%",
           "state": "TX",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "12"
         },
         {
           "city": "ALVARADO",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.23%",
           "state": "TX",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "AMARILLO",
-          "pctAvailable": "62.42%",
+          "pctAvailable": "61.32%",
           "state": "TX",
           "status": "Available",
-          "totalAvailable": "568"
+          "totalAvailable": "558"
         },
         {
           "city": "ATHENS",
@@ -2218,10 +2218,10 @@
         },
         {
           "city": "GLADEWATER",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.45%",
           "state": "TX",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "2"
         },
         {
           "city": "GRANBURY",
@@ -2267,24 +2267,24 @@
         },
         {
           "city": "LUBBOCK",
-          "pctAvailable": "12.73%",
+          "pctAvailable": "10.91%",
           "state": "TX",
           "status": "Available",
-          "totalAvailable": "56"
+          "totalAvailable": "48"
         },
         {
           "city": "LUFKIN",
+          "pctAvailable": "0.48%",
+          "state": "TX",
+          "status": "Fully Booked",
+          "totalAvailable": "2"
+        },
+        {
+          "city": "MARSHALL",
           "pctAvailable": "0.00%",
           "state": "TX",
           "status": "Fully Booked",
           "totalAvailable": "0"
-        },
-        {
-          "city": "MARSHALL",
-          "pctAvailable": "1.14%",
-          "state": "TX",
-          "status": "Available",
-          "totalAvailable": "5"
         },
         {
           "city": "MESQUITE",
@@ -2295,17 +2295,17 @@
         },
         {
           "city": "MIDLAND",
-          "pctAvailable": "17.73%",
+          "pctAvailable": "12.05%",
           "state": "TX",
           "status": "Available",
-          "totalAvailable": "78"
+          "totalAvailable": "53"
         },
         {
           "city": "ODESSA",
-          "pctAvailable": "12.95%",
+          "pctAvailable": "6.82%",
           "state": "TX",
           "status": "Available",
-          "totalAvailable": "57"
+          "totalAvailable": "30"
         },
         {
           "city": "ORANGE",
@@ -2316,10 +2316,10 @@
         },
         {
           "city": "PARIS",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.45%",
           "state": "TX",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "2"
         },
         {
           "city": "PEARLAND",
@@ -2351,10 +2351,10 @@
         },
         {
           "city": "RICHARDSON",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "-0.23%",
           "state": "TX",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "-1"
         },
         {
           "city": "RICHMOND",
@@ -2386,10 +2386,10 @@
         },
         {
           "city": "SAN ANGELO",
-          "pctAvailable": "1.52%",
+          "pctAvailable": "2.83%",
           "state": "TX",
           "status": "Available",
-          "totalAvailable": "7"
+          "totalAvailable": "13"
         },
         {
           "city": "SCHERTZ",
@@ -2407,10 +2407,10 @@
         },
         {
           "city": "TEXARKANA",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "2.05%",
           "state": "TX",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "9"
         },
         {
           "city": "THE WOODLANDS",
@@ -2421,10 +2421,10 @@
         },
         {
           "city": "TYLER",
-          "pctAvailable": "1.36%",
+          "pctAvailable": "0.00%",
           "state": "TX",
-          "status": "Available",
-          "totalAvailable": "6"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "WACO",
@@ -2442,10 +2442,10 @@
         },
         {
           "city": "WICHITA FALLS",
-          "pctAvailable": "0.24%",
+          "pctAvailable": "1.19%",
           "state": "TX",
-          "status": "Fully Booked",
-          "totalAvailable": "1"
+          "status": "Available",
+          "totalAvailable": "5"
         }
       ],
       "VA": [
@@ -2465,10 +2465,10 @@
         },
         {
           "city": "ARLINGTON",
-          "pctAvailable": "-0.24%",
+          "pctAvailable": "0.00%",
           "state": "VA",
           "status": "Fully Booked",
-          "totalAvailable": "-1"
+          "totalAvailable": "0"
         },
         {
           "city": "BEDFORD",
@@ -2521,10 +2521,10 @@
         },
         {
           "city": "FAIRFAX",
-          "pctAvailable": "0.61%",
+          "pctAvailable": "0.00%",
           "state": "VA",
           "status": "Fully Booked",
-          "totalAvailable": "3"
+          "totalAvailable": "0"
         },
         {
           "city": "FREDERICKSBURG",
@@ -2549,10 +2549,10 @@
         },
         {
           "city": "HARRISONBURG",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.21%",
           "state": "VA",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "LEESBURG",
@@ -2570,10 +2570,10 @@
         },
         {
           "city": "MARTINSVILLE",
-          "pctAvailable": "0.23%",
+          "pctAvailable": "0.00%",
           "state": "VA",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "MECHANICSVILLE",
