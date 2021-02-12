@@ -9,10 +9,10 @@
       "NJ": [
         {
           "city": "BRIGANTINE",
-          "pctAvailable": "0.91%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "4"
+          "totalAvailable": "0"
         },
         {
           "city": "CEDAR GROVE",
@@ -79,10 +79,10 @@
         },
         {
           "city": "HARRISON TOWNSHIP",
-          "pctAvailable": "9.25%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "37"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "HAZLET",
@@ -93,10 +93,10 @@
         },
         {
           "city": "HIGHLANDS",
-          "pctAvailable": "0.24%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "LEDGEWOOD",
@@ -121,10 +121,10 @@
         },
         {
           "city": "RINGWOOD",
-          "pctAvailable": "-0.24%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "-1"
+          "totalAvailable": "0"
         },
         {
           "city": "SEASIDE HEIGHTS",
@@ -135,10 +135,10 @@
         },
         {
           "city": "TABERNACLE",
-          "pctAvailable": "10.23%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "45"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "UNION",
@@ -156,24 +156,24 @@
         },
         {
           "city": "VERNON",
-          "pctAvailable": "4.09%",
+          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Fully Booked",
+          "totalAvailable": "0"
         },
         {
           "city": "VILLAS",
-          "pctAvailable": "14.55%",
+          "pctAvailable": "5.91%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "64"
+          "totalAvailable": "26"
         },
         {
           "city": "VINELAND",
-          "pctAvailable": "9.76%",
+          "pctAvailable": "0.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "41"
+          "status": "Fully Booked",
+          "totalAvailable": "2"
         },
         {
           "city": "VOORHEES",
@@ -184,10 +184,10 @@
         },
         {
           "city": "WEST ORANGE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.23%",
           "state": "NJ",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         },
         {
           "city": "WHITING",
