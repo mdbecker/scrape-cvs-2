@@ -79,17 +79,17 @@
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "0.26%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "MILLERSVILLE",
-          "pctAvailable": "0.26%",
+          "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "1"
+          "totalAvailable": "0"
         },
         {
           "city": "OCEAN CITY",
@@ -100,10 +100,10 @@
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "0.26%",
           "state": "MD",
           "status": "Fully Booked",
-          "totalAvailable": "0"
+          "totalAvailable": "1"
         }
       ]
     },
