@@ -9,104 +9,104 @@
       "MD": [
         {
           "city": "BALTIMORE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "23.57%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "99"
         },
         {
           "city": "BETHESDA",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "57"
         },
         {
           "city": "BOWIE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.79%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "60"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "27.66%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "130"
         },
         {
           "city": "ELDERSBURG",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.53%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "59"
         },
         {
           "city": "ELKTON",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "14.71%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "50"
         },
         {
           "city": "FREDERICK",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.53%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "59"
         },
         {
           "city": "FULTON",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "26.81%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "126"
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.79%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "60"
         },
         {
           "city": "HAVRE DE GRACE",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.26%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "58"
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.79%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "60"
         },
         {
           "city": "MILLERSVILLE",
-          "pctAvailable": "0.31%",
+          "pctAvailable": "16.05%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "1"
+          "status": "Available",
+          "totalAvailable": "61"
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.79%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "60"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "0.00%",
+          "pctAvailable": "15.79%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available",
+          "totalAvailable": "60"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
