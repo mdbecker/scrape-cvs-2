@@ -16,66 +16,66 @@
         },
         {
           "city": "CEDAR GROVE",
-          "pctAvailable": "28.11%",
+          "pctAvailable": "25.85%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "149"
+          "totalAvailable": "137"
         },
         {
           "city": "CHATHAM",
-          "pctAvailable": "21.91%",
+          "pctAvailable": "19.79%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "103"
+          "totalAvailable": "93"
         },
         {
           "city": "DUMONT",
-          "pctAvailable": "18.42%",
+          "pctAvailable": "16.05%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "70"
+          "totalAvailable": "61"
         },
         {
           "city": "EAST BRUNSWICK",
-          "pctAvailable": "4.21%",
+          "pctAvailable": "1.84%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "16"
+          "totalAvailable": "7"
         },
         {
           "city": "EDISON",
-          "pctAvailable": "13.25%",
+          "pctAvailable": "11.00%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "53"
+          "totalAvailable": "44"
         },
         {
           "city": "ELIZABETH",
-          "pctAvailable": "13.16%",
+          "pctAvailable": "10.53%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "50"
+          "totalAvailable": "40"
         },
         {
           "city": "FLEMINGTON",
-          "pctAvailable": "22.62%",
+          "pctAvailable": "21.19%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "95"
+          "totalAvailable": "89"
         },
         {
           "city": "GREEN BROOK",
-          "pctAvailable": "21.91%",
+          "pctAvailable": "19.36%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "103"
+          "totalAvailable": "91"
         },
         {
           "city": "HACKETTSTOWN",
-          "pctAvailable": "9.21%",
+          "pctAvailable": "6.32%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "35"
+          "totalAvailable": "24"
         },
         {
           "city": "HARRISON TOWNSHIP",
@@ -93,10 +93,10 @@
         },
         {
           "city": "HIGHLANDS",
-          "pctAvailable": "18.16%",
+          "pctAvailable": "15.79%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "69"
+          "totalAvailable": "60"
         },
         {
           "city": "LEDGEWOOD",
@@ -107,31 +107,31 @@
         },
         {
           "city": "NORTHVALE",
+          "pctAvailable": "11.84%",
+          "state": "NJ",
+          "status": "Available",
+          "totalAvailable": "45"
+        },
+        {
+          "city": "PRINCETON",
+          "pctAvailable": "5.26%",
+          "state": "NJ",
+          "status": "Available",
+          "totalAvailable": "20"
+        },
+        {
+          "city": "RINGWOOD",
           "pctAvailable": "13.42%",
           "state": "NJ",
           "status": "Available",
           "totalAvailable": "51"
         },
         {
-          "city": "PRINCETON",
-          "pctAvailable": "5.53%",
-          "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "21"
-        },
-        {
-          "city": "RINGWOOD",
-          "pctAvailable": "15.79%",
-          "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "60"
-        },
-        {
           "city": "SEASIDE HEIGHTS",
-          "pctAvailable": "8.68%",
+          "pctAvailable": "6.58%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "33"
+          "totalAvailable": "25"
         },
         {
           "city": "TABERNACLE",
@@ -142,59 +142,59 @@
         },
         {
           "city": "UNION",
-          "pctAvailable": "19.50%",
+          "pctAvailable": "19.25%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "78"
+          "totalAvailable": "77"
         },
         {
           "city": "UNION CITY",
-          "pctAvailable": "13.68%",
+          "pctAvailable": "12.37%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "52"
+          "totalAvailable": "47"
         },
         {
           "city": "VERNON",
-          "pctAvailable": "13.95%",
+          "pctAvailable": "12.11%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "53"
+          "totalAvailable": "46"
         },
         {
           "city": "VILLAS",
-          "pctAvailable": "13.95%",
+          "pctAvailable": "14.21%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "53"
+          "totalAvailable": "54"
         },
         {
           "city": "VINELAND",
-          "pctAvailable": "19.75%",
+          "pctAvailable": "19.00%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "79"
+          "totalAvailable": "76"
         },
         {
           "city": "VOORHEES",
-          "pctAvailable": "12.89%",
+          "pctAvailable": "11.58%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "49"
+          "totalAvailable": "44"
         },
         {
           "city": "WEST ORANGE",
-          "pctAvailable": "12.89%",
+          "pctAvailable": "11.32%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "49"
+          "totalAvailable": "43"
         },
         {
           "city": "WHITING",
-          "pctAvailable": "19.27%",
+          "pctAvailable": "18.54%",
           "state": "NJ",
           "status": "Available",
-          "totalAvailable": "79"
+          "totalAvailable": "76"
         }
       ]
     },
