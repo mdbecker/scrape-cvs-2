@@ -11,7 +11,7 @@
           "city": "BALTIMORE",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -107,6 +107,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

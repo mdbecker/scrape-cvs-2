@@ -130,7 +130,7 @@
           "city": "SEASIDE HEIGHTS",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -198,6 +198,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
