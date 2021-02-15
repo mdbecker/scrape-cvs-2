@@ -144,7 +144,7 @@
           "city": "UNION CITY",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -191,6 +191,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
