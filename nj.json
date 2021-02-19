@@ -11,7 +11,7 @@
           "city": "BRIGANTINE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -81,7 +81,7 @@
           "city": "HARRISON TOWNSHIP",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -123,7 +123,7 @@
           "city": "RINGWOOD",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -137,7 +137,7 @@
           "city": "TABERNACLE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -151,7 +151,7 @@
           "city": "UNION CITY",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -165,14 +165,14 @@
           "city": "VILLAS",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
           "city": "VINELAND",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -198,6 +198,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
