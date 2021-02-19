@@ -11,21 +11,21 @@
           "city": "BRIGANTINE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "CEDAR GROVE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "CHATHAM",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -39,7 +39,7 @@
           "city": "EAST BRUNSWICK",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -53,42 +53,42 @@
           "city": "ELIZABETH",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "FLEMINGTON",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "GREEN BROOK",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "HACKETTSTOWN",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "HARRISON TOWNSHIP",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "HAZLET",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -102,42 +102,42 @@
           "city": "LEDGEWOOD",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "NORTHVALE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "PRINCETON",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "RINGWOOD",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "SEASIDE HEIGHTS",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "TABERNACLE",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -151,7 +151,7 @@
           "city": "UNION CITY",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -165,21 +165,21 @@
           "city": "VILLAS",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "VINELAND",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "VOORHEES",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -198,6 +198,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

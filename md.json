@@ -39,28 +39,28 @@
           "city": "ELDERSBURG",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "ELKTON",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "FREDERICK",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
           "city": "FULTON",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -81,7 +81,7 @@
           "city": "LEONARDTOWN",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -102,11 +102,11 @@
           "city": "WHITE PLAINS",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
