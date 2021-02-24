@@ -18,7 +18,7 @@
           "city": "BROWNS MILLS",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -67,7 +67,7 @@
           "city": "ENGLEWOOD",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -88,14 +88,14 @@
           "city": "GIBBSBORO",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
           "city": "GLASSBORO",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -186,7 +186,7 @@
           "city": "PENNSAUKEN",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -291,11 +291,11 @@
           "city": "WILLINGBORO",
           "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
