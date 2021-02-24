@@ -39,7 +39,7 @@
           "city": "EASTON",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -88,14 +88,14 @@
           "city": "HYATTSVILLE",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
           "city": "LANHAM",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -116,7 +116,7 @@
           "city": "NEW CARROLLTON",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -149,6 +149,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
