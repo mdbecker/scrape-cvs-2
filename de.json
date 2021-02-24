@@ -5,7 +5,31 @@
     "statusDesc": "Success"
   },
   "responsePayloadData": {
-    "data": {},
+    "data": {
+      "DE": [
+        {
+          "city": "DOVER",
+          "pctAvailable": "0.00%",
+          "state": "DE",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "OCEAN VIEW",
+          "pctAvailable": "0.00%",
+          "state": "DE",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "WILMINGTON",
+          "pctAvailable": "0.00%",
+          "state": "DE",
+          "status": "Available",
+          "totalAvailable": "0"
+        }
+      ]
+    },
     "isBookingCompleted": false
   }
 }

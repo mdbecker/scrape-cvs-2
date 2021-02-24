@@ -11,7 +11,7 @@
           "city": "BALTIMORE",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -33,6 +33,13 @@
           "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "EASTON",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -78,6 +85,20 @@
           "totalAvailable": "0"
         },
         {
+          "city": "HYATTSVILLE",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "LANHAM",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
           "city": "LEONARDTOWN",
           "pctAvailable": "0.00%",
           "state": "MD",
@@ -92,10 +113,31 @@
           "totalAvailable": "0"
         },
         {
+          "city": "NEW CARROLLTON",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
           "city": "OCEAN CITY",
           "pctAvailable": "0.00%",
           "state": "MD",
           "status": "Fully Booked",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "REISTERSTOWN",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "WHEATON",
+          "pctAvailable": "0.00%",
+          "state": "MD",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -107,6 +149,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

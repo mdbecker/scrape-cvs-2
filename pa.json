@@ -5,7 +5,52 @@
     "statusDesc": "Success"
   },
   "responsePayloadData": {
-    "data": {},
+    "data": {
+      "PA": [
+        {
+          "city": "CHAMBERSBURG",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "ENOLA",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "NEW KENSINGTON",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "READING",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "WEST CHESTER",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        },
+        {
+          "city": "YORK",
+          "pctAvailable": "0.00%",
+          "state": "PA",
+          "status": "Available",
+          "totalAvailable": "0"
+        }
+      ]
+    },
     "isBookingCompleted": false
   }
 }
