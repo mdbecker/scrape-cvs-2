@@ -39,7 +39,7 @@
           "city": "EASTON",
           "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Available",
+          "status": "Fully Booked",
           "totalAvailable": "0"
         },
         {
@@ -149,6 +149,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
