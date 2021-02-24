@@ -11,7 +11,7 @@
           "city": "DOVER",
           "pctAvailable": "0.00%",
           "state": "DE",
-          "status": "Fully Booked",
+          "status": "Available",
           "totalAvailable": "0"
         },
         {
@@ -30,6 +30,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
