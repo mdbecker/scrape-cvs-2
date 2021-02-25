@@ -36,7 +36,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -51,10 +51,10 @@
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
