@@ -121,7 +121,7 @@
         {
           "city": "MAYNARD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MEDFIELD",
@@ -245,6 +245,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
