@@ -21,7 +21,7 @@
         {
           "city": "AMARILLO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -31,12 +31,12 @@
         {
           "city": "ATHENS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATLANTA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUSTIN",
@@ -51,7 +51,7 @@
         {
           "city": "BEAUMONT",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BORGER",
@@ -66,7 +66,7 @@
         {
           "city": "BRYAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CANTON",
@@ -76,7 +76,7 @@
         {
           "city": "CANYON LAKE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR HILL",
@@ -116,7 +116,7 @@
         {
           "city": "EL PASO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELGIN",
@@ -131,7 +131,7 @@
         {
           "city": "FORNEY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT WORTH",
@@ -156,7 +156,7 @@
         {
           "city": "GRANBURY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRAND PRAIRIE",
@@ -166,7 +166,7 @@
         {
           "city": "GREENVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOUSTON",
@@ -201,12 +201,12 @@
         {
           "city": "LAKE WORTH",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWAY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAREDO",
@@ -246,7 +246,7 @@
         {
           "city": "MESQUITE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDLAND",
@@ -276,12 +276,12 @@
         {
           "city": "ORANGE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASADENA",
@@ -301,12 +301,12 @@
         {
           "city": "PHARR",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLANO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PRINCETON",
@@ -316,12 +316,12 @@
         {
           "city": "RED OAK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHARDSON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHMOND",
@@ -341,7 +341,7 @@
         {
           "city": "ROCKWALL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROWLETT",
@@ -351,7 +351,7 @@
         {
           "city": "SAN ANGELO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN ANTONIO",
@@ -421,17 +421,17 @@
         {
           "city": "WACO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEATHERFORD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WICHITA FALLS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
