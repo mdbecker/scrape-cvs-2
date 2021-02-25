@@ -1,0 +1,55 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "HI": [
+        {
+          "city": "AIEA",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "EWA BEACH",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "HILO",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "HONOLULU",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "KAHULUI",
+          "state": "HI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "KAILUA KONA",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "KANEOHE",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "KAPAA",
+          "state": "HI",
+          "status": "Available"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}
