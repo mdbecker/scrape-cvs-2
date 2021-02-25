@@ -36,7 +36,7 @@
         {
           "city": "CHELSEA",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEDHAM",
@@ -46,7 +46,7 @@
         {
           "city": "EAST BOSTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST FALMOUTH",
@@ -111,7 +111,7 @@
         {
           "city": "LYNN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALDEN",
@@ -166,7 +166,7 @@
         {
           "city": "PALMER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEABODY",
@@ -245,6 +245,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
