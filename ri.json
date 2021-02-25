@@ -21,12 +21,12 @@
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWPORT",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWTUCKET",
@@ -36,7 +36,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARREN",
@@ -51,7 +51,7 @@
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
