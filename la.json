@@ -1,0 +1,50 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "LA": [
+        {
+          "city": "BATON ROUGE",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "DONALDSONVILLE",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "HAMMOND",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "LAFAYETTE",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "METAIRIE",
+          "state": "LA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEW ORLEANS",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "SHREVEPORT",
+          "state": "LA",
+          "status": "Available"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

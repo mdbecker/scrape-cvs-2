@@ -1,0 +1,180 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "SC": [
+        {
+          "city": "AIKEN",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ANDERSON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "BENNETTSVILLE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "BISHOPVILLE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "CAMDEN",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "CHESNEE",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLEMSON",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLINTON",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLOVER",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COLUMBIA",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DARLINGTON",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DENMARK",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "EDGEFIELD",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "FLORENCE",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GAFFNEY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "GOOSE CREEK",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GREENVILLE",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GREENWOOD",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HANAHAN",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "HEMINGWAY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "LANCASTER",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MARION",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "MOUNT PLEASANT",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MYRTLE BEACH",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEWBERRY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "ORANGEBURG",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PORT ROYAL",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SENECA",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SUMMERVILLE",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SUMTER",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WALTERBORO",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "WEST COLUMBIA",
+          "state": "SC",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WINNSBORO",
+          "state": "SC",
+          "status": "Available"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

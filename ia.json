@@ -1,0 +1,45 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "IA": [
+        {
+          "city": "ALTOONA",
+          "state": "IA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ANKENY",
+          "state": "IA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CEDAR RAPIDS",
+          "state": "IA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "URBANDALE",
+          "state": "IA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WATERLOO",
+          "state": "IA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEST DES MOINES",
+          "state": "IA",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

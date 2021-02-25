@@ -1,0 +1,12 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {},
+    "isBookingCompleted": false
+  }
+}

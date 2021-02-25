@@ -1,0 +1,205 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "VA": [
+        {
+          "city": "ABINGDON",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ALEXANDRIA",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ARLINGTON",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BEDFORD",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BLACKSBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHARLOTTESVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHATHAM",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHESAPEAKE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLARKSVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DANVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DUBLIN",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FAIRFAX",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FARMVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FREDERICKSBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GAINESVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAMPTON",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HARRISONBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LEESBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LYNCHBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MARTINSVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MECHANICSVILLE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MIDLOTHIAN",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEWPORT NEWS",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORFOLK",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PETERSBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PORTSMOUTH",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RICHMOND",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROANOKE",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROCKY MOUNT",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SOUTH BOSTON",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "STAFFORD",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SUFFOLK",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VIRGINIA BEACH",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WARRENTON",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WILLIAMSBURG",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WINCHESTER",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WINDSOR",
+          "state": "VA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WOODSTOCK",
+          "state": "VA",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

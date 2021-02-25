@@ -1,0 +1,75 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "GA": [
+        {
+          "city": "ATLANTA",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "AUGUSTA",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "BUFORD",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CANTON",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COLUMBUS",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "CUMMING",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DALTON",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GAINESVILLE",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "JONESBORO",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MARIETTA",
+          "state": "GA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAVANNAH",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "STONE MOUNTAIN",
+          "state": "GA",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

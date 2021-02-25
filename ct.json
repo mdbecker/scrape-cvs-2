@@ -1,0 +1,110 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "CT": [
+        {
+          "city": "BRIDGEPORT",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BRISTOL",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COLCHESTER",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COVENTRY",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DANBURY",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "ENFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "GUILFORD",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAMDEN",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HARTFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "NEW BRITAIN",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEW HAVEN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "NORWALK",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "PUTNAM",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "UNCASVILLE",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WATERBURY",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WATERFORD",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WILLIMANTIC",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "WINDSOR LOCKS",
+          "state": "CT",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WINSTED",
+          "state": "CT",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

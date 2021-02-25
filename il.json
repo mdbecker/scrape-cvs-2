@@ -1,0 +1,40 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "IL": [
+        {
+          "city": "BELLEVILLE",
+          "state": "IL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHICAGO",
+          "state": "IL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HOOPESTON",
+          "state": "IL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MENDOTA",
+          "state": "IL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PEKIN",
+          "state": "IL",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

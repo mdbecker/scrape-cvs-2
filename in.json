@@ -1,0 +1,25 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "IN": [
+        {
+          "city": "KENTLAND",
+          "state": "IN",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MOUNT VERNON",
+          "state": "IN",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

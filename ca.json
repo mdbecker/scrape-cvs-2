@@ -1,0 +1,655 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "CA": [
+        {
+          "city": "ADELANTO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "AGOURA HILLS",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ALAMEDA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ALISO VIEJO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ANGELS CAMP",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ARCADIA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ARROYO GRANDE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ATWATER",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "AUBURN",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "AZUSA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BAKERSFIELD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BELL",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BERKELEY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BRENTWOOD",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "BUELLTON",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BUENA PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CAMERON PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CAPITOLA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CARLSBAD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CARMICHAEL",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CARSON",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHULA VISTA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "CITY OF INDUSTRY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLOVIS",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "COACHELLA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COMPTON",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "CONCORD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CORONA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "COSTA MESA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DALY CITY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DIXON",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "DOWNEY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "EL CAJON",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "EUREKA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FONTANA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "FREMONT",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FRESNO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GLENDALE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GRIDLEY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HANFORD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAWTHORNE",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "HAYWARD",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "HEMET",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "HUNTINGTON BEACH",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HUNTINGTON PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "INDIO",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "INGLEWOOD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "IRVINE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "JACKSON",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LA MESA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "LA PUENTE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LA QUINTA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAFAYETTE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAKEWOOD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LANCASTER",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LODI",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "LOMITA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LONG BEACH",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LOS ANGELES",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "MADERA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MARYSVILLE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MENIFEE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MERCED",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "MISSION VIEJO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MODESTO",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "MONTCLAIR",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MONTEREY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MOUNT SHASTA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MOUNTAIN VIEW",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MURRIETA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "NEWBURY PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORCO",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH HOLLYWOOD",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "OAKLAND",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "OCEANSIDE",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "PALMDALE",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "PALO ALTO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PASADENA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PLACENTIA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PLEASANTON",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "POMONA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "PORTERVILLE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "POWAY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RANCHO BERNARDO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RANCHO CUCAMONGA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "RED BLUFF",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "REDDING",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "REDONDO BEACH",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "REDWOOD CITY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RICHMOND",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "RIVERSIDE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROCKLIN",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROHNERT PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SACRAMENTO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SALINAS",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN ANSELMO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN BERNARDINO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN CLEMENTE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN DIEGO",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "SAN DIMAS",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN FRANCISCO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN JOSE",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "SAN LEANDRO",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "SAN MARCOS",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN RAFAEL",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "SANTA CLARA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SANTA CLARITA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SANTA MARIA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SANTEE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SEAL BEACH",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SONOMA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SONORA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SPRING VALLEY",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "STOCKTON",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TEMPLE CITY",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TULARE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "UKIAH",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "UPLAND",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "VALLEJO",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VENTURA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VICTORVILLE",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VISALIA",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
+          "city": "WALNUT PARK",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEST COVINA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEST HOLLYWOOD",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WOODLAND",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "YORBA LINDA",
+          "state": "CA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "YUBA CITY",
+          "state": "CA",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

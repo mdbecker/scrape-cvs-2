@@ -1,0 +1,440 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "TX": [
+        {
+          "city": "ABILENE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ALVARADO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "AMARILLO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ARLINGTON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ATHENS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ATLANTA",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "AUSTIN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BAY CITY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BEAUMONT",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BORGER",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "BROWNSVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BRYAN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CANTON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CANYON LAKE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CEDAR HILL",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLEVELAND",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CORSICANA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CROWLEY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CYPRESS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DECATUR",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DENISON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "EL PASO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ELGIN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ELSA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FORNEY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FORT WORTH",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GARLAND",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GEORGETOWN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GLADEWATER",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GRANBURY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GRAND PRAIRIE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GREENVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HOUSTON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HUNTSVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "JACINTO CITY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "KATY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "KINGSVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LA MARQUE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAKE WORTH",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAKEWAY",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAREDO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LIVINGSTON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LUBBOCK",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "LUFKIN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MANSFIELD",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MARSHALL",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MATHIS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MESQUITE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MIDLAND",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MINEOLA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MINERAL WELLS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEW BRAUNFELS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ODESSA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ORANGE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PARIS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PASADENA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PEARLAND",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PFLUGERVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PHARR",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PLANO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PRINCETON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RED OAK",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RICHARDSON",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RICHMOND",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROANOKE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROBSTOWN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROCKWALL",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ROWLETT",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN ANGELO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN ANTONIO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SAN MARCOS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SCHERTZ",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SEABROOK",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SHERMAN",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SILSBEE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "STEPHENVILLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SULPHUR SPRINGS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TEMPLE",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TEXARKANA",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "THE WOODLANDS",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TOMBALL",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TYLER",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WACO",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEATHERFORD",
+          "state": "TX",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WICHITA FALLS",
+          "state": "TX",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

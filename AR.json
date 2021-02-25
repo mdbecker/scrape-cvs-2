@@ -1,0 +1,30 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "AR": [
+        {
+          "city": "RUSSELLVILLE",
+          "state": "AR",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SPRINGDALE",
+          "state": "AR",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VAN BUREN",
+          "state": "AR",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

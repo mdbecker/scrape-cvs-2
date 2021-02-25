@@ -1,0 +1,30 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "CO": [
+        {
+          "city": "AURORA",
+          "state": "CO",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GLENDALE",
+          "state": "CO",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GREELEY",
+          "state": "CO",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

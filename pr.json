@@ -1,0 +1,30 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "PR": [
+        {
+          "city": "FAJARDO",
+          "state": "PR",
+          "status": "Available"
+        },
+        {
+          "city": "SAN JUAN",
+          "state": "PR",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "VEGA ALTA",
+          "state": "PR",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

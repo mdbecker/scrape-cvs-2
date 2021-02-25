@@ -1,0 +1,60 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "RI": [
+        {
+          "city": "CRANSTON",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "EAST GREENWICH",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "JOHNSTON",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEWPORT",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PAWTUCKET",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PROVIDENCE",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WARREN",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WESTERLY",
+          "state": "RI",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WOONSOCKET",
+          "state": "RI",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}

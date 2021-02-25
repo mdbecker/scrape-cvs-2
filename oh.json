@@ -1,0 +1,175 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "OH": [
+        {
+          "city": "BELLEVUE",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BLUFFTON",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CANTON",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CINCINNATI",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLEVELAND HEIGHTS",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "COLUMBUS",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "EATON",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FAIRBORN",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FINDLAY",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FRANKLIN",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GENEVA",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAMILTON",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAKEWOOD",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LIMA",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "LORAIN",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LYNDHURST",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MANSFIELD",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MORAINE",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEW LEXINGTON",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "NEWARK",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "NILES",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORWOOD",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PIQUA",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SIDNEY",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SPRINGFIELD",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TIPP CITY",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TOLEDO",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "UNIVERSITY HEIGHTS",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WARREN",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WHITEHALL",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WILMINGTON",
+          "state": "OH",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "YOUNGSTOWN",
+          "state": "OH",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

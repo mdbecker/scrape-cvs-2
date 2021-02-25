@@ -1,0 +1,135 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "FL": [
+        {
+          "city": "BELLE GLADE",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BRADENTON",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CLEWISTON",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DAYTONA BEACH",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DORAL",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "FORT PIERCE",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAINES CITY",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HIALEAH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "HOMESTEAD",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "LAKELAND",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MIAMI",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MIAMI BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MIAMI GARDENS",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MIAMI LAKES",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "NAPLES",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORTH MIAMI",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH MIAMI BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "PALM COAST",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PENSACOLA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "PLANT CITY",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PLANTATION",
+          "state": "FL",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "QUINCY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SUNNY ISLES BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "TAMARAC",
+          "state": "FL",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

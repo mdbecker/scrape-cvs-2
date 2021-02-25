@@ -1,0 +1,55 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "AZ": [
+        {
+          "city": "APACHE JUNCTION",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BULLHEAD CITY",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHANDLER",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LAVEEN",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PHOENIX",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SURPRISE",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TUCSON",
+          "state": "AZ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "YUMA",
+          "state": "AZ",
+          "status": "Available"
+        }
+      ]
+    },
+    "isBookingCompleted": false
+  }
+}

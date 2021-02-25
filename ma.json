@@ -1,0 +1,250 @@
+{
+  "responseMetaData": {
+    "operation": "getInventorybyCity",
+    "statusCode": "0000",
+    "statusDesc": "Success",
+    "version": "1.0.0"
+  },
+  "responsePayloadData": {
+    "data": {
+      "MA": [
+        {
+          "city": "AGAWAM",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BOSTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BRAINTREE",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "BROCKTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CAMBRIDGE",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "CHELSEA",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "DEDHAM",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "EAST BOSTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "EAST FALMOUTH",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "FALL RIVER",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "GREENFIELD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HANOVER",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAVERHILL",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HOLBROOK",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HOLYOKE",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HUDSON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HYANNIS",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HYDE PARK",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "IPSWICH",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LOWELL",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "LYNN",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MALDEN",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MAYNARD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MEDFIELD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MEDFORD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "METHUEN",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "MILFORD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEW BEDFORD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NEWTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORTH EASTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "NORTH GRAFTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PALMER",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "PEABODY",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "RANDOLPH",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "REVERE",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SALEM",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SEEKONK",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SOUTH YARMOUTH",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SPRINGFIELD",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "STURBRIDGE",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "TAUNTON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WALTHAM",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WATERTOWN",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WAYLAND",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEST BRIDGEWATER",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WEYMOUTH",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "WORCESTER",
+          "state": "MA",
+          "status": "Fully Booked"
+        }
+      ]
+    },
+    "isBookingCompleted": true
+  }
+}
