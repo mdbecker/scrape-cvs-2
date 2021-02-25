@@ -2,52 +2,41 @@
   "responseMetaData": {
     "operation": "getInventorybyCity",
     "statusCode": "0000",
-    "statusDesc": "Success"
+    "statusDesc": "Success",
+    "version": "1.0.0"
   },
   "responsePayloadData": {
     "data": {
       "PA": [
         {
           "city": "CHAMBERSBURG",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "ENOLA",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW KENSINGTON",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "READING",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CHESTER",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "YORK",
-          "pctAvailable": "0.00%",
           "state": "PA",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         }
       ]
     },

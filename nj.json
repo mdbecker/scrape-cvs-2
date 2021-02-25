@@ -2,297 +2,216 @@
   "responseMetaData": {
     "operation": "getInventorybyCity",
     "statusCode": "0000",
-    "statusDesc": "Success"
+    "statusDesc": "Success",
+    "version": "1.0.0"
   },
   "responsePayloadData": {
     "data": {
       "NJ": [
         {
           "city": "BRIGANTINE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "BROWNS MILLS",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR GROVE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "CHATHAM",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "DUMONT",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST BRUNSWICK",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "ELIZABETH",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "ENGLEWOOD",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "EWING",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "FLEMINGTON",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "GIBBSBORO",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "GLASSBORO",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HACKETTSTOWN",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HARRISON TOWNSHIP",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HAZLET",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HIGHLANDS",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWRENCEVILLE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LEDGEWOOD",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LODI",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LONG BRANCH",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BRUNSWICK",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH PLAINFIELD",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHVALE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "PENNSAUKEN",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "PLAINSBORO",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "PRINCETON",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "RINGWOOD",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "SEASIDE HEIGHTS",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "TABERNACLE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "TEANECK",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "UNION",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "UNION CITY",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "VERNON",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "VILLAS",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "VINELAND",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ORANGE",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITING",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLINGBORO",
-          "pctAvailable": "0.00%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         }
       ]
     },

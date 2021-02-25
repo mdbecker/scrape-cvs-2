@@ -2,31 +2,26 @@
   "responseMetaData": {
     "operation": "getInventorybyCity",
     "statusCode": "0000",
-    "statusDesc": "Success"
+    "statusDesc": "Success",
+    "version": "1.0.0"
   },
   "responsePayloadData": {
     "data": {
       "DE": [
         {
           "city": "DOVER",
-          "pctAvailable": "0.00%",
           "state": "DE",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN VIEW",
-          "pctAvailable": "0.00%",
           "state": "DE",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WILMINGTON",
-          "pctAvailable": "0.00%",
           "state": "DE",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         }
       ]
     },

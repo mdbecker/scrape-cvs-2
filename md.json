@@ -2,150 +2,111 @@
   "responseMetaData": {
     "operation": "getInventorybyCity",
     "statusCode": "0000",
-    "statusDesc": "Success"
+    "statusDesc": "Success",
+    "version": "1.0.0"
   },
   "responsePayloadData": {
     "data": {
       "MD": [
         {
           "city": "BALTIMORE",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "BETHESDA",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "BOWIE",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "EASTON",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "ELDERSBURG",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "ELKTON",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "FREDERICK",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "FULTON",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HAGERSTOWN",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HAVRE DE GRACE",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "HYATTSVILLE",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LANHAM",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "LEONARDTOWN",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "MILLERSVILLE",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CARROLLTON",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "REISTERSTOWN",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WHEATON",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "0.00%",
           "state": "MD",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Fully Booked"
         }
       ]
     },
