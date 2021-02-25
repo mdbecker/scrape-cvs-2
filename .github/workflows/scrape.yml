@@ -27,6 +27,69 @@ jobs:
     - name: Fetch de data
       run: |-
         bash de.curl
+    - name: Fetch al data
+      run: |-
+        bash al.curl
+    - name: Fetch ar data
+      run: |-
+        bash ar.curl
+    - name: Fetch az data
+      run: |-
+        bash az.curl
+    - name: Fetch ca data
+      run: |-
+        bash ca.curl
+    - name: Fetch co data
+      run: |-
+        bash co.curl
+    - name: Fetch ct data
+      run: |-
+        bash ct.curl
+    - name: Fetch fl data
+      run: |-
+        bash fl.curl
+    - name: Fetch ga data
+      run: |-
+        bash ga.curl
+    - name: Fetch ia data
+      run: |-
+        bash ia.curl
+    - name: Fetch il data
+      run: |-
+        bash il.curl
+    - name: Fetch il_chi data
+      run: |-
+        bash il_chi.curl
+    - name: Fetch in data
+      run: |-
+        bash in.curl
+    - name: Fetch la data
+      run: |-
+        bash la.curl
+    - name: Fetch ma data
+      run: |-
+        bash ma.curl
+    - name: Fetch ny data
+      run: |-
+        bash ny.curl
+    - name: Fetch oh data
+      run: |-
+        bash oh.curl
+    - name: Fetch pr data
+      run: |-
+        bash pr.curl
+    - name: Fetch ri data
+      run: |-
+        bash ri.curl
+    - name: Fetch sc data
+      run: |-
+        bash sc.curl
+    - name: Fetch tx data
+      run: |-
+        bash tx.curl
+    - name: Fetch va data
+      run: |-
+        bash va.curl
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
