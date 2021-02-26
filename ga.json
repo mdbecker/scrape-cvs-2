@@ -51,7 +51,7 @@
         {
           "city": "JONESBORO",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARIETTA",
@@ -61,7 +61,7 @@
         {
           "city": "SAVANNAH",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONE MOUNTAIN",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
