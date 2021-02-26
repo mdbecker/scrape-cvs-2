@@ -31,7 +31,7 @@
         {
           "city": "DORAL",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT PIERCE",
@@ -46,12 +46,12 @@
         {
           "city": "HIALEAH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOMESTEAD",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKELAND",
@@ -61,12 +61,12 @@
         {
           "city": "MIAMI",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI BEACH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI GARDENS",
@@ -101,7 +101,7 @@
         {
           "city": "PENSACOLA",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLANT CITY",
@@ -116,7 +116,7 @@
         {
           "city": "QUINCY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUNNY ISLES BEACH",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

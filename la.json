@@ -16,17 +16,17 @@
         {
           "city": "DONALDSONVILLE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAMMOND",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAFAYETTE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METAIRIE",
@@ -41,10 +41,10 @@
         {
           "city": "SHREVEPORT",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
