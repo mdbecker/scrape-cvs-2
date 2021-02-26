@@ -16,12 +16,12 @@
         {
           "city": "CAMDEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVERGREEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENSBORO",
@@ -31,12 +31,12 @@
         {
           "city": "JACKSON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANETT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOULTON",
@@ -46,15 +46,15 @@
         {
           "city": "TUSKEGEE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNION SPRINGS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -21,7 +21,7 @@
         {
           "city": "AMARILLO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -56,7 +56,7 @@
         {
           "city": "BORGER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROWNSVILLE",
@@ -151,7 +151,7 @@
         {
           "city": "GLADEWATER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRANBURY",
@@ -221,12 +221,12 @@
         {
           "city": "LUBBOCK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LUFKIN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANSFIELD",
@@ -236,7 +236,7 @@
         {
           "city": "MARSHALL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MATHIS",
@@ -251,7 +251,7 @@
         {
           "city": "MIDLAND",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MINEOLA",
@@ -271,12 +271,12 @@
         {
           "city": "ODESSA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARIS",
@@ -351,7 +351,7 @@
         {
           "city": "SAN ANGELO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN ANTONIO",
@@ -401,7 +401,7 @@
         {
           "city": "TEXARKANA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THE WOODLANDS",
@@ -416,7 +416,7 @@
         {
           "city": "TYLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WACO",
@@ -435,6 +435,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
