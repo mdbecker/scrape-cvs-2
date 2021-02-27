@@ -186,7 +186,7 @@
         {
           "city": "SKANEATELES",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
@@ -230,6 +230,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
