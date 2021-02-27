@@ -41,12 +41,12 @@
         {
           "city": "DALTON",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAINESVILLE",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JONESBORO",
@@ -61,7 +61,7 @@
         {
           "city": "SAVANNAH",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONE MOUNTAIN",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
