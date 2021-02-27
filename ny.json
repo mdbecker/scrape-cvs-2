@@ -46,7 +46,7 @@
         {
           "city": "CLINTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
@@ -230,6 +230,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
