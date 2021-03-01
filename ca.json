@@ -371,12 +371,12 @@
         {
           "city": "NORTH HOLLYWOOD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKLAND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEANSIDE",
@@ -421,7 +421,7 @@
         {
           "city": "POWAY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RANCHO BERNARDO",
@@ -501,7 +501,7 @@
         {
           "city": "SAN DIEGO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIMAS",

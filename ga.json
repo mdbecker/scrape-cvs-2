@@ -16,7 +16,7 @@
         {
           "city": "AUGUSTA",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BUFORD",
@@ -51,7 +51,7 @@
         {
           "city": "JONESBORO",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARIETTA",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
