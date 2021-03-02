@@ -46,7 +46,7 @@
         {
           "city": "CLINTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
@@ -66,7 +66,7 @@
         {
           "city": "ENDWELL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRPORT",
@@ -151,7 +151,7 @@
         {
           "city": "OWEGO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENN YAN",
@@ -230,6 +230,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
