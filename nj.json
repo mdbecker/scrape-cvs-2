@@ -16,7 +16,7 @@
         {
           "city": "BROWNS MILLS",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR GROVE",
@@ -66,12 +66,12 @@
         {
           "city": "GIBBSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
@@ -136,7 +136,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLAINSBORO",
@@ -211,10 +211,10 @@
         {
           "city": "WILLINGBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
