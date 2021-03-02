@@ -11,7 +11,7 @@
         {
           "city": "BATON ROUGE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DONALDSONVILLE",
@@ -26,7 +26,7 @@
         {
           "city": "LAFAYETTE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METAIRIE",
@@ -41,10 +41,10 @@
         {
           "city": "SHREVEPORT",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

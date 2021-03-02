@@ -11,22 +11,22 @@
         {
           "city": "AIKEN",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANDERSON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BISHOPVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -36,107 +36,107 @@
         {
           "city": "CHESNEE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLEMSON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLINTON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLOVER",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLUMBIA",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DARLINGTON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENMARK",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEFIELD",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLORENCE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAFFNEY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOOSE CREEK",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENWOOD",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANAHAN",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMINGWAY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANCASTER",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARION",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT PLEASANT",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MYRTLE BEACH",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBERRY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORANGEBURG",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PORT ROYAL",
@@ -146,17 +146,17 @@
         {
           "city": "SENECA",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUMMERVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUMTER",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALTERBORO",
@@ -166,15 +166,15 @@
         {
           "city": "WEST COLUMBIA",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINNSBORO",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

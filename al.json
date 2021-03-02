@@ -16,12 +16,12 @@
         {
           "city": "CAMDEN",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EVERGREEN",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENSBORO",
@@ -31,7 +31,7 @@
         {
           "city": "JACKSON",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANETT",
@@ -51,10 +51,10 @@
         {
           "city": "UNION SPRINGS",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

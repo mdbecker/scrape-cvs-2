@@ -11,7 +11,7 @@
         {
           "city": "ABINGDON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALEXANDRIA",
@@ -61,7 +61,7 @@
         {
           "city": "DUBLIN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX",
@@ -200,6 +200,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
