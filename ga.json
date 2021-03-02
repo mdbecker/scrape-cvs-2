@@ -66,10 +66,10 @@
         {
           "city": "STONE MOUNTAIN",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
