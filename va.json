@@ -41,7 +41,7 @@
         {
           "city": "CHATHAM",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESAPEAKE",
@@ -61,7 +61,7 @@
         {
           "city": "DUBLIN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX",
@@ -186,7 +186,7 @@
         {
           "city": "WINCHESTER",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR",
@@ -196,7 +196,7 @@
         {
           "city": "WOODSTOCK",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
