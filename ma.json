@@ -11,7 +11,7 @@
         {
           "city": "AGAWAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOSTON",
@@ -26,12 +26,12 @@
         {
           "city": "BROCKTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMBRIDGE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELSEA",
@@ -41,7 +41,7 @@
         {
           "city": "DEDHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST BOSTON",
@@ -71,12 +71,12 @@
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLBROOK",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLYOKE",
@@ -91,12 +91,12 @@
         {
           "city": "HYANNIS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYDE PARK",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IPSWICH",
@@ -106,7 +106,7 @@
         {
           "city": "LOWELL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNN",
@@ -121,7 +121,7 @@
         {
           "city": "MAYNARD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MEDFIELD",
@@ -131,7 +131,7 @@
         {
           "city": "MEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "METHUEN",
@@ -211,17 +211,17 @@
         {
           "city": "TAUNTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALTHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYLAND",
@@ -231,7 +231,7 @@
         {
           "city": "WEST BRIDGEWATER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEYMOUTH",
@@ -241,10 +241,10 @@
         {
           "city": "WORCESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

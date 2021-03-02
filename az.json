@@ -11,45 +11,45 @@
         {
           "city": "APACHE JUNCTION",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BULLHEAD CITY",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANDLER",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAVEEN",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PHOENIX",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SURPRISE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TUCSON",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUMA",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

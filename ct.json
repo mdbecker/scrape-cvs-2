@@ -31,12 +31,12 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GUILFORD",
@@ -51,7 +51,7 @@
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BRITAIN",
@@ -61,12 +61,12 @@
         {
           "city": "NEW HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PUTNAM",
@@ -91,7 +91,7 @@
         {
           "city": "WILLIMANTIC",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR LOCKS",
@@ -105,6 +105,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
