@@ -71,7 +71,7 @@
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOLBROOK",
@@ -245,6 +245,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

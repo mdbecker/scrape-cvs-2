@@ -41,7 +41,7 @@
         {
           "city": "AUSTIN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAY CITY",
@@ -51,7 +51,7 @@
         {
           "city": "BEAUMONT",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BORGER",
@@ -126,7 +126,7 @@
         {
           "city": "ELSA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORNEY",
@@ -141,7 +141,7 @@
         {
           "city": "GARLAND",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GEORGETOWN",
@@ -236,7 +236,7 @@
         {
           "city": "MARSHALL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MATHIS",
@@ -276,12 +276,12 @@
         {
           "city": "ORANGE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASADENA",
@@ -296,7 +296,7 @@
         {
           "city": "PFLUGERVILLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PHARR",
@@ -346,12 +346,12 @@
         {
           "city": "ROWLETT",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN ANGELO",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN ANTONIO",
@@ -431,7 +431,7 @@
         {
           "city": "WICHITA FALLS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
