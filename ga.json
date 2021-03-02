@@ -16,12 +16,12 @@
         {
           "city": "AUGUSTA",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BUFORD",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CANTON",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
