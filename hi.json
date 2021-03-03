@@ -11,45 +11,45 @@
         {
           "city": "AIEA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EWA BEACH",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILO",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONOLULU",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAHULUI",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAILUA KONA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KANEOHE",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAPAA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

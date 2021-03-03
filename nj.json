@@ -136,7 +136,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLAINSBORO",
@@ -215,6 +215,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
