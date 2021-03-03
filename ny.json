@@ -11,7 +11,7 @@
         {
           "city": "ALBANY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BATAVIA",
@@ -46,7 +46,7 @@
         {
           "city": "CLINTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIE",
@@ -81,7 +81,7 @@
         {
           "city": "GLOVERSVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENWOOD LAKE",
@@ -151,12 +151,12 @@
         {
           "city": "OWEGO",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PENN YAN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POUGHKEEPSIE",
@@ -181,12 +181,12 @@
         {
           "city": "SCHENECTADY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SKANEATELES",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONY POINT",
@@ -196,7 +196,7 @@
         {
           "city": "TROY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALATIE",
@@ -206,7 +206,7 @@
         {
           "city": "WATKINS GLEN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SAYVILLE",
@@ -230,6 +230,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

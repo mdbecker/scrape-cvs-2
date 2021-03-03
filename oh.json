@@ -36,7 +36,7 @@
         {
           "city": "COLUMBUS",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EATON",
@@ -76,7 +76,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LORAIN",
@@ -101,12 +101,12 @@
         {
           "city": "NEW LEXINGTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NILES",
@@ -170,6 +170,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

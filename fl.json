@@ -11,7 +11,7 @@
         {
           "city": "BELLE GLADE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRADENTON",
@@ -21,7 +21,7 @@
         {
           "city": "CLEWISTON",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAYTONA BEACH",
@@ -31,52 +31,52 @@
         {
           "city": "DORAL",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT PIERCE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAINES CITY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HIALEAH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOMESTEAD",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKELAND",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI BEACH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI GARDENS",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI LAKES",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NAPLES",
@@ -86,27 +86,27 @@
         {
           "city": "NORTH MIAMI",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH MIAMI BEACH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM COAST",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PENSACOLA",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLANT CITY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLANTATION",
@@ -116,12 +116,12 @@
         {
           "city": "QUINCY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUNNY ISLES BEACH",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TAMARAC",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
