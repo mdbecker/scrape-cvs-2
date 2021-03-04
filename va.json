@@ -31,7 +31,7 @@
         {
           "city": "BLACKSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHARLOTTESVILLE",
@@ -200,6 +200,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
