@@ -11,7 +11,7 @@
         {
           "city": "BRIGANTINE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROWNS MILLS",
@@ -86,7 +86,7 @@
         {
           "city": "HARRISON TOWNSHIP",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAZLET",
@@ -186,12 +186,12 @@
         {
           "city": "VILLAS",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -215,6 +215,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

@@ -11,12 +11,12 @@
         {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRISTOL",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLCHESTER",
@@ -26,7 +26,7 @@
         {
           "city": "COVENTRY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANBURY",
@@ -41,12 +41,12 @@
         {
           "city": "GUILFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAMDEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARTFORD",
@@ -56,7 +56,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW HAVEN",
@@ -76,12 +76,12 @@
         {
           "city": "UNCASVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERFORD",
@@ -101,10 +101,10 @@
         {
           "city": "WINSTED",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
