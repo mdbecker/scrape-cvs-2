@@ -16,17 +16,17 @@
         {
           "city": "ANDERSON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BISHOPVILLE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -36,7 +36,7 @@
         {
           "city": "CHESNEE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLEMSON",
@@ -46,12 +46,12 @@
         {
           "city": "CLINTON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLOVER",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLUMBIA",
@@ -61,27 +61,27 @@
         {
           "city": "DARLINGTON",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENMARK",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEFIELD",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLORENCE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAFFNEY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOOSE CREEK",
@@ -96,7 +96,7 @@
         {
           "city": "GREENWOOD",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANAHAN",
@@ -106,17 +106,17 @@
         {
           "city": "HEMINGWAY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANCASTER",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARION",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT PLEASANT",
@@ -131,7 +131,7 @@
         {
           "city": "NEWBERRY",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORANGEBURG",
@@ -171,10 +171,10 @@
         {
           "city": "WINNSBORO",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

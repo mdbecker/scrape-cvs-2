@@ -121,7 +121,7 @@
         {
           "city": "LITTLE FALLS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANORVILLE",
@@ -156,7 +156,7 @@
         {
           "city": "PENN YAN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POUGHKEEPSIE",
@@ -186,7 +186,7 @@
         {
           "city": "SKANEATELES",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONY POINT",
@@ -206,7 +206,7 @@
         {
           "city": "WATKINS GLEN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SAYVILLE",
@@ -230,6 +230,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
