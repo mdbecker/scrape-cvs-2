@@ -61,7 +61,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANOVER",
@@ -245,6 +245,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
