@@ -16,7 +16,7 @@
         {
           "city": "AUGUSTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFORD",
@@ -41,7 +41,7 @@
         {
           "city": "DALTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
