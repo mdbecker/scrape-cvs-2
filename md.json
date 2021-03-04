@@ -91,7 +91,7 @@
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REISTERSTOWN",
@@ -115,6 +115,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
