@@ -11,7 +11,7 @@
         {
           "city": "BRIGANTINE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROWNS MILLS",
@@ -186,7 +186,7 @@
         {
           "city": "VILLAS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VINELAND",
@@ -215,6 +215,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

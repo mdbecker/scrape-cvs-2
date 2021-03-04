@@ -11,7 +11,7 @@
         {
           "city": "ABINGDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALEXANDRIA",
@@ -51,7 +51,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANVILLE",
@@ -71,7 +71,7 @@
         {
           "city": "FARMVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREDERICKSBURG",
@@ -156,7 +156,7 @@
         {
           "city": "SOUTH BOSTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAFFORD",
@@ -196,10 +196,10 @@
         {
           "city": "WOODSTOCK",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
