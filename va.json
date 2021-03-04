@@ -51,7 +51,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANVILLE",
@@ -86,12 +86,12 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARRISONBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEESBURG",
@@ -136,7 +136,7 @@
         {
           "city": "PORTSMOUTH",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RICHMOND",
@@ -186,7 +186,7 @@
         {
           "city": "WINCHESTER",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR",
