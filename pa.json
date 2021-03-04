@@ -41,7 +41,7 @@
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CHESTER",
@@ -55,6 +55,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
