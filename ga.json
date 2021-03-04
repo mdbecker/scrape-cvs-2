@@ -41,7 +41,7 @@
         {
           "city": "DALTON",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAINESVILLE",
@@ -51,7 +51,7 @@
         {
           "city": "JONESBORO",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARIETTA",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
