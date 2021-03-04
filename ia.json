@@ -14,6 +14,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "AMES",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
           "city": "ANKENY",
           "state": "IA",
           "status": "Fully Booked"
@@ -24,9 +29,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COUNCIL BLUFFS",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
           "city": "URBANDALE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERLOO",
@@ -40,6 +50,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

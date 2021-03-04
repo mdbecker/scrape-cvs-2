@@ -19,6 +19,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GETTYSBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "KING OF PRUSSIA",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "NEW KENSINGTON",
           "state": "PA",
           "status": "Fully Booked"
@@ -27,6 +37,11 @@
           "city": "READING",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "STATE COLLEGE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "WEST CHESTER",
@@ -40,6 +55,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

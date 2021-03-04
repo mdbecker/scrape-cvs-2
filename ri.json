@@ -16,7 +16,12 @@
         {
           "city": "EAST GREENWICH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "GLOCESTER",
+          "state": "RI",
+          "status": "Available"
         },
         {
           "city": "JOHNSTON",
@@ -26,7 +31,7 @@
         {
           "city": "NEWPORT",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWTUCKET",
@@ -36,25 +41,25 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
