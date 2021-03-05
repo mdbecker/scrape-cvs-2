@@ -131,7 +131,7 @@
         {
           "city": "FORT WASHINGTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREDERICK",
@@ -286,7 +286,7 @@
         {
           "city": "SALISBURY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAT PLEASANT",
@@ -335,6 +335,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
