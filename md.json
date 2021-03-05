@@ -51,12 +51,12 @@
         {
           "city": "BRANDYWINE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMP SPRINGS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAPITOL HEIGHTS",
@@ -66,7 +66,7 @@
         {
           "city": "CHEVY CHASE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLARKSVILLE",
@@ -131,7 +131,7 @@
         {
           "city": "FORT WASHINGTON",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FREDERICK",
@@ -181,7 +181,7 @@
         {
           "city": "HOLLYWOOD",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HYATTSVILLE",
@@ -191,7 +191,7 @@
         {
           "city": "LA PLATA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANDOVER",
@@ -226,7 +226,7 @@
         {
           "city": "NATIONAL HARBOR",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CARROLLTON",
@@ -241,7 +241,7 @@
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OWINGS MILLS",
@@ -286,7 +286,7 @@
         {
           "city": "SALISBURY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEAT PLEASANT",
@@ -311,7 +311,7 @@
         {
           "city": "WALDORF",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALKERSVILLE",
@@ -335,6 +335,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
