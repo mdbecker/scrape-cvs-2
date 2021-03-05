@@ -46,7 +46,7 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -166,7 +166,7 @@
         {
           "city": "CAMARILLO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMERON PARK",
@@ -356,7 +356,7 @@
         {
           "city": "EASTVALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL CAJON",
@@ -671,7 +671,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADERA",
@@ -796,12 +796,12 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORCO",
@@ -1151,7 +1151,7 @@
         {
           "city": "SANTA CLARITA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA CRUZ",
@@ -1391,7 +1391,7 @@
         {
           "city": "WESTLAKE VILLAGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTMINSTER",
