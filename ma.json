@@ -106,7 +106,7 @@
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHELSEA",
@@ -166,7 +166,7 @@
         {
           "city": "EAST HARWICH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EVERETT",
@@ -206,7 +206,7 @@
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENFIELD",
@@ -231,7 +231,7 @@
         {
           "city": "HARWICHPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAVERHILL",
@@ -291,7 +291,7 @@
         {
           "city": "LANESBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWRENCE",
@@ -441,7 +441,7 @@
         {
           "city": "ORLEANS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OXFORD",
@@ -466,7 +466,7 @@
         {
           "city": "PROVINCETOWN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUINCY",
@@ -690,6 +690,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
