@@ -161,7 +161,7 @@
         {
           "city": "JOHNSONBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSTOWN",
@@ -216,7 +216,7 @@
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUNCY",
@@ -346,7 +346,7 @@
         {
           "city": "WELLSBORO",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST CHESTER",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
