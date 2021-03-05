@@ -71,7 +71,7 @@
         {
           "city": "DAYVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HARTFORD",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
