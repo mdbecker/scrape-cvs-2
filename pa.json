@@ -86,7 +86,7 @@
         {
           "city": "CRESCO",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DOWNINGTOWN",
@@ -316,7 +316,7 @@
         {
           "city": "SUSQUEHANNA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SWISSVALE",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
