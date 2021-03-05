@@ -26,7 +26,7 @@
         {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRISTOL",
@@ -51,7 +51,7 @@
         {
           "city": "COS COB",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COVENTRY",
@@ -66,7 +66,7 @@
         {
           "city": "DARIEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAYVILLE",
@@ -96,7 +96,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GALES FERRY",
@@ -136,7 +136,7 @@
         {
           "city": "MILFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONROE",
@@ -151,7 +151,7 @@
         {
           "city": "NEW CANAAN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW HAVEN",
@@ -176,7 +176,7 @@
         {
           "city": "OLD GREENWICH",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PUTNAM",
@@ -186,12 +186,12 @@
         {
           "city": "RIVERSIDE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHELTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHINGTON",
@@ -201,12 +201,12 @@
         {
           "city": "STAFFORD SPRINGS",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -221,7 +221,7 @@
         {
           "city": "TRUMBULL",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UNCASVILLE",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
