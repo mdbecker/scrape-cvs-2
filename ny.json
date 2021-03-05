@@ -11,7 +11,37 @@
         {
           "city": "ALBANY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "AMHERST",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "AMITYVILLE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "AMSTERDAM",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "ARDSLEY",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "BALDWIN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "BARDONIA",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
@@ -19,9 +49,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BEDFORD HILLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "BELLMORE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BINGHAMTON",
@@ -34,9 +74,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BRIARCLIFF MANOR",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "BRONXVILLE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "BUFFALO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BURNT HILLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "CAIRO",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "CARMEL",
@@ -44,12 +104,42 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CEDARHURST",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "CENTER MORICHES",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CENTRAL ISLIP",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "CHEEKTOWAGA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "CICERO",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "CLIFTON PARK",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "CLINTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "COBLESKILL",
           "state": "NY",
           "status": "Available"
         },
@@ -59,14 +149,79 @@
           "status": "Available"
         },
         {
+          "city": "COMMACK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "COOPERSTOWN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "COPIAGUE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CROTON ON HUDSON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "DEPEW",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "DOVER PLAINS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "EAST GREENBUSH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "EAST HAMPTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "EAST HILLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "EAST ROCKAWAY",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "EASTCHESTER",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ELMIRA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "ELMONT",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "ELMSFORD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "ENDICOTT",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "ENDWELL",
@@ -76,7 +231,37 @@
         {
           "city": "FAIRPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FARMINGDALE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "FAYETTEVILLE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "FLORAL PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "GARNERVILLE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "GLEN COVE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "GLEN HEAD",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "GLENVILLE",
@@ -89,6 +274,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GREAT NECK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "GREENWICH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "GREENWOOD LAKE",
           "state": "NY",
           "status": "Fully Booked"
@@ -96,10 +291,45 @@
         {
           "city": "HAMBURG",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "HARRISON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HEWLETT",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HILTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HONEOYE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HUDSON",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "HUDSON FALLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HUNTINGTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "HYDE PARK",
           "state": "NY",
           "status": "Available"
         },
@@ -109,14 +339,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ITHACA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "JOHNSON CITY",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "KATONAH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "KINGSTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LARCHMONT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LATHAM",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "LEVITTOWN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "LEWISTON",
@@ -125,6 +380,21 @@
         },
         {
           "city": "LITTLE FALLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "LIVERPOOL",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "LYNBROOK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "MAMARONECK",
           "state": "NY",
           "status": "Available"
         },
@@ -144,9 +414,69 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MEDFORD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "MILLERTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "MONROE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "MOUNT VERNON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NEW HARTFORD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NEW HYDE PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NEW ROCHELLE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "NEWBURGH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NIAGARA FALLS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH BELLMORE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH TONAWANDA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NORTHPORT",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "OCEANSIDE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "OLEAN",
@@ -154,12 +484,52 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ORCHARD PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "OWEGO",
           "state": "NY",
           "status": "Available"
         },
         {
+          "city": "OYSTER BAY",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PATCHOGUE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PAWLING",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PEEKSKILL",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PENFIELD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "PENN YAN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PORT JEFFERSON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "PORT JEFFERSON STATION",
           "state": "NY",
           "status": "Available"
         },
@@ -174,9 +544,49 @@
           "status": "Available"
         },
         {
+          "city": "RENSSELAER",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "RHINEBECK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "RIVERHEAD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "ROCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "ROCKVILLE CENTRE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "RONKONKOMA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "RYE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "RYE BROOK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "SANBORN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "SARATOGA SPRINGS",
@@ -184,12 +594,32 @@
           "status": "Available"
         },
         {
+          "city": "SCARSDALE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "SCHENECTADY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SELDEN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "SKANEATELES",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "SMITHTOWN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "SOUTH SETAUKET",
           "state": "NY",
           "status": "Available"
         },
@@ -199,12 +629,57 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SYRACUSE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "TARRYTOWN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "THORNWOOD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "TROY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VALATIE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "VALLEY STREAM",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "VESTAL",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "VICTOR",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WALTON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WATERTOWN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WATERVILLE",
           "state": "NY",
           "status": "Available"
         },
@@ -214,9 +689,29 @@
           "status": "Available"
         },
         {
+          "city": "WEBSTER",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WEST HEMPSTEAD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WEST NYACK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "WEST SAYVILLE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WESTBURY",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "WESTFIELD",
@@ -224,12 +719,37 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WESTHAMPTON BEACH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "WHITE PLAINS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WILLISTON PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WOODMERE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WOODSTOCK",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "WYNANTSKILL",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "YONKERS",
           "state": "NY",
           "status": "Available"
         }

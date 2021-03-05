@@ -9,9 +9,19 @@
     "data": {
       "AZ": [
         {
+          "city": "ANTHEM",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
           "city": "APACHE JUNCTION",
           "state": "AZ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BUCKEYE",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "BULLHEAD CITY",
@@ -21,7 +31,27 @@
         {
           "city": "CHANDLER",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FOUNTAIN HILLS",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "GLENDALE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "GLOBE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "GOODYEAR",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "LAVEEN",
@@ -29,19 +59,69 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MESA",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "ORO VALLEY",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
           "city": "PHOENIX",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "QUEEN CREEK",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "SCOTTSDALE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "SEDONA",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "SIERRA VISTA",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "SUN CITY",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "SURPRISE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "TEMPE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "TOLLESON",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "TUCSON",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WICKENBURG",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "YUMA",
@@ -50,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

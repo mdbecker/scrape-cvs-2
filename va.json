@@ -16,17 +16,37 @@
         {
           "city": "ALEXANDRIA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "ANNANDALE",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "ASHBURN",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "ASHLAND",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "BAILEYS CROSSROADS",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "BEDFORD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLACKSBURG",
@@ -34,9 +54,29 @@
           "status": "Available"
         },
         {
+          "city": "BRISTOL",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "BURKE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "CHANTILLY",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "CHARLOTTESVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CHASE CITY",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
@@ -49,9 +89,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CHRISTIANSBURG",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "CLARKSVILLE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "COLONIAL HEIGHTS",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "COVINGTON",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "DALEVILLE",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "DANVILLE",
@@ -66,7 +126,12 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FALLS CHURCH",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "FARMVILLE",
@@ -76,12 +141,22 @@
         {
           "city": "FREDERICKSBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "GLEN ALLEN",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "GREAT FALLS",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "HAMPTON",
@@ -91,17 +166,32 @@
         {
           "city": "HARRISONBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNCHBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MANASSAS",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "MANASSAS PARK",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "MARION",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "MARTINSVILLE",
@@ -116,7 +206,12 @@
         {
           "city": "MIDLOTHIAN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MONTPELIER",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "NEWPORT NEWS",
@@ -126,7 +221,7 @@
         {
           "city": "NORFOLK",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PETERSBURG",
@@ -139,9 +234,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RESTON",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "RICHMOND",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROANOKE",
@@ -154,6 +254,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ROSSLYN",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH BOSTON",
           "state": "VA",
           "status": "Fully Booked"
@@ -161,7 +266,17 @@
         {
           "city": "STAFFORD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "STERLING",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "STUART",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "SUFFOLK",
@@ -169,9 +284,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "VIENNA",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "VIRGINIA BEACH",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARRENTON",
@@ -181,12 +301,12 @@
         {
           "city": "WILLIAMSBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHESTER",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR",
@@ -194,9 +314,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WOODBRIDGE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "WOODSTOCK",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WYTHEVILLE",
+          "state": "VA",
+          "status": "Available"
         }
       ]
     },

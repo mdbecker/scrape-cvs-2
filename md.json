@@ -9,19 +9,94 @@
     "data": {
       "MD": [
         {
+          "city": "ABERDEEN",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "ABINGDON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "ANNAPOLIS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "ASHTON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BELTSVILLE",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "BETHESDA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOWIE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BRANDYWINE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "CAMP SPRINGS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "CAPITOL HEIGHTS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "CHEVY CHASE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "CLARKSVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "COLLEGE PARK",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "COLMAR MANOR",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "COLUMBIA",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "DERWOOD",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "DISTRICT HEIGHTS",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "DUNKIRK",
@@ -31,7 +106,7 @@
         {
           "city": "EASTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -44,9 +119,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FALLSTON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "FORESTVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "FORT WASHINGTON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "FREDERICK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTON",
@@ -54,9 +144,34 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GAITHERSBURG",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "GAMBRILLS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "GERMANTOWN",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "GLEN BURNIE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "GREENBELT",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVRE DE GRACE",
@@ -64,14 +179,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HOLLYWOOD",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "HYATTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LA PLATA",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "LANDOVER",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "LANDOVER HILLS",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "LANHAM",
           "state": "MD",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LAUREL",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "LEONARDTOWN",
@@ -84,14 +224,49 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NATIONAL HARBOR",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "NEW CARROLLTON",
           "state": "MD",
           "status": "Fully Booked"
         },
         {
+          "city": "NOTTINGHAM",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "OWINGS MILLS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "OXON HILL",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "PALMER PARK",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "PIKESVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "POOLESVILLE",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "REISTERSTOWN",
@@ -99,9 +274,54 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RIVERDALE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "ROCKVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "SALISBURY",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "SEAT PLEASANT",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "SEVERNA PARK",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "UPPER MARLBORO",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "WALDORF",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "WALKERSVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "WESTMINSTER",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "WHEATON",
@@ -115,6 +335,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

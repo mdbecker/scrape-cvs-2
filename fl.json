@@ -9,14 +9,44 @@
     "data": {
       "FL": [
         {
+          "city": "ARCADIA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "BELLE GLADE",
           "state": "FL",
           "status": "Fully Booked"
         },
         {
+          "city": "BONITA SPRINGS",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "BRADENTON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CHIEFLAND",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "CITRUS HILLS",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "CLEARWATER",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "CLEARWATER BEACH",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "CLEWISTON",
@@ -29,14 +59,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DAYTONA BEACH SHORES",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "DORAL",
           "state": "FL",
           "status": "Fully Booked"
         },
         {
+          "city": "EDGEWATER",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "FLAGLER BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "FORT MYERS",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "FORT PIERCE",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GAINESVILLE",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "HAINES CITY",
@@ -49,14 +104,54 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HOLMES BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "HOMESTEAD",
           "state": "FL",
           "status": "Fully Booked"
         },
         {
+          "city": "IMMOKALEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "JACKSONVILLE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "KISSIMMEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "LAKE CITY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "LAKE PLACID",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "LAKELAND",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LAUDERHILL",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MADISON",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "MIAMI",
@@ -79,14 +174,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MONTICELLO",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "NAPLES",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NAVARRE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "NEW SMYRNA BEACH",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "NORTH MIAMI",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH MIAMI BEACH",
@@ -94,14 +204,34 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ORLANDO",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "OSPREY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "PALM COAST",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PALM HARBOR",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "PENSACOLA",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "PINELLAS PARK",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "PLANT CITY",
@@ -114,9 +244,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "PORT ORANGE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "QUINCY",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SAINT AUGUSTINE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SAINT JAMES CITY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SAINT PETERSBURG",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SARASOTA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SEMINOLE",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "SUNNY ISLES BEACH",
@@ -124,12 +284,52 @@
           "status": "Fully Booked"
         },
         {
+          "city": "TALLAHASSEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "TAMARAC",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TAMPA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "VENICE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "WEEKI WACHEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "WEST PALM BEACH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "WILLISTON",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "WINDERMERE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "WINTER PARK",
+          "state": "FL",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

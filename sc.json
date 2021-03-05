@@ -9,12 +9,27 @@
     "data": {
       "SC": [
         {
+          "city": "ABBEVILLE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "AIKEN",
           "state": "SC",
           "status": "Available"
         },
         {
           "city": "ANDERSON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "ANDREWS",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "BATESBURG",
           "state": "SC",
           "status": "Available"
         },
@@ -29,9 +44,19 @@
           "status": "Available"
         },
         {
+          "city": "BLUFFTON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "CAMDEN",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CHARLESTON",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "CHESNEE",
@@ -59,12 +84,22 @@
           "status": "Available"
         },
         {
+          "city": "CONWAY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "DARLINGTON",
           "state": "SC",
           "status": "Available"
         },
         {
           "city": "DENMARK",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "EASLEY",
           "state": "SC",
           "status": "Available"
         },
@@ -79,22 +114,42 @@
           "status": "Available"
         },
         {
+          "city": "FORT MILL",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "FOUNTAIN INN",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "GAFFNEY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "GEORGETOWN",
           "state": "SC",
           "status": "Available"
         },
         {
           "city": "GOOSE CREEK",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWOOD",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "GREER",
           "state": "SC",
           "status": "Available"
         },
@@ -109,7 +164,42 @@
           "status": "Available"
         },
         {
+          "city": "HILTON HEAD ISLAND",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "HOLLY HILL",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "INDIAN LAND",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "JOHNS ISLAND",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "LAKE CITY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "LANCASTER",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "LEXINGTON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "LITTLE RIVER",
           "state": "SC",
           "status": "Available"
         },
@@ -121,15 +211,35 @@
         {
           "city": "MOUNT PLEASANT",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MULLINS",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "MYRTLE BEACH",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBERRY",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH AUGUSTA",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH CHARLESTON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH MYRTLE BEACH",
           "state": "SC",
           "status": "Available"
         },
@@ -139,9 +249,29 @@
           "status": "Available"
         },
         {
+          "city": "PAGELAND",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "PIEDMONT",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "PORT ROYAL",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ROCK HILL",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "SAINT GEORGE",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "SENECA",
@@ -149,12 +279,22 @@
           "status": "Available"
         },
         {
+          "city": "SIMPSONVILLE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "SUMMERVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUMTER",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "TAYLORS",
           "state": "SC",
           "status": "Available"
         },
@@ -166,7 +306,12 @@
         {
           "city": "WEST COLUMBIA",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WEST PELZER",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "WINNSBORO",

@@ -9,9 +9,24 @@
     "data": {
       "CT": [
         {
+          "city": "ANSONIA",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "BETHEL",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "BLOOMFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
@@ -19,9 +34,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BURLINGTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "CLINTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "COLCHESTER",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "COS COB",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "COVENTRY",
@@ -34,9 +64,44 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DARIEN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "DAYVILLE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "EAST HARTFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "EAST HAVEN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "EAST LYME",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "ENFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FAIRFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "GALES FERRY",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "GUILFORD",
@@ -46,12 +111,37 @@
         {
           "city": "HAMDEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LISBON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "LITCHFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "MANCHESTER",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "MILFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "MONROE",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "NEW BRITAIN",
@@ -59,9 +149,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NEW CANAAN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "NEW HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NEWINGTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "NIANTIC",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "NORWALK",
@@ -69,9 +174,54 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OLD GREENWICH",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "PUTNAM",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RIVERSIDE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "SHELTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "SOUTHINGTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "STAFFORD SPRINGS",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "STAMFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "STORRS MANSFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "TERRYVILLE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "TRUMBULL",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "UNCASVILLE",
@@ -81,12 +231,22 @@
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WEST HARTFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "WEST HAVEN",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "WILLIMANTIC",
@@ -105,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
