@@ -31,12 +31,12 @@
         {
           "city": "BESSEMER",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BIRMINGHAM",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -46,7 +46,7 @@
         {
           "city": "CENTER POINT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTREVILLE",
@@ -131,7 +131,7 @@
         {
           "city": "HOMEWOOD",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOOVER",
@@ -141,7 +141,7 @@
         {
           "city": "HUEYTOWN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTSVILLE",

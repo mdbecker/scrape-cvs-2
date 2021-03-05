@@ -526,7 +526,7 @@
         {
           "city": "SHARON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOMERVILLE",
@@ -690,6 +690,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
