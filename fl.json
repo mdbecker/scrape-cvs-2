@@ -91,7 +91,7 @@
         {
           "city": "GAINESVILLE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAINES CITY",
@@ -330,6 +330,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
