@@ -71,7 +71,7 @@
         {
           "city": "CHAMBERSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELTENHAM",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
