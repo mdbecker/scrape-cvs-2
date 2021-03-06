@@ -101,7 +101,7 @@
         {
           "city": "DUBOIS",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST STROUDSBURG",
@@ -161,7 +161,7 @@
         {
           "city": "JOHNSONBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSTOWN",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
