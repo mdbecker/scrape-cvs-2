@@ -106,7 +106,7 @@
         {
           "city": "EASTON",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELDERSBURG",
@@ -335,6 +335,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
