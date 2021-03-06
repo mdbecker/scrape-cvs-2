@@ -856,7 +856,7 @@
         {
           "city": "ORANGEVALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORINDA",
@@ -916,7 +916,7 @@
         {
           "city": "PLACERVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANT HILL",
@@ -1001,7 +1001,7 @@
         {
           "city": "RIPON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERBANK",
@@ -1086,7 +1086,7 @@
         {
           "city": "SAN JACINTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JOSE",
@@ -1301,7 +1301,7 @@
         {
           "city": "TURLOCK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TUSTIN",
