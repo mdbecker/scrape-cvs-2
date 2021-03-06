@@ -61,7 +61,7 @@
         {
           "city": "PASCOAG",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWTUCKET",
@@ -86,7 +86,7 @@
         {
           "city": "RUMFORD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHFIELD",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
