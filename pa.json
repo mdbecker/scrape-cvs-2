@@ -31,7 +31,7 @@
         {
           "city": "BEDFORD",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BENSALEM",
@@ -116,7 +116,7 @@
         {
           "city": "ELLWOOD CITY",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENOLA",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
