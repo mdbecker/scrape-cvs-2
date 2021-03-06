@@ -126,7 +126,7 @@
         {
           "city": "LITCHFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANCHESTER",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
