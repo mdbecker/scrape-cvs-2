@@ -121,7 +121,7 @@
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYOMING",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
