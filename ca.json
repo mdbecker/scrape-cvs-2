@@ -691,7 +691,7 @@
         {
           "city": "MANTECA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARINA",
@@ -856,7 +856,7 @@
         {
           "city": "ORANGEVALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORINDA",
@@ -891,7 +891,7 @@
         {
           "city": "PETALUMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PICO RIVERA",
@@ -1086,7 +1086,7 @@
         {
           "city": "SAN JACINTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN JOSE",
@@ -1301,7 +1301,7 @@
         {
           "city": "TURLOCK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TUSTIN",
