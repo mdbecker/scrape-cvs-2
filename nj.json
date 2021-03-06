@@ -124,11 +124,6 @@
           "status": "Fully Booked"
         },
         {
-          "city": "DOVER",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
           "city": "DUMONT",
           "state": "NJ",
           "status": "Fully Booked"
@@ -269,17 +264,17 @@
           "status": "Fully Booked"
         },
         {
-          "city": "HARRISON TOWNSHIP",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
           "city": "HASKELL",
           "state": "NJ",
           "status": "Fully Booked"
         },
         {
           "city": "HAZLET",
+          "state": "NJ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HAZLET TOWNSHIP",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -491,7 +486,7 @@
         {
           "city": "NEPTUNE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW EGYPT",
@@ -545,6 +540,11 @@
         },
         {
           "city": "OCEAN CITY",
+          "state": "NJ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "OCEAN VIEW",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -634,11 +634,6 @@
           "status": "Fully Booked"
         },
         {
-          "city": "SEAVILLE",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
           "city": "SEWELL",
           "state": "NJ",
           "status": "Fully Booked"
@@ -655,6 +650,11 @@
         },
         {
           "city": "STANHOPE",
+          "state": "NJ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "SWEDESBORO",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -739,7 +739,7 @@
           "status": "Fully Booked"
         },
         {
-          "city": "WASHINGTON TOWNSHIP",
+          "city": "WASHINGTON",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -750,11 +750,6 @@
         },
         {
           "city": "WEST CAPE MAY",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
-          "city": "WEST KEANSBURG",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -775,11 +770,6 @@
         },
         {
           "city": "WESTAMPTON",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
-          "city": "WESTMONT",
           "state": "NJ",
           "status": "Fully Booked"
         },
@@ -805,16 +795,6 @@
         },
         {
           "city": "WOOD RIDGE",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
-          "city": "WOOLWICH",
-          "state": "NJ",
-          "status": "Fully Booked"
-        },
-        {
-          "city": "YARDVILLE",
           "state": "NJ",
           "status": "Fully Booked"
         }

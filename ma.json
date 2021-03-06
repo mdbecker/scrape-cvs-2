@@ -164,11 +164,6 @@
           "status": "Fully Booked"
         },
         {
-          "city": "EAST HARWICH",
-          "state": "MA",
-          "status": "Fully Booked"
-        },
-        {
           "city": "EVERETT",
           "state": "MA",
           "status": "Fully Booked"
@@ -225,6 +220,11 @@
         },
         {
           "city": "HANSON",
+          "state": "MA",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "HARWICH",
           "state": "MA",
           "status": "Fully Booked"
         },
