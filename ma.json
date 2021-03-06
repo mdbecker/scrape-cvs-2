@@ -296,7 +296,7 @@
         {
           "city": "LAWRENCE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEOMINSTER",
@@ -690,6 +690,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
