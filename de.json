@@ -11,12 +11,12 @@
         {
           "city": "DOVER",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN VIEW",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILMINGTON",
@@ -25,6 +25,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -16,7 +16,7 @@
         {
           "city": "CHARLESTOWN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CRANSTON",
@@ -121,7 +121,7 @@
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYOMING",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

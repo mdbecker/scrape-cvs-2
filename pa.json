@@ -36,7 +36,7 @@
         {
           "city": "BENSALEM",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERWYN",
@@ -51,7 +51,7 @@
         {
           "city": "BROOMALL",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BUTLER",
@@ -101,7 +101,7 @@
         {
           "city": "DUBOIS",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST STROUDSBURG",
@@ -116,7 +116,7 @@
         {
           "city": "ELLWOOD CITY",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENOLA",
@@ -196,7 +196,7 @@
         {
           "city": "MAPLE GLEN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MECHANICSBURG",
@@ -226,7 +226,7 @@
         {
           "city": "NEW CASTLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW KENSINGTON",
@@ -281,7 +281,7 @@
         {
           "city": "SCHWENKSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHARON HILL",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

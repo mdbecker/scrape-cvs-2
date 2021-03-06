@@ -71,7 +71,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLLEGE PARK",
@@ -201,7 +201,7 @@
         {
           "city": "LANDOVER HILLS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANHAM",
@@ -256,7 +256,7 @@
         {
           "city": "PALMER PARK",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PIKESVILLE",
@@ -296,7 +296,7 @@
         {
           "city": "SEVERNA PARK",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SILVER SPRING",
@@ -335,6 +335,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
