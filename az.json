@@ -26,7 +26,7 @@
         {
           "city": "BULLHEAD CITY",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHANDLER",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

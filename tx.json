@@ -11,7 +11,7 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ADDISON",
@@ -31,7 +31,7 @@
         {
           "city": "AMARILLO",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARANSAS PASS",
@@ -51,7 +51,7 @@
         {
           "city": "ATLANTA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUSTIN",
@@ -101,7 +101,7 @@
         {
           "city": "BORGER",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOWIE",
@@ -161,7 +161,7 @@
         {
           "city": "CENTER",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CIBOLO",
@@ -456,7 +456,7 @@
         {
           "city": "LAMESA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAREDO",
@@ -481,7 +481,7 @@
         {
           "city": "LIVINGSTON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONGVIEW",
@@ -491,7 +491,7 @@
         {
           "city": "LUBBOCK",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LUFKIN",
@@ -731,7 +731,7 @@
         {
           "city": "SEMINOLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHERMAN",
@@ -741,12 +741,12 @@
         {
           "city": "SILSBEE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SNYDER",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH PADRE ISLAND",
@@ -766,7 +766,7 @@
         {
           "city": "STEPHENVILLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUGAR LAND",
@@ -880,6 +880,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

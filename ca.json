@@ -56,12 +56,12 @@
         {
           "city": "ANDERSON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANGELS CAMP",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANTIOCH",
@@ -101,7 +101,7 @@
         {
           "city": "ARVIN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATWATER",
@@ -121,7 +121,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALDWIN PARK",
@@ -251,7 +251,7 @@
         {
           "city": "CLOVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COACHELLA",
@@ -406,7 +406,7 @@
         {
           "city": "FILLMORE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOLSOM",
@@ -426,7 +426,7 @@
         {
           "city": "FOWLER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FREMONT",
@@ -436,7 +436,7 @@
         {
           "city": "FRESNO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FULLERTON",
@@ -481,12 +481,12 @@
         {
           "city": "GRIDLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANFORD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAWTHORNE",
@@ -536,7 +536,7 @@
         {
           "city": "INDIO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INGLEWOOD",
@@ -551,7 +551,7 @@
         {
           "city": "JACKSON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA CANADA FLINTRIDGE",
@@ -616,7 +616,7 @@
         {
           "city": "LAMONT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANCASTER",
@@ -676,7 +676,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALIBU",
@@ -726,7 +726,7 @@
         {
           "city": "MERCED",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILL VALLEY",
@@ -781,7 +781,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -936,7 +936,7 @@
         {
           "city": "PORTERVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POWAY",
@@ -966,12 +966,12 @@
         {
           "city": "RED BLUFF",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDDING",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDLANDS",
@@ -1226,7 +1226,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH GATE",
@@ -1296,7 +1296,7 @@
         {
           "city": "TULARE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TURLOCK",
@@ -1356,7 +1356,7 @@
         {
           "city": "VISALIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VISTA",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

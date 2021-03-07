@@ -11,7 +11,7 @@
         {
           "city": "ABINGDON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALEXANDRIA",
@@ -51,12 +51,12 @@
         {
           "city": "BLACKSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRISTOL",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURKE",
@@ -81,7 +81,7 @@
         {
           "city": "CHATHAM",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHESAPEAKE",
@@ -96,7 +96,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIAL HEIGHTS",
@@ -121,7 +121,7 @@
         {
           "city": "DUBLIN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX",
@@ -191,7 +191,7 @@
         {
           "city": "MARION",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARTINSVILLE",
@@ -261,7 +261,7 @@
         {
           "city": "SOUTH BOSTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STAFFORD",
@@ -326,10 +326,10 @@
         {
           "city": "WYTHEVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
