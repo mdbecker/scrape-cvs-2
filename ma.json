@@ -586,7 +586,7 @@
         {
           "city": "TAUNTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALTHAM",
@@ -616,7 +616,7 @@
         {
           "city": "WEST BRIDGEWATER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST NEWTON",
@@ -690,6 +690,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
