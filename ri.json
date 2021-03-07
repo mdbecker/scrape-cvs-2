@@ -21,7 +21,7 @@
         {
           "city": "CRANSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CUMBERLAND",
@@ -41,7 +41,7 @@
         {
           "city": "GLOCESTER",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JOHNSTON",
@@ -66,7 +66,7 @@
         {
           "city": "PAWTUCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PORTSMOUTH",
@@ -76,7 +76,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
