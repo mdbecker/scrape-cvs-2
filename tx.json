@@ -11,7 +11,7 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ADDISON",
@@ -456,7 +456,7 @@
         {
           "city": "LAMESA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAREDO",
@@ -816,12 +816,12 @@
         {
           "city": "VICTORIA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VIDOR",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WACO",
