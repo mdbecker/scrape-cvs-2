@@ -101,7 +101,7 @@
         {
           "city": "DUBOIS",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST STROUDSBURG",
@@ -206,7 +206,7 @@
         {
           "city": "MILLERSBURG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONACA",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
