@@ -31,7 +31,7 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
@@ -106,7 +106,7 @@
         {
           "city": "EASTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -186,7 +186,7 @@
         {
           "city": "HYATTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA PLATA",
@@ -206,7 +206,7 @@
         {
           "city": "LANHAM",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAUREL",
@@ -226,7 +226,7 @@
         {
           "city": "NEW CARROLLTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NOTTINGHAM",
@@ -261,7 +261,7 @@
         {
           "city": "REISTERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
@@ -316,7 +316,7 @@
         {
           "city": "WHEATON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITE PLAINS",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

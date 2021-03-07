@@ -11,7 +11,7 @@
         {
           "city": "ABINGDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALEXANDRIA",
@@ -51,12 +51,12 @@
         {
           "city": "BLACKSBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURKE",
@@ -81,7 +81,7 @@
         {
           "city": "CHATHAM",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESAPEAKE",
@@ -96,7 +96,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIAL HEIGHTS",
@@ -121,7 +121,7 @@
         {
           "city": "DUBLIN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFAX",
@@ -136,7 +136,7 @@
         {
           "city": "FARMVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREDERICKSBURG",
@@ -166,7 +166,7 @@
         {
           "city": "HARRISONBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -191,7 +191,7 @@
         {
           "city": "MARION",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARTINSVILLE",
@@ -231,7 +231,7 @@
         {
           "city": "PORTSMOUTH",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RESTON",
@@ -261,7 +261,7 @@
         {
           "city": "SOUTH BOSTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAFFORD",
@@ -311,7 +311,7 @@
         {
           "city": "WINDSOR",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODBRIDGE",
@@ -326,10 +326,10 @@
         {
           "city": "WYTHEVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

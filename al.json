@@ -16,7 +16,7 @@
         {
           "city": "ATTALLA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURN",
@@ -26,7 +26,7 @@
         {
           "city": "BAYOU LA BATRE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BESSEMER",
@@ -41,7 +41,7 @@
         {
           "city": "CAMDEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTER POINT",
@@ -56,7 +56,7 @@
         {
           "city": "CITRONELLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CULLMAN",
@@ -71,22 +71,22 @@
         {
           "city": "DEMOPOLIS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOTHAN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVERGREEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLORENCE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTONDALE",
@@ -101,7 +101,7 @@
         {
           "city": "GREENSBORO",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GULF SHORES",
@@ -151,12 +151,12 @@
         {
           "city": "JACKSON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANETT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEEDS",
@@ -171,7 +171,7 @@
         {
           "city": "MERIDIANVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDFIELD",
@@ -186,7 +186,7 @@
         {
           "city": "MOBILE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTEVALLO",
@@ -201,7 +201,7 @@
         {
           "city": "MOULTON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OPELIKA",
@@ -216,7 +216,7 @@
         {
           "city": "OZARK",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PELHAM",
@@ -236,7 +236,7 @@
         {
           "city": "RUSSELLVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARALAND",
@@ -246,7 +246,7 @@
         {
           "city": "SEMMES",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPANISH FORT",
@@ -271,12 +271,12 @@
         {
           "city": "TUSKEGEE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNION SPRINGS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VESTAVIA",
@@ -285,6 +285,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

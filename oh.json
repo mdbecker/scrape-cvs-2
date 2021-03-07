@@ -56,7 +56,7 @@
         {
           "city": "BUCYRUS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CANTON",
@@ -76,7 +76,7 @@
         {
           "city": "CINCINNATI",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEVELAND",
@@ -91,7 +91,7 @@
         {
           "city": "COLUMBUS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COPLEY",
@@ -151,7 +151,7 @@
         {
           "city": "GENEVA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMILTON",
@@ -181,7 +181,7 @@
         {
           "city": "KETTERING",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -196,12 +196,12 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LORAIN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOVELAND",
@@ -216,7 +216,7 @@
         {
           "city": "MANSFIELD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -266,17 +266,17 @@
         {
           "city": "NEW LEXINGTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NILES",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH OLMSTED",
@@ -296,7 +296,7 @@
         {
           "city": "OAK HILL",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OBERLIN",
@@ -351,7 +351,7 @@
         {
           "city": "TIPP CITY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOLEDO",
@@ -361,7 +361,7 @@
         {
           "city": "UNIVERSITY HEIGHTS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPPER ARLINGTON",
@@ -376,12 +376,12 @@
         {
           "city": "WAVERLY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTERVILLE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE",
@@ -415,6 +415,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
