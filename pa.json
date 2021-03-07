@@ -101,7 +101,7 @@
         {
           "city": "DUBOIS",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST STROUDSBURG",
@@ -161,7 +161,7 @@
         {
           "city": "JOHNSONBURG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JOHNSTOWN",
@@ -216,7 +216,7 @@
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MUNCY",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
