@@ -736,7 +736,7 @@
         {
           "city": "WARETOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WASHINGTON",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
