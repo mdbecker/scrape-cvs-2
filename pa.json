@@ -166,7 +166,7 @@
         {
           "city": "JOHNSTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KING OF PRUSSIA",
@@ -231,7 +231,7 @@
         {
           "city": "NEW KENSINGTON",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWTOWN",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
