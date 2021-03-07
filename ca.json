@@ -151,7 +151,7 @@
         {
           "city": "BUELLTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUENA PARK",
@@ -651,7 +651,7 @@
         {
           "city": "LOMITA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONG BEACH",
@@ -831,7 +831,7 @@
         {
           "city": "OAKHURST",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAKLAND",
@@ -946,7 +946,7 @@
         {
           "city": "PRATHER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO BERNARDO",
@@ -1416,7 +1416,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
