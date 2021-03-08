@@ -216,7 +216,7 @@
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MUNCY",
@@ -366,7 +366,7 @@
         {
           "city": "WILKES BARRE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILKINSBURG",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
