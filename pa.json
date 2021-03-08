@@ -216,7 +216,7 @@
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUNCY",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
