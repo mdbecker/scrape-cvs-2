@@ -11,7 +11,7 @@
         {
           "city": "ANTHEM",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "APACHE JUNCTION",
@@ -126,10 +126,10 @@
         {
           "city": "YUMA",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
