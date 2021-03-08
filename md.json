@@ -256,7 +256,7 @@
         {
           "city": "POOLESVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REISTERSTOWN",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
