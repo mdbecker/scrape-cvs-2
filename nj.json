@@ -166,7 +166,7 @@
         {
           "city": "ELMWOOD PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENGLEWOOD",
@@ -211,7 +211,7 @@
         {
           "city": "FRANKLIN PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEHOLD",
@@ -296,7 +296,7 @@
         {
           "city": "JACKSON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JERSEY CITY",
@@ -396,7 +396,7 @@
         {
           "city": "MANVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAPLE SHADE",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
