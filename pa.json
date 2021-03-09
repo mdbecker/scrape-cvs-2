@@ -96,7 +96,7 @@
         {
           "city": "DRESHER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBOIS",
@@ -181,7 +181,7 @@
         {
           "city": "LANDENBERG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANDISVILLE",
@@ -216,12 +216,12 @@
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MUNCY",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CASTLE",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
