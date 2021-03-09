@@ -336,7 +336,7 @@
         {
           "city": "UNIONTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATSONTOWN",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
