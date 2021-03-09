@@ -36,7 +36,7 @@
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BISHOPVILLE",
@@ -206,7 +206,7 @@
         {
           "city": "MARION",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT PLEASANT",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

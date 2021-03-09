@@ -186,7 +186,7 @@
         {
           "city": "RIVERSIDE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHELTON",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
