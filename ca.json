@@ -426,7 +426,7 @@
         {
           "city": "FOWLER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREMONT",
@@ -1021,7 +1021,7 @@
         {
           "city": "ROHNERT PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSEVILLE",
@@ -1091,7 +1091,7 @@
         {
           "city": "SAN JOSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN LEANDRO",
@@ -1406,7 +1406,7 @@
         {
           "city": "WOODLAND",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YORBA LINDA",
