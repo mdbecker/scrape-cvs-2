@@ -11,7 +11,7 @@
         {
           "city": "ALEXANDRIA",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVONDALE",
@@ -36,7 +36,7 @@
         {
           "city": "COVINGTON",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DONALDSONVILLE",
@@ -51,7 +51,7 @@
         {
           "city": "HARVEY",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOUMA",
@@ -86,7 +86,7 @@
         {
           "city": "MANDEVILLE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METAIRIE",
@@ -136,7 +136,7 @@
         {
           "city": "ZACHARY",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
