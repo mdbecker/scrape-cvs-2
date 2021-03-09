@@ -96,7 +96,7 @@
         {
           "city": "CHESTER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -156,7 +156,7 @@
         {
           "city": "EDISON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELIZABETH",
@@ -211,7 +211,7 @@
         {
           "city": "FRANKLIN PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEHOLD",
@@ -311,7 +311,7 @@
         {
           "city": "KENDALL PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -466,7 +466,7 @@
         {
           "city": "MONMOUTH JUNCTION",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOORESTOWN",
@@ -486,7 +486,7 @@
         {
           "city": "NEPTUNE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW EGYPT",
@@ -721,7 +721,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
