@@ -1126,7 +1126,7 @@
         {
           "city": "SAN RAMON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAND CITY",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
