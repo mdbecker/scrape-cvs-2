@@ -421,7 +421,7 @@
         {
           "city": "MAYS LANDING",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MEDFORD",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
