@@ -141,7 +141,7 @@
         {
           "city": "COBLESKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
@@ -741,7 +741,7 @@
         {
           "city": "WOODSTOCK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYNANTSKILL",
@@ -755,6 +755,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
