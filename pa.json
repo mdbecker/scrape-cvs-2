@@ -91,7 +91,7 @@
         {
           "city": "DOWNINGTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DRESHER",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
