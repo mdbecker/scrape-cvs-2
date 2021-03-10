@@ -51,7 +51,7 @@
         {
           "city": "BRIDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIGANTINE",
@@ -76,7 +76,7 @@
         {
           "city": "CARTERET",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR GROVE",
@@ -241,7 +241,7 @@
         {
           "city": "HACKETTSTOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HADDON HEIGHTS",
@@ -261,12 +261,12 @@
         {
           "city": "HAMILTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HASKELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAZLET",
@@ -356,7 +356,7 @@
         {
           "city": "LITTLE SILVER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LODI",
@@ -766,7 +766,7 @@
         {
           "city": "WEST WINDSOR",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTAMPTON",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
