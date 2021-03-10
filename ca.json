@@ -726,7 +726,7 @@
         {
           "city": "MERCED",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILL VALLEY",
@@ -1356,7 +1356,7 @@
         {
           "city": "VISALIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VISTA",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
