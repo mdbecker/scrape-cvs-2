@@ -51,7 +51,7 @@
         {
           "city": "HARVEY",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOUMA",
@@ -121,7 +121,7 @@
         {
           "city": "TERRYTOWN",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST MONROE",
@@ -136,7 +136,7 @@
         {
           "city": "ZACHARY",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
