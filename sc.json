@@ -271,7 +271,7 @@
         {
           "city": "SAINT GEORGE",
           "state": "SC",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SENECA",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
