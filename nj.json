@@ -51,7 +51,7 @@
         {
           "city": "BRIDGEWATER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIGANTINE",
@@ -76,7 +76,7 @@
         {
           "city": "CARTERET",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR GROVE",
@@ -261,7 +261,7 @@
         {
           "city": "HAMILTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HASKELL",
@@ -356,7 +356,7 @@
         {
           "city": "LITTLE SILVER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LODI",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
