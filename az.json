@@ -121,7 +121,7 @@
         {
           "city": "WICKENBURG",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUMA",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
