@@ -486,7 +486,7 @@
         {
           "city": "HANFORD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAWTHORNE",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
