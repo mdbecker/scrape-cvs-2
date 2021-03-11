@@ -51,7 +51,7 @@
         {
           "city": "BLACKSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRISTOL",
@@ -91,12 +91,12 @@
         {
           "city": "CHRISTIANSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIAL HEIGHTS",
@@ -141,7 +141,7 @@
         {
           "city": "FREDERICKSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAINESVILLE",
@@ -191,7 +191,7 @@
         {
           "city": "MARION",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARTINSVILLE",
@@ -261,7 +261,7 @@
         {
           "city": "SOUTH BOSTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STAFFORD",
@@ -330,6 +330,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

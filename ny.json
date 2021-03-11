@@ -206,7 +206,7 @@
         {
           "city": "ELMIRA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELMONT",
@@ -346,7 +346,7 @@
         {
           "city": "JOHNSON CITY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KATONAH",
@@ -755,6 +755,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
