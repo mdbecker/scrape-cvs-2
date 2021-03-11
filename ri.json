@@ -91,7 +91,7 @@
         {
           "city": "SMITHFIELD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TIVERTON",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

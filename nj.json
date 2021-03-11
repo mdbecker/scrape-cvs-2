@@ -191,7 +191,7 @@
         {
           "city": "FAIRVIEW",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLEMINGTON",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

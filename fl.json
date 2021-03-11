@@ -71,7 +71,7 @@
         {
           "city": "EDGEWATER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLAGLER BEACH",
@@ -176,7 +176,7 @@
         {
           "city": "MONTICELLO",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NAPLES",
@@ -321,7 +321,7 @@
         {
           "city": "WINDERMERE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINTER PARK",
@@ -330,6 +330,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
