@@ -1021,7 +1021,7 @@
         {
           "city": "ROHNERT PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSEVILLE",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
