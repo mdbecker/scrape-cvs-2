@@ -1106,7 +1106,7 @@
         {
           "city": "SAN MARCOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN MATEO",
@@ -1356,7 +1356,7 @@
         {
           "city": "VISALIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISTA",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
