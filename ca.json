@@ -211,7 +211,7 @@
         {
           "city": "CATHEDRAL CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CERRITOS",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
