@@ -21,7 +21,7 @@
         {
           "city": "FAJARDO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GUAYNABO",
@@ -41,12 +41,12 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VEGA ALTA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

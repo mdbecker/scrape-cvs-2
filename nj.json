@@ -191,7 +191,7 @@
         {
           "city": "FAIRVIEW",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLEMINGTON",
@@ -401,7 +401,7 @@
         {
           "city": "MAPLE SHADE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARGATE CITY",
@@ -421,7 +421,7 @@
         {
           "city": "MAYS LANDING",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEDFORD",
@@ -800,6 +800,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

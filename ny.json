@@ -141,7 +141,7 @@
         {
           "city": "COBLESKILL",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIE",
@@ -206,7 +206,7 @@
         {
           "city": "ELMIRA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELMONT",
@@ -346,7 +346,7 @@
         {
           "city": "JOHNSON CITY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KATONAH",
@@ -386,7 +386,7 @@
         {
           "city": "LIVERPOOL",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LYNBROOK",
@@ -456,7 +456,7 @@
         {
           "city": "NIAGARA FALLS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BELLMORE",
@@ -576,7 +576,7 @@
         {
           "city": "RYE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RYE BROOK",
@@ -681,7 +681,7 @@
         {
           "city": "WATERVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATKINS GLEN",
@@ -755,6 +755,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
