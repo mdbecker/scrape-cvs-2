@@ -186,7 +186,7 @@
         {
           "city": "LAKE CITY",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANCASTER",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
