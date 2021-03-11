@@ -386,7 +386,7 @@
         {
           "city": "LIVERPOOL",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LYNBROOK",
@@ -755,6 +755,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
