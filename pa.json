@@ -221,7 +221,7 @@
         {
           "city": "MUNCY",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CASTLE",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
