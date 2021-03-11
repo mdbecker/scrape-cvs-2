@@ -111,7 +111,7 @@
         {
           "city": "HAMDEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTFORD",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
