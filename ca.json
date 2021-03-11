@@ -936,7 +936,7 @@
         {
           "city": "PORTERVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POWAY",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
