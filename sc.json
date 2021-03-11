@@ -36,7 +36,7 @@
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BISHOPVILLE",
@@ -161,7 +161,7 @@
         {
           "city": "HEMINGWAY",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILTON HEAD ISLAND",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

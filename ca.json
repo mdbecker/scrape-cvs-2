@@ -121,7 +121,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALDWIN PARK",
@@ -531,7 +531,7 @@
         {
           "city": "INDIAN WELLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIO",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
