@@ -426,7 +426,7 @@
         {
           "city": "FOWLER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FREMONT",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
