@@ -101,7 +101,7 @@
         {
           "city": "ARVIN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATWATER",
@@ -1420,6 +1420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
