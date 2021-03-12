@@ -101,7 +101,7 @@
         {
           "city": "BORGER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOWIE",
@@ -736,7 +736,7 @@
         {
           "city": "SHERMAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILSBEE",
@@ -880,6 +880,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
