@@ -36,7 +36,7 @@
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLOCESTER",
@@ -130,6 +130,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

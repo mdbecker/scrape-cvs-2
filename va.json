@@ -16,12 +16,12 @@
         {
           "city": "ALEXANDRIA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -101,12 +101,17 @@
         {
           "city": "COLONIAL HEIGHTS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COVINGTON",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DALE CITY",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "DALEVILLE",
@@ -116,12 +121,22 @@
         {
           "city": "DANVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBLIN",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DUMFRIES",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "EMPORIA",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "FAIRFAX",
@@ -136,7 +151,7 @@
         {
           "city": "FARMVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREDERICKSBURG",
@@ -161,12 +176,17 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARRISONBURG",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HERNDON",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -234,19 +254,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "PULASKI",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "RESTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "RICHLANDS",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "RICHMOND",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROANOKE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKY MOUNT",
@@ -327,9 +357,14 @@
           "city": "WYTHEVILLE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "YORKTOWN",
+          "state": "VA",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

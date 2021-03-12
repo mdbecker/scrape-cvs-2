@@ -21,7 +21,7 @@
         {
           "city": "AMITYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMSTERDAM",
@@ -66,7 +66,7 @@
         {
           "city": "BINGHAMTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLASDELL",
@@ -164,6 +164,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CORAM",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "CROTON ON HUDSON",
           "state": "NY",
           "status": "Fully Booked"
@@ -249,6 +254,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FREEPORT",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "GARNERVILLE",
           "state": "NY",
           "status": "Fully Booked"
@@ -256,7 +266,7 @@
         {
           "city": "GLEN COVE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN HEAD",
@@ -332,6 +342,11 @@
           "city": "HYDE PARK",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "INWOOD",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "ISLIP TERRACE",
@@ -431,7 +446,12 @@
         {
           "city": "MOUNT VERNON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NEW CITY",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "NEW HARTFORD",
@@ -536,7 +556,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
@@ -561,7 +581,7 @@
         {
           "city": "ROCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKVILLE CENTRE",
@@ -571,7 +591,7 @@
         {
           "city": "RONKONKOMA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RYE",
@@ -601,12 +621,17 @@
         {
           "city": "SCHENECTADY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SELDEN",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SETAUKET",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "SKANEATELES",
@@ -629,6 +654,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SUFFERN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "SYRACUSE",
           "state": "NY",
           "status": "Fully Booked"
@@ -646,7 +676,7 @@
         {
           "city": "TROY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VALATIE",
@@ -726,7 +756,7 @@
         {
           "city": "WHITE PLAINS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLISTON PARK",
@@ -751,10 +781,10 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

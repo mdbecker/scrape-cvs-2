@@ -9,6 +9,11 @@
     "data": {
       "PR": [
         {
+          "city": "BAYAMON",
+          "state": "PR",
+          "status": "Available"
+        },
+        {
           "city": "CAGUAS",
           "state": "PR",
           "status": "Fully Booked"
@@ -16,7 +21,7 @@
         {
           "city": "CAROLINA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAJARDO",
@@ -26,22 +31,27 @@
         {
           "city": "GUAYNABO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANATI",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PONCE",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "TOA BAJA",
+          "state": "PR",
+          "status": "Available"
         },
         {
           "city": "VEGA ALTA",
@@ -50,6 +60,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

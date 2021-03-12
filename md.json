@@ -31,7 +31,7 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
@@ -107,6 +107,11 @@
           "city": "EASTON",
           "state": "MD",
           "status": "Fully Booked"
+        },
+        {
+          "city": "EDGEWOOD",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -234,6 +239,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OAKLAND",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "OCEAN CITY",
           "state": "MD",
           "status": "Fully Booked"
@@ -247,6 +257,11 @@
           "city": "OXON HILL",
           "state": "MD",
           "status": "Fully Booked"
+        },
+        {
+          "city": "PASADENA",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "PIKESVILLE",
@@ -291,7 +306,17 @@
         {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "TANEYTOWN",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "TOWSON",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "UPPER MARLBORO",
@@ -311,7 +336,7 @@
         {
           "city": "WESTMINSTER",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEATON",
@@ -325,6 +350,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -21,7 +21,7 @@
         {
           "city": "ANDERSON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANDREWS",
@@ -56,7 +56,7 @@
         {
           "city": "CHARLESTON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESNEE",
@@ -81,7 +81,7 @@
         {
           "city": "COLUMBIA",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONWAY",
@@ -141,12 +141,12 @@
         {
           "city": "GREENVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWOOD",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREER",
@@ -209,6 +209,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MAULDIN",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "MOUNT PLEASANT",
           "state": "SC",
           "status": "Fully Booked"
@@ -264,6 +269,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RAVENEL",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "ROCK HILL",
           "state": "SC",
           "status": "Fully Booked"
@@ -284,6 +294,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SPARTANBURG",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "SUMMERVILLE",
           "state": "SC",
           "status": "Fully Booked"
@@ -297,6 +312,11 @@
           "city": "TAYLORS",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TRAVELERS REST",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "WALTERBORO",
@@ -317,9 +337,14 @@
           "city": "WINNSBORO",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WOODRUFF",
+          "state": "SC",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
