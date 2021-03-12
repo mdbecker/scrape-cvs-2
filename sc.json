@@ -96,7 +96,7 @@
         {
           "city": "DENMARK",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASLEY",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
