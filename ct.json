@@ -131,7 +131,7 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILFORD",
@@ -146,7 +146,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CANAAN",
@@ -171,7 +171,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -246,7 +246,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -265,6 +265,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

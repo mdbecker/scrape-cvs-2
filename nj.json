@@ -41,7 +41,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRICK",
@@ -51,7 +51,7 @@
         {
           "city": "BRIDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIGANTINE",
@@ -106,7 +106,7 @@
         {
           "city": "CLIFTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLOSTER",
@@ -126,7 +126,7 @@
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -151,7 +151,7 @@
         {
           "city": "EAST ORANGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST WINDSOR",
@@ -166,7 +166,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
@@ -196,7 +196,7 @@
         {
           "city": "FAIR LAWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFIELD",
@@ -241,7 +241,7 @@
         {
           "city": "GARFIELD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GIBBSBORO",
@@ -311,7 +311,7 @@
         {
           "city": "HOBOKEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOWELL",
@@ -496,7 +496,7 @@
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOORESTOWN",
@@ -506,7 +506,7 @@
         {
           "city": "MOUNT LAUREL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MULLICA HILL",
@@ -531,7 +531,7 @@
         {
           "city": "NEWARK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ARLINGTON",
@@ -656,7 +656,7 @@
         {
           "city": "ROSELLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SADDLE BROOK",
@@ -686,7 +686,7 @@
         {
           "city": "SMITHVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH PLAINFIELD",
@@ -796,7 +796,7 @@
         {
           "city": "WEST CALDWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CAPE MAY",
@@ -850,6 +850,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

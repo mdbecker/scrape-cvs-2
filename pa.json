@@ -131,7 +131,7 @@
         {
           "city": "GETTYSBURG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GIBSONIA",
@@ -171,7 +171,7 @@
         {
           "city": "KING OF PRUSSIA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANCASTER",
@@ -316,7 +316,7 @@
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUSQUEHANNA",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

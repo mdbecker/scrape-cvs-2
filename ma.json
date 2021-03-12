@@ -86,7 +86,7 @@
         {
           "city": "BROCKTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROOKLINE",
@@ -121,7 +121,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COHASSET",
@@ -171,7 +171,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOXBOROUGH",
@@ -206,7 +206,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HADLEY",
@@ -301,7 +301,7 @@
         {
           "city": "LEOMINSTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEXINGTON",
@@ -321,7 +321,7 @@
         {
           "city": "LUNENBURG",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LYNN",
@@ -476,7 +476,7 @@
         {
           "city": "QUINCY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RANDOLPH",
@@ -556,7 +556,7 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHWICK",
@@ -566,7 +566,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONEHAM",
@@ -686,12 +686,12 @@
         {
           "city": "WOLLASTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WORCESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WRENTHAM",
@@ -700,6 +700,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
