@@ -96,7 +96,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIAL HEIGHTS",
@@ -176,7 +176,7 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARRISONBURG",
@@ -361,7 +361,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
