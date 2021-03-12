@@ -101,7 +101,7 @@
         {
           "city": "BORGER",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOWIE",
@@ -880,6 +880,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
