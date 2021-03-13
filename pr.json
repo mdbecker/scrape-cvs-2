@@ -41,7 +41,7 @@
         {
           "city": "PONCE",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN JUAN",
@@ -60,6 +60,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
