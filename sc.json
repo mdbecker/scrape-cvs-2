@@ -36,7 +36,7 @@
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BISHOPVILLE",
@@ -146,7 +146,7 @@
         {
           "city": "GREENWOOD",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREER",
@@ -345,6 +345,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
