@@ -86,7 +86,7 @@
         {
           "city": "CAMDEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARTERET",
@@ -791,7 +791,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
