@@ -29,9 +29,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BALLENTINE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "BATESBURG",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BEECH ISLAND",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "BENNETTSVILLE",
@@ -184,6 +194,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LADSON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "LAKE CITY",
           "state": "SC",
           "status": "Fully Booked"
@@ -196,12 +211,17 @@
         {
           "city": "LEXINGTON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE RIVER",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LYMAN",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "MARION",
@@ -226,7 +246,7 @@
         {
           "city": "MYRTLE BEACH",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBERRY",
@@ -246,7 +266,7 @@
         {
           "city": "NORTH MYRTLE BEACH",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGEBURG",
@@ -271,7 +291,7 @@
         {
           "city": "RAVENEL",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCK HILL",
@@ -291,7 +311,7 @@
         {
           "city": "SIMPSONVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPARTANBURG",

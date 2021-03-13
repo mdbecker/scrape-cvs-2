@@ -79,9 +79,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BRONX",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "BRONXVILLE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BROOKLYN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "BUFFALO",
@@ -114,14 +124,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CENTEREACH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "CENTRAL ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHEEKTOWAGA",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CHESTER",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "CICERO",
@@ -184,6 +204,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DUNKIRK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "EAST GREENBUSH",
           "state": "NY",
           "status": "Fully Booked"
@@ -197,6 +222,11 @@
           "city": "EAST HILLS",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "EAST NORTHPORT",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "EAST ROCKAWAY",
@@ -239,6 +269,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FALCONER",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "FARMINGDALE",
           "state": "NY",
           "status": "Fully Booked"
@@ -252,6 +287,11 @@
           "city": "FLORAL PARK",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FRANKLIN SQUARE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "FREEPORT",
@@ -282,6 +322,11 @@
           "city": "GLOVERSVILLE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GOSHEN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "GREAT NECK",
@@ -359,6 +404,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "JAMAICA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "JOHNSON CITY",
           "state": "NY",
           "status": "Fully Booked"
@@ -404,6 +454,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LONG BEACH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "LONG ISLAND CITY",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "LYNBROOK",
           "state": "NY",
           "status": "Fully Booked"
@@ -432,6 +492,11 @@
           "city": "MEDFORD",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MIDDLETOWN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "MILLERTON",
@@ -479,6 +544,21 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NORTH BABYLON",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH BALDWIN",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH BAY SHORE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "NORTH BELLMORE",
           "state": "NY",
           "status": "Fully Booked"
@@ -521,7 +601,7 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWLING",
@@ -584,6 +664,11 @@
           "status": "Available"
         },
         {
+          "city": "ROCKAWAY BEACH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "ROCKVILLE CENTRE",
           "state": "NY",
           "status": "Fully Booked"
@@ -634,6 +719,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SHIRLEY",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "SKANEATELES",
           "state": "NY",
           "status": "Fully Booked"
@@ -647,6 +737,11 @@
           "city": "SOUTH SETAUKET",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SOUTHAMPTON",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
@@ -716,7 +811,7 @@
         {
           "city": "WATKINS GLEN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEBSTER",

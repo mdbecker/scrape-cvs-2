@@ -11,7 +11,7 @@
         {
           "city": "ANSONIA",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHEL",
@@ -21,7 +21,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEPORT",
@@ -61,7 +61,7 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -134,6 +134,11 @@
           "status": "Available"
         },
         {
+          "city": "MERIDEN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "MILFORD",
           "state": "CT",
           "status": "Fully Booked"
@@ -181,7 +186,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -236,7 +241,7 @@
         {
           "city": "WATERFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HARTFORD",
@@ -252,6 +257,11 @@
           "city": "WILLIMANTIC",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WINDSOR",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "WINDSOR LOCKS",

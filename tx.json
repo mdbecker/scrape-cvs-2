@@ -29,6 +29,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ALTON",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "ALVARADO",
           "state": "TX",
           "status": "Fully Booked"
@@ -39,6 +44,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ANGLETON",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "ARANSAS PASS",
           "state": "TX",
           "status": "Fully Booked"
@@ -46,7 +56,7 @@
         {
           "city": "ARLINGTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATHENS",
@@ -62,6 +72,11 @@
           "city": "AUSTIN",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BALCH SPRINGS",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "BALCONES HEIGHTS",
@@ -91,7 +106,7 @@
         {
           "city": "BEDFORD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEE CAVE",
@@ -156,7 +171,7 @@
         {
           "city": "CEDAR PARK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CELINA",
@@ -184,6 +199,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CLEBURNE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "CLEVELAND",
           "state": "TX",
           "status": "Fully Booked"
@@ -202,6 +222,11 @@
           "city": "CONROE",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CONVERSE",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "COPPELL",
@@ -231,12 +256,12 @@
         {
           "city": "CYPRESS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALLAS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DECATUR",
@@ -259,6 +284,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DONNA",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "DUNCANVILLE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "EDINBURG",
           "state": "TX",
           "status": "Fully Booked"
@@ -266,7 +301,7 @@
         {
           "city": "EL PASO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELGIN",
@@ -277,6 +312,11 @@
           "city": "ELSA",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ENNIS",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "EULESS",
@@ -294,6 +334,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FOREST HILL",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "FORNEY",
           "state": "TX",
           "status": "Fully Booked"
@@ -301,7 +346,7 @@
         {
           "city": "FORT WORTH",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEPORT",
@@ -336,7 +381,7 @@
         {
           "city": "GEORGETOWN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLADEWATER",
@@ -394,9 +439,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HUTTO",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "IRVING",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACINTO CITY",
@@ -431,7 +481,7 @@
         {
           "city": "KINGSVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KYLE",
@@ -471,7 +521,7 @@
         {
           "city": "LAREDO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEAGUE CITY",
@@ -511,7 +561,7 @@
         {
           "city": "MANSFIELD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANVEL",
@@ -531,7 +581,7 @@
         {
           "city": "MATHIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCALLEN",
@@ -546,7 +596,7 @@
         {
           "city": "MESQUITE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDLAND",
@@ -577,6 +627,11 @@
           "city": "MONTGOMERY",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MURPHY",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "NASSAU BAY",
@@ -636,7 +691,7 @@
         {
           "city": "PLANO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT ARANSAS",
@@ -647,6 +702,11 @@
           "city": "PORT ARTHUR",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "PORTER",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "PRINCETON",
@@ -661,7 +721,7 @@
         {
           "city": "RICHARDSON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHLAND HILLS",
@@ -701,7 +761,7 @@
         {
           "city": "ROSENBERG",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSHARON",
@@ -726,7 +786,12 @@
         {
           "city": "SAN ANTONIO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SAN JUAN",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "SAN MARCOS",
@@ -781,12 +846,12 @@
         {
           "city": "SPRING",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STEPHENVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUGAR LAND",
@@ -797,6 +862,16 @@
           "city": "SULPHUR SPRINGS",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SUNNYVALE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "TAYLOR",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "TEMPLE",
@@ -821,7 +896,7 @@
         {
           "city": "TOMBALL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TYLER",
@@ -846,7 +921,7 @@
         {
           "city": "WACO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALLER",

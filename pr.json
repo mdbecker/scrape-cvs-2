@@ -11,7 +11,7 @@
         {
           "city": "BAYAMON",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAGUAS",
@@ -22,6 +22,11 @@
           "city": "CAROLINA",
           "state": "PR",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DORADO",
+          "state": "PR",
+          "status": "Available"
         },
         {
           "city": "FAJARDO",

@@ -11,7 +11,7 @@
         {
           "city": "BELLEVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICAGO",
@@ -19,22 +19,37 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FLOSSMOOR",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "KANKAKEE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "OLYMPIA FIELDS",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

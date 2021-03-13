@@ -14,6 +14,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ATLANTIC CITY",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "BAYONNE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "BEACHWOOD",
           "state": "NJ",
           "status": "Fully Booked"
@@ -74,6 +84,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CAMDEN",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "CARTERET",
           "state": "NJ",
           "status": "Fully Booked"
@@ -106,7 +121,7 @@
         {
           "city": "CLIFTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLOSTER",
@@ -216,7 +231,7 @@
         {
           "city": "FLEMINGTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLORHAM PARK",
@@ -486,7 +501,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -536,7 +551,7 @@
         {
           "city": "NORTH ARLINGTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BRUNSWICK",
@@ -606,7 +621,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PHILLIPSBURG",
@@ -637,6 +652,11 @@
           "city": "RINGWOOD",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RIVER EDGE",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "ROBBINSVILLE",
@@ -691,12 +711,17 @@
         {
           "city": "SOUTH PLAINFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STANHOPE",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "STRATFORD",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "SWEDESBORO",
@@ -726,7 +751,7 @@
         {
           "city": "TRENTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TURNERSVILLE",
@@ -741,7 +766,7 @@
         {
           "city": "UNION CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VAUXHALL",
@@ -766,7 +791,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
@@ -824,6 +849,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WHIPPANY",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "WHITING",
           "state": "NJ",
           "status": "Fully Booked"
@@ -847,9 +877,14 @@
           "city": "WOOD RIDGE",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WOODBRIDGE",
+          "state": "NJ",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

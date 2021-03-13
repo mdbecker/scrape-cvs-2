@@ -31,7 +31,7 @@
         {
           "city": "CHANDLER",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOUNTAIN HILLS",
@@ -51,7 +51,7 @@
         {
           "city": "GOODYEAR",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAVEEN",
@@ -61,7 +61,7 @@
         {
           "city": "MESA",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORO VALLEY",
@@ -70,6 +70,11 @@
         },
         {
           "city": "PHOENIX",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "PRESCOTT VALLEY",
           "state": "AZ",
           "status": "Available"
         },
@@ -116,7 +121,7 @@
         {
           "city": "TUCSON",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WICKENBURG",

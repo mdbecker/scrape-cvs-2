@@ -101,12 +101,17 @@
         {
           "city": "DAYTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DENNISON",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DOVER",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "DOYLESTOWN",
@@ -142,6 +147,11 @@
           "city": "FRANKLIN",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FREMONT",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "GAHANNA",
@@ -196,7 +206,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LORAIN",
@@ -216,7 +226,7 @@
         {
           "city": "MANSFIELD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -227,6 +237,11 @@
           "city": "MAYFIELD VLG",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MEDINA",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "MIDDLEBURG HEIGHTS",
@@ -251,7 +266,7 @@
         {
           "city": "MORAINE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT HEALTHY",
@@ -291,7 +306,7 @@
         {
           "city": "NORWOOD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK HILL",
@@ -312,6 +327,11 @@
           "city": "PIQUA",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RAVENNA",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "REYNOLDSBURG",
@@ -394,14 +414,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WILLOUGHBY",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "WILMINGTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODVILLE",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WOOSTER",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "WORTHINGTON",

@@ -56,7 +56,7 @@
         {
           "city": "BELMONT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BILLERICA",
@@ -86,7 +86,7 @@
         {
           "city": "BROCKTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROOKLINE",
@@ -121,7 +121,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COHASSET",
@@ -136,7 +136,7 @@
         {
           "city": "DANVERS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEDHAM",
@@ -146,7 +146,7 @@
         {
           "city": "DORCHESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST BOSTON",
@@ -171,7 +171,12 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FITCHBURG",
+          "state": "MA",
+          "status": "Available"
         },
         {
           "city": "FOXBOROUGH",
@@ -206,7 +211,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HADLEY",
@@ -301,7 +306,7 @@
         {
           "city": "LEOMINSTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEXINGTON",
@@ -321,7 +326,7 @@
         {
           "city": "LUNENBURG",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNN",
@@ -347,6 +352,11 @@
           "city": "MASHPEE",
           "state": "MA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MATTAPAN",
+          "state": "MA",
+          "status": "Available"
         },
         {
           "city": "MAYNARD",
@@ -506,7 +516,7 @@
         {
           "city": "SALEM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -556,7 +566,12 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SOUTHBRIDGE",
+          "state": "MA",
+          "status": "Available"
         },
         {
           "city": "SOUTHWICK",
@@ -566,12 +581,12 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONEHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STOUGHTON",
@@ -606,7 +621,7 @@
         {
           "city": "WATERTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYLAND",
@@ -631,7 +646,7 @@
         {
           "city": "WEST SPRINGFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTBOROUGH",
@@ -642,6 +657,11 @@
           "city": "WESTFORD",
           "state": "MA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WESTPORT",
+          "state": "MA",
+          "status": "Available"
         },
         {
           "city": "WESTWOOD",
@@ -691,7 +711,7 @@
         {
           "city": "WORCESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WRENTHAM",
@@ -700,6 +720,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

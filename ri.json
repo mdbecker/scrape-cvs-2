@@ -36,7 +36,7 @@
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLOCESTER",
@@ -59,6 +59,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NORTH KINGSTOWN",
+          "state": "RI",
+          "status": "Available"
+        },
+        {
           "city": "PASCOAG",
           "state": "RI",
           "status": "Fully Booked"
@@ -76,7 +81,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -130,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
