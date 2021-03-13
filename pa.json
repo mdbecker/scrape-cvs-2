@@ -316,7 +316,7 @@
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUSQUEHANNA",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
