@@ -21,7 +21,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEPORT",
@@ -136,7 +136,7 @@
         {
           "city": "MERIDEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILFORD",
@@ -186,7 +186,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
