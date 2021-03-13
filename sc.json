@@ -21,7 +21,7 @@
         {
           "city": "ANDERSON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANDREWS",
@@ -36,7 +36,7 @@
         {
           "city": "BENNETTSVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BISHOPVILLE",
@@ -81,7 +81,7 @@
         {
           "city": "COLUMBIA",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONWAY",
@@ -141,12 +141,12 @@
         {
           "city": "GREENVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWOOD",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREER",
@@ -211,7 +211,7 @@
         {
           "city": "MAULDIN",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT PLEASANT",
@@ -271,7 +271,7 @@
         {
           "city": "RAVENEL",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCK HILL",
@@ -296,7 +296,7 @@
         {
           "city": "SPARTANBURG",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUMMERVILLE",
@@ -316,7 +316,7 @@
         {
           "city": "TRAVELERS REST",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALTERBORO",
@@ -341,10 +341,10 @@
         {
           "city": "WOODRUFF",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

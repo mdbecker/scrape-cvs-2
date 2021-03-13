@@ -21,7 +21,7 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLEN",
@@ -56,7 +56,7 @@
         {
           "city": "ATLANTA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUSTIN",
@@ -81,7 +81,7 @@
         {
           "city": "BAYTOWN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEAUMONT",
@@ -171,7 +171,7 @@
         {
           "city": "CHANNELVIEW",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CIBOLO",
@@ -266,7 +266,7 @@
         {
           "city": "EL PASO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELGIN",
@@ -321,7 +321,7 @@
         {
           "city": "GAINESVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALVESTON",
@@ -376,12 +376,12 @@
         {
           "city": "HOUSTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUMBLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTSVILLE",
@@ -471,7 +471,7 @@
         {
           "city": "LAREDO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEAGUE CITY",
@@ -606,7 +606,7 @@
         {
           "city": "PALESTINE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARIS",
@@ -616,7 +616,7 @@
         {
           "city": "PASADENA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEARLAND",
@@ -756,7 +756,7 @@
         {
           "city": "SHERMAN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SILSBEE",
@@ -826,7 +826,7 @@
         {
           "city": "TYLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNIVERSAL CITY",
@@ -851,7 +851,7 @@
         {
           "city": "WALLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATAUGA",

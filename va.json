@@ -16,12 +16,12 @@
         {
           "city": "ALEXANDRIA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -96,7 +96,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIAL HEIGHTS",
@@ -111,7 +111,7 @@
         {
           "city": "DALE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALEVILLE",
@@ -131,7 +131,7 @@
         {
           "city": "DUMFRIES",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EMPORIA",
@@ -176,7 +176,7 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARRISONBURG",
@@ -186,7 +186,7 @@
         {
           "city": "HERNDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -261,7 +261,7 @@
         {
           "city": "RESTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHLANDS",
@@ -276,7 +276,7 @@
         {
           "city": "ROANOKE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKY MOUNT",
@@ -291,7 +291,7 @@
         {
           "city": "SOUTH BOSTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STAFFORD",
@@ -361,7 +361,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
