@@ -176,7 +176,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
