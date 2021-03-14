@@ -21,7 +21,7 @@
         {
           "city": "ALTOONA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMBLER",
@@ -131,7 +131,7 @@
         {
           "city": "ENOLA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EXTON",
@@ -420,6 +420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
