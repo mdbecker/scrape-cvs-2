@@ -296,7 +296,7 @@
         {
           "city": "COVINA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CULVER CITY",
@@ -966,12 +966,12 @@
         {
           "city": "PARAMOUNT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASADENA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASO ROBLES",
@@ -1111,7 +1111,7 @@
         {
           "city": "RIVERBANK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -1266,7 +1266,7 @@
         {
           "city": "SANTA CLARITA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA CRUZ",
