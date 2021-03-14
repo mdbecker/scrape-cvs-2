@@ -176,7 +176,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLD GREENWICH",
@@ -251,7 +251,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLIMANTIC",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
