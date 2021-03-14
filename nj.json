@@ -706,7 +706,7 @@
         {
           "city": "SMITHVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH PLAINFIELD",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
