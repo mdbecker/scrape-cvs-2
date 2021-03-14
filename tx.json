@@ -21,7 +21,7 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALLEN",
@@ -66,7 +66,7 @@
         {
           "city": "ATLANTA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUSTIN",
@@ -851,7 +851,7 @@
         {
           "city": "STEPHENVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUGAR LAND",
