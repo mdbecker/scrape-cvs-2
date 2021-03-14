@@ -11,7 +11,7 @@
         {
           "city": "BELLEVILLE",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICAGO",
@@ -50,6 +50,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
