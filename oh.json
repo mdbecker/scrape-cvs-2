@@ -101,7 +101,7 @@
         {
           "city": "DAYTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENNISON",
@@ -206,7 +206,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LORAIN",
@@ -281,7 +281,7 @@
         {
           "city": "NEW LEXINGTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -421,7 +421,7 @@
         {
           "city": "WILMINGTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODVILLE",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
