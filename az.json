@@ -16,7 +16,7 @@
         {
           "city": "APACHE JUNCTION",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUCKEYE",
@@ -26,7 +26,7 @@
         {
           "city": "BULLHEAD CITY",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANDLER",
@@ -56,7 +56,7 @@
         {
           "city": "LAVEEN",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MESA",
@@ -106,7 +106,7 @@
         {
           "city": "SURPRISE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEMPE",
@@ -131,7 +131,7 @@
         {
           "city": "YUMA",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
