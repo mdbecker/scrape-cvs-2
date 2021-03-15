@@ -91,7 +91,7 @@
         {
           "city": "ENFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFIELD",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
