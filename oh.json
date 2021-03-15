@@ -206,7 +206,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LORAIN",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
