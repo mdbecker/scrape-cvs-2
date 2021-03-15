@@ -11,7 +11,7 @@
         {
           "city": "ANSONIA",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BETHEL",
@@ -21,7 +21,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIDGEPORT",
@@ -61,7 +61,7 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DARIEN",
@@ -131,12 +131,12 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MERIDEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILFORD",
@@ -151,7 +151,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CANAAN",
@@ -176,7 +176,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -186,7 +186,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -251,12 +251,12 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
