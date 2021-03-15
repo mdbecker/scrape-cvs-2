@@ -51,7 +51,7 @@
         {
           "city": "BISHOPVILLE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLUFFTON",
@@ -365,6 +365,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
