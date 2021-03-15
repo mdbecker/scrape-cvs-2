@@ -151,7 +151,7 @@
         {
           "city": "BRENTWOOD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUELLTON",
@@ -531,7 +531,7 @@
         {
           "city": "HAYWARD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEALDSBURG",
@@ -911,7 +911,7 @@
         {
           "city": "OAKLAND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEANSIDE",
@@ -1101,7 +1101,7 @@
         {
           "city": "RICHMOND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIPON",
@@ -1231,7 +1231,7 @@
         {
           "city": "SAN RAFAEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN RAMON",
