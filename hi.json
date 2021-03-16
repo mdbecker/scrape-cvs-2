@@ -56,10 +56,10 @@
         {
           "city": "WAIANAE",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
