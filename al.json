@@ -41,7 +41,7 @@
         {
           "city": "CAMDEN",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CENTER POINT",
@@ -156,7 +156,7 @@
         {
           "city": "JACKSON",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANETT",
@@ -191,7 +191,7 @@
         {
           "city": "MOBILE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTEVALLO",
@@ -211,7 +211,7 @@
         {
           "city": "OPELIKA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OXFORD",
@@ -231,7 +231,7 @@
         {
           "city": "PHENIX CITY",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PIKE ROAD",
@@ -295,6 +295,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

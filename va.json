@@ -121,7 +121,7 @@
         {
           "city": "DANVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBLIN",
@@ -136,7 +136,7 @@
         {
           "city": "EMPORIA",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX",
@@ -256,7 +256,7 @@
         {
           "city": "PULASKI",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RESTON",
@@ -266,7 +266,7 @@
         {
           "city": "RICHLANDS",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RICHMOND",
@@ -365,6 +365,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

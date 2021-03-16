@@ -11,7 +11,7 @@
         {
           "city": "ABBEVILLE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALEXANDRIA",
@@ -26,7 +26,7 @@
         {
           "city": "BAKER",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BATON ROUGE",
@@ -36,7 +36,7 @@
         {
           "city": "BOSSIER CITY",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROUSSARD",
@@ -61,7 +61,7 @@
         {
           "city": "HAMMOND",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARVEY",
@@ -71,7 +71,7 @@
         {
           "city": "HOUMA",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JEFFERSON",
@@ -91,7 +91,7 @@
         {
           "city": "LAFAYETTE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKE CHARLES",
@@ -101,7 +101,7 @@
         {
           "city": "LEESVILLE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANDEVILLE",
@@ -116,12 +116,12 @@
         {
           "city": "MONROE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW IBERIA",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW ORLEANS",
@@ -141,7 +141,7 @@
         {
           "city": "SHREVEPORT",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SLIDELL",
@@ -156,7 +156,7 @@
         {
           "city": "WEST MONROE",
           "state": "LA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTWEGO",
@@ -170,6 +170,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
