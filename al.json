@@ -11,7 +11,7 @@
         {
           "city": "ANNISTON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATTALLA",
@@ -41,7 +41,7 @@
         {
           "city": "CAMDEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTER POINT",
@@ -101,7 +101,7 @@
         {
           "city": "GADSDEN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENSBORO",
@@ -156,7 +156,7 @@
         {
           "city": "JACKSON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANETT",
@@ -191,7 +191,7 @@
         {
           "city": "MOBILE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTEVALLO",
@@ -211,7 +211,7 @@
         {
           "city": "OPELIKA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OXFORD",
@@ -231,7 +231,7 @@
         {
           "city": "PHENIX CITY",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PIKE ROAD",
@@ -295,6 +295,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

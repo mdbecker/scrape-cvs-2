@@ -116,7 +116,7 @@
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LISBON",
@@ -176,7 +176,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLD GREENWICH",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

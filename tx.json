@@ -21,7 +21,7 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLEN",
@@ -121,7 +121,7 @@
         {
           "city": "BORGER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOWIE",
@@ -311,7 +311,7 @@
         {
           "city": "ELSA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENNIS",
@@ -481,7 +481,7 @@
         {
           "city": "KINGSVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KYLE",
@@ -551,7 +551,7 @@
         {
           "city": "LUBBOCK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LUFKIN",
@@ -581,7 +581,7 @@
         {
           "city": "MATHIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCALLEN",
@@ -980,6 +980,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -126,7 +126,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALDWIN PARK",
@@ -256,7 +256,7 @@
         {
           "city": "CLOVIS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COACHELLA",
@@ -461,7 +461,7 @@
         {
           "city": "FRESNO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULLERTON",
@@ -516,7 +516,7 @@
         {
           "city": "HANFORD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAWAIIAN GARDENS",
@@ -541,7 +541,7 @@
         {
           "city": "HEMET",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HERMOSA BEACH",
@@ -601,7 +601,7 @@
         {
           "city": "KINGSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA CANADA FLINTRIDGE",
@@ -736,7 +736,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALIBU",
@@ -776,7 +776,7 @@
         {
           "city": "MENIFEE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MENLO PARK",
@@ -786,7 +786,7 @@
         {
           "city": "MERCED",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILL VALLEY",
@@ -951,12 +951,12 @@
         {
           "city": "PALM SPRINGS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALMDALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALO ALTO",
@@ -1091,7 +1091,7 @@
         {
           "city": "REEDLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIALTO",
@@ -1111,7 +1111,7 @@
         {
           "city": "RIVERBANK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -1246,7 +1246,7 @@
         {
           "city": "SANGER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA ANA",
@@ -1565,6 +1565,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

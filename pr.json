@@ -11,7 +11,7 @@
         {
           "city": "BAYAMON",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAGUAS",
@@ -61,10 +61,10 @@
         {
           "city": "VEGA ALTA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
