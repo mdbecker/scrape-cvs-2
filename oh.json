@@ -206,7 +206,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LORAIN",
@@ -281,7 +281,7 @@
         {
           "city": "NEW LEXINGTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
