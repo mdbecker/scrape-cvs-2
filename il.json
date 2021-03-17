@@ -46,10 +46,10 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
