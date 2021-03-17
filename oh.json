@@ -421,7 +421,7 @@
         {
           "city": "WILMINGTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODVILLE",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
