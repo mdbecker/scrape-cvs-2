@@ -11,7 +11,7 @@
         {
           "city": "ANSONIA",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHEL",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
