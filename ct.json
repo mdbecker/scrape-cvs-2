@@ -251,7 +251,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
