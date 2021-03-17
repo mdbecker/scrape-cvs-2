@@ -151,7 +151,7 @@
         {
           "city": "FREMONT",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GAHANNA",
@@ -226,7 +226,7 @@
         {
           "city": "MANSFIELD",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
