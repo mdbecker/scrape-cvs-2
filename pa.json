@@ -21,7 +21,7 @@
         {
           "city": "ALTOONA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMBLER",
@@ -331,7 +331,7 @@
         {
           "city": "SOMERSET",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH WILLIAMSPORT",
@@ -346,7 +346,7 @@
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUSQUEHANNA",
@@ -371,7 +371,7 @@
         {
           "city": "WASHINGTON",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATSONTOWN",
@@ -420,6 +420,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
