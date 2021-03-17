@@ -551,7 +551,7 @@
         {
           "city": "LUBBOCK",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LUFKIN",
@@ -980,6 +980,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
