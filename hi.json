@@ -26,7 +26,7 @@
         {
           "city": "HONOLULU",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAHULUI",
@@ -51,15 +51,15 @@
         {
           "city": "PEARL CITY",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAIANAE",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

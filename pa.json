@@ -21,7 +21,7 @@
         {
           "city": "ALTOONA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMBLER",
@@ -66,7 +66,7 @@
         {
           "city": "CARLISLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARNEGIE",
@@ -141,7 +141,7 @@
         {
           "city": "GETTYSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GIBSONIA",
@@ -286,7 +286,7 @@
         {
           "city": "POTTSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT PARK",
@@ -311,7 +311,7 @@
         {
           "city": "SCRANTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHARON HILL",
@@ -331,7 +331,7 @@
         {
           "city": "SOMERSET",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH WILLIAMSPORT",
@@ -346,7 +346,7 @@
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUSQUEHANNA",
@@ -371,7 +371,7 @@
         {
           "city": "WASHINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATSONTOWN",
@@ -420,6 +420,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
