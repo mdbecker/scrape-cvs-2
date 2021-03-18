@@ -501,7 +501,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -791,7 +791,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
