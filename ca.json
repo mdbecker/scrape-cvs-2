@@ -1091,7 +1091,7 @@
         {
           "city": "REEDLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIALTO",
@@ -1565,6 +1565,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
