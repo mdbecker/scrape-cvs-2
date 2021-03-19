@@ -11,20 +11,30 @@
         {
           "city": "AURORA",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "EDGEWATER",
+          "state": "CO",
+          "status": "Available"
         },
         {
           "city": "GLENDALE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREELEY",
           "state": "CO",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LOVELAND",
+          "state": "CO",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

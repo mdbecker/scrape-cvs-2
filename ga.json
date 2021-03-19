@@ -9,14 +9,19 @@
     "data": {
       "GA": [
         {
+          "city": "ALBANY",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "ATLANTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUGUSTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFORD",
@@ -44,6 +49,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DECATUR",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "GAINESVILLE",
           "state": "GA",
           "status": "Fully Booked"
@@ -59,6 +69,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RIVERDALE",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "SAVANNAH",
           "state": "GA",
           "status": "Fully Booked"
@@ -66,10 +81,15 @@
         {
           "city": "STONE MOUNTAIN",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "UNION CITY",
+          "state": "GA",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

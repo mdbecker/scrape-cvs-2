@@ -451,7 +451,7 @@
         {
           "city": "MARLTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARMORA",
@@ -826,7 +826,7 @@
         {
           "city": "WEST CAPE MAY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NEW YORK",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

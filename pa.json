@@ -116,7 +116,7 @@
         {
           "city": "EAST STROUDSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -134,9 +134,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "EXETER",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "EXTON",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FOLSOM",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "GETTYSBURG",
@@ -186,7 +196,7 @@
         {
           "city": "LANCASTER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANDENBERG",
@@ -201,7 +211,7 @@
         {
           "city": "LANGHORNE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAPLE GLEN",
@@ -209,9 +219,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MASONTOWN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "MECHANICSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLERSBURG",
@@ -266,7 +281,7 @@
         {
           "city": "PHILADELPHIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
@@ -276,7 +291,7 @@
         {
           "city": "PLYMOUTH MEETING",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POTTSTOWN",
@@ -286,12 +301,12 @@
         {
           "city": "POTTSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT PARK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUAKERTOWN",
@@ -311,7 +326,7 @@
         {
           "city": "SCRANTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHARON HILL",
@@ -336,7 +351,7 @@
         {
           "city": "SOUTH WILLIAMSPORT",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
@@ -357,6 +372,11 @@
           "city": "SWISSVALE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TANNERSVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "TEMPLE",
@@ -411,7 +431,7 @@
         {
           "city": "WYNNEWOOD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YORK",

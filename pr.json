@@ -21,7 +21,7 @@
         {
           "city": "CAROLINA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DORADO",
@@ -51,7 +51,7 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOA BAJA",
@@ -62,6 +62,11 @@
           "city": "VEGA ALTA",
           "state": "PR",
           "status": "Fully Booked"
+        },
+        {
+          "city": "VEGA BAJA",
+          "state": "PR",
+          "status": "Available"
         }
       ]
     },

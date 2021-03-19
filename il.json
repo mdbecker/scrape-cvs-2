@@ -14,14 +14,29 @@
           "status": "Available"
         },
         {
+          "city": "BENSENVILLE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "CANTON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "CHICAGO",
           "state": "IL",
           "status": "Fully Booked"
         },
         {
+          "city": "DEKALB",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "FLOSSMOOR",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOOPESTON",
@@ -34,6 +49,16 @@
           "status": "Available"
         },
         {
+          "city": "KEWANEE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "LEMONT",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "MENDOTA",
           "state": "IL",
           "status": "Available"
@@ -41,10 +66,25 @@
         {
           "city": "OLYMPIA FIELDS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEKIN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "RIVERDALE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "WAUKEGAN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "WHEATON",
           "state": "IL",
           "status": "Available"
         }

@@ -14,6 +14,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "AVON PARK",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "BELLE GLADE",
           "state": "FL",
           "status": "Fully Booked"
@@ -26,7 +31,7 @@
         {
           "city": "BRADENTON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROOKSVILLE",
@@ -34,9 +39,14 @@
           "status": "Available"
         },
         {
+          "city": "CALLAHAN",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "CAPE CORAL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHIEFLAND",
@@ -62,6 +72,16 @@
           "city": "CLEWISTON",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "COCOA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "COOPER CITY",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
@@ -101,7 +121,7 @@
         {
           "city": "ESTERO",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLAGLER BEACH",
@@ -149,6 +169,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "INDIALANTIC",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "JACKSONVILLE",
           "state": "FL",
           "status": "Available"
@@ -179,6 +204,11 @@
           "status": "Available"
         },
         {
+          "city": "LAKE WORTH",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "LAKELAND",
           "state": "FL",
           "status": "Available"
@@ -202,6 +232,16 @@
           "city": "MADISON",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MELBOURNE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MERRITT ISLAND",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "MIAMI",
@@ -249,6 +289,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NICEVILLE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "NORTH MIAMI",
           "state": "FL",
           "status": "Fully Booked"
@@ -269,6 +314,16 @@
           "status": "Available"
         },
         {
+          "city": "OCOEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "OKEECHOBEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "ORLANDO",
           "state": "FL",
           "status": "Available"
@@ -276,10 +331,20 @@
         {
           "city": "OSPREY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALATKA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "PALM BAY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "PALM BEACH GARDENS",
           "state": "FL",
           "status": "Available"
         },
@@ -331,7 +396,7 @@
         {
           "city": "PORT ORANGE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT SAINT JOE",
@@ -349,6 +414,11 @@
           "status": "Available"
         },
         {
+          "city": "ROCKLEDGE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "SAINT AUGUSTINE",
           "state": "FL",
           "status": "Available"
@@ -356,7 +426,7 @@
         {
           "city": "SAINT JAMES CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT PETERSBURG",
@@ -371,7 +441,7 @@
         {
           "city": "SARASOTA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEFFNER",
@@ -382,6 +452,16 @@
           "city": "SEMINOLE",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "STARKE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "STOCK ISLAND",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "SUNNY ISLES BEACH",
@@ -410,6 +490,11 @@
         },
         {
           "city": "TEMPLE TERRACE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "TITUSVILLE",
           "state": "FL",
           "status": "Available"
         },
@@ -452,6 +537,11 @@
           "city": "WINTER PARK",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WINTER SPRINGS",
+          "state": "FL",
+          "status": "Available"
         }
       ]
     },
