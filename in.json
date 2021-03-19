@@ -11,15 +11,15 @@
         {
           "city": "KENTLAND",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT VERNON",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
