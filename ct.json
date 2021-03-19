@@ -21,7 +21,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIDGEPORT",
@@ -46,7 +46,7 @@
         {
           "city": "COLCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COS COB",
@@ -76,7 +76,7 @@
         {
           "city": "EAST HARTFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST HAVEN",
@@ -131,7 +131,7 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MERIDEN",
@@ -151,7 +151,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CANAAN",
@@ -186,7 +186,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -241,7 +241,7 @@
         {
           "city": "WATERFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HARTFORD",
@@ -251,7 +251,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -261,12 +261,12 @@
         {
           "city": "WINDSOR",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR LOCKS",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINSTED",
@@ -275,6 +275,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
