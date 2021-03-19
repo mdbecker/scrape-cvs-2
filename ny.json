@@ -216,7 +216,7 @@
         {
           "city": "DUNKIRK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST GREENBUSH",
@@ -416,7 +416,7 @@
         {
           "city": "JAMAICA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JOHNSON CITY",
@@ -566,12 +566,12 @@
         {
           "city": "NORTH BALDWIN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BAY SHORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BELLMORE",
@@ -681,7 +681,7 @@
         {
           "city": "ROCHESTER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKAWAY BEACH",
