@@ -151,7 +151,7 @@
         {
           "city": "FREMONT",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAHANNA",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
