@@ -71,7 +71,7 @@
         {
           "city": "BOSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOURNE",
@@ -151,7 +151,7 @@
         {
           "city": "DORCHESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DRACUT",
@@ -221,7 +221,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HADLEY",
@@ -576,7 +576,7 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHBRIDGE",
@@ -721,12 +721,12 @@
         {
           "city": "WOLLASTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WORCESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WRENTHAM",
