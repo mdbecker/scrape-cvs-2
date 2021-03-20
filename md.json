@@ -246,7 +246,7 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
@@ -360,6 +360,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
