@@ -326,7 +326,7 @@
         {
           "city": "PIQUA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RAVENNA",
@@ -356,7 +356,7 @@
         {
           "city": "SIDNEY",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH EUCLID",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
