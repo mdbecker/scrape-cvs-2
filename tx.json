@@ -21,7 +21,7 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLEN",
@@ -366,7 +366,7 @@
         {
           "city": "GAINESVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALVESTON",
@@ -901,7 +901,7 @@
         {
           "city": "TYLER",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UNIVERSAL CITY",
