@@ -36,7 +36,7 @@
         {
           "city": "BLUFFTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRECKSVILLE",
@@ -356,7 +356,7 @@
         {
           "city": "SIDNEY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH EUCLID",
@@ -445,6 +445,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
