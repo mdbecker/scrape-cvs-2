@@ -31,7 +31,7 @@
         {
           "city": "ALBANY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALHAMBRA",
@@ -76,7 +76,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARCADIA",
@@ -511,7 +511,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANFORD",
@@ -731,7 +731,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADERA",
@@ -936,7 +936,7 @@
         {
           "city": "ORINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OXNARD",
