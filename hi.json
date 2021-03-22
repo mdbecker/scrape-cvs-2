@@ -51,12 +51,12 @@
         {
           "city": "KAILUA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAILUA KONA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KANEOHE",
@@ -91,7 +91,7 @@
         {
           "city": "MILILANI",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAHALA",
@@ -101,7 +101,7 @@
         {
           "city": "PAHOA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEARL CITY",
@@ -111,7 +111,7 @@
         {
           "city": "PUKALANI",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAHIAWA",
