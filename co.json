@@ -11,7 +11,7 @@
         {
           "city": "AURORA",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEWATER",
@@ -31,10 +31,10 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
