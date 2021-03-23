@@ -21,12 +21,12 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALLEN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALTON",
@@ -76,7 +76,7 @@
         {
           "city": "BALCH SPRINGS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALCONES HEIGHTS",
@@ -446,7 +446,7 @@
         {
           "city": "HUMBLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTSVILLE",
@@ -1016,7 +1016,7 @@
         {
           "city": "WYLIE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
