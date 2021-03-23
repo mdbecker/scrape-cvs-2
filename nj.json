@@ -196,7 +196,7 @@
         {
           "city": "ELMWOOD PARK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENGLEWOOD",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
