@@ -96,7 +96,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALES FERRY",
@@ -171,7 +171,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWINGTON",
@@ -206,7 +206,7 @@
         {
           "city": "RIDGEFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
