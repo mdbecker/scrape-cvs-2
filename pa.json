@@ -21,7 +21,7 @@
         {
           "city": "ALTOONA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMBLER",
@@ -440,6 +440,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
