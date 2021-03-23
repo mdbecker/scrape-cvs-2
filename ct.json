@@ -31,7 +31,7 @@
         {
           "city": "BRISTOL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -61,7 +61,7 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -96,7 +96,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALES FERRY",
@@ -149,6 +149,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NAUGATUCK",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "NEW BRITAIN",
           "state": "CT",
           "status": "Available"
@@ -162,6 +167,11 @@
           "city": "NEW HAVEN",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "NEW LONDON",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "NEWINGTON",
@@ -179,12 +189,22 @@
           "status": "Available"
         },
         {
+          "city": "OAKVILLE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "OLD GREENWICH",
           "state": "CT",
           "status": "Fully Booked"
         },
         {
           "city": "PUTNAM",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "RIDGEFIELD",
           "state": "CT",
           "status": "Available"
         },
@@ -211,12 +231,17 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STORRS MANSFIELD",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "STRATFORD",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "TERRYVILLE",
@@ -236,7 +261,7 @@
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",

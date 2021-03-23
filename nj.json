@@ -19,6 +19,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BARNEGAT",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "BAYONNE",
           "state": "NJ",
           "status": "Fully Booked"
@@ -46,7 +51,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
@@ -56,7 +61,7 @@
         {
           "city": "BRICK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
@@ -251,7 +256,7 @@
         {
           "city": "FREEHOLD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARFIELD",
@@ -501,7 +506,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -696,7 +701,7 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SICKLERVILLE",
@@ -746,7 +751,7 @@
         {
           "city": "TOMS RIVER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRENTON",
@@ -767,6 +772,11 @@
           "city": "UNION CITY",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "UPPER MONTCLAIR",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "VAUXHALL",
@@ -791,7 +801,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
@@ -836,7 +846,7 @@
         {
           "city": "WEST ORANGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST WINDSOR",
@@ -882,9 +892,14 @@
           "city": "WOODBRIDGE",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WYCKOFF",
+          "state": "NJ",
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

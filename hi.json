@@ -21,12 +21,12 @@
         {
           "city": "EWA BEACH",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HALEIWA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAUULA",
@@ -59,9 +59,14 @@
           "status": "Available"
         },
         {
+          "city": "KAMUELA",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
           "city": "KANEOHE",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAPAA",
@@ -71,12 +76,12 @@
         {
           "city": "KAPOLEI",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KIHEI",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KOLOA",
@@ -85,6 +90,11 @@
         },
         {
           "city": "LAHAINA",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "LIHUE",
           "state": "HI",
           "status": "Available"
         },
@@ -120,6 +130,11 @@
         },
         {
           "city": "WAIANAE",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "WAIPAHU",
           "state": "HI",
           "status": "Available"
         }

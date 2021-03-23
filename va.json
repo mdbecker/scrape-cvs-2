@@ -26,7 +26,7 @@
         {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHBURN",
@@ -87,6 +87,11 @@
           "city": "CHESAPEAKE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CHESTER",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "CHRISTIANSBURG",
@@ -186,7 +191,12 @@
         {
           "city": "HERNDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "HIGHLAND SPRINGS",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -226,7 +236,7 @@
         {
           "city": "MIDLOTHIAN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTPELIER",
@@ -236,10 +246,15 @@
         {
           "city": "NEWPORT NEWS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORFOLK",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "OAKTON",
           "state": "VA",
           "status": "Available"
         },
@@ -294,6 +309,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SOUTH RIDING",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "SPRINGFIELD",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "STAFFORD",
           "state": "VA",
           "status": "Fully Booked"
@@ -301,7 +326,7 @@
         {
           "city": "STERLING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STUART",
@@ -316,12 +341,12 @@
         {
           "city": "VIENNA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VIRGINIA BEACH",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARRENTON",

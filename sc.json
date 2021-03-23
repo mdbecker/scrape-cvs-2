@@ -59,6 +59,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BOILING SPRINGS",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "CAMDEN",
           "state": "SC",
           "status": "Fully Booked"
@@ -161,7 +166,7 @@
         {
           "city": "GREER",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANAHAN",
@@ -176,7 +181,7 @@
         {
           "city": "HILTON HEAD ISLAND",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLY HILL",
@@ -187,6 +192,11 @@
           "city": "INDIAN LAND",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "INMAN",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "JOHNS ISLAND",
@@ -279,6 +289,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "PENDLETON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "PIEDMONT",
           "state": "SC",
           "status": "Fully Booked"
@@ -296,12 +311,17 @@
         {
           "city": "ROCK HILL",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT GEORGE",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SANTEE",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "SENECA",

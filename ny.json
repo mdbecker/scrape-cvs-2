@@ -11,12 +11,12 @@
         {
           "city": "ALBANY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMITYVILLE",
@@ -26,7 +26,7 @@
         {
           "city": "AMSTERDAM",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARDSLEY",
@@ -77,6 +77,11 @@
           "city": "BLASDELL",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BOHEMIA",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "BRIARCLIFF MANOR",
@@ -161,7 +166,7 @@
         {
           "city": "CLIFTON PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -221,7 +226,7 @@
         {
           "city": "EAST GREENBUSH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HAMPTON",
@@ -241,7 +246,7 @@
         {
           "city": "EAST ROCKAWAY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTCHESTER",
@@ -276,7 +281,7 @@
         {
           "city": "FAIRPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALCONER",
@@ -286,7 +291,12 @@
         {
           "city": "FARMINGDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FARMINGVILLE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "FAYETTEVILLE",
@@ -341,7 +351,7 @@
         {
           "city": "GREAT NECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWICH",
@@ -371,12 +381,12 @@
         {
           "city": "HILTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONEOYE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUDSON",
@@ -429,6 +439,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KINGS PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "KINGSTON",
           "state": "NY",
           "status": "Fully Booked"
@@ -441,12 +456,12 @@
         {
           "city": "LATHAM",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEVITTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEWISTON",
@@ -501,7 +516,7 @@
         {
           "city": "MEDFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -512,6 +527,11 @@
           "city": "MILLERTON",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MINEOLA",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "MONROE",
@@ -536,7 +556,7 @@
         {
           "city": "NEW HYDE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW ROCHELLE",
@@ -626,7 +646,7 @@
         {
           "city": "PAWLING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEEKSKILL",
@@ -636,7 +656,7 @@
         {
           "city": "PENFIELD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENN YAN",
@@ -656,7 +676,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
@@ -671,12 +691,12 @@
         {
           "city": "RHINEBECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERHEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCHESTER",
@@ -706,12 +726,12 @@
         {
           "city": "RYE BROOK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANBORN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA SPRINGS",
@@ -827,6 +847,11 @@
           "city": "WALTON",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WASHINGTONVILLE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "WATERTOWN",
