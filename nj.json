@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAYONNE",
@@ -885,6 +885,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
