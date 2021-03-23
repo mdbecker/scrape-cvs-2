@@ -21,7 +21,7 @@
         {
           "city": "CANTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICAGO",
@@ -71,7 +71,7 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERDALE",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
