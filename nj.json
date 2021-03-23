@@ -51,7 +51,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLOOMFIELD",
@@ -701,7 +701,7 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SICKLERVILLE",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
