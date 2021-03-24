@@ -156,7 +156,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CANAAN",
@@ -171,7 +171,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWINGTON",
@@ -266,7 +266,7 @@
         {
           "city": "WATERFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HARTFORD",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
