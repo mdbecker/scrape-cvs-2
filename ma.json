@@ -231,7 +231,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HADLEY",
@@ -371,7 +371,7 @@
         {
           "city": "MASHPEE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MATTAPAN",
@@ -750,6 +750,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
