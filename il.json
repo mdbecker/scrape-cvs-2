@@ -41,7 +41,7 @@
         {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KANKAKEE",
@@ -51,7 +51,7 @@
         {
           "city": "KEWANEE",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEMONT",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
