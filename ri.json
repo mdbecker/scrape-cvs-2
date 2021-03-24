@@ -36,7 +36,7 @@
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOCESTER",
@@ -46,7 +46,7 @@
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NARRAGANSETT",
@@ -81,7 +81,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -121,7 +121,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOONSOCKET",
@@ -135,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
