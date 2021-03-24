@@ -386,7 +386,7 @@
         {
           "city": "HONEOYE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUDSON",
@@ -935,6 +935,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
