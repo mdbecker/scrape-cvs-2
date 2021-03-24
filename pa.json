@@ -221,7 +221,7 @@
         {
           "city": "MASONTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MECHANICSBURG",
@@ -440,6 +440,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
