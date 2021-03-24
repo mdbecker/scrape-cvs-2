@@ -136,7 +136,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COHASSET",
@@ -231,7 +231,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HADLEY",
@@ -541,7 +541,7 @@
         {
           "city": "SALEM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -750,6 +750,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
