@@ -31,7 +31,7 @@
         {
           "city": "BRISTOL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -151,7 +151,7 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BRITAIN",
@@ -171,7 +171,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWINGTON",
@@ -261,7 +261,7 @@
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
