@@ -46,7 +46,7 @@
         {
           "city": "COLCHESTER",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COS COB",
@@ -131,7 +131,7 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MERIDEN",
@@ -201,7 +201,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIDGEFIELD",
@@ -231,7 +231,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -276,7 +276,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -286,12 +286,12 @@
         {
           "city": "WINDSOR",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR LOCKS",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINSTED",
