@@ -216,7 +216,7 @@
         {
           "city": "OPELIKA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OXFORD",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
