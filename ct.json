@@ -171,7 +171,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWINGTON",
@@ -191,7 +191,7 @@
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLD GREENWICH",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
