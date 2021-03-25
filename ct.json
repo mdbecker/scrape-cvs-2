@@ -231,7 +231,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
