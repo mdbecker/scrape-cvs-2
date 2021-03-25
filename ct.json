@@ -11,7 +11,7 @@
         {
           "city": "ANSONIA",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHEL",
@@ -151,12 +151,12 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CANAAN",
@@ -171,7 +171,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWINGTON",
@@ -186,12 +186,12 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLD GREENWICH",
@@ -201,7 +201,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIDGEFIELD",
@@ -231,7 +231,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -241,7 +241,7 @@
         {
           "city": "STRATFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TERRYVILLE",
@@ -276,7 +276,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLIMANTIC",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
