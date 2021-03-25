@@ -151,7 +151,7 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW BRITAIN",
@@ -186,12 +186,12 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -201,7 +201,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIDGEFIELD",
@@ -231,7 +231,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -241,7 +241,7 @@
         {
           "city": "STRATFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TERRYVILLE",
@@ -276,7 +276,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -300,6 +300,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
