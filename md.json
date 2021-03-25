@@ -31,7 +31,7 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
@@ -81,7 +81,7 @@
         {
           "city": "CLINTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLLEGE PARK",
@@ -121,7 +121,7 @@
         {
           "city": "EDGEWOOD",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -141,7 +141,7 @@
         {
           "city": "FOREST HILL",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORESTVILLE",
@@ -191,7 +191,7 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVRE DE GRACE",
@@ -271,12 +271,12 @@
         {
           "city": "OXON HILL",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASADENA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PIKESVILLE",
@@ -316,7 +316,7 @@
         {
           "city": "SEVERN",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEVERNA PARK",
@@ -331,17 +331,17 @@
         {
           "city": "TANEYTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOWSON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPPER MARLBORO",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALDORF",
@@ -356,12 +356,12 @@
         {
           "city": "WESTMINSTER",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEATON",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITE PLAINS",

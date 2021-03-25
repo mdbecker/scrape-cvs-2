@@ -31,7 +31,7 @@
         {
           "city": "AMHERST",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARLINGTON",
@@ -231,7 +231,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HADLEY",
@@ -376,7 +376,7 @@
         {
           "city": "MATTAPAN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAYNARD",
@@ -591,7 +591,7 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHBRIDGE",
@@ -750,6 +750,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

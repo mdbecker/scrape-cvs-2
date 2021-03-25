@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARNEGAT",
@@ -91,7 +91,7 @@
         {
           "city": "CAMDEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARTERET",
@@ -506,7 +506,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -556,7 +556,7 @@
         {
           "city": "NORTH ARLINGTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BRUNSWICK",
@@ -626,7 +626,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PHILLIPSBURG",
@@ -756,7 +756,7 @@
         {
           "city": "TRENTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TURNERSVILLE",
@@ -771,7 +771,7 @@
         {
           "city": "UNION CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UPPER MONTCLAIR",
@@ -801,7 +801,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
