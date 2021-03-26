@@ -16,7 +16,7 @@
         {
           "city": "ALEXANDRIA",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVONDALE",
@@ -31,7 +31,7 @@
         {
           "city": "BATON ROUGE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOSSIER CITY",
@@ -54,9 +54,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DENHAM SPRINGS",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
           "city": "DONALDSONVILLE",
           "state": "LA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GONZALES",
+          "state": "LA",
+          "status": "Available"
         },
         {
           "city": "HAMMOND",
@@ -146,10 +156,15 @@
         {
           "city": "SLIDELL",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TERRYTOWN",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "THIBODAUX",
           "state": "LA",
           "status": "Available"
         },

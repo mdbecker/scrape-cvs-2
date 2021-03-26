@@ -44,6 +44,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BERWICK",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "BERWYN",
           "state": "PA",
           "status": "Fully Booked"
@@ -134,6 +139,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ERIE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "EXETER",
           "state": "PA",
           "status": "Available"
@@ -177,6 +187,16 @@
           "city": "HORSHAM",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "JENKINTOWN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "JERSEY SHORE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "JOHNSONBURG",
@@ -234,6 +254,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MILTON",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "MONACA",
           "state": "PA",
           "status": "Fully Booked"
@@ -281,7 +306,7 @@
         {
           "city": "PHILADELPHIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
@@ -382,6 +407,11 @@
           "city": "TEMPLE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TOWANDA",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "UNIONTOWN",

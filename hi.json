@@ -79,6 +79,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KEAAU",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
           "city": "KIHEI",
           "state": "HI",
           "status": "Fully Booked"
@@ -86,7 +91,7 @@
         {
           "city": "KOLOA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAHAINA",
@@ -111,7 +116,7 @@
         {
           "city": "PAHOA",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEARL CITY",
@@ -121,7 +126,7 @@
         {
           "city": "PUKALANI",
           "state": "HI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAHIAWA",
@@ -130,6 +135,11 @@
         },
         {
           "city": "WAIANAE",
+          "state": "HI",
+          "status": "Available"
+        },
+        {
+          "city": "WAILUKU",
           "state": "HI",
           "status": "Available"
         },

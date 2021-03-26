@@ -14,9 +14,14 @@
           "status": "Available"
         },
         {
+          "city": "ALPHARETTA",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "ATLANTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUGUSTA",
@@ -26,7 +31,7 @@
         {
           "city": "BUFORD",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CANTON",
@@ -34,9 +39,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CHAMBLEE",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "COLUMBUS",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "COVINGTON",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "CUMMING",
@@ -46,27 +61,52 @@
         {
           "city": "DALTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DECATUR",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "EAST POINT",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "FOREST PARK",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JONESBORO",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARIETTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MCDONOUGH",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "NORCROSS",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "PEACHTREE CITY",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
@@ -74,14 +114,19 @@
           "status": "Available"
         },
         {
+          "city": "ROSWELL",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "SAVANNAH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONE MOUNTAIN",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNION CITY",
