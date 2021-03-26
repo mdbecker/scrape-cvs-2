@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARNEGAT",
@@ -51,7 +51,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLOOMFIELD",
@@ -91,7 +91,7 @@
         {
           "city": "CAMDEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARTERET",
@@ -506,7 +506,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -701,7 +701,7 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SICKLERVILLE",
@@ -726,7 +726,7 @@
         {
           "city": "STRATFORD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SWEDESBORO",
@@ -801,7 +801,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
