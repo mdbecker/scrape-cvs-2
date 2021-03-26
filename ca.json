@@ -86,7 +86,7 @@
         {
           "city": "ARCATA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLETA",
@@ -206,7 +206,7 @@
         {
           "city": "CARMEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARMICHAEL",
@@ -566,7 +566,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -816,7 +816,7 @@
         {
           "city": "MCKINLEYVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MENIFEE",
@@ -1216,7 +1216,7 @@
         {
           "city": "SALINAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN ANSELMO",
