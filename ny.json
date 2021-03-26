@@ -26,7 +26,7 @@
         {
           "city": "AMSTERDAM",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARDSLEY",
@@ -66,12 +66,12 @@
         {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BINGHAMTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLASDELL",
@@ -204,9 +204,19 @@
           "status": "Available"
         },
         {
+          "city": "CORNWALL",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "CROTON ON HUDSON",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DEER PARK",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "DEPEW",
@@ -226,7 +236,7 @@
         {
           "city": "EAST GREENBUSH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HAMPTON",
@@ -246,7 +256,7 @@
         {
           "city": "EAST ROCKAWAY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTCHESTER",
@@ -281,7 +291,7 @@
         {
           "city": "FAIRPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALCONER",
@@ -321,7 +331,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN COVE",
@@ -381,7 +391,7 @@
         {
           "city": "HILTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONEOYE",
@@ -456,7 +466,7 @@
         {
           "city": "LATHAM",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEVITTOWN",
@@ -596,7 +606,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -646,7 +656,7 @@
         {
           "city": "PAWLING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEEKSKILL",
@@ -656,7 +666,7 @@
         {
           "city": "PENFIELD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENN YAN",
@@ -691,7 +701,7 @@
         {
           "city": "RHINEBECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERHEAD",
@@ -706,12 +716,12 @@
         {
           "city": "ROCKAWAY BEACH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKVILLE CENTRE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RONKONKOMA",
@@ -731,7 +741,7 @@
         {
           "city": "SANBORN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA SPRINGS",
@@ -816,7 +826,7 @@
         {
           "city": "THORNWOOD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TROY",
@@ -876,7 +886,7 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",

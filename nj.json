@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARNEGAT",
@@ -44,6 +44,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BERLIN",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "BERNARDSVILLE",
           "state": "NJ",
           "status": "Fully Booked"
@@ -51,7 +56,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
@@ -191,7 +196,7 @@
         {
           "city": "EDISON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELIZABETH",
@@ -201,7 +206,7 @@
         {
           "city": "ELMWOOD PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENGLEWOOD",
@@ -386,7 +391,7 @@
         {
           "city": "LINCOLN PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LINDEN",
@@ -422,6 +427,11 @@
           "city": "MAHWAH",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MALAGA",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "MANAHAWKIN",
@@ -464,6 +474,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MATAWAN",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "MAYS LANDING",
           "state": "NJ",
           "status": "Fully Booked"
@@ -481,7 +496,7 @@
         {
           "city": "MERCHANTVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "METUCHEN",
@@ -506,7 +521,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -522,6 +537,11 @@
           "city": "MOORESTOWN",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MORRISTOWN",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "MOUNT LAUREL",
@@ -689,6 +709,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SCOTCH PLAINS",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "SEA ISLE CITY",
           "state": "NJ",
           "status": "Fully Booked"
@@ -701,12 +726,12 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHVILLE",
@@ -766,7 +791,7 @@
         {
           "city": "UNION",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNION CITY",
@@ -781,7 +806,7 @@
         {
           "city": "VAUXHALL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VENTNOR CITY",
@@ -801,7 +826,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
@@ -821,7 +846,7 @@
         {
           "city": "WASHINGTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATCHUNG",
@@ -836,7 +861,7 @@
         {
           "city": "WEST CAPE MAY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NEW YORK",
@@ -876,7 +901,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
@@ -894,12 +919,17 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WOODBURY",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "WYCKOFF",
           "state": "NJ",
           "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
