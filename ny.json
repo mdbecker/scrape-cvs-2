@@ -231,7 +231,7 @@
         {
           "city": "DUNKIRK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST GREENBUSH",
@@ -331,7 +331,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN COVE",
@@ -761,7 +761,7 @@
         {
           "city": "SCHENECTADY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
@@ -941,7 +941,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
