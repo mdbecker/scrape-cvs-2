@@ -151,7 +151,7 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW BRITAIN",
@@ -191,7 +191,7 @@
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -201,7 +201,7 @@
         {
           "city": "PROSPECT",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PUTNAM",
@@ -281,7 +281,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -305,6 +305,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
