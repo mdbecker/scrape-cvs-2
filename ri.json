@@ -66,7 +66,7 @@
         {
           "city": "NORTH PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASCOAG",
@@ -140,6 +140,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
