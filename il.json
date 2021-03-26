@@ -11,7 +11,7 @@
         {
           "city": "BELLEVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BENSENVILLE",
@@ -61,7 +61,7 @@
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLYMPIA FIELDS",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
