@@ -46,7 +46,7 @@
         {
           "city": "BERLIN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERNARDSVILLE",
@@ -431,7 +431,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -731,7 +731,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHVILLE",
@@ -826,7 +826,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VOORHEES",
@@ -901,7 +901,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLINGBORO",
@@ -921,7 +921,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYCKOFF",
@@ -930,6 +930,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
