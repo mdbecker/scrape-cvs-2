@@ -191,7 +191,7 @@
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLD GREENWICH",
@@ -201,7 +201,7 @@
         {
           "city": "PROSPECT",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PUTNAM",
@@ -305,6 +305,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
