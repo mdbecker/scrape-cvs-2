@@ -91,7 +91,7 @@
         {
           "city": "CHESTER",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHRISTIANSBURG",
@@ -291,7 +291,7 @@
         {
           "city": "ROANOKE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKY MOUNT",
@@ -386,7 +386,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
