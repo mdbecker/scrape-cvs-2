@@ -201,7 +201,7 @@
         {
           "city": "PROSPECT",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PUTNAM",
@@ -305,6 +305,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
