@@ -76,7 +76,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
@@ -86,7 +86,7 @@
         {
           "city": "ARCATA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARLETA",
@@ -251,7 +251,7 @@
         {
           "city": "CHULA VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CITRUS HEIGHTS",
@@ -416,7 +416,7 @@
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINO",
@@ -501,7 +501,7 @@
         {
           "city": "GILROY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDALE",
@@ -531,7 +531,7 @@
         {
           "city": "GREENBRAE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRIDLEY",
@@ -651,7 +651,7 @@
         {
           "city": "LA MESA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA MIRADA",
@@ -1246,7 +1246,7 @@
         {
           "city": "SAN DIEGO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIMAS",
@@ -1581,7 +1581,7 @@
         {
           "city": "VISTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALNUT CREEK",
@@ -1596,7 +1596,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST COVINA",
