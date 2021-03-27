@@ -41,7 +41,7 @@
         {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KANKAKEE",
@@ -61,7 +61,7 @@
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLYMPIA FIELDS",
@@ -71,7 +71,7 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERDALE",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
