@@ -726,12 +726,12 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHVILLE",
@@ -930,6 +930,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
