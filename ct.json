@@ -151,7 +151,7 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW BRITAIN",
@@ -305,6 +305,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
