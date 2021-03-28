@@ -191,7 +191,7 @@
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -206,7 +206,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIDGEFIELD",
@@ -305,6 +305,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
