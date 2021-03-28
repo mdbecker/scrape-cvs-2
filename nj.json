@@ -56,7 +56,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
@@ -521,7 +521,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -731,7 +731,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHVILLE",
@@ -826,7 +826,7 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
@@ -901,7 +901,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
@@ -930,6 +930,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
