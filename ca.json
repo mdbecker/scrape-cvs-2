@@ -51,7 +51,7 @@
         {
           "city": "ANAHEIM",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANDERSON",
@@ -131,7 +131,7 @@
         {
           "city": "BALDWIN PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELL",
@@ -171,7 +171,7 @@
         {
           "city": "CAMARILLO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMERON PARK",
@@ -756,7 +756,7 @@
         {
           "city": "LONG BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOS ALAMITOS",
@@ -821,7 +821,7 @@
         {
           "city": "MENIFEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MENLO PARK",
@@ -1336,7 +1336,7 @@
         {
           "city": "SANTA CLARITA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA CRUZ",
