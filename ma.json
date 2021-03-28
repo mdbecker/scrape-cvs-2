@@ -501,7 +501,7 @@
         {
           "city": "ORLEANS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OXFORD",
@@ -775,6 +775,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
