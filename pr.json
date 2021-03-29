@@ -66,10 +66,10 @@
         {
           "city": "VEGA BAJA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
