@@ -76,7 +76,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
@@ -416,7 +416,7 @@
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINO",
@@ -531,7 +531,7 @@
         {
           "city": "GREENBRAE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRIDLEY",
@@ -1246,7 +1246,7 @@
         {
           "city": "SAN DIEGO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIMAS",
