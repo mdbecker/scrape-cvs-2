@@ -46,7 +46,7 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -541,7 +541,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANFORD",
@@ -991,7 +991,7 @@
         {
           "city": "ORINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OROVILLE",
@@ -1386,7 +1386,7 @@
         {
           "city": "SEBASTOPOL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIGNAL HILL",
