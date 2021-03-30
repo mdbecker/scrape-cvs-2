@@ -106,7 +106,7 @@
         {
           "city": "GLASTONBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GUILFORD",
@@ -126,7 +126,7 @@
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LISBON",
@@ -211,7 +211,7 @@
         {
           "city": "PLAINVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PROSPECT",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
