@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARNEGAT",
@@ -56,7 +56,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
@@ -82,6 +82,11 @@
           "city": "BROWNS MILLS",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BUDD LAKE",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -179,6 +184,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "EAST RUTHERFORD",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "EAST WINDSOR",
           "state": "NJ",
           "status": "Fully Booked"
@@ -216,7 +226,7 @@
         {
           "city": "EWING",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIR LAWN",
@@ -276,7 +286,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -569,6 +579,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NEW PROVIDENCE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "NEWARK",
           "state": "NJ",
           "status": "Fully Booked"
@@ -672,6 +687,11 @@
           "city": "PRINCETON",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RANDOLPH",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "RINGWOOD",

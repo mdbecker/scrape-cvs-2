@@ -34,9 +34,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BOCA RATON",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "BONITA SPRINGS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRADENTON",
@@ -69,6 +74,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CHIPLEY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "CITRUS HILLS",
           "state": "FL",
           "status": "Fully Booked"
@@ -99,9 +109,19 @@
           "status": "Available"
         },
         {
+          "city": "COCONUT CREEK",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "COOPER CITY",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CORAL SPRINGS",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
@@ -149,9 +169,19 @@
           "status": "Available"
         },
         {
+          "city": "EUSTIS",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "FLAGLER BEACH",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FORT LAUDERDALE",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "FORT MYERS",
@@ -161,7 +191,7 @@
         {
           "city": "FORT PIERCE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
@@ -177,6 +207,11 @@
           "city": "HAINES CITY",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HAWTHORNE",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "HIALEAH",
@@ -205,6 +240,11 @@
         },
         {
           "city": "INDIALANTIC",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "INVERNESS",
           "state": "FL",
           "status": "Available"
         },
@@ -274,6 +314,16 @@
           "status": "Available"
         },
         {
+          "city": "LONGWOOD",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "MACCLENNY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "MADISON",
           "state": "FL",
           "status": "Fully Booked"
@@ -324,6 +374,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MOUNT DORA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "NAPLES",
           "state": "FL",
           "status": "Fully Booked"
@@ -332,6 +387,11 @@
           "city": "NAVARRE",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "NEW PORT RICHEY",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "NEW SMYRNA BEACH",
@@ -370,6 +430,11 @@
         },
         {
           "city": "OKEECHOBEE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "ORANGE PARK",
           "state": "FL",
           "status": "Available"
         },
@@ -481,7 +546,7 @@
         {
           "city": "ROYAL PALM BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT AUGUSTINE",
@@ -506,7 +571,7 @@
         {
           "city": "SARASOTA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEFFNER",
@@ -546,7 +611,7 @@
         {
           "city": "TAMARAC",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAMPA",
@@ -565,6 +630,11 @@
         },
         {
           "city": "TITUSVILLE",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "VALRICO",
           "state": "FL",
           "status": "Available"
         },
@@ -589,6 +659,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WELLINGTON",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "WESLEY CHAPEL",
           "state": "FL",
           "status": "Available"
@@ -597,6 +672,11 @@
           "city": "WEST PALM BEACH",
           "state": "FL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WILDWOOD",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "WILLISTON",

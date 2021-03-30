@@ -11,7 +11,7 @@
         {
           "city": "ALBANY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
@@ -34,9 +34,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ASTORIA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "AUBURNDALE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "AVON",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "BALDWIN",
@@ -54,9 +64,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BAY SHORE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "BAYSIDE",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "BEDFORD HILLS",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BELLEROSE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "BELLMORE",
@@ -89,6 +114,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BROCKPORT",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "BRONX",
           "state": "NY",
           "status": "Available"
@@ -106,7 +136,7 @@
         {
           "city": "BUFFALO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURNT HILLS",
@@ -209,12 +239,22 @@
           "status": "Available"
         },
         {
+          "city": "CORTLAND",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "CROTON ON HUDSON",
           "state": "NY",
           "status": "Fully Booked"
         },
         {
           "city": "DEER PARK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "DELMAR",
           "state": "NY",
           "status": "Available"
         },
@@ -281,7 +321,7 @@
         {
           "city": "ENDICOTT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENDWELL",
@@ -306,7 +346,7 @@
         {
           "city": "FARMINGVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAYETTEVILLE",
@@ -362,6 +402,11 @@
           "city": "GREAT NECK",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GREECE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "GREENWICH",
@@ -431,7 +476,7 @@
         {
           "city": "ITHACA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JAMAICA",
@@ -506,7 +551,7 @@
         {
           "city": "MAMARONECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANORVILLE",
@@ -526,7 +571,12 @@
         {
           "city": "MEDFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MIDDLE VILLAGE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -576,7 +626,7 @@
         {
           "city": "NEW YORK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURGH",
@@ -627,6 +677,11 @@
           "city": "OLEAN",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ORANGEBURG",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "ORCHARD PARK",
@@ -801,7 +856,7 @@
         {
           "city": "STATEN ISLAND",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
@@ -854,6 +909,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WADING RIVER",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "WALTON",
           "state": "NY",
           "status": "Fully Booked"
@@ -861,7 +921,7 @@
         {
           "city": "WASHINGTONVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERTOWN",
@@ -879,6 +939,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WAYLAND",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "WEBSTER",
           "state": "NY",
           "status": "Fully Booked"
@@ -887,6 +952,11 @@
           "city": "WEST HEMPSTEAD",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WEST ISLIP",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
@@ -915,6 +985,11 @@
         },
         {
           "city": "WHITE PLAINS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "WHITESTONE",
           "state": "NY",
           "status": "Available"
         },
