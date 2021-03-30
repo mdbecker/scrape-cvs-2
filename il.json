@@ -21,7 +21,7 @@
         {
           "city": "CANTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICAGO",
@@ -41,7 +41,7 @@
         {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KANKAKEE",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
