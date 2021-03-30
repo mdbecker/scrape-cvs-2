@@ -71,7 +71,7 @@
         {
           "city": "BINGHAMTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLASDELL",
@@ -396,7 +396,7 @@
         {
           "city": "HONEOYE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUDSON",
@@ -945,6 +945,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
