@@ -9,12 +9,27 @@
     "data": {
       "IN": [
         {
+          "city": "BLOOMINGTON",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "CHESTERTON",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "EVANSVILLE",
           "state": "IN",
           "status": "Available"
         },
         {
           "city": "FORT WAYNE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "HUNTINGBURG",
           "state": "IN",
           "status": "Available"
         },
@@ -44,7 +59,17 @@
           "status": "Available"
         },
         {
+          "city": "PAOLI",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH BEND",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "TERRE HAUTE",
           "state": "IN",
           "status": "Available"
         }

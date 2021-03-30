@@ -29,7 +29,17 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CAMP VERDE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
           "city": "CHANDLER",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "COTTONWOOD",
           "state": "AZ",
           "status": "Available"
         },
@@ -86,7 +96,7 @@
         {
           "city": "SCOTTSDALE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEDONA",

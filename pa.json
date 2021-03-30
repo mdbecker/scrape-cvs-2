@@ -34,6 +34,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BALA CYNWYD",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "BEDFORD",
           "state": "PA",
           "status": "Fully Booked"
@@ -94,6 +99,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CLARION",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "CORRY",
           "state": "PA",
           "status": "Fully Booked"
@@ -102,6 +112,11 @@
           "city": "CRESCO",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DANVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "DOWNINGTOWN",
@@ -169,6 +184,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GLENOLDEN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "HARRISBURG",
           "state": "PA",
           "status": "Available"
@@ -182,6 +202,11 @@
           "city": "HOMESTEAD",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HONESDALE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "HORSHAM",
@@ -209,6 +234,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KENNETT SQUARE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "KING OF PRUSSIA",
           "state": "PA",
           "status": "Fully Booked"
@@ -232,6 +262,26 @@
           "city": "LANGHORNE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LANSDOWNE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "LEWISBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "LEWISTOWN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "LOCK HAVEN",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "MAPLE GLEN",
@@ -304,9 +354,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OIL CITY",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "PHILADELPHIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
@@ -344,12 +399,22 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RICHBORO",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "SCHWENKSVILLE",
           "state": "PA",
           "status": "Fully Booked"
         },
         {
           "city": "SCRANTON",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "SELINSGROVE",
           "state": "PA",
           "status": "Available"
         },
@@ -419,6 +484,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WARREN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "WASHINGTON",
           "state": "PA",
           "status": "Available"
@@ -432,6 +502,11 @@
           "city": "WAYNE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WAYNESBURG",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "WELLSBORO",
@@ -459,6 +534,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WOODLYN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "WYNNEWOOD",
           "state": "PA",
           "status": "Fully Booked"
@@ -466,7 +546,7 @@
         {
           "city": "YORK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

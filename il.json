@@ -9,6 +9,11 @@
     "data": {
       "IL": [
         {
+          "city": "AURORA",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "BELLEVILLE",
           "state": "IL",
           "status": "Available"
@@ -21,12 +26,22 @@
         {
           "city": "CANTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICAGO",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "COLLINSVILLE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "CRYSTAL LAKE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "DEKALB",
@@ -37,6 +52,11 @@
           "city": "FLOSSMOOR",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FRANKLIN PARK",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "HOOPESTON",
@@ -51,7 +71,7 @@
         {
           "city": "KEWANEE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEMONT",
@@ -60,6 +80,26 @@
         },
         {
           "city": "MENDOTA",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "NORMAL",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "NORTHBROOK",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "O FALLON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "OAK PARK",
           "state": "IL",
           "status": "Available"
         },
@@ -74,9 +114,34 @@
           "status": "Available"
         },
         {
+          "city": "PEORIA",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "RIVERDALE",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ROCK ISLAND",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "ROCKFORD",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "SCHAUMBURG",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "SPRINGFIELD",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "WAUKEGAN",

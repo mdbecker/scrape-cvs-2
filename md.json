@@ -21,7 +21,7 @@
         {
           "city": "ANNAPOLIS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHTON",
@@ -31,12 +31,12 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHESDA",
@@ -69,6 +69,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CHESTER",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "CHEVY CHASE",
           "state": "MD",
           "status": "Fully Booked"
@@ -81,7 +86,7 @@
         {
           "city": "CLINTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLLEGE PARK",
@@ -156,7 +161,7 @@
         {
           "city": "FREDERICK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTON",
@@ -176,7 +181,7 @@
         {
           "city": "GERMANTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN BURNIE",
@@ -191,7 +196,7 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVRE DE GRACE",
@@ -271,12 +276,12 @@
         {
           "city": "OXON HILL",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASADENA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PIKESVILLE",
@@ -301,7 +306,7 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -334,14 +339,19 @@
           "status": "Available"
         },
         {
+          "city": "TEMPLE HILLS",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "TOWSON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPPER MARLBORO",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALDORF",

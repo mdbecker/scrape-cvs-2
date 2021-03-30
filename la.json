@@ -51,7 +51,7 @@
         {
           "city": "COVINGTON",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DENHAM SPRINGS",
@@ -62,6 +62,11 @@
           "city": "DONALDSONVILLE",
           "state": "LA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FRANKLINTON",
+          "state": "LA",
+          "status": "Available"
         },
         {
           "city": "GONZALES",
@@ -106,10 +111,15 @@
         {
           "city": "LAKE CHARLES",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESVILLE",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "LULING",
           "state": "LA",
           "status": "Available"
         },
@@ -129,12 +139,22 @@
           "status": "Available"
         },
         {
+          "city": "MORGAN CITY",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
           "city": "NEW IBERIA",
           "state": "LA",
           "status": "Available"
         },
         {
           "city": "NEW ORLEANS",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "RACELAND",
           "state": "LA",
           "status": "Available"
         },

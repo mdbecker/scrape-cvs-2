@@ -54,6 +54,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BRYAN",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "BUCYRUS",
           "state": "OH",
           "status": "Fully Booked"
@@ -62,6 +67,11 @@
           "city": "CANTON",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CELINA",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "CHAGRIN FALLS",
@@ -81,7 +91,7 @@
         {
           "city": "CLEVELAND",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEVELAND HEIGHTS",
@@ -146,7 +156,7 @@
         {
           "city": "FRANKLIN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREMONT",
@@ -157,6 +167,11 @@
           "city": "GAHANNA",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GALLIPOLIS",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "GENEVA",
@@ -229,6 +244,16 @@
           "status": "Available"
         },
         {
+          "city": "MARIETTA",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "MARYSVILLE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "MAYFIELD HEIGHTS",
           "state": "OH",
           "status": "Fully Booked"
@@ -241,7 +266,7 @@
         {
           "city": "MEDINA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLEBURG HEIGHTS",
@@ -252,6 +277,11 @@
           "city": "MIDDLEFIELD",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MIDDLETOWN",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "MILFORD",
@@ -306,7 +336,7 @@
         {
           "city": "NORWOOD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK HILL",
@@ -354,6 +384,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SHARONVILLE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "SIDNEY",
           "state": "OH",
           "status": "Available"
@@ -389,6 +424,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "VAN WERT",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "WARREN",
           "state": "OH",
           "status": "Fully Booked"
@@ -416,7 +456,7 @@
         {
           "city": "WILLOUGHBY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILMINGTON",

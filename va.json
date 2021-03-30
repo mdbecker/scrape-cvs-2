@@ -21,7 +21,7 @@
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -116,7 +116,7 @@
         {
           "city": "DALE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALEVILLE",
@@ -136,7 +136,7 @@
         {
           "city": "DUMFRIES",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EMPORIA",
@@ -167,6 +167,11 @@
           "city": "GAINESVILLE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GATE CITY",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "GLEN ALLEN",
@@ -324,6 +329,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "STAUNTON",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "STERLING",
           "state": "VA",
           "status": "Fully Booked"
@@ -341,7 +351,7 @@
         {
           "city": "VIENNA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VIRGINIA BEACH",
