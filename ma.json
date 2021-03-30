@@ -46,7 +46,7 @@
         {
           "city": "ATHOL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATTLEBORO",
@@ -790,6 +790,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
