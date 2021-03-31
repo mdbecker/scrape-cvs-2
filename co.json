@@ -46,10 +46,10 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
