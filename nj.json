@@ -441,7 +441,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANAHAWKIN",
@@ -941,7 +941,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
