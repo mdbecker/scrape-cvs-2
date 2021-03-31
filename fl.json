@@ -11,7 +11,7 @@
         {
           "city": "APOPKA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
@@ -46,7 +46,7 @@
         {
           "city": "BRADENTON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRANDON",
@@ -96,7 +96,7 @@
         {
           "city": "CLERMONT",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEWISTON",
@@ -106,7 +106,7 @@
         {
           "city": "COCOA",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COCONUT CREEK",
@@ -241,7 +241,7 @@
         {
           "city": "INDIALANTIC",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INVERNESS",
@@ -316,7 +316,7 @@
         {
           "city": "LONGWOOD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MACCLENNY",
@@ -341,7 +341,7 @@
         {
           "city": "MERRITT ISLAND",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIAMI",
@@ -391,7 +391,7 @@
         {
           "city": "NEW PORT RICHEY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW SMYRNA BEACH",
@@ -431,7 +431,7 @@
         {
           "city": "OKEECHOBEE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE PARK",
@@ -456,7 +456,7 @@
         {
           "city": "PALM BAY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM BEACH GARDENS",
@@ -476,7 +476,7 @@
         {
           "city": "PALMETTO",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALMETTO BAY",
@@ -541,7 +541,7 @@
         {
           "city": "ROCKLEDGE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROYAL PALM BEACH",
@@ -566,7 +566,7 @@
         {
           "city": "SANFORD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARASOTA",
@@ -631,12 +631,12 @@
         {
           "city": "TITUSVILLE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALRICO",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VENICE",
@@ -646,7 +646,7 @@
         {
           "city": "VERO BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAUCHULA",
@@ -696,12 +696,12 @@
         {
           "city": "WINTER PARK",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINTER SPRINGS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
