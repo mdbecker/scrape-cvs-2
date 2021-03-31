@@ -21,7 +21,7 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALLEN",
@@ -616,7 +616,7 @@
         {
           "city": "LUFKIN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANSFIELD",
@@ -991,7 +991,7 @@
         {
           "city": "VICTORIA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VIDOR",
@@ -1066,7 +1066,7 @@
         {
           "city": "ZAPATA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
