@@ -36,7 +36,7 @@
         {
           "city": "GUAYNABO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANATI",
@@ -51,7 +51,7 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOA BAJA",
@@ -70,6 +70,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
