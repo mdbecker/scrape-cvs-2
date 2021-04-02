@@ -336,7 +336,7 @@
         {
           "city": "FALCONER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FARMINGDALE",
@@ -1026,7 +1026,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
