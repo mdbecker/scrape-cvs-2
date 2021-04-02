@@ -11,7 +11,7 @@
         {
           "city": "DOVER",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -35,6 +35,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
