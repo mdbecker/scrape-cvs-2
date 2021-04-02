@@ -531,7 +531,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
