@@ -131,7 +131,7 @@
         {
           "city": "CLEMENTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLIFTON",
@@ -286,7 +286,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
@@ -441,7 +441,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -676,7 +676,7 @@
         {
           "city": "PLEASANTVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POMONA",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
