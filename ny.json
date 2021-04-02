@@ -151,7 +151,7 @@
         {
           "city": "CAMBRIA HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARMEL",
@@ -171,7 +171,7 @@
         {
           "city": "CENTEREACH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CENTRAL ISLIP",
@@ -581,7 +581,7 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETOWN",
@@ -631,7 +631,7 @@
         {
           "city": "NEW YORK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURGH",
@@ -726,7 +726,7 @@
         {
           "city": "PENFIELD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PENN YAN",
@@ -836,12 +836,12 @@
         {
           "city": "SETAUKET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHIRLEY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SKANEATELES",
@@ -861,7 +861,7 @@
         {
           "city": "SOUTHAMPTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STATEN ISLAND",
@@ -1026,7 +1026,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
