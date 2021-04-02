@@ -16,7 +16,7 @@
         {
           "city": "ALPHARETTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATHENS",
@@ -41,7 +41,12 @@
         {
           "city": "CANTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CARTERSVILLE",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "CHAMBLEE",
@@ -86,7 +91,7 @@
         {
           "city": "FOREST PARK",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
@@ -104,6 +109,11 @@
           "status": "Available"
         },
         {
+          "city": "MACON",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "MARIETTA",
           "state": "GA",
           "status": "Available"
@@ -111,7 +121,17 @@
         {
           "city": "MCDONOUGH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MONROE",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "NEWNAN",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "NORCROSS",
@@ -121,7 +141,12 @@
         {
           "city": "PEACHTREE CITY",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PERRY",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
@@ -136,7 +161,7 @@
         {
           "city": "ROSWELL",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANDERSVILLE",
@@ -155,6 +180,11 @@
         },
         {
           "city": "UNION CITY",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "VIDALIA",
           "state": "GA",
           "status": "Available"
         },

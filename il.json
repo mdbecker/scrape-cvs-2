@@ -11,7 +11,7 @@
         {
           "city": "AURORA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLEVILLE",
@@ -24,14 +24,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CALUMET CITY",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "CANTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICAGO",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CHICAGO HEIGHTS",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "COLLINSVILLE",
@@ -41,12 +51,22 @@
         {
           "city": "CRYSTAL LAKE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "DECATUR",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "DEKALB",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "EVANSTON",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "FLOSSMOOR",
@@ -59,19 +79,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GLENDALE HEIGHTS",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KANKAKEE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEWANEE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEMONT",
@@ -81,7 +106,7 @@
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORMAL",
@@ -111,7 +136,7 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEORIA",
@@ -139,6 +164,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SHOREWOOD",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "SPRINGFIELD",
           "state": "IL",
           "status": "Available"
@@ -146,7 +176,7 @@
         {
           "city": "WAUKEGAN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEATON",

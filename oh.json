@@ -86,7 +86,7 @@
         {
           "city": "CINCINNATI",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEVELAND",
@@ -111,17 +111,17 @@
         {
           "city": "DAYTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DENNISON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOVER",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOYLESTOWN",
@@ -151,7 +151,7 @@
         {
           "city": "FINDLAY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN",
@@ -161,7 +161,7 @@
         {
           "city": "FREMONT",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAHANNA",
@@ -182,6 +182,11 @@
           "city": "HAMILTON",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HARRISON",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "HEATH",
@@ -221,7 +226,7 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LORAIN",
@@ -241,7 +246,7 @@
         {
           "city": "MANSFIELD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARIETTA",
@@ -296,7 +301,7 @@
         {
           "city": "MORAINE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT HEALTHY",
@@ -341,7 +346,7 @@
         {
           "city": "OAK HILL",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OBERLIN",
@@ -451,7 +456,7 @@
         {
           "city": "WHITEHALL",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLOUGHBY",
@@ -461,7 +466,7 @@
         {
           "city": "WILMINGTON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODVILLE",

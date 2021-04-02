@@ -9,6 +9,11 @@
     "data": {
       "PR": [
         {
+          "city": "ARECIBO",
+          "state": "PR",
+          "status": "Available"
+        },
+        {
           "city": "BAYAMON",
           "state": "PR",
           "status": "Available"
@@ -26,7 +31,7 @@
         {
           "city": "DORADO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAJARDO",

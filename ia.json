@@ -21,17 +21,22 @@
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COUNCIL BLUFFS",
           "state": "IA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "IOWA CITY",
+          "state": "IA",
+          "status": "Available"
         },
         {
           "city": "URBANDALE",
@@ -46,10 +51,10 @@
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

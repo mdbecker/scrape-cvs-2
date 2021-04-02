@@ -9,12 +9,27 @@
     "data": {
       "IN": [
         {
+          "city": "ANDERSON",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "BLOOMFIELD",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "BLOOMINGTON",
           "state": "IN",
           "status": "Available"
         },
         {
           "city": "CHESTERTON",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "ELKHART",
           "state": "IN",
           "status": "Available"
         },
@@ -44,7 +59,22 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KOKOMO",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "LAFAYETTE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "LAGRANGE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "MICHIGAN CITY",
           "state": "IN",
           "status": "Available"
         },
@@ -64,12 +94,22 @@
           "status": "Available"
         },
         {
+          "city": "PORTAGE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH BEND",
           "state": "IN",
           "status": "Available"
         },
         {
           "city": "TERRE HAUTE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "WARSAW",
           "state": "IN",
           "status": "Available"
         }

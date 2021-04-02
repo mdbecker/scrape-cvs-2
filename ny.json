@@ -121,7 +121,7 @@
         {
           "city": "BRONX",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRONXVILLE",
@@ -131,7 +131,7 @@
         {
           "city": "BROOKLYN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFFALO",
@@ -171,7 +171,7 @@
         {
           "city": "CENTEREACH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTRAL ISLIP",
@@ -186,7 +186,7 @@
         {
           "city": "CHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CICERO",
@@ -271,7 +271,7 @@
         {
           "city": "DUNKIRK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST GREENBUSH",
@@ -316,7 +316,7 @@
         {
           "city": "ELMSFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENDICOTT",
@@ -331,12 +331,12 @@
         {
           "city": "FAIRPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALCONER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FARMINGDALE",
@@ -396,7 +396,7 @@
         {
           "city": "GOSHEN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREAT NECK",
@@ -436,7 +436,7 @@
         {
           "city": "HILTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONEOYE",
@@ -475,6 +475,11 @@
         },
         {
           "city": "ITHACA",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "JACKSON HEIGHTS",
           "state": "NY",
           "status": "Available"
         },
@@ -576,12 +581,12 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLERTON",
@@ -626,7 +631,7 @@
         {
           "city": "NEW YORK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURGH",
@@ -716,12 +721,12 @@
         {
           "city": "PEEKSKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENFIELD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENN YAN",
@@ -742,6 +747,11 @@
           "city": "POUGHKEEPSIE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "QUEENS VILLAGE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
@@ -826,12 +836,12 @@
         {
           "city": "SETAUKET",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHIRLEY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SKANEATELES",
@@ -851,7 +861,7 @@
         {
           "city": "SOUTHAMPTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STATEN ISLAND",
@@ -986,7 +996,7 @@
         {
           "city": "WHITE PLAINS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITESTONE",

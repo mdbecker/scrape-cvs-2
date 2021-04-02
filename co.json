@@ -14,6 +14,16 @@
           "status": "Available"
         },
         {
+          "city": "BOULDER",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
+          "city": "BRIGHTON",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
           "city": "DENVER",
           "state": "CO",
           "status": "Fully Booked"
@@ -21,7 +31,7 @@
         {
           "city": "EDGEWATER",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDALE",
@@ -46,7 +56,17 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SHERIDAN",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
+          "city": "THORNTON",
+          "state": "CO",
+          "status": "Available"
         }
       ]
     },
