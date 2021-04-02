@@ -131,7 +131,7 @@
         {
           "city": "CARVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
@@ -151,7 +151,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COHASSET",
@@ -790,6 +790,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
