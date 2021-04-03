@@ -36,7 +36,7 @@
         {
           "city": "ALHAMBRA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALISO VIEJO",
@@ -516,7 +516,7 @@
         {
           "city": "GILROY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDALE",
@@ -1286,7 +1286,7 @@
         {
           "city": "SAN DIEGO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIMAS",
@@ -1386,7 +1386,7 @@
         {
           "city": "SANTA CRUZ",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA MARIA",
