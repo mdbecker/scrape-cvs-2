@@ -56,7 +56,7 @@
         {
           "city": "BLACKWOOD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLOOMFIELD",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
