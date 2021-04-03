@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARNEGAT",
@@ -531,7 +531,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -746,7 +746,7 @@
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SICKLERVILLE",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
