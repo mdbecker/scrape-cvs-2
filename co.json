@@ -21,7 +21,7 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENVER",
@@ -56,7 +56,7 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHERIDAN",
@@ -66,10 +66,10 @@
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
