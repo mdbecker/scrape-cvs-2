@@ -41,7 +41,7 @@
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOCESTER",
@@ -51,7 +51,7 @@
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NARRAGANSETT",
@@ -150,6 +150,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
