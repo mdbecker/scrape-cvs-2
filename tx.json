@@ -41,7 +41,7 @@
         {
           "city": "ALVIN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMARILLO",
@@ -216,7 +216,7 @@
         {
           "city": "CHANNELVIEW",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CIBOLO",
@@ -996,7 +996,7 @@
         {
           "city": "VICTORIA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VIDOR",
@@ -1071,7 +1071,7 @@
         {
           "city": "ZAPATA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
