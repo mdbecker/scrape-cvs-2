@@ -21,12 +21,12 @@
         {
           "city": "CAGUAS",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAROLINA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DORADO",
@@ -56,7 +56,7 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOA BAJA",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
