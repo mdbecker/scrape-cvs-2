@@ -46,7 +46,7 @@
         {
           "city": "BERLIN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERNARDSVILLE",
@@ -441,7 +441,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANAHAWKIN",
@@ -476,7 +476,7 @@
         {
           "city": "MARLTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARMORA",
@@ -556,7 +556,7 @@
         {
           "city": "MOUNT LAUREL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MULLICA HILL",
@@ -676,7 +676,7 @@
         {
           "city": "PLEASANTVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -751,7 +751,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHVILLE",
@@ -921,7 +921,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
@@ -941,7 +941,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
