@@ -11,7 +11,7 @@
         {
           "city": "ARECIBO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAYAMON",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
