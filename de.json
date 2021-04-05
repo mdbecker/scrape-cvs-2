@@ -16,7 +16,7 @@
         {
           "city": "NEWARK",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN VIEW",
@@ -35,6 +35,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
