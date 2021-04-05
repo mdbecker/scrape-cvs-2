@@ -86,7 +86,7 @@
         {
           "city": "BOSTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOURNE",
@@ -151,7 +151,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COHASSET",
@@ -346,7 +346,7 @@
         {
           "city": "LEOMINSTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEXINGTON",
@@ -366,7 +366,7 @@
         {
           "city": "LUNENBURG",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LYNN",
@@ -416,7 +416,7 @@
         {
           "city": "METHUEN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLEBOROUGH",
@@ -561,7 +561,7 @@
         {
           "city": "REVERE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSLINDALE",
@@ -641,7 +641,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONEHAM",
@@ -790,6 +790,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
