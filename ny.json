@@ -116,7 +116,7 @@
         {
           "city": "BROCKPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRONX",
@@ -696,7 +696,7 @@
         {
           "city": "OSSINING",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OWEGO",
@@ -1026,7 +1026,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
