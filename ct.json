@@ -141,7 +141,7 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MERIDEN",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
