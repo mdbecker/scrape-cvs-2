@@ -921,7 +921,7 @@
         {
           "city": "WESTAMPTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHIPPANY",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
