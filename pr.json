@@ -61,7 +61,7 @@
         {
           "city": "TOA BAJA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VEGA ALTA",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
