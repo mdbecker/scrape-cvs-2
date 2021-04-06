@@ -59,6 +59,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BRISTOW",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "BURKE",
           "state": "VA",
           "status": "Fully Booked"
@@ -71,7 +76,7 @@
         {
           "city": "CHARLOTTESVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHASE CITY",
@@ -171,7 +176,7 @@
         {
           "city": "GATE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN ALLEN",
@@ -309,6 +314,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SALEM",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH BOSTON",
           "state": "VA",
           "status": "Fully Booked"
@@ -331,7 +341,7 @@
         {
           "city": "STAUNTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STERLING",
@@ -396,7 +406,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

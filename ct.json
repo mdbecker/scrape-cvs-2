@@ -96,7 +96,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALES FERRY",
@@ -106,7 +106,7 @@
         {
           "city": "GLASTONBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GUILFORD",
@@ -126,7 +126,7 @@
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LISBON",
@@ -196,7 +196,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKVILLE",
@@ -211,7 +211,7 @@
         {
           "city": "PLAINVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT",
@@ -226,12 +226,17 @@
         {
           "city": "RIDGEFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ROCKY HILL",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "SHELTON",
@@ -291,7 +296,7 @@
         {
           "city": "WEST HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HAVEN",
@@ -320,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

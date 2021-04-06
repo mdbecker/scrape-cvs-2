@@ -11,12 +11,12 @@
         {
           "city": "ALBANY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMITYVILLE",
@@ -34,6 +34,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ARMONK",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "ASTORIA",
           "state": "NY",
           "status": "Fully Booked"
@@ -46,7 +51,7 @@
         {
           "city": "AVON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALDWIN",
@@ -66,12 +71,12 @@
         {
           "city": "BAY SHORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD HILLS",
@@ -81,7 +86,7 @@
         {
           "city": "BELLEROSE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLMORE",
@@ -116,7 +121,7 @@
         {
           "city": "BROCKPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRONX",
@@ -131,12 +136,12 @@
         {
           "city": "BROOKLYN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFFALO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURNT HILLS",
@@ -151,7 +156,7 @@
         {
           "city": "CAMBRIA HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARMEL",
@@ -241,12 +246,17 @@
         {
           "city": "CORTLAND",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "DANSVILLE",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "DEER PARK",
@@ -256,7 +266,7 @@
         {
           "city": "DELMAR",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEPEW",
@@ -321,7 +331,7 @@
         {
           "city": "ENDICOTT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENDWELL",
@@ -406,7 +416,7 @@
         {
           "city": "GREECE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWICH",
@@ -476,7 +486,7 @@
         {
           "city": "ITHACA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSON HEIGHTS",
@@ -487,6 +497,11 @@
           "city": "JAMAICA",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "JAMESTOWN",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "JOHNSON CITY",
@@ -556,7 +571,7 @@
         {
           "city": "MAMARONECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANORVILLE",
@@ -581,7 +596,7 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -631,7 +646,7 @@
         {
           "city": "NEW YORK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURGH",
@@ -686,7 +701,7 @@
         {
           "city": "ORANGEBURG",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORCHARD PARK",
@@ -721,7 +736,7 @@
         {
           "city": "PEEKSKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENFIELD",
@@ -751,12 +766,17 @@
         {
           "city": "QUEENS VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RED HOOK",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "RENSSELAER",
@@ -776,7 +796,7 @@
         {
           "city": "ROCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKAWAY BEACH",
@@ -826,7 +846,7 @@
         {
           "city": "SCHENECTADY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SELDEN",
@@ -866,7 +886,7 @@
         {
           "city": "STATEN ISLAND",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
@@ -921,7 +941,7 @@
         {
           "city": "WADING RIVER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALTON",
@@ -951,7 +971,7 @@
         {
           "city": "WAYLAND",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEBSTER",
@@ -1001,7 +1021,7 @@
         {
           "city": "WHITESTONE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLISTON PARK",

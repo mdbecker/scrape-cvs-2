@@ -86,7 +86,7 @@
         {
           "city": "BUDD LAKE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -186,7 +186,7 @@
         {
           "city": "EAST RUTHERFORD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST WINDSOR",
@@ -222,6 +222,11 @@
           "city": "ENGLEWOOD",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "EVESHAM TOWNSHIP",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "EWING",
@@ -286,7 +291,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -321,7 +326,7 @@
         {
           "city": "HAMILTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HASKELL",
@@ -441,7 +446,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANAHAWKIN",
@@ -476,7 +481,7 @@
         {
           "city": "MARLTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARMORA",
@@ -554,6 +559,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MOUNT EPHRAIM",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "MOUNT LAUREL",
           "state": "NJ",
           "status": "Fully Booked"
@@ -581,7 +591,7 @@
         {
           "city": "NEW PROVIDENCE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
@@ -689,9 +699,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RAMSEY",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "RANDOLPH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RINGWOOD",
@@ -874,6 +889,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WENONAH",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "WEST CALDWELL",
           "state": "NJ",
           "status": "Fully Booked"
@@ -901,7 +921,7 @@
         {
           "city": "WESTAMPTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHIPPANY",
@@ -921,7 +941,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
@@ -950,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

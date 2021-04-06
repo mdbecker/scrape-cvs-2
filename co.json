@@ -16,7 +16,7 @@
         {
           "city": "BOULDER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIGHTON",
@@ -24,9 +24,19 @@
           "status": "Available"
         },
         {
+          "city": "CASTLE ROCK",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
+          "city": "COLORADO SPRINGS",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
           "city": "DENVER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
@@ -36,7 +46,7 @@
         {
           "city": "GLENDALE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREELEY",
@@ -49,12 +59,22 @@
           "status": "Available"
         },
         {
+          "city": "LITTLETON",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
           "city": "LONGMONT",
           "state": "CO",
           "status": "Available"
         },
         {
           "city": "LOVELAND",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
+          "city": "PARKER",
           "state": "CO",
           "status": "Available"
         },

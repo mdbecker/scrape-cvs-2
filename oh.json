@@ -56,7 +56,7 @@
         {
           "city": "BRYAN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUCYRUS",
@@ -71,7 +71,7 @@
         {
           "city": "CELINA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHAGRIN FALLS",
@@ -156,7 +156,7 @@
         {
           "city": "FRANKLIN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREMONT",
@@ -171,7 +171,7 @@
         {
           "city": "GALLIPOLIS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GENEVA",
@@ -207,6 +207,11 @@
           "city": "JOHNSTOWN",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "KENT",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "KETTERING",
@@ -251,12 +256,12 @@
         {
           "city": "MARIETTA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARYSVILLE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -286,7 +291,7 @@
         {
           "city": "MIDDLETOWN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILFORD",
@@ -391,7 +396,7 @@
         {
           "city": "SHARONVILLE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIDNEY",
@@ -409,12 +414,22 @@
           "status": "Available"
         },
         {
+          "city": "STREETSBORO",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "TIPP CITY",
           "state": "OH",
           "status": "Fully Booked"
         },
         {
           "city": "TOLEDO",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "TWINSBURG",
           "state": "OH",
           "status": "Available"
         },
@@ -431,12 +446,12 @@
         {
           "city": "VAN WERT",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAVERLY",
