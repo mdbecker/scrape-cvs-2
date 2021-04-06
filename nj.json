@@ -186,7 +186,7 @@
         {
           "city": "EAST RUTHERFORD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST WINDSOR",
@@ -286,7 +286,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -581,7 +581,7 @@
         {
           "city": "NEW PROVIDENCE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
@@ -950,6 +950,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

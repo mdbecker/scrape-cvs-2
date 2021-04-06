@@ -126,7 +126,7 @@
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LISBON",
@@ -211,7 +211,7 @@
         {
           "city": "PLAINVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT",
@@ -320,6 +320,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
