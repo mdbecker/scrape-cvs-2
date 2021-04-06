@@ -26,7 +26,7 @@
         {
           "city": "CAROLINA",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DORADO",
@@ -41,7 +41,7 @@
         {
           "city": "GUAYNABO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANATI",
@@ -56,12 +56,12 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOA BAJA",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VEGA ALTA",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
