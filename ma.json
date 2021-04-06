@@ -51,7 +51,7 @@
         {
           "city": "ATHOL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATTLEBORO",
@@ -801,7 +801,7 @@
         {
           "city": "WINCHENDON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHESTER",
@@ -835,6 +835,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
