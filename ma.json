@@ -36,7 +36,7 @@
         {
           "city": "ANDOVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARLINGTON",
@@ -51,7 +51,7 @@
         {
           "city": "ATHOL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATTLEBORO",
@@ -241,7 +241,7 @@
         {
           "city": "GARDNER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GEORGETOWN",
@@ -291,12 +291,12 @@
         {
           "city": "HARWICHPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HINGHAM",
@@ -351,7 +351,7 @@
         {
           "city": "LAKEVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANESBOROUGH",
@@ -361,7 +361,7 @@
         {
           "city": "LAWRENCE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEOMINSTER",
@@ -496,7 +496,7 @@
         {
           "city": "NORTH ANDOVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ATTLEBOROUGH",
@@ -526,7 +526,7 @@
         {
           "city": "NORTH READING",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHAMPTON",
@@ -566,7 +566,7 @@
         {
           "city": "PLYMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PROVINCETOWN",
@@ -586,7 +586,7 @@
         {
           "city": "RAYNHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "READING",
@@ -796,12 +796,12 @@
         {
           "city": "WILMINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHENDON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHESTER",
@@ -835,6 +835,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

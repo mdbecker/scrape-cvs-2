@@ -226,7 +226,7 @@
         {
           "city": "EVESHAM TOWNSHIP",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EWING",
@@ -291,7 +291,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
@@ -446,7 +446,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -891,7 +891,7 @@
         {
           "city": "WENONAH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CALDWELL",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
