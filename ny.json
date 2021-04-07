@@ -256,7 +256,7 @@
         {
           "city": "DANSVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEER PARK",
@@ -971,7 +971,7 @@
         {
           "city": "WAYLAND",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEBSTER",
@@ -1050,6 +1050,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

@@ -31,7 +31,7 @@
         {
           "city": "CAMP VERDE",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAVE CREEK",
@@ -46,7 +46,7 @@
         {
           "city": "COTTONWOOD",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOUNTAIN HILLS",
@@ -116,7 +116,7 @@
         {
           "city": "SIERRA VISTA",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUN CITY",
@@ -155,6 +155,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

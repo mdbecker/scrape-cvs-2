@@ -11,7 +11,12 @@
         {
           "city": "ALBERTVILLE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ANDALUSIA",
+          "state": "AL",
+          "status": "Fully Booked"
         },
         {
           "city": "ANNISTON",
@@ -56,7 +61,7 @@
         {
           "city": "CALERA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -86,12 +91,12 @@
         {
           "city": "COLUMBIANA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CULLMAN",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAPHNE",
@@ -121,7 +126,7 @@
         {
           "city": "FAIRHOPE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLORENCE",
@@ -131,7 +136,7 @@
         {
           "city": "FOLEY",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FULTONDALE",
@@ -181,7 +186,7 @@
         {
           "city": "HOOVER",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUEYTOWN",
@@ -201,7 +206,7 @@
         {
           "city": "JACKSONVILLE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANETT",
@@ -246,7 +251,7 @@
         {
           "city": "MONTGOMERY",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOULTON",
@@ -256,7 +261,7 @@
         {
           "city": "MOUNTAIN BROOK",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MUSCLE SHOALS",
@@ -301,12 +306,12 @@
         {
           "city": "PINSON",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLEASANT GROVE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PRATTVILLE",
@@ -356,7 +361,7 @@
         {
           "city": "TUSCALOOSA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TUSKEGEE",
@@ -376,12 +381,12 @@
         {
           "city": "VESTAVIA HILLS",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARRIOR",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
