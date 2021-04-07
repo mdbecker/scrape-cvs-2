@@ -106,7 +106,7 @@
         {
           "city": "GLASTONBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GUILFORD",
@@ -126,7 +126,7 @@
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LISBON",
@@ -196,7 +196,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAKVILLE",
@@ -296,7 +296,7 @@
         {
           "city": "WEST HARTFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HAVEN",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
