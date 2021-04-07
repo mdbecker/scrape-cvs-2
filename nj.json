@@ -291,7 +291,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
