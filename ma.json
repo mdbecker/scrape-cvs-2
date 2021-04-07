@@ -26,7 +26,7 @@
         {
           "city": "ALLSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
@@ -51,7 +51,7 @@
         {
           "city": "ATHOL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATTLEBORO",
@@ -116,7 +116,7 @@
         {
           "city": "BROCKTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROOKLINE",
@@ -361,12 +361,12 @@
         {
           "city": "LAWRENCE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEOMINSTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEXINGTON",
@@ -391,7 +391,7 @@
         {
           "city": "LYNN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALDEN",
@@ -506,7 +506,7 @@
         {
           "city": "NORTH BILLERICA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH DARTMOUTH",
@@ -546,7 +546,7 @@
         {
           "city": "OXFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALMER",
@@ -556,7 +556,7 @@
         {
           "city": "PEABODY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLAINVILLE",
@@ -566,7 +566,7 @@
         {
           "city": "PLYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROVINCETOWN",
@@ -686,7 +686,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONEHAM",
@@ -801,7 +801,7 @@
         {
           "city": "WINCHENDON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHESTER",
@@ -826,7 +826,7 @@
         {
           "city": "WORCESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WRENTHAM",
@@ -835,6 +835,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

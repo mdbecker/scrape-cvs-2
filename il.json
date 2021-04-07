@@ -11,7 +11,7 @@
         {
           "city": "AURORA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLEVILLE",
@@ -56,7 +56,7 @@
         {
           "city": "DECATUR",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEKALB",
@@ -111,7 +111,7 @@
         {
           "city": "NORMAL",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHBROOK",
@@ -121,7 +121,7 @@
         {
           "city": "O FALLON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK PARK",
@@ -141,7 +141,7 @@
         {
           "city": "PEORIA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
@@ -151,32 +151,32 @@
         {
           "city": "ROCK ISLAND",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKFORD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCHAUMBURG",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHOREWOOD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAUKEGAN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEATON",
@@ -185,6 +185,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
