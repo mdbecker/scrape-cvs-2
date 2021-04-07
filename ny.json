@@ -381,7 +381,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN COVE",
@@ -1050,6 +1050,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
