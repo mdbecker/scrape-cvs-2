@@ -11,17 +11,17 @@
         {
           "city": "ANDERSON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMINGTON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESTERTON",
@@ -36,7 +36,7 @@
         {
           "city": "EVANSVILLE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT WAYNE",
@@ -46,12 +46,12 @@
         {
           "city": "HUNTINGBURG",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INDIANAPOLIS",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KENTLAND",
@@ -61,17 +61,17 @@
         {
           "city": "KOKOMO",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAFAYETTE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAGRANGE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MICHIGAN CITY",
@@ -96,25 +96,25 @@
         {
           "city": "PORTAGE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH BEND",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TERRE HAUTE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARSAW",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

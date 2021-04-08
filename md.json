@@ -36,7 +36,7 @@
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHESDA",
@@ -71,7 +71,7 @@
         {
           "city": "CHESTER",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHEVY CHASE",
@@ -126,7 +126,7 @@
         {
           "city": "EDGEWOOD",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -161,7 +161,7 @@
         {
           "city": "FREDERICK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTON",
@@ -181,7 +181,7 @@
         {
           "city": "GERMANTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN BURNIE",
@@ -261,7 +261,7 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
@@ -281,7 +281,7 @@
         {
           "city": "PASADENA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PIKESVILLE",
@@ -306,7 +306,7 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -341,12 +341,12 @@
         {
           "city": "TEMPLE HILLS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOWSON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPPER MARLBORO",
@@ -380,6 +380,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
