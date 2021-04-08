@@ -21,7 +21,7 @@
         {
           "city": "CAGUAS",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAROLINA",
@@ -56,12 +56,12 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOA BAJA",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VEGA ALTA",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
