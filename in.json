@@ -11,17 +11,17 @@
         {
           "city": "ANDERSON",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLOOMFIELD",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BLOOMINGTON",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHESTERTON",
@@ -36,7 +36,7 @@
         {
           "city": "EVANSVILLE",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT WAYNE",
@@ -46,12 +46,12 @@
         {
           "city": "HUNTINGBURG",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIANAPOLIS",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KENTLAND",
@@ -61,17 +61,17 @@
         {
           "city": "KOKOMO",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAFAYETTE",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAGRANGE",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MICHIGAN CITY",
@@ -101,20 +101,20 @@
         {
           "city": "SOUTH BEND",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TERRE HAUTE",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARSAW",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

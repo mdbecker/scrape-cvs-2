@@ -126,7 +126,7 @@
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LISBON",
@@ -141,7 +141,7 @@
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MERIDEN",
@@ -166,7 +166,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CANAAN",
@@ -196,7 +196,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKVILLE",
@@ -301,7 +301,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLIMANTIC",
@@ -311,7 +311,7 @@
         {
           "city": "WINDSOR",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR LOCKS",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
