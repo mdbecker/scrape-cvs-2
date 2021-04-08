@@ -31,7 +31,7 @@
         {
           "city": "HAUULA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HILO",
@@ -81,7 +81,7 @@
         {
           "city": "KEAAU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KIHEI",
@@ -96,7 +96,7 @@
         {
           "city": "LAHAINA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIHUE",
@@ -131,17 +131,17 @@
         {
           "city": "WAHIAWA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAIANAE",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAILUKU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAIPAHU",
@@ -150,6 +150,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

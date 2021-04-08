@@ -76,7 +76,7 @@
         {
           "city": "CHARLOTTESVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHASE CITY",
@@ -131,7 +131,7 @@
         {
           "city": "DANVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBLIN",
@@ -146,7 +146,7 @@
         {
           "city": "EMPORIA",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX",
@@ -176,7 +176,7 @@
         {
           "city": "GATE CITY",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN ALLEN",
@@ -281,7 +281,7 @@
         {
           "city": "PULASKI",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RESTON",
@@ -291,7 +291,7 @@
         {
           "city": "RICHLANDS",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RICHMOND",
@@ -301,7 +301,7 @@
         {
           "city": "ROANOKE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKY MOUNT",
@@ -341,7 +341,7 @@
         {
           "city": "STAUNTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STERLING",
@@ -410,6 +410,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

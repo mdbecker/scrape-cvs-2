@@ -11,7 +11,7 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ADDISON",
@@ -26,12 +26,12 @@
         {
           "city": "ALICE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALLEN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALTON",
@@ -131,7 +131,7 @@
         {
           "city": "BELLAIRE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BENBROOK",
@@ -161,7 +161,7 @@
         {
           "city": "BRIDGE CITY",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROWNSVILLE",
@@ -171,7 +171,7 @@
         {
           "city": "BROWNWOOD",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRYAN",
@@ -206,17 +206,17 @@
         {
           "city": "CARTHAGE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CASTLE HILLS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR HILL",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR PARK",
@@ -291,7 +291,7 @@
         {
           "city": "CORPUS CHRISTI",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORSICANA",
@@ -336,7 +336,7 @@
         {
           "city": "DICKINSON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DONNA",
@@ -476,7 +476,7 @@
         {
           "city": "GUN BARREL CITY",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARLINGEN",
@@ -496,7 +496,7 @@
         {
           "city": "HENDERSON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOUSTON",
@@ -636,22 +636,22 @@
         {
           "city": "LONGVIEW",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LUBBOCK",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LUFKIN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LUMBERTON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANSFIELD",
@@ -721,7 +721,7 @@
         {
           "city": "MISSOURI CITY",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTGOMERY",
@@ -731,7 +731,7 @@
         {
           "city": "MOUNT PLEASANT",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MURPHY",
@@ -756,7 +756,7 @@
         {
           "city": "ODESSA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORANGE",
@@ -766,7 +766,7 @@
         {
           "city": "PALESTINE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PANTEGO",
@@ -801,7 +801,7 @@
         {
           "city": "PLAINVIEW",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLANO",
@@ -876,7 +876,7 @@
         {
           "city": "ROSENBERG",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSHARON",
@@ -901,7 +901,7 @@
         {
           "city": "SAN ANGELO",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN ANTONIO",
@@ -1011,7 +1011,7 @@
         {
           "city": "TEXARKANA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TEXAS CITY",
@@ -1046,7 +1046,7 @@
         {
           "city": "VICTORIA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VIDOR",
@@ -1101,7 +1101,7 @@
         {
           "city": "WHITEHOUSE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WICHITA FALLS",
@@ -1130,6 +1130,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

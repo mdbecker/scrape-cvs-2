@@ -36,7 +36,7 @@
         {
           "city": "BLUFFTON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRECKSVILLE",
@@ -56,7 +56,7 @@
         {
           "city": "BRYAN",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BUCYRUS",
@@ -71,7 +71,7 @@
         {
           "city": "CELINA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHAGRIN FALLS",
@@ -86,12 +86,12 @@
         {
           "city": "CINCINNATI",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLEVELAND",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLEVELAND HEIGHTS",
@@ -116,7 +116,7 @@
         {
           "city": "DENNISON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DOVER",
@@ -136,7 +136,7 @@
         {
           "city": "EATON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRBORN",
@@ -156,7 +156,7 @@
         {
           "city": "FRANKLIN",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FREMONT",
@@ -171,7 +171,7 @@
         {
           "city": "GALLIPOLIS",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GENEVA",
@@ -186,7 +186,7 @@
         {
           "city": "HARRISON",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEATH",
@@ -256,12 +256,12 @@
         {
           "city": "MARIETTA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARYSVILLE",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -291,7 +291,7 @@
         {
           "city": "MIDDLETOWN",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILFORD",
@@ -351,7 +351,7 @@
         {
           "city": "OAK HILL",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OBERLIN",
@@ -366,7 +366,7 @@
         {
           "city": "PIQUA",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RAVENNA",
@@ -396,12 +396,12 @@
         {
           "city": "SHARONVILLE",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIDNEY",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH EUCLID",
@@ -411,12 +411,12 @@
         {
           "city": "SPRINGFIELD",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STREETSBORO",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TIPP CITY",
@@ -446,12 +446,12 @@
         {
           "city": "VAN WERT",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARREN",
           "state": "OH",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAVERLY",
@@ -505,6 +505,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

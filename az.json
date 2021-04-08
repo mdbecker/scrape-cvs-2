@@ -36,17 +36,17 @@
         {
           "city": "CAVE CREEK",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHANDLER",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COTTONWOOD",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOUNTAIN HILLS",
@@ -106,7 +106,7 @@
         {
           "city": "SCOTTSDALE",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEDONA",
@@ -141,7 +141,7 @@
         {
           "city": "TUCSON",
           "state": "AZ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WICKENBURG",
@@ -155,6 +155,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

@@ -31,12 +31,12 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BETHESDA",
@@ -71,7 +71,7 @@
         {
           "city": "CHESTER",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHEVY CHASE",
@@ -261,7 +261,7 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN CITY",
@@ -341,7 +341,7 @@
         {
           "city": "TEMPLE HILLS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOWSON",
@@ -366,7 +366,7 @@
         {
           "city": "WESTMINSTER",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHEATON",
@@ -380,6 +380,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

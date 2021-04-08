@@ -11,7 +11,7 @@
         {
           "city": "AURORA",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELLEVILLE",
@@ -56,7 +56,7 @@
         {
           "city": "DECATUR",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEKALB",
@@ -111,7 +111,7 @@
         {
           "city": "NORMAL",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHBROOK",
@@ -121,7 +121,7 @@
         {
           "city": "O FALLON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAK PARK",
@@ -141,42 +141,42 @@
         {
           "city": "PEORIA",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERDALE",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCK ISLAND",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKFORD",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCHAUMBURG",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHOREWOOD",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SPRINGFIELD",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAUKEGAN",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHEATON",
@@ -185,6 +185,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

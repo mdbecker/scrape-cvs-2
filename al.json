@@ -11,7 +11,7 @@
         {
           "city": "ALBERTVILLE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANDALUSIA",
@@ -26,7 +26,7 @@
         {
           "city": "ATHENS",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATTALLA",
@@ -41,7 +41,7 @@
         {
           "city": "BAY MINETTE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAYOU LA BATRE",
@@ -56,12 +56,12 @@
         {
           "city": "BIRMINGHAM",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CALERA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -81,7 +81,7 @@
         {
           "city": "CHILDERSBURG",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CITRONELLE",
@@ -91,12 +91,12 @@
         {
           "city": "COLUMBIANA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CULLMAN",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAPHNE",
@@ -126,7 +126,7 @@
         {
           "city": "FAIRHOPE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLORENCE",
@@ -136,7 +136,7 @@
         {
           "city": "FOLEY",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FULTONDALE",
@@ -181,7 +181,7 @@
         {
           "city": "HOMEWOOD",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOOVER",
@@ -196,7 +196,7 @@
         {
           "city": "HUNTSVILLE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JACKSON",
@@ -206,7 +206,7 @@
         {
           "city": "JACKSONVILLE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANETT",
@@ -241,7 +241,7 @@
         {
           "city": "MOBILE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTEVALLO",
@@ -251,7 +251,7 @@
         {
           "city": "MONTGOMERY",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOULTON",
@@ -261,12 +261,12 @@
         {
           "city": "MOUNTAIN BROOK",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MUSCLE SHOALS",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHPORT",
@@ -306,12 +306,12 @@
         {
           "city": "PINSON",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLEASANT GROVE",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PRATTVILLE",
@@ -346,7 +346,7 @@
         {
           "city": "TALLADEGA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TALLASSEE",
@@ -361,7 +361,7 @@
         {
           "city": "TUSCALOOSA",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TUSKEGEE",
@@ -381,15 +381,15 @@
         {
           "city": "VESTAVIA HILLS",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARRIOR",
           "state": "AL",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

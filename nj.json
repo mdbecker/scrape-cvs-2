@@ -156,7 +156,7 @@
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -181,12 +181,12 @@
         {
           "city": "EAST ORANGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST RUTHERFORD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST WINDSOR",
@@ -281,7 +281,7 @@
         {
           "city": "GARFIELD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GIBBSBORO",
@@ -291,7 +291,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
@@ -371,7 +371,7 @@
         {
           "city": "KEARNY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KENDALL PARK",
@@ -446,7 +446,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -566,7 +566,7 @@
         {
           "city": "MOUNT LAUREL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MULLICA HILL",
@@ -596,7 +596,7 @@
         {
           "city": "NEWARK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ARLINGTON",
@@ -706,7 +706,7 @@
         {
           "city": "RANDOLPH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RINGWOOD",
@@ -736,7 +736,7 @@
         {
           "city": "ROSELLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SADDLE BROOK",
@@ -766,7 +766,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHVILLE",
@@ -896,7 +896,7 @@
         {
           "city": "WEST CALDWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CAPE MAY",
@@ -906,7 +906,7 @@
         {
           "city": "WEST NEW YORK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ORANGE",
@@ -941,7 +941,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLINGBORO",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
