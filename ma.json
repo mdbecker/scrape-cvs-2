@@ -296,7 +296,7 @@
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HINGHAM",
@@ -835,6 +835,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
