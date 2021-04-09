@@ -891,7 +891,7 @@
         {
           "city": "WENONAH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST CALDWELL",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
