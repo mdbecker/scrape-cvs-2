@@ -291,7 +291,7 @@
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREEN BROOK",
@@ -446,7 +446,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -766,7 +766,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHVILLE",
@@ -941,7 +941,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLINGBORO",
@@ -961,7 +961,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYCKOFF",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
