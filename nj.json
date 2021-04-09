@@ -226,7 +226,7 @@
         {
           "city": "EVESHAM TOWNSHIP",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EWING",
@@ -326,7 +326,7 @@
         {
           "city": "HAMILTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HASKELL",
@@ -561,7 +561,7 @@
         {
           "city": "MOUNT EPHRAIM",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT LAUREL",
@@ -591,7 +591,7 @@
         {
           "city": "NEW PROVIDENCE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
@@ -686,7 +686,7 @@
         {
           "city": "PLEASANTVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -701,7 +701,7 @@
         {
           "city": "RAMSEY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANDOLPH",
@@ -891,7 +891,7 @@
         {
           "city": "WENONAH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST CALDWELL",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
