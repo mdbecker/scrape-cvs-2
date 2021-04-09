@@ -71,7 +71,7 @@
         {
           "city": "CHESTER",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHEVY CHASE",
@@ -380,6 +380,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
