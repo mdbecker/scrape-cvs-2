@@ -71,7 +71,7 @@
         {
           "city": "BRIDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIGANTINE",
@@ -156,7 +156,7 @@
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -181,7 +181,7 @@
         {
           "city": "EAST ORANGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST RUTHERFORD",
@@ -446,7 +446,7 @@
         {
           "city": "MALAGA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANAHAWKIN",
@@ -566,7 +566,7 @@
         {
           "city": "MOUNT LAUREL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MULLICA HILL",
@@ -596,7 +596,7 @@
         {
           "city": "NEWARK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ARLINGTON",
@@ -736,7 +736,7 @@
         {
           "city": "ROSELLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SADDLE BROOK",
@@ -766,7 +766,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHVILLE",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

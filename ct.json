@@ -301,7 +301,7 @@
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",
@@ -311,7 +311,7 @@
         {
           "city": "WINDSOR",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR LOCKS",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
