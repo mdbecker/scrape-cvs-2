@@ -96,7 +96,7 @@
         {
           "city": "LAHAINA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIHUE",
@@ -141,7 +141,7 @@
         {
           "city": "WAILUKU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAIPAHU",
@@ -150,6 +150,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

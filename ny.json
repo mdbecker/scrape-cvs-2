@@ -101,7 +101,7 @@
         {
           "city": "BINGHAMTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLASDELL",
@@ -126,7 +126,7 @@
         {
           "city": "BRONX",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRONXVILLE",
@@ -726,7 +726,7 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWLING",
@@ -776,7 +776,7 @@
         {
           "city": "RED HOOK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RENSSELAER",
@@ -836,7 +836,7 @@
         {
           "city": "SAUGERTIES",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCARSDALE",
