@@ -766,7 +766,7 @@
         {
           "city": "SICKLERVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHVILLE",
@@ -941,7 +941,7 @@
         {
           "city": "WILLIAMSTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
@@ -970,6 +970,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
