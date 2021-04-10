@@ -586,7 +586,7 @@
         {
           "city": "RAYNHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "READING",
@@ -647,6 +647,11 @@
           "city": "SHREWSBURY",
           "state": "MA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SOMERSET",
+          "state": "MA",
+          "status": "Available"
         },
         {
           "city": "SOMERVILLE",

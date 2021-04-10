@@ -296,7 +296,7 @@
         {
           "city": "COMPTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONCORD",
@@ -366,7 +366,7 @@
         {
           "city": "DISCOVERY BAY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DIXON",
@@ -1421,7 +1421,7 @@
         {
           "city": "SARATOGA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAUSALITO",
@@ -1702,6 +1702,11 @@
           "city": "WINCHESTER",
           "state": "CA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WINDSOR",
+          "state": "CA",
+          "status": "Available"
         },
         {
           "city": "WOODLAND",
