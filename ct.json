@@ -236,7 +236,7 @@
         {
           "city": "ROCKY HILL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHELTON",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
