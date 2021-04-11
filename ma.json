@@ -191,7 +191,7 @@
         {
           "city": "DRACUT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST BOSTON",
@@ -840,6 +840,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
