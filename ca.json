@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO",
@@ -496,7 +496,7 @@
         {
           "city": "FREMONT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRESNO",
@@ -616,7 +616,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -1201,7 +1201,7 @@
         {
           "city": "REDWOOD CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REEDLEY",
@@ -1266,7 +1266,7 @@
         {
           "city": "SAN ANSELMO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN BERNARDINO",
@@ -1411,12 +1411,12 @@
         {
           "city": "SANTA ROSA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA",
