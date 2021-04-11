@@ -81,15 +81,15 @@
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
