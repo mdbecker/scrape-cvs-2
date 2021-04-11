@@ -21,7 +21,7 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CASTLE ROCK",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
