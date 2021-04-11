@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO",
@@ -211,7 +211,7 @@
         {
           "city": "CARLSBAD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARMEL",
@@ -496,7 +496,7 @@
         {
           "city": "FREMONT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRESNO",
@@ -951,7 +951,7 @@
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWPORT BEACH",
@@ -1201,7 +1201,7 @@
         {
           "city": "REDWOOD CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REEDLEY",
@@ -1286,7 +1286,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN DIEGO",
@@ -1326,7 +1326,7 @@
         {
           "city": "SAN LEANDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN LUIS OBISPO",
@@ -1411,12 +1411,12 @@
         {
           "city": "SANTA ROSA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SARATOGA",
@@ -1541,7 +1541,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1721,7 +1721,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUBA CITY",
