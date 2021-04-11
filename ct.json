@@ -56,7 +56,7 @@
         {
           "city": "COVENTRY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANBURY",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
