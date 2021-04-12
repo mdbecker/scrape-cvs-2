@@ -426,7 +426,7 @@
         {
           "city": "MEDFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEDFORD",
@@ -840,6 +840,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
