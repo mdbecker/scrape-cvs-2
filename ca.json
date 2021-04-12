@@ -646,7 +646,7 @@
         {
           "city": "JACKSON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KINGSBURG",
@@ -681,7 +681,7 @@
         {
           "city": "LA PUENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA QUINTA",
@@ -836,7 +836,7 @@
         {
           "city": "MARYSVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCKINLEYVILLE",
@@ -1271,7 +1271,7 @@
         {
           "city": "SAN BERNARDINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN BRUNO",
@@ -1706,7 +1706,7 @@
         {
           "city": "WINDSOR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODLAND",
