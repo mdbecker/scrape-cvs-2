@@ -31,12 +31,12 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BETHESDA",
@@ -116,7 +116,7 @@
         {
           "city": "DUNKIRK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -131,7 +131,7 @@
         {
           "city": "ELDERSBURG",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELKTON",
@@ -196,7 +196,7 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVRE DE GRACE",
@@ -241,7 +241,7 @@
         {
           "city": "LEONARDTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLERSVILLE",
@@ -341,7 +341,7 @@
         {
           "city": "TEMPLE HILLS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOWSON",

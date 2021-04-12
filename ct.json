@@ -26,7 +26,7 @@
         {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
@@ -56,12 +56,12 @@
         {
           "city": "COVENTRY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -91,7 +91,7 @@
         {
           "city": "ENFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -111,7 +111,7 @@
         {
           "city": "GUILFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMDEN",
@@ -121,12 +121,12 @@
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KENSINGTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LISBON",
@@ -166,7 +166,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CANAAN",
@@ -176,7 +176,7 @@
         {
           "city": "NEW HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW LONDON",
@@ -196,7 +196,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKVILLE",
@@ -211,7 +211,7 @@
         {
           "city": "PLAINVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PROSPECT",
@@ -236,7 +236,7 @@
         {
           "city": "ROCKY HILL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHELTON",
@@ -281,12 +281,12 @@
         {
           "city": "UNCASVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",
@@ -306,7 +306,7 @@
         {
           "city": "WILLIMANTIC",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR",
@@ -321,7 +321,7 @@
         {
           "city": "WINSTED",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
