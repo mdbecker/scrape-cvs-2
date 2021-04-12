@@ -121,7 +121,7 @@
         {
           "city": "AUBURN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AZUSA",
@@ -376,7 +376,7 @@
         {
           "city": "DOWNEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUARTE",
@@ -1726,7 +1726,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
