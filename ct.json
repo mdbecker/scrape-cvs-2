@@ -111,7 +111,7 @@
         {
           "city": "GUILFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAMDEN",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
