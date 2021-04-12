@@ -21,7 +21,7 @@
         {
           "city": "AGAWAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLSTON",
@@ -216,7 +216,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALMOUTH",
@@ -316,7 +316,7 @@
         {
           "city": "HOLYOKE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOPKINTON",
@@ -391,7 +391,7 @@
         {
           "city": "LYNN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALDEN",
@@ -441,7 +441,7 @@
         {
           "city": "METHUEN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLEBOROUGH",
@@ -481,7 +481,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURYPORT",
@@ -551,7 +551,7 @@
         {
           "city": "PALMER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEABODY",
@@ -636,7 +636,7 @@
         {
           "city": "SEEKONK",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHARON",
@@ -651,7 +651,7 @@
         {
           "city": "SOMERSET",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOMERVILLE",
@@ -691,7 +691,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONEHAM",
@@ -840,6 +840,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
