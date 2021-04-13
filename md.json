@@ -136,7 +136,7 @@
         {
           "city": "ELKTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALLSTON",
@@ -380,6 +380,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
