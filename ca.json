@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -141,7 +141,7 @@
         {
           "city": "BELL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERKELEY",
@@ -221,7 +221,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARPINTERIA",
@@ -1501,7 +1501,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH GATE",
@@ -1611,7 +1611,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UPLAND",
@@ -1656,7 +1656,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISALIA",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
