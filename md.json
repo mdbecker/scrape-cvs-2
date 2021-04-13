@@ -31,12 +31,12 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BETHESDA",
@@ -196,12 +196,12 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVRE DE GRACE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLYWOOD",
@@ -241,12 +241,12 @@
         {
           "city": "LEONARDTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLERSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CARROLLTON",
@@ -266,7 +266,7 @@
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OWINGS MILLS",
@@ -376,7 +376,7 @@
         {
           "city": "WHITE PLAINS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
