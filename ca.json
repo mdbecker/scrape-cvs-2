@@ -221,7 +221,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARPINTERIA",
@@ -271,7 +271,7 @@
         {
           "city": "CITY OF INDUSTRY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLOVERDALE",
@@ -656,7 +656,7 @@
         {
           "city": "JACKSON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KINGSBURG",
@@ -801,7 +801,7 @@
         {
           "city": "LOS ANGELES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOS GATOS",
@@ -1611,7 +1611,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPLAND",
