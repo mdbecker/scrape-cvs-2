@@ -321,7 +321,7 @@
         {
           "city": "EASTCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELMIRA",
@@ -901,7 +901,7 @@
         {
           "city": "RONKONKOMA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RYE",
@@ -1101,7 +1101,7 @@
         {
           "city": "WEST SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBURY",
