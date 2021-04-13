@@ -341,12 +341,12 @@
         {
           "city": "UNCASVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERFORD",
@@ -381,10 +381,10 @@
         {
           "city": "WINSTED",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

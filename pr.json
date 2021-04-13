@@ -16,7 +16,7 @@
         {
           "city": "BAYAMON",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAGUAS",
@@ -80,6 +80,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

@@ -116,7 +116,7 @@
         {
           "city": "CHICAGO",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICAGO HEIGHTS",
@@ -655,6 +655,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
