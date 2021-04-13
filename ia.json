@@ -31,7 +31,7 @@
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORALVILLE",
@@ -56,12 +56,12 @@
         {
           "city": "DUBUQUE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT DODGE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IOWA CITY",
@@ -81,7 +81,7 @@
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST DES MOINES",
@@ -90,6 +90,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
