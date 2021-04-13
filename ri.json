@@ -9,14 +9,19 @@
     "data": {
       "RI": [
         {
+          "city": "BARRINGTON",
+          "state": "RI",
+          "status": "Available"
+        },
+        {
           "city": "BRISTOL",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLESTOWN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COVENTRY",
@@ -56,7 +61,7 @@
         {
           "city": "NARRAGANSETT",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWPORT",
@@ -106,7 +111,7 @@
         {
           "city": "RUMFORD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHFIELD",
@@ -121,7 +126,7 @@
         {
           "city": "WARREN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARWICK",
@@ -131,7 +136,7 @@
         {
           "city": "WEST WARWICK",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTERLY",

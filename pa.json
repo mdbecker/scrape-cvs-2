@@ -16,7 +16,7 @@
         {
           "city": "ALLENTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALTOONA",
@@ -26,27 +26,37 @@
         {
           "city": "AMBLER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMBRIDGE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "ARDMORE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "BALA CYNWYD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BANGOR",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "BEDFORD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BENSALEM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERWICK",
@@ -56,22 +66,47 @@
         {
           "city": "BERWYN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHLEHEM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BLANDON",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "BLOOMSBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "BOOTHWYN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "BRODHEADSVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "BROOMALL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BURNHAM",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "BUTLER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARLISLE",
@@ -81,12 +116,12 @@
         {
           "city": "CARNEGIE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHALFONT",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHAMBERSBURG",
@@ -96,7 +131,12 @@
         {
           "city": "CHELTENHAM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CHESTER SPRINGS",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "CLARION",
@@ -104,14 +144,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COATESVILLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "COLUMBIA",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "CORRY",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CRANBERRY TOWNSHIP",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "CRESCO",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANVILLE",
@@ -119,34 +174,54 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DOUGLASSVILLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "DOVER",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "DOWNINGTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "DOYLESTOWN",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "DRESHER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBOIS",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST STROUDSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELLWOOD CITY",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "EMMAUS",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "ENOLA",
@@ -166,12 +241,17 @@
         {
           "city": "EXTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOLSOM",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FRAZER",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "GETTYSBURG",
@@ -181,7 +261,12 @@
         {
           "city": "GIBSONIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "GILBERTSVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "GLENOLDEN",
@@ -189,19 +274,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "GREENCASTLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "HANOVER",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "HARRISBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVERTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "HAZLETON",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "HELLERTOWN",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "HOMESTEAD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONESDALE",
@@ -211,7 +316,7 @@
         {
           "city": "HORSHAM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JENKINTOWN",
@@ -226,12 +331,12 @@
         {
           "city": "JOHNSONBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KENNETT SQUARE",
@@ -244,29 +349,39 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KUTZTOWN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "LANCASTER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANDENBERG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANDISVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANGHORNE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANSDOWNE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LEESPORT",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "LEWISBURG",
@@ -279,14 +394,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LITITZ",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "LOCK HAVEN",
           "state": "PA",
           "status": "Fully Booked"
         },
         {
+          "city": "MACUNGIE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "MALVERN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "MAPLE GLEN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MASONTOWN",
@@ -296,12 +426,22 @@
         {
           "city": "MECHANICSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MIDDLETOWN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "MIFFLINBURG",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "MILLERSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILTON",
@@ -311,22 +451,37 @@
         {
           "city": "MONACA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MONROEVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "MOUNT CARMEL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUNCY",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NANTICOKE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "NEW CASTLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NEW HOPE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "NEW KENSINGTON",
@@ -336,22 +491,32 @@
         {
           "city": "NEWTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH HUNTINGDON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH WALES",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NORTHAMPTON",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "NORTHUMBERLAND",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "NOTTINGHAM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OIL CITY",
@@ -359,24 +524,44 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OTTSVILLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "PERKASIE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "PHILADELPHIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PHILIPSBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "PHOENIXVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLYMOUTH MEETING",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POTTSTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POTTSVILLE",
@@ -386,15 +571,20 @@
         {
           "city": "PROSPECT PARK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUAKERTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "READING",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "RED LION",
           "state": "PA",
           "status": "Available"
         },
@@ -404,9 +594,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ROYERSFORD",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "SCHNECKSVILLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "SCHWENKSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCRANTON",
@@ -419,19 +619,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SHAMOKIN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "SHARON HILL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHICKSHINNY",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHOEMAKERSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOMERSET",
@@ -441,27 +646,42 @@
         {
           "city": "SOUTH WILLIAMSPORT",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SPRING CITY",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STATE COLLEGE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "STROUDSBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "SUNBURY",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "SUSQUEHANNA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SWISSVALE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TANNERSVILLE",
@@ -471,7 +691,12 @@
         {
           "city": "TEMPLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "THORNDALE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "TOWANDA",
@@ -481,7 +706,7 @@
         {
           "city": "UNIONTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -496,12 +721,12 @@
         {
           "city": "WATSONTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNESBURG",
@@ -511,27 +736,37 @@
         {
           "city": "WELLSBORO",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST CHESTER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WEST GROVE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "WHITEHALL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILKES BARRE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILKINSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WIND GAP",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "WOODLYN",
@@ -541,7 +776,12 @@
         {
           "city": "WYNNEWOOD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WYOMING",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "YORK",

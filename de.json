@@ -11,7 +11,27 @@
         {
           "city": "DOVER",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LEWES",
+          "state": "DE",
+          "status": "Available"
+        },
+        {
+          "city": "MIDDLETOWN",
+          "state": "DE",
+          "status": "Available"
+        },
+        {
+          "city": "MILFORD",
+          "state": "DE",
+          "status": "Available"
+        },
+        {
+          "city": "NEW CASTLE",
+          "state": "DE",
+          "status": "Available"
         },
         {
           "city": "NEWARK",
@@ -26,7 +46,12 @@
         {
           "city": "REHOBOTH BEACH",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SELBYVILLE",
+          "state": "DE",
+          "status": "Available"
         },
         {
           "city": "WILMINGTON",

@@ -16,12 +16,12 @@
         {
           "city": "ALEXANDRIA",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVONDALE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAKER",
@@ -41,17 +41,17 @@
         {
           "city": "BROUSSARD",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHALMETTE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COVINGTON",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CUT OFF",
@@ -86,7 +86,7 @@
         {
           "city": "HARVEY",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAUGHTON",
@@ -96,22 +96,22 @@
         {
           "city": "HOUMA",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JEFFERSON",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KAPLAN",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KENNER",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAFAYETTE",
@@ -121,7 +121,7 @@
         {
           "city": "LAKE CHARLES",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESVILLE",
@@ -136,7 +136,7 @@
         {
           "city": "MANDEVILLE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARRERO",
@@ -169,6 +169,11 @@
           "status": "Available"
         },
         {
+          "city": "PONCHATOULA",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
           "city": "PRAIRIEVILLE",
           "state": "LA",
           "status": "Fully Booked"
@@ -181,12 +186,12 @@
         {
           "city": "RIVER RIDGE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT MARTINVILLE",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHREVEPORT",
@@ -206,7 +211,7 @@
         {
           "city": "TERRYTOWN",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THIBODAUX",
@@ -226,7 +231,7 @@
         {
           "city": "WESTWEGO",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YOUNGSVILLE",
@@ -236,7 +241,7 @@
         {
           "city": "ZACHARY",
           "state": "LA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

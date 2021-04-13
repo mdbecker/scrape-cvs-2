@@ -11,7 +11,7 @@
         {
           "city": "ALTOONA",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMES",
@@ -21,10 +21,20 @@
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CEDAR FALLS",
+          "state": "IA",
+          "status": "Available"
         },
         {
           "city": "CEDAR RAPIDS",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "CORALVILLE",
           "state": "IA",
           "status": "Available"
         },
@@ -34,7 +44,32 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DAVENPORT",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "DES MOINES",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "DUBUQUE",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "FORT DODGE",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
           "city": "IOWA CITY",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "MARION",
           "state": "IA",
           "status": "Available"
         },
@@ -46,12 +81,12 @@
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

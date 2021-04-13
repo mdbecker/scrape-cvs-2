@@ -9,9 +9,69 @@
     "data": {
       "AR": [
         {
+          "city": "BELLA VISTA",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "BRYANT",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "CONWAY",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "FAYETTEVILLE",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "FORT SMITH",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "HOT SPRINGS",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "JONESBORO",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "LITTLE ROCK",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH LITTLE ROCK",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "PARAGOULD",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
+          "city": "ROGERS",
+          "state": "AR",
+          "status": "Available"
+        },
+        {
           "city": "RUSSELLVILLE",
           "state": "AR",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SHERWOOD",
+          "state": "AR",
+          "status": "Available"
         },
         {
           "city": "SPRINGDALE",
@@ -25,6 +85,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

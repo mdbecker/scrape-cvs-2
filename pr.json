@@ -11,7 +11,7 @@
         {
           "city": "ARECIBO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAYAMON",
@@ -25,6 +25,11 @@
         },
         {
           "city": "CAROLINA",
+          "state": "PR",
+          "status": "Available"
+        },
+        {
+          "city": "CONDADO",
           "state": "PR",
           "status": "Available"
         },
