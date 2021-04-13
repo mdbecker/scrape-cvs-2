@@ -26,17 +26,17 @@
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORALVILLE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COUNCIL BLUFFS",
@@ -46,32 +46,32 @@
         {
           "city": "DAVENPORT",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBUQUE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT DODGE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARION",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "URBANDALE",
@@ -81,15 +81,15 @@
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
