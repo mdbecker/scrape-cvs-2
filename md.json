@@ -301,7 +301,7 @@
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OWINGS MILLS",
@@ -425,6 +425,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
