@@ -211,7 +211,7 @@
         {
           "city": "PLAINVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT",
@@ -296,7 +296,7 @@
         {
           "city": "WEST HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HAVEN",
@@ -325,6 +325,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
