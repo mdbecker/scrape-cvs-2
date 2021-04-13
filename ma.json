@@ -26,12 +26,12 @@
         {
           "city": "ALLSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANDOVER",
@@ -96,7 +96,7 @@
         {
           "city": "BOURNE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRAINTREE",
@@ -121,7 +121,7 @@
         {
           "city": "BROOKLINE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -191,7 +191,7 @@
         {
           "city": "DORCHESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DRACUT",
@@ -206,7 +206,7 @@
         {
           "city": "EAST BRIDGEWATER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST FALMOUTH",
@@ -241,7 +241,7 @@
         {
           "city": "FOXBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRAMINGHAM",
@@ -256,12 +256,12 @@
         {
           "city": "GEORGETOWN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOUCESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRANBY",
@@ -271,7 +271,7 @@
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENFIELD",
@@ -301,7 +301,7 @@
         {
           "city": "HARWICH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARWICHPORT",
@@ -396,7 +396,7 @@
         {
           "city": "LONGMEADOW",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOWELL",
@@ -436,7 +436,7 @@
         {
           "city": "MASHPEE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MATTAPAN",
@@ -491,7 +491,7 @@
         {
           "city": "MILLIS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NATICK",
@@ -591,7 +591,7 @@
         {
           "city": "PEABODY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEMBROKE",
@@ -601,7 +601,7 @@
         {
           "city": "PLAINVILLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLYMOUTH",
@@ -681,7 +681,7 @@
         {
           "city": "SHARON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHREWSBURY",
@@ -696,7 +696,7 @@
         {
           "city": "SOMERVILLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH EASTON",
@@ -711,7 +711,7 @@
         {
           "city": "SOUTH WEYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH YARMOUTH",
@@ -736,7 +736,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STONEHAM",
@@ -751,7 +751,7 @@
         {
           "city": "STURBRIDGE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUDBURY",
@@ -811,12 +811,12 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SPRINGFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBOROUGH",
@@ -831,7 +831,7 @@
         {
           "city": "WESTFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTPORT",
@@ -846,7 +846,7 @@
         {
           "city": "WEYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITINSVILLE",
@@ -856,12 +856,12 @@
         {
           "city": "WILBRAHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILMINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHENDON",
@@ -896,7 +896,7 @@
         {
           "city": "WRENTHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
