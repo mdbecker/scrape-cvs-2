@@ -61,7 +61,7 @@
         {
           "city": "BERWICK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERWYN",
@@ -126,7 +126,7 @@
         {
           "city": "CHAMBERSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELTENHAM",
@@ -226,12 +226,12 @@
         {
           "city": "ENOLA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ERIE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EXETER",
@@ -486,7 +486,7 @@
         {
           "city": "NEW KENSINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTOWN",
@@ -701,7 +701,7 @@
         {
           "city": "TOWANDA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNIONTOWN",
@@ -786,10 +786,10 @@
         {
           "city": "YORK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

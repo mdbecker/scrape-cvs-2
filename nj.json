@@ -76,12 +76,12 @@
         {
           "city": "BRIGANTINE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROWNS MILLS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUDD LAKE",
@@ -291,12 +291,12 @@
         {
           "city": "GIBBSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -586,7 +586,7 @@
         {
           "city": "MULLICA HILL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEPTUNE",
@@ -686,7 +686,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PHILLIPSBURG",
@@ -771,7 +771,7 @@
         {
           "city": "SEASIDE HEIGHTS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEWELL",
@@ -821,7 +821,7 @@
         {
           "city": "TABERNACLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEANECK",
@@ -886,12 +886,12 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALL",
@@ -956,7 +956,7 @@
         {
           "city": "WHITING",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILDWOOD",
@@ -971,7 +971,7 @@
         {
           "city": "WILLINGBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOOD RIDGE",
@@ -986,7 +986,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
@@ -995,6 +995,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

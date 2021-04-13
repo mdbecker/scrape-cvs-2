@@ -11,7 +11,7 @@
         {
           "city": "ARVADA",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AURORA",
@@ -41,7 +41,7 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
@@ -76,7 +76,7 @@
         {
           "city": "LAKEWOOD",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLETON",
@@ -111,7 +111,7 @@
         {
           "city": "PUEBLO",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHERIDAN",
@@ -126,7 +126,7 @@
         {
           "city": "WESTMINSTER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEAT RIDGE",
@@ -135,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
