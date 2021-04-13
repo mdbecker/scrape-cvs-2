@@ -1471,7 +1471,7 @@
         {
           "city": "SONOMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SONORA",
@@ -1586,7 +1586,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UPLAND",
@@ -1726,7 +1726,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
