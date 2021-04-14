@@ -36,12 +36,12 @@
         {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -71,7 +71,7 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -101,7 +101,7 @@
         {
           "city": "ENFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -131,7 +131,7 @@
         {
           "city": "GUILFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMDEN",
@@ -141,7 +141,7 @@
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEBRON",
@@ -206,7 +206,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CANAAN",
@@ -216,7 +216,7 @@
         {
           "city": "NEW HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW LONDON",
@@ -241,7 +241,7 @@
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKVILLE",
@@ -341,12 +341,12 @@
         {
           "city": "UNCASVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",
@@ -366,7 +366,7 @@
         {
           "city": "WILLIMANTIC",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR",
@@ -381,10 +381,10 @@
         {
           "city": "WINSTED",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
