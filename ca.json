@@ -536,12 +536,12 @@
         {
           "city": "GLENDALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENDORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOLETA",
@@ -626,7 +626,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -966,7 +966,7 @@
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWPORT BEACH",
@@ -1021,7 +1021,7 @@
         {
           "city": "OAKLAND",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEANSIDE",
@@ -1186,7 +1186,7 @@
         {
           "city": "RANCHO BERNARDO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO CORDOVA",
@@ -1376,7 +1376,7 @@
         {
           "city": "SAN RAFAEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAMON",
@@ -1566,7 +1566,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THOUSAND OAKS",

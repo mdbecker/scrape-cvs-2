@@ -276,7 +276,7 @@
         {
           "city": "INDIANAPOLIS",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KENDALLVILLE",
@@ -575,6 +575,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

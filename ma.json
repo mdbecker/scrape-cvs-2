@@ -586,7 +586,7 @@
         {
           "city": "PALMER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEABODY",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
