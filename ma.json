@@ -686,7 +686,7 @@
         {
           "city": "SHREWSBURY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOMERSET",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
