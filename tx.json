@@ -376,12 +376,12 @@
         {
           "city": "EL PASO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELGIN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELSA",
@@ -426,7 +426,7 @@
         {
           "city": "FORNEY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT WORTH",
@@ -526,7 +526,7 @@
         {
           "city": "HOUSTON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUMBLE",
@@ -821,7 +821,7 @@
         {
           "city": "PEARLAND",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PFLUGERVILLE",
@@ -956,7 +956,7 @@
         {
           "city": "SAN MARCOS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA FE",
@@ -1081,7 +1081,7 @@
         {
           "city": "TOMBALL",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TYLER",
