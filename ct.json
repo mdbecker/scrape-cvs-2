@@ -41,7 +41,7 @@
         {
           "city": "BRISTOL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -66,7 +66,7 @@
         {
           "city": "COVENTRY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANBURY",
@@ -385,6 +385,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
