@@ -136,7 +136,7 @@
         {
           "city": "DUNKIRK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -425,6 +425,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
