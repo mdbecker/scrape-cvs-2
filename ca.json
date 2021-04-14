@@ -116,7 +116,7 @@
         {
           "city": "ATWATER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURN",
@@ -271,7 +271,7 @@
         {
           "city": "CITY OF INDUSTRY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLOVERDALE",
@@ -801,7 +801,7 @@
         {
           "city": "LOS ANGELES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOS GATOS",
@@ -1501,7 +1501,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
@@ -1656,7 +1656,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VISALIA",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
