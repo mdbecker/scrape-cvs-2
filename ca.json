@@ -116,7 +116,7 @@
         {
           "city": "ATWATER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURN",
@@ -131,7 +131,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALDWIN PARK",
@@ -356,7 +356,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -766,7 +766,7 @@
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVERMORE",
@@ -936,7 +936,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -966,7 +966,7 @@
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWPORT BEACH",
@@ -996,7 +996,7 @@
         {
           "city": "NORWALK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NOVATO",
@@ -1076,7 +1076,7 @@
         {
           "city": "PALMDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALO ALTO",
@@ -1256,7 +1256,7 @@
         {
           "city": "RIVERSIDE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKLIN",
@@ -1296,7 +1296,7 @@
         {
           "city": "SAN BERNARDINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN BRUNO",
@@ -1371,7 +1371,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAFAEL",
@@ -1501,7 +1501,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
@@ -1561,7 +1561,7 @@
         {
           "city": "TEMECULA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TEMPLE CITY",
@@ -1611,7 +1611,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPLAND",
@@ -1656,7 +1656,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VISALIA",
@@ -1681,7 +1681,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEAVERVILLE",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
