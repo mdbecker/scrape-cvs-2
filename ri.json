@@ -66,12 +66,12 @@
         {
           "city": "NEWPORT",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH KINGSTOWN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH PROVIDENCE",
@@ -155,6 +155,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
