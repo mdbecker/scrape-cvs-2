@@ -126,7 +126,7 @@
         {
           "city": "CHAMBERSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELTENHAM",
@@ -226,7 +226,7 @@
         {
           "city": "ENOLA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ERIE",
@@ -246,7 +246,7 @@
         {
           "city": "FOLSOM",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRAZER",
@@ -486,7 +486,7 @@
         {
           "city": "NEW KENSINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTOWN",
@@ -536,7 +536,7 @@
         {
           "city": "PHILADELPHIA",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PHILIPSBURG",
@@ -786,7 +786,7 @@
         {
           "city": "YORK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
