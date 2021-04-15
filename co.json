@@ -96,7 +96,7 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTROSE",
@@ -135,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

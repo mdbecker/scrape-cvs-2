@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -116,7 +116,7 @@
         {
           "city": "ATWATER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURN",
@@ -131,7 +131,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALDWIN PARK",
@@ -751,7 +751,7 @@
         {
           "city": "LANCASTER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LATHROP",
@@ -846,7 +846,7 @@
         {
           "city": "MARYSVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCKINLEYVILLE",
@@ -926,7 +926,7 @@
         {
           "city": "MORENO VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MORGAN HILL",
@@ -1066,7 +1066,7 @@
         {
           "city": "PALM DESERT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM SPRINGS",
@@ -1296,7 +1296,7 @@
         {
           "city": "SAN BERNARDINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN BRUNO",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
