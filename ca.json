@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AGOURA HILLS",
@@ -486,7 +486,7 @@
         {
           "city": "FONTANA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOOTHILL RANCH",
@@ -846,7 +846,7 @@
         {
           "city": "MARYSVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MCKINLEYVILLE",
@@ -1296,7 +1296,7 @@
         {
           "city": "SAN BERNARDINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN BRUNO",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
