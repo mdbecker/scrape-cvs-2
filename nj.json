@@ -16,7 +16,7 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARNEGAT",
@@ -76,7 +76,7 @@
         {
           "city": "BRIGANTINE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROWNS MILLS",
@@ -101,7 +101,7 @@
         {
           "city": "CAMDEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARTERET",
@@ -291,12 +291,12 @@
         {
           "city": "GIBBSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLASSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -491,7 +491,7 @@
         {
           "city": "MARLTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARMORA",
@@ -546,7 +546,7 @@
         {
           "city": "MILLVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
@@ -686,7 +686,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PHILLIPSBURG",
@@ -811,7 +811,7 @@
         {
           "city": "STRATFORD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SWEDESBORO",
@@ -886,12 +886,12 @@
         {
           "city": "VINELAND",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALL",
@@ -986,7 +986,7 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
@@ -995,6 +995,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

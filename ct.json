@@ -11,7 +11,7 @@
         {
           "city": "ANSONIA",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVON",
@@ -26,7 +26,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRANFORD",
@@ -36,7 +36,7 @@
         {
           "city": "BRIDGEPORT",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
@@ -56,7 +56,7 @@
         {
           "city": "COLCHESTER",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COS COB",
@@ -71,7 +71,7 @@
         {
           "city": "DANBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -86,7 +86,7 @@
         {
           "city": "EAST HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HAVEN",
@@ -176,7 +176,7 @@
         {
           "city": "MERIDEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -216,7 +216,7 @@
         {
           "city": "NEW HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW LONDON",
@@ -266,7 +266,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIDGEFIELD",
@@ -341,17 +341,17 @@
         {
           "city": "UNCASVILLE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HARTFORD",
@@ -371,20 +371,20 @@
         {
           "city": "WINDSOR",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINDSOR LOCKS",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINSTED",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
