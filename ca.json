@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -866,7 +866,7 @@
         {
           "city": "MERCED",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILL VALLEY",
@@ -936,7 +936,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -1296,7 +1296,7 @@
         {
           "city": "SAN BERNARDINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN BRUNO",
@@ -1751,7 +1751,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
