@@ -231,12 +231,12 @@
         {
           "city": "ERIE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EXETER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EXTON",
@@ -356,7 +356,7 @@
         {
           "city": "LANCASTER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANDENBERG",
@@ -486,7 +486,7 @@
         {
           "city": "NEW KENSINGTON",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWTOWN",
@@ -611,7 +611,7 @@
         {
           "city": "SCRANTON",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELINSGROVE",
