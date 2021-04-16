@@ -221,7 +221,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARPINTERIA",
@@ -311,7 +311,7 @@
         {
           "city": "CORONA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COSTA MESA",
@@ -646,7 +646,7 @@
         {
           "city": "INGLEWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "IRVINE",
@@ -1091,7 +1091,7 @@
         {
           "city": "PASADENA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASO ROBLES",
@@ -1686,7 +1686,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEAVERVILLE",
