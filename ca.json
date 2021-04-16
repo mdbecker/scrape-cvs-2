@@ -286,7 +286,7 @@
         {
           "city": "COACHELLA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLMA",
@@ -811,7 +811,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALIBU",
@@ -1066,7 +1066,7 @@
         {
           "city": "PALM DESERT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM SPRINGS",
@@ -1661,7 +1661,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISALIA",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
