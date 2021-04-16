@@ -51,7 +51,7 @@
         {
           "city": "GLENDALE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENWOOD SPRINGS",
@@ -135,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

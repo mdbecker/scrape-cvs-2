@@ -656,7 +656,7 @@
         {
           "city": "JACKSON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KINGSBURG",
@@ -936,7 +936,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -951,7 +951,7 @@
         {
           "city": "NAPA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NATIONAL CITY",
@@ -1251,7 +1251,7 @@
         {
           "city": "RIVERBANK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -1501,7 +1501,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
