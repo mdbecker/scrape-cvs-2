@@ -46,17 +46,17 @@
         {
           "city": "GUAYNABO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANATI",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PONCE",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JUAN",
@@ -80,6 +80,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

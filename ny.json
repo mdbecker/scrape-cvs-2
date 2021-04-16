@@ -101,7 +101,7 @@
         {
           "city": "BINGHAMTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLASDELL",
@@ -126,7 +126,7 @@
         {
           "city": "BRONX",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRONXVILLE",
@@ -136,7 +136,7 @@
         {
           "city": "BROOKLYN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFFALO",
@@ -161,7 +161,7 @@
         {
           "city": "CARMEL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDARHURST",
@@ -346,7 +346,7 @@
         {
           "city": "ENDWELL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRPORT",
@@ -356,7 +356,7 @@
         {
           "city": "FALCONER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FARMINGDALE",
@@ -489,6 +489,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HOWARD BEACH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "HUDSON",
           "state": "NY",
           "status": "Fully Booked"
@@ -496,7 +501,7 @@
         {
           "city": "HUDSON FALLS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON",
@@ -541,7 +546,7 @@
         {
           "city": "JAMESTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSON CITY",
@@ -639,6 +644,11 @@
           "status": "Available"
         },
         {
+          "city": "MASPETH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "MASSAPEQUA",
           "state": "NY",
           "status": "Fully Booked"
@@ -711,7 +721,7 @@
         {
           "city": "NEW YORK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURGH",
@@ -791,7 +801,7 @@
         {
           "city": "OZONE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PATCHOGUE",
@@ -846,7 +856,7 @@
         {
           "city": "QUEENSBURY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RAVENA",
@@ -856,7 +866,7 @@
         {
           "city": "RED HOOK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REGO PARK",
@@ -981,12 +991,12 @@
         {
           "city": "STATEN ISLAND",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUFFERN",

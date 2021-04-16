@@ -226,7 +226,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALMOUTH",
@@ -276,7 +276,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GROTON",
@@ -651,7 +651,7 @@
         {
           "city": "SALEM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -716,7 +716,7 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTHBRIDGE",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

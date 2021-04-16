@@ -11,7 +11,7 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ADDISON",
@@ -226,7 +226,7 @@
         {
           "city": "CEDAR HILL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR PARK",
@@ -346,7 +346,7 @@
         {
           "city": "DENISON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENTON",
@@ -386,7 +386,7 @@
         {
           "city": "ELSA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENNIS",
@@ -426,7 +426,7 @@
         {
           "city": "FORNEY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT WORTH",
@@ -451,7 +451,7 @@
         {
           "city": "GAINESVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALVESTON",
@@ -499,6 +499,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HALTOM CITY",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "HARKER HEIGHTS",
           "state": "TX",
           "status": "Fully Booked"
@@ -526,12 +531,12 @@
         {
           "city": "HOUSTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUMBLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTSVILLE",
@@ -556,7 +561,7 @@
         {
           "city": "JACINTO CITY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSONVILLE",
@@ -821,7 +826,7 @@
         {
           "city": "PEARLAND",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PFLUGERVILLE",
@@ -946,7 +951,7 @@
         {
           "city": "SAN ANTONIO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JUAN",
@@ -971,7 +976,7 @@
         {
           "city": "SEABROOK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEALY",
@@ -1056,7 +1061,7 @@
         {
           "city": "TEMPLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEXARKANA",

@@ -54,6 +54,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BLOOMINGTON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "BOLINGBROOK",
           "state": "IL",
           "status": "Fully Booked"
@@ -86,7 +91,7 @@
         {
           "city": "CARBONDALE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARLYLE",
@@ -286,7 +291,7 @@
         {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSONVILLE",
@@ -496,7 +501,7 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEORIA",

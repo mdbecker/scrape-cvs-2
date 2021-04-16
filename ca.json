@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -66,7 +66,7 @@
         {
           "city": "ANGELS CAMP",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANTIOCH",
@@ -96,7 +96,7 @@
         {
           "city": "ARLETA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARROYO GRANDE",
@@ -116,7 +116,7 @@
         {
           "city": "ATWATER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURN",
@@ -131,7 +131,7 @@
         {
           "city": "BAKERSFIELD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALDWIN PARK",
@@ -286,7 +286,7 @@
         {
           "city": "COACHELLA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLMA",
@@ -461,7 +461,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -811,7 +811,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALIBU",
@@ -1066,7 +1066,7 @@
         {
           "city": "PALM DESERT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM SPRINGS",
@@ -1116,7 +1116,7 @@
         {
           "city": "PINOLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURG",
@@ -1501,7 +1501,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
@@ -1574,6 +1574,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "TIBURON",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
           "city": "TORRANCE",
           "state": "CA",
           "status": "Fully Booked"
@@ -1611,7 +1616,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPLAND",
@@ -1656,7 +1661,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISALIA",
@@ -1751,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
