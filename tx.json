@@ -11,7 +11,7 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ADDISON",
@@ -366,7 +366,7 @@
         {
           "city": "DUNCANVILLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDINBURG",
@@ -421,12 +421,12 @@
         {
           "city": "FOREST HILL",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORNEY",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT WORTH",
@@ -921,7 +921,7 @@
         {
           "city": "ROSENBERG",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSHARON",
