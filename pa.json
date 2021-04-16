@@ -231,7 +231,7 @@
         {
           "city": "ERIE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EXETER",
@@ -356,7 +356,7 @@
         {
           "city": "LANCASTER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANDENBERG",
@@ -701,7 +701,7 @@
         {
           "city": "TOWANDA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNIONTOWN",
@@ -786,7 +786,7 @@
         {
           "city": "YORK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
