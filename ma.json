@@ -226,7 +226,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FALMOUTH",
@@ -276,7 +276,7 @@
         {
           "city": "GREENFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GROTON",
@@ -506,7 +506,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURYPORT",
@@ -586,7 +586,7 @@
         {
           "city": "PALMER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEABODY",
@@ -716,7 +716,7 @@
         {
           "city": "SOUTH YARMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHBRIDGE",
@@ -836,7 +836,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTWOOD",
@@ -900,6 +900,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
