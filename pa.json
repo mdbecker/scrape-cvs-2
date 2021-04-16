@@ -21,7 +21,7 @@
         {
           "city": "ALTOONA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMBLER",
@@ -231,7 +231,7 @@
         {
           "city": "ERIE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EXETER",
@@ -421,7 +421,7 @@
         {
           "city": "MASONTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MECHANICSBURG",
@@ -566,7 +566,7 @@
         {
           "city": "POTTSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROSPECT PARK",
@@ -641,7 +641,7 @@
         {
           "city": "SOMERSET",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH WILLIAMSPORT",
