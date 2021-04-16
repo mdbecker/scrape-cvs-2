@@ -141,7 +141,7 @@
         {
           "city": "EASTON",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEWOOD",
@@ -366,7 +366,7 @@
         {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOLOMONS",
@@ -421,10 +421,10 @@
         {
           "city": "WHITE PLAINS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
