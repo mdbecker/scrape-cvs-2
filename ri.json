@@ -66,7 +66,7 @@
         {
           "city": "NEWPORT",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH KINGSTOWN",
@@ -155,6 +155,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
