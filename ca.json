@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO",
@@ -211,7 +211,7 @@
         {
           "city": "CARLSBAD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARMEL",
@@ -316,7 +316,7 @@
         {
           "city": "COSTA MESA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COVINA",
@@ -1126,7 +1126,7 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLACERVILLE",
@@ -1171,7 +1171,7 @@
         {
           "city": "POWAY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PRATHER",
@@ -1311,7 +1311,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN DIEGO",
@@ -1371,7 +1371,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAFAEL",
@@ -1436,7 +1436,7 @@
         {
           "city": "SANTA ROSA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTEE",
@@ -1566,7 +1566,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1686,7 +1686,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEAVERVILLE",
