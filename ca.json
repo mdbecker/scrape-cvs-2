@@ -121,7 +121,7 @@
         {
           "city": "AUBURN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AZUSA",
@@ -186,7 +186,7 @@
         {
           "city": "CAMERON PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMPBELL",
@@ -206,7 +206,7 @@
         {
           "city": "CAPITOLA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARLSBAD",
@@ -221,7 +221,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARPINTERIA",
@@ -1291,7 +1291,7 @@
         {
           "city": "SAN ANSELMO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN BERNARDINO",
