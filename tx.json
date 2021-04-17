@@ -551,7 +551,7 @@
         {
           "city": "HUTTO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IRVING",
@@ -826,12 +826,12 @@
         {
           "city": "PEARLAND",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PFLUGERVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PHARR",
