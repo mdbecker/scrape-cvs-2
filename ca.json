@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO",
@@ -356,7 +356,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -591,12 +591,12 @@
         {
           "city": "HAYWARD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -951,7 +951,7 @@
         {
           "city": "NAPA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NATIONAL CITY",
@@ -1026,7 +1026,7 @@
         {
           "city": "OCEANSIDE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ONTARIO",
@@ -1111,7 +1111,7 @@
         {
           "city": "PICO RIVERA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PINOLE",
@@ -1411,7 +1411,7 @@
         {
           "city": "SANTA CLARITA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA CRUZ",
@@ -1436,12 +1436,12 @@
         {
           "city": "SANTA ROSA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SARATOGA",
@@ -1686,7 +1686,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEAVERVILLE",
@@ -1751,7 +1751,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
