@@ -221,7 +221,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARPINTERIA",
@@ -411,7 +411,7 @@
         {
           "city": "EL CAJON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL CENTRO",
@@ -741,7 +741,7 @@
         {
           "city": "LAKEWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAMONT",
@@ -766,7 +766,7 @@
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LIVERMORE",
@@ -926,7 +926,7 @@
         {
           "city": "MORENO VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MORGAN HILL",
