@@ -146,7 +146,7 @@
         {
           "city": "BERKELEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEVERLY HILLS",
@@ -536,7 +536,7 @@
         {
           "city": "GLENDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDORA",
@@ -571,7 +571,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANFORD",
@@ -1081,7 +1081,7 @@
         {
           "city": "PALO ALTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARAMOUNT",
@@ -1111,7 +1111,7 @@
         {
           "city": "PICO RIVERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PINOLE",
@@ -1311,7 +1311,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIEGO",
@@ -1706,7 +1706,7 @@
         {
           "city": "WEST HOLLYWOOD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE VILLAGE",
