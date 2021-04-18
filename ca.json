@@ -116,7 +116,7 @@
         {
           "city": "ATWATER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURN",
@@ -461,7 +461,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -811,7 +811,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALIBU",
@@ -1066,7 +1066,7 @@
         {
           "city": "PALM DESERT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM SPRINGS",
@@ -1081,7 +1081,7 @@
         {
           "city": "PALO ALTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARAMOUNT",
@@ -1616,12 +1616,12 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPLAND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VACAVILLE",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
