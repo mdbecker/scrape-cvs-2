@@ -461,7 +461,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -541,7 +541,7 @@
         {
           "city": "GLENDORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOLETA",
@@ -741,7 +741,7 @@
         {
           "city": "LAKEWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAMONT",
@@ -766,7 +766,7 @@
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVERMORE",
@@ -951,7 +951,7 @@
         {
           "city": "NAPA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NATIONAL CITY",
@@ -1091,7 +1091,7 @@
         {
           "city": "PASADENA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASO ROBLES",
@@ -1291,7 +1291,7 @@
         {
           "city": "SAN ANSELMO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN BERNARDINO",
@@ -1561,7 +1561,7 @@
         {
           "city": "TEMECULA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TEMPLE CITY",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
