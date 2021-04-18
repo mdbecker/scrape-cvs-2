@@ -306,7 +306,7 @@
         {
           "city": "CONCORD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORONA",
@@ -411,7 +411,7 @@
         {
           "city": "EL CAJON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL CENTRO",
@@ -596,7 +596,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -1291,7 +1291,7 @@
         {
           "city": "SAN ANSELMO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN BERNARDINO",
@@ -1496,7 +1496,7 @@
         {
           "city": "SONOMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SONORA",
@@ -1561,7 +1561,7 @@
         {
           "city": "TEMECULA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TEMPLE CITY",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
