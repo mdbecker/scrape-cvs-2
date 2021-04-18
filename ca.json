@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -461,7 +461,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFIELD",
@@ -951,7 +951,7 @@
         {
           "city": "NAPA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NATIONAL CITY",
@@ -1496,7 +1496,7 @@
         {
           "city": "SONOMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SONORA",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
