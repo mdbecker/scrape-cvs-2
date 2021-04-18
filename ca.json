@@ -186,7 +186,7 @@
         {
           "city": "CAMERON PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMPBELL",
@@ -646,7 +646,7 @@
         {
           "city": "INGLEWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "IRVINE",
@@ -1221,7 +1221,7 @@
         {
           "city": "REDONDO BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDWOOD CITY",
@@ -1241,7 +1241,7 @@
         {
           "city": "RICHMOND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIPON",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
