@@ -461,7 +461,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -786,7 +786,7 @@
         {
           "city": "LOMPOC",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONG BEACH",
@@ -1616,7 +1616,7 @@
         {
           "city": "UKIAH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPLAND",
@@ -1756,7 +1756,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
