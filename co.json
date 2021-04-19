@@ -16,7 +16,7 @@
         {
           "city": "AURORA",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOULDER",
@@ -111,7 +111,7 @@
         {
           "city": "PUEBLO",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHERIDAN",
@@ -135,6 +135,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
