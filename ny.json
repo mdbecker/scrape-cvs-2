@@ -321,7 +321,7 @@
         {
           "city": "EASTCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELMIRA",
@@ -416,7 +416,7 @@
         {
           "city": "GLENVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOVERSVILLE",
@@ -456,7 +456,7 @@
         {
           "city": "HAMBURG",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARRISON",
@@ -786,7 +786,7 @@
         {
           "city": "OSSINING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OWEGO",
@@ -936,7 +936,7 @@
         {
           "city": "SAUGERTIES",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCARSDALE",
