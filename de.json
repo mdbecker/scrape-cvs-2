@@ -56,10 +56,10 @@
         {
           "city": "WILMINGTON",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
