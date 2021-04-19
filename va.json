@@ -31,7 +31,7 @@
         {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHBURN",
@@ -301,7 +301,7 @@
         {
           "city": "MECHANICSVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDLOTHIAN",
@@ -371,7 +371,7 @@
         {
           "city": "RICHMOND",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROANOKE",
@@ -421,7 +421,7 @@
         {
           "city": "STAFFORD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAUNTON",
@@ -466,7 +466,7 @@
         {
           "city": "WARRENTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNESBORO",
