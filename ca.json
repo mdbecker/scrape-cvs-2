@@ -46,7 +46,7 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -71,7 +71,7 @@
         {
           "city": "ANTIOCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "APPLE VALLEY",
@@ -121,7 +121,7 @@
         {
           "city": "AUBURN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AZUSA",
@@ -211,7 +211,7 @@
         {
           "city": "CANOGA PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CANYON COUNTRY",
@@ -316,7 +316,7 @@
         {
           "city": "COMPTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CONCORD",
@@ -381,7 +381,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DISCOVERY BAY",
@@ -426,7 +426,7 @@
         {
           "city": "EL CAJON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL CENTRO",
@@ -491,7 +491,7 @@
         {
           "city": "FELTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FILLMORE",
@@ -581,7 +581,7 @@
         {
           "city": "GRANADA HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRANITE BAY",
@@ -601,7 +601,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANFORD",
@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -706,7 +706,7 @@
         {
           "city": "LA CANADA FLINTRIDGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA HABRA",
@@ -716,7 +716,7 @@
         {
           "city": "LA JOLLA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA MESA",
@@ -831,7 +831,7 @@
         {
           "city": "LOMPOC",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONG BEACH",
@@ -876,7 +876,7 @@
         {
           "city": "MANHATTAN BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANTECA",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK PARK",
@@ -1166,7 +1166,7 @@
         {
           "city": "PASO ROBLES",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PATTERSON",
@@ -1526,7 +1526,7 @@
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SARATOGA",
@@ -1536,7 +1536,7 @@
         {
           "city": "SAUSALITO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCOTTS VALLEY",
@@ -1601,7 +1601,7 @@
         {
           "city": "SOUTH LAKE TAHOE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1721,12 +1721,12 @@
         {
           "city": "VACAVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALENCIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALLEJO",
