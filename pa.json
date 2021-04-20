@@ -56,7 +56,7 @@
         {
           "city": "BENSALEM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERWICK",
@@ -71,7 +71,7 @@
         {
           "city": "BETHLEHEM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLANDON",
@@ -82,6 +82,11 @@
           "city": "BLOOMSBURG",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BLUE BELL",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "BOOTHWYN",
@@ -96,7 +101,7 @@
         {
           "city": "BROOMALL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURNHAM",
@@ -206,7 +211,7 @@
         {
           "city": "EAST STROUDSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -242,6 +247,11 @@
           "city": "EXTON",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FEASTERVILLE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "FOLSOM",
@@ -317,6 +327,11 @@
           "city": "HORSHAM",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HUNTINGDON VALLEY",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "JENKINTOWN",
@@ -459,6 +474,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MORRISVILLE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "MOUNT CARMEL",
           "state": "PA",
           "status": "Fully Booked"
@@ -472,6 +492,11 @@
           "city": "NANTICOKE",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "NATRONA HEIGHTS",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "NEW CASTLE",
@@ -611,7 +636,7 @@
         {
           "city": "SCRANTON",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELINSGROVE",
@@ -632,6 +657,11 @@
           "city": "SHICKSHINNY",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SHIPPENSBURG",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "SHOEMAKERSVILLE",
@@ -762,6 +792,11 @@
           "city": "WILKINSBURG",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WILLOW GROVE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "WIND GAP",

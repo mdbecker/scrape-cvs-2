@@ -16,7 +16,7 @@
         {
           "city": "ALEXANDRIA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
@@ -29,9 +29,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "APPOMATTOX",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHBURN",
@@ -59,6 +64,11 @@
           "status": "Available"
         },
         {
+          "city": "BIG STONE GAP",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "BLACKSBURG",
           "state": "VA",
           "status": "Available"
@@ -66,7 +76,7 @@
         {
           "city": "BRISTOL",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOW",
@@ -87,6 +97,11 @@
           "city": "BURKE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CENTREVILLE",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "CHANTILLY",
@@ -125,6 +140,16 @@
         },
         {
           "city": "CLARKSVILLE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "CLIFTON FORGE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "COLLINSVILLE",
           "state": "VA",
           "status": "Available"
         },
@@ -171,12 +196,17 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "FAIRFAX STATION",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "FALLS CHURCH",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FARMVILLE",
@@ -196,17 +226,17 @@
         {
           "city": "FREDERICKSBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRONT ROYAL",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALAX",
@@ -221,7 +251,7 @@
         {
           "city": "GLEN ALLEN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREAT FALLS",
@@ -241,7 +271,7 @@
         {
           "city": "HARRISONBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAYMARKET",
@@ -264,14 +294,34 @@
           "status": "Fully Booked"
         },
         {
+          "city": "KILMARNOCK",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "KING GEORGE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "LEESBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEXINGTON",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LOUISA",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "LURAY",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "LYNCHBURG",
@@ -329,9 +379,19 @@
           "status": "Available"
         },
         {
+          "city": "NORTH TAZEWELL",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "OAKTON",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "ONLEY",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "ORANGE",
@@ -371,7 +431,7 @@
         {
           "city": "RICHMOND",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROANOKE",
@@ -386,7 +446,12 @@
         {
           "city": "ROSSLYN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "RUTHER GLEN",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "SALEM",
@@ -421,7 +486,7 @@
         {
           "city": "STAFFORD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAUNTON",
@@ -436,7 +501,7 @@
         {
           "city": "STERLING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STUART",
@@ -466,7 +531,7 @@
         {
           "city": "WARRENTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNESBORO",
@@ -491,7 +556,7 @@
         {
           "city": "WOODBRIDGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODSTOCK",

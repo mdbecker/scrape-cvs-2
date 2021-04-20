@@ -41,7 +41,7 @@
         {
           "city": "BETHESDA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOWIE",
@@ -159,6 +159,11 @@
           "status": "Available"
         },
         {
+          "city": "ELLICOTT CITY",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "FALLSTON",
           "state": "MD",
           "status": "Fully Booked"
@@ -186,7 +191,7 @@
         {
           "city": "FULTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAITHERSBURG",
@@ -366,7 +371,7 @@
         {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLOMONS",
@@ -416,7 +421,7 @@
         {
           "city": "WHEATON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITE PLAINS",

@@ -31,7 +31,7 @@
         {
           "city": "AVON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BATESVILLE",
@@ -129,6 +129,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COLUMBIA CITY",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "COLUMBUS",
           "state": "IN",
           "status": "Fully Booked"
@@ -204,6 +209,16 @@
           "status": "Available"
         },
         {
+          "city": "FERDINAND",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "FISHERS",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "FORT WAYNE",
           "state": "IN",
           "status": "Available"
@@ -256,7 +271,7 @@
         {
           "city": "HIGHLAND",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOBART",
@@ -331,7 +346,7 @@
         {
           "city": "LOGANSPORT",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOOGOOTEE",
@@ -354,6 +369,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MERRILLVILLE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "MICHIGAN CITY",
           "state": "IN",
           "status": "Fully Booked"
@@ -369,6 +389,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MISHAWAKA",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "MITCHELL",
           "state": "IN",
           "status": "Fully Booked"
@@ -379,6 +404,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MOORESVILLE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "MOUNT VERNON",
           "state": "IN",
           "status": "Fully Booked"
@@ -386,12 +416,12 @@
         {
           "city": "MUNCIE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUNSTER",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NASHVILLE",
@@ -439,6 +469,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "PETERSBURG",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "PLYMOUTH",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "PORTAGE",
           "state": "IN",
           "status": "Fully Booked"
@@ -479,6 +519,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SCHERERVILLE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "SCOTTSBURG",
           "state": "IN",
           "status": "Fully Booked"
@@ -487,6 +532,11 @@
           "city": "SEYMOUR",
           "state": "IN",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SHELBYVILLE",
+          "state": "IN",
+          "status": "Available"
         },
         {
           "city": "SOUTH BEND",
@@ -517,6 +567,11 @@
           "city": "TIPTON",
           "state": "IN",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TRAFALGAR",
+          "state": "IN",
+          "status": "Available"
         },
         {
           "city": "VALPARAISO",

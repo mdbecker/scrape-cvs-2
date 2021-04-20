@@ -156,7 +156,7 @@
         {
           "city": "CAMBRIA HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARMEL",
@@ -176,7 +176,7 @@
         {
           "city": "CENTEREACH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CENTRAL ISLIP",
@@ -214,9 +214,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COHOES",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "COLLEGE POINT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
@@ -596,7 +601,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE FALLS",
@@ -699,6 +704,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NESCONSET",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "NEW CITY",
           "state": "NY",
           "status": "Fully Booked"
@@ -736,7 +746,7 @@
         {
           "city": "NORTH BABYLON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BALDWIN",
@@ -746,7 +756,7 @@
         {
           "city": "NORTH BAY SHORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BELLMORE",
@@ -886,7 +896,7 @@
         {
           "city": "RIDGEWOOD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERHEAD",
@@ -954,6 +964,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SEAFORD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "SELDEN",
           "state": "NY",
           "status": "Fully Booked"
@@ -979,6 +994,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SOMERS",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH SETAUKET",
           "state": "NY",
           "status": "Fully Booked"
@@ -986,7 +1006,7 @@
         {
           "city": "SOUTHAMPTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STATEN ISLAND",
@@ -1007,6 +1027,11 @@
           "city": "SUNNYSIDE",
           "state": "NY",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SYOSSET",
+          "state": "NY",
+          "status": "Available"
         },
         {
           "city": "SYRACUSE",
@@ -1059,6 +1084,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WANTAGH",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
           "city": "WARWICK",
           "state": "NY",
           "status": "Fully Booked"
@@ -1096,7 +1126,7 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ISLIP",
@@ -1136,7 +1166,7 @@
         {
           "city": "WHITESTONE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILLIAMSVILLE",
@@ -1166,7 +1196,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YORKTOWN HEIGHTS",

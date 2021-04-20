@@ -64,6 +64,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DESTREHAN",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
           "city": "DONALDSONVILLE",
           "state": "LA",
           "status": "Available"
@@ -165,6 +170,11 @@
         },
         {
           "city": "NEW ORLEANS",
+          "state": "LA",
+          "status": "Available"
+        },
+        {
+          "city": "PLAQUEMINE",
           "state": "LA",
           "status": "Available"
         },

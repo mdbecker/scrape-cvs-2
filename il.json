@@ -74,6 +74,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BROADVIEW",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "BUFFALO GROVE",
           "state": "IL",
           "status": "Fully Booked"
@@ -132,6 +137,11 @@
           "city": "CHILLICOTHE",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CICERO",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -194,6 +204,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ELMHURST",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "EUREKA",
           "state": "IL",
           "status": "Fully Booked"
@@ -201,7 +216,7 @@
         {
           "city": "EVANSTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVERGREEN PARK",
@@ -242,6 +257,11 @@
           "city": "GILMAN",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GLEN ELLYN",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "GLENDALE HEIGHTS",
@@ -301,7 +321,7 @@
         {
           "city": "JOLIET",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KANKAKEE",
@@ -349,6 +369,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LONG GROVE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "LOVES PARK",
           "state": "IL",
           "status": "Fully Booked"
@@ -394,9 +419,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MILAN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "MOKENA",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "MOMENCE",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MORTON",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "MOUNT CARMEL",
@@ -431,7 +471,7 @@
         {
           "city": "NILES",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORMAL",
@@ -472,6 +512,11 @@
           "city": "ORLAND PARK",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "OTTAWA",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "PALATINE",
@@ -521,7 +566,7 @@
         {
           "city": "PLAINFIELD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PONTIAC",
@@ -581,7 +626,7 @@
         {
           "city": "SKOKIE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH ELGIN",
@@ -591,7 +636,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAUNTON",
@@ -602,6 +647,11 @@
           "city": "SULLIVAN",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SWANSEA",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "TAYLORVILLE",
@@ -616,7 +666,7 @@
         {
           "city": "TINLEY PARK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "URBANA",

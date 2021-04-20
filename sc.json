@@ -56,7 +56,7 @@
         {
           "city": "BLUFFTON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOILING SPRINGS",
@@ -76,10 +76,20 @@
         {
           "city": "CHARLESTON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CHERAW",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "CHESNEE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
+          "city": "CHESTER",
           "state": "SC",
           "status": "Available"
         },
@@ -119,9 +129,14 @@
           "status": "Available"
         },
         {
+          "city": "DILLON",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "EASLEY",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEFIELD",
@@ -189,6 +204,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HARTSVILLE",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "HEMINGWAY",
           "state": "SC",
           "status": "Available"
@@ -212,6 +232,11 @@
           "city": "INMAN",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "IRMO",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "JOHNS ISLAND",
@@ -266,12 +291,17 @@
         {
           "city": "MAULDIN",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONCKS CORNER",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MOORE",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "MOUNT PLEASANT",
@@ -324,9 +354,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "PAWLEYS ISLAND",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "PENDLETON",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "PICKENS",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "PIEDMONT",
@@ -354,6 +394,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SALUDA",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "SANTEE",
           "state": "SC",
           "status": "Fully Booked"
@@ -371,7 +416,7 @@
         {
           "city": "SPARTANBURG",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUMMERVILLE",
@@ -384,6 +429,11 @@
           "status": "Available"
         },
         {
+          "city": "SURFSIDE BEACH",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "TAYLORS",
           "state": "SC",
           "status": "Fully Booked"
@@ -392,6 +442,11 @@
           "city": "TRAVELERS REST",
           "state": "SC",
           "status": "Fully Booked"
+        },
+        {
+          "city": "UNION",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "WALTERBORO",

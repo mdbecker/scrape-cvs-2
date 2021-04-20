@@ -94,6 +94,11 @@
           "status": "Available"
         },
         {
+          "city": "AZLE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "BALCH SPRINGS",
           "state": "TX",
           "status": "Available"
@@ -121,7 +126,7 @@
         {
           "city": "BAYTOWN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEAUMONT",
@@ -142,6 +147,11 @@
           "city": "BELLAIRE",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BELTON",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "BENBROOK",
@@ -191,7 +201,7 @@
         {
           "city": "BURLESON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMERON",
@@ -211,7 +221,7 @@
         {
           "city": "CARROLLTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARTHAGE",
@@ -296,7 +306,7 @@
         {
           "city": "COPPELL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORINTH",
@@ -306,10 +316,15 @@
         {
           "city": "CORPUS CHRISTI",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORSICANA",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "CROSBY",
           "state": "TX",
           "status": "Available"
         },
@@ -351,7 +366,7 @@
         {
           "city": "DENTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DICKINSON",
@@ -371,7 +386,7 @@
         {
           "city": "EDINBURG",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EL PASO",
@@ -446,7 +461,7 @@
         {
           "city": "FRISCO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
@@ -486,7 +501,7 @@
         {
           "city": "GRAPEVINE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENVILLE",
@@ -574,9 +589,19 @@
           "status": "Available"
         },
         {
+          "city": "KAUFMAN",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "KELLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "KERRVILLE",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "KILGORE",
@@ -586,7 +611,7 @@
         {
           "city": "KILLEEN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KINGSVILLE",
@@ -594,9 +619,14 @@
           "status": "Available"
         },
         {
+          "city": "KINGWOOD",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "KYLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA MARQUE",
@@ -649,6 +679,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LEANDER",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "LEWISVILLE",
           "state": "TX",
           "status": "Fully Booked"
@@ -692,6 +727,11 @@
           "city": "LYTLE",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MAGNOLIA",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "MANSFIELD",
@@ -744,6 +784,11 @@
           "status": "Available"
         },
         {
+          "city": "MIDLOTHIAN",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "MINEOLA",
           "state": "TX",
           "status": "Available"
@@ -761,7 +806,7 @@
         {
           "city": "MISSOURI CITY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTGOMERY",
@@ -776,12 +821,17 @@
         {
           "city": "MURPHY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NASSAU BAY",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "NEDERLAND",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "NEW BRAUNFELS",
@@ -791,7 +841,7 @@
         {
           "city": "NORTH RICHLAND HILLS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ODESSA",
@@ -839,6 +889,11 @@
           "status": "Available"
         },
         {
+          "city": "PITTSBURG",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "PLAINVIEW",
           "state": "TX",
           "status": "Fully Booked"
@@ -846,7 +901,7 @@
         {
           "city": "PLANO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT ARANSAS",
@@ -856,10 +911,15 @@
         {
           "city": "PORT ARTHUR",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORTER",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "PORTLAND",
           "state": "TX",
           "status": "Available"
         },
@@ -921,7 +981,7 @@
         {
           "city": "ROSENBERG",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSHARON",
@@ -931,10 +991,15 @@
         {
           "city": "ROUND ROCK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROWLETT",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "ROYSE CITY",
           "state": "TX",
           "status": "Available"
         },
@@ -971,7 +1036,7 @@
         {
           "city": "SCHERTZ",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEABROOK",
@@ -1034,6 +1099,11 @@
           "status": "Available"
         },
         {
+          "city": "SPRING BRANCH",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "STEPHENVILLE",
           "state": "TX",
           "status": "Available"
@@ -1060,6 +1130,11 @@
         },
         {
           "city": "TEMPLE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "TERRELL",
           "state": "TX",
           "status": "Available"
         },
@@ -1139,6 +1214,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WESLACO",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "WEST COLUMBIA",
           "state": "TX",
           "status": "Fully Booked"
@@ -1172,6 +1252,11 @@
           "city": "WINNSBORO",
           "state": "TX",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WOODWAY",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "WYLIE",

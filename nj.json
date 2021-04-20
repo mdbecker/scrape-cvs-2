@@ -39,6 +39,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BELLEVILLE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "BERKELEY HEIGHTS",
           "state": "NJ",
           "status": "Fully Booked"
@@ -66,7 +71,7 @@
         {
           "city": "BRICK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
@@ -111,22 +116,27 @@
         {
           "city": "CEDAR GROVE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHERRY HILL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESTER",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CLARK",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -176,7 +186,7 @@
         {
           "city": "EAST HANOVER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST ORANGE",
@@ -199,6 +209,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "EATONTOWN",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "EDGEWATER",
           "state": "NJ",
           "status": "Fully Booked"
@@ -206,7 +221,12 @@
         {
           "city": "EDISON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "EGG HARBOR TOWNSHIP",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "ELIZABETH",
@@ -236,7 +256,7 @@
         {
           "city": "FAIR LAWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -266,7 +286,7 @@
         {
           "city": "FORT LEE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN PARK",
@@ -287,6 +307,11 @@
           "city": "GARFIELD",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GARWOOD",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "GIBBSBORO",
@@ -354,6 +379,16 @@
           "status": "Available"
         },
         {
+          "city": "HILLSBOROUGH",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "HILLSIDE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "HOBOKEN",
           "state": "NJ",
           "status": "Fully Booked"
@@ -366,7 +401,7 @@
         {
           "city": "JACKSON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JERSEY CITY",
@@ -406,7 +441,7 @@
         {
           "city": "LEDGEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEONIA",
@@ -432,6 +467,11 @@
           "city": "LITTLE SILVER",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LIVINGSTON",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "LODI",
@@ -484,9 +524,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MAPLEWOOD",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "MARGATE CITY",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MARLBORO",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "MARLTON",
@@ -556,7 +606,7 @@
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOORESTOWN",
@@ -619,14 +669,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NORTH BERGEN",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "NORTH BRUNSWICK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH PLAINFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH WILDWOOD",
@@ -635,6 +690,11 @@
         },
         {
           "city": "NORTHVALE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "NUTLEY",
           "state": "NJ",
           "status": "Available"
         },
@@ -696,12 +756,17 @@
         {
           "city": "PLAINSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANTVILLE",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "POINT PLEASANT BEACH",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -711,7 +776,7 @@
         {
           "city": "PRINCETON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RAMSEY",
@@ -724,6 +789,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RIDGEFIELD PARK",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "RINGWOOD",
           "state": "NJ",
           "status": "Available"
@@ -731,7 +801,17 @@
         {
           "city": "RIVER EDGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "RIVERDALE",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "RIVERTON",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "ROBBINSVILLE",
@@ -752,6 +832,11 @@
           "city": "ROSELLE",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "RUNNEMEDE",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "SADDLE BROOK",
@@ -799,9 +884,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SOMERSET",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
           "city": "SOUTH PLAINFIELD",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SPARTA",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "STANHOPE",
@@ -810,6 +905,11 @@
         },
         {
           "city": "STRATFORD",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "SUMMIT",
           "state": "NJ",
           "status": "Available"
         },
@@ -836,7 +936,12 @@
         {
           "city": "TOMS RIVER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "TOTOWA",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "TRENTON",
@@ -876,12 +981,12 @@
         {
           "city": "VERNON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VILLAS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VINELAND",
@@ -912,6 +1017,11 @@
           "city": "WATCHUNG",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WAYNE",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "WENONAH",
@@ -947,6 +1057,11 @@
           "city": "WESTAMPTON",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WESTFIELD",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "WHIPPANY",

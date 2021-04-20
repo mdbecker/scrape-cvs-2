@@ -26,7 +26,7 @@
         {
           "city": "BLOOMFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRANFORD",
@@ -44,9 +44,24 @@
           "status": "Available"
         },
         {
+          "city": "BROOKFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "BROOKLYN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "BURLINGTON",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CANTON",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -84,6 +99,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DERBY",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "EAST HAMPTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "EAST HARTFORD",
           "state": "CT",
           "status": "Available"
@@ -91,7 +116,7 @@
         {
           "city": "EAST HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST LYME",
@@ -121,12 +146,17 @@
         {
           "city": "GLASTONBURY",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRANBY",
           "state": "CT",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GREENWICH",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "GUILFORD",
@@ -176,17 +206,17 @@
         {
           "city": "MERIDEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONROE",
@@ -224,9 +254,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NEW MILFORD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "NEWINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NEWTOWN",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "NIANTIC",
@@ -236,10 +276,15 @@
         {
           "city": "NORTH HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORWALK",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "NORWICH",
           "state": "CT",
           "status": "Available"
         },
@@ -254,6 +299,21 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OLD SAYBROOK",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "ORANGE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "PLAINFIELD",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "PLAINVILLE",
           "state": "CT",
           "status": "Fully Booked"
@@ -266,7 +326,7 @@
         {
           "city": "PUTNAM",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIDGEFIELD",
@@ -289,14 +349,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SEYMOUR",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "SHELTON",
           "state": "CT",
           "status": "Fully Booked"
         },
         {
+          "city": "SIMSBURY",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "SOUTH WINDSOR",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "SOUTHINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAFFORD SPRINGS",
@@ -306,7 +381,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -316,7 +391,7 @@
         {
           "city": "STRATFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUFFIELD",
@@ -331,15 +406,30 @@
         {
           "city": "TORRINGTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRUMBULL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNCASVILLE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "UNIONVILLE",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "VERNON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "WALLINGFORD",
           "state": "CT",
           "status": "Available"
         },
@@ -356,12 +446,17 @@
         {
           "city": "WEST HARTFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WETHERSFIELD",
+          "state": "CT",
+          "status": "Available"
         },
         {
           "city": "WILLIMANTIC",

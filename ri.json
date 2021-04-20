@@ -19,6 +19,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CENTRAL FALLS",
+          "state": "RI",
+          "status": "Available"
+        },
+        {
           "city": "CHARLESTOWN",
           "state": "RI",
           "status": "Fully Booked"
@@ -41,7 +46,7 @@
         {
           "city": "EAST GREENWICH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PROVIDENCE",
@@ -56,7 +61,12 @@
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LINCOLN",
+          "state": "RI",
+          "status": "Available"
         },
         {
           "city": "NARRAGANSETT",
@@ -131,7 +141,7 @@
         {
           "city": "WARWICK",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST WARWICK",
@@ -141,7 +151,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOONSOCKET",
