@@ -176,7 +176,7 @@
         {
           "city": "BUENA PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURBANK",
@@ -186,7 +186,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALEXICO",
@@ -206,7 +206,7 @@
         {
           "city": "CAMPBELL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CANOGA PARK",
@@ -256,7 +256,7 @@
         {
           "city": "CERRITOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICO",
@@ -371,7 +371,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEL MAR",
@@ -446,7 +446,7 @@
         {
           "city": "EL MONTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELK GROVE",
@@ -501,7 +501,7 @@
         {
           "city": "FOLSOM",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FONTANA",
@@ -601,7 +601,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANFORD",
@@ -716,7 +716,7 @@
         {
           "city": "LA JOLLA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA MESA",
@@ -806,7 +806,7 @@
         {
           "city": "LEMON GROVE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LINCOLN",
@@ -816,7 +816,7 @@
         {
           "city": "LIVERMORE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LODI",
@@ -891,12 +891,12 @@
         {
           "city": "MARINA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARINA DEL REY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARTINEZ",
@@ -921,7 +921,7 @@
         {
           "city": "MENLO PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MERCED",
@@ -991,7 +991,7 @@
         {
           "city": "MORAGA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MORENO VALLEY",
@@ -1001,12 +1001,12 @@
         {
           "city": "MORGAN HILL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -1181,7 +1181,7 @@
         {
           "city": "PICO RIVERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PINOLE",
@@ -1426,7 +1426,7 @@
         {
           "city": "SAN JOSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN LEANDRO",
@@ -1451,7 +1451,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN RAFAEL",
@@ -1511,7 +1511,7 @@
         {
           "city": "SANTA MONICA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA PAULA",
@@ -1541,12 +1541,12 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEBASTOPOL",
@@ -1561,12 +1561,12 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIMI VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOLANA BEACH",
@@ -1586,7 +1586,7 @@
         {
           "city": "SONOMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SONORA",
@@ -1661,7 +1661,7 @@
         {
           "city": "THOUSAND OAKS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TIBURON",
@@ -1726,7 +1726,7 @@
         {
           "city": "VALENCIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VALLEJO",
@@ -1756,7 +1756,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VISALIA",
@@ -1821,7 +1821,7 @@
         {
           "city": "WHITTIER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILMINGTON",
