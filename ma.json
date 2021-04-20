@@ -226,7 +226,7 @@
         {
           "city": "EAST FALMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST LONGMEADOW",
@@ -251,12 +251,12 @@
         {
           "city": "FAIRHAVEN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALMOUTH",
@@ -281,7 +281,7 @@
         {
           "city": "FRANKLIN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARDNER",
@@ -306,7 +306,7 @@
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENFIELD",
@@ -471,7 +471,7 @@
         {
           "city": "MANSFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARBLEHEAD",
@@ -576,7 +576,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURYPORT",
@@ -611,7 +611,7 @@
         {
           "city": "NORTH DARTMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH EASTON",
@@ -656,7 +656,7 @@
         {
           "city": "ORLEANS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OXFORD",
@@ -766,7 +766,7 @@
         {
           "city": "SHARON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHREWSBURY",
@@ -796,12 +796,12 @@
         {
           "city": "SOUTH DARTMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH DENNIS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH EASTON",
@@ -901,7 +901,7 @@
         {
           "city": "WAREHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERTOWN",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTWOOD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
