@@ -471,7 +471,7 @@
         {
           "city": "MANSFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARBLEHEAD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
