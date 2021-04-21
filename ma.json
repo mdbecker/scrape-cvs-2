@@ -241,7 +241,7 @@
         {
           "city": "EASTHAMPTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVERETT",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
