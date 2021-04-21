@@ -31,7 +31,7 @@
         {
           "city": "APPOMATTOX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -136,7 +136,7 @@
         {
           "city": "CHRISTIANSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLARKSVILLE",
@@ -301,7 +301,7 @@
         {
           "city": "KING GEORGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -321,7 +321,7 @@
         {
           "city": "LURAY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNCHBURG",
@@ -526,7 +526,7 @@
         {
           "city": "VIRGINIA BEACH",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARRENTON",
