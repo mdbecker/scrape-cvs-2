@@ -71,7 +71,7 @@
         {
           "city": "ANTIOCH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APPLE VALLEY",
@@ -371,7 +371,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -846,7 +846,7 @@
         {
           "city": "LOS ANGELES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOS BANOS",
@@ -891,7 +891,7 @@
         {
           "city": "MARINA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARINA DEL REY",
@@ -1001,7 +1001,7 @@
         {
           "city": "MORGAN HILL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT SHASTA",
@@ -1311,7 +1311,7 @@
         {
           "city": "RIALTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHMOND",
@@ -1511,7 +1511,7 @@
         {
           "city": "SANTA MONICA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA PAULA",
@@ -1766,7 +1766,7 @@
         {
           "city": "VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALNUT CREEK",
@@ -1781,7 +1781,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEAVERVILLE",
