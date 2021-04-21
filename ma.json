@@ -306,7 +306,7 @@
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENFIELD",
@@ -496,7 +496,7 @@
         {
           "city": "MASHPEE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MATTAPAN",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
