@@ -326,7 +326,7 @@
         {
           "city": "EASTCHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELMIRA",
@@ -421,7 +421,7 @@
         {
           "city": "GLENVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOVERSVILLE",
@@ -506,7 +506,7 @@
         {
           "city": "HUDSON FALLS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON",
@@ -546,7 +546,7 @@
         {
           "city": "JAMAICA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JAMESTOWN",
@@ -941,7 +941,7 @@
         {
           "city": "SARATOGA SPRINGS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAUGERTIES",
