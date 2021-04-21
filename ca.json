@@ -31,12 +31,12 @@
         {
           "city": "ALBANY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALHAMBRA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALISO VIEJO",
@@ -186,7 +186,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALEXICO",
@@ -266,7 +266,7 @@
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHINO HILLS",
@@ -471,7 +471,7 @@
         {
           "city": "ESCONDIDO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EUREKA",
@@ -601,7 +601,7 @@
         {
           "city": "HALF MOON BAY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANFORD",
@@ -1066,7 +1066,7 @@
         {
           "city": "NORWALK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NOVATO",
@@ -1246,7 +1246,7 @@
         {
           "city": "POWAY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PRATHER",
