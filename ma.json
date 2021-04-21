@@ -256,7 +256,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FALMOUTH",
@@ -576,7 +576,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURYPORT",
@@ -796,7 +796,7 @@
         {
           "city": "SOUTH DARTMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH DENNIS",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTWOOD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
