@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -636,7 +636,7 @@
         {
           "city": "HERMOSA BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HESPERIA",
@@ -816,7 +816,7 @@
         {
           "city": "LIVERMORE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LODI",
@@ -971,7 +971,7 @@
         {
           "city": "MONTEREY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTEREY PARK",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK PARK",
@@ -1356,7 +1356,7 @@
         {
           "city": "ROSEVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SACRAMENTO",
@@ -1596,7 +1596,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1741,7 +1741,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VENICE",
@@ -1776,12 +1776,12 @@
         {
           "city": "WALNUT PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEAVERVILLE",
