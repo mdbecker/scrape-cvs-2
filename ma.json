@@ -681,7 +681,7 @@
         {
           "city": "PLAINVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLYMOUTH",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTWOOD",
@@ -1031,10 +1031,10 @@
         {
           "city": "WRENTHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
