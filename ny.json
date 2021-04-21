@@ -46,7 +46,7 @@
         {
           "city": "AUBURNDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVON",
@@ -326,7 +326,7 @@
         {
           "city": "EASTCHESTER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELMIRA",
@@ -706,7 +706,7 @@
         {
           "city": "NESCONSET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CITY",
@@ -966,7 +966,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
@@ -1141,7 +1141,7 @@
         {
           "city": "WEST SAYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTBURY",
