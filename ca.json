@@ -811,7 +811,7 @@
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LIVERMORE",
@@ -1036,7 +1036,7 @@
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWPORT BEACH",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAK PARK",
@@ -1591,7 +1591,7 @@
         {
           "city": "SONORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH GATE",
@@ -1806,7 +1806,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE VILLAGE",
@@ -1856,7 +1856,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
