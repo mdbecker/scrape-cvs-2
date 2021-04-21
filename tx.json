@@ -336,12 +336,12 @@
         {
           "city": "CROWLEY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CYPRESS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DALLAS",
@@ -586,7 +586,7 @@
         {
           "city": "KATY",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KAUFMAN",
@@ -731,7 +731,7 @@
         {
           "city": "MAGNOLIA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANSFIELD",
@@ -961,7 +961,7 @@
         {
           "city": "ROANOKE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROBSTOWN",
@@ -1156,7 +1156,7 @@
         {
           "city": "THE WOODLANDS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOMBALL",
