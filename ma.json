@@ -256,7 +256,7 @@
         {
           "city": "FALL RIVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALMOUTH",
@@ -436,7 +436,7 @@
         {
           "city": "LITTLETON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONGMEADOW",
@@ -576,7 +576,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURYPORT",
@@ -761,7 +761,7 @@
         {
           "city": "SEEKONK",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHARON",
@@ -871,7 +871,7 @@
         {
           "city": "SWANSEA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAUNTON",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTWOOD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
