@@ -66,12 +66,12 @@
         {
           "city": "ANGELS CAMP",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANTIOCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "APPLE VALLEY",
@@ -221,7 +221,7 @@
         {
           "city": "CAPITOLA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARLSBAD",
@@ -371,7 +371,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -651,7 +651,7 @@
         {
           "city": "HOLLISTER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLYWOOD",
@@ -731,7 +731,7 @@
         {
           "city": "LA PUENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA QUINTA",
@@ -836,7 +836,7 @@
         {
           "city": "LONG BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOS ALAMITOS",
@@ -861,7 +861,7 @@
         {
           "city": "LYNWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADERA",
@@ -1006,7 +1006,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK PARK",
@@ -1186,7 +1186,7 @@
         {
           "city": "PINOLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PISMO BEACH",
@@ -1481,7 +1481,7 @@
         {
           "city": "SANTA BARBARA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA CLARA",
@@ -1556,7 +1556,7 @@
         {
           "city": "SHERMAN OAKS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIGNAL HILL",
@@ -1601,7 +1601,7 @@
         {
           "city": "SOUTH LAKE TAHOE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1806,7 +1806,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTLAKE VILLAGE",
@@ -1846,7 +1846,7 @@
         {
           "city": "WOODLAND HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YORBA LINDA",
@@ -1856,7 +1856,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
