@@ -31,7 +31,7 @@
         {
           "city": "BALTIMORE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTSVILLE",
@@ -41,12 +41,12 @@
         {
           "city": "BETHESDA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOWIE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRANDYWINE",
@@ -136,7 +136,7 @@
         {
           "city": "DUNKIRK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -186,7 +186,7 @@
         {
           "city": "FREDERICK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTON",
@@ -241,7 +241,7 @@
         {
           "city": "HYATTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA PLATA",
@@ -261,7 +261,7 @@
         {
           "city": "LANHAM",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAUREL",
@@ -271,7 +271,7 @@
         {
           "city": "LEONARDTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MECHANICSVILLE",
@@ -286,12 +286,12 @@
         {
           "city": "MILLERSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CARROLLTON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NOTTINGHAM",
@@ -306,7 +306,7 @@
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OWINGS MILLS",
@@ -336,7 +336,7 @@
         {
           "city": "REISTERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
@@ -371,7 +371,7 @@
         {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLOMONS",
@@ -421,12 +421,12 @@
         {
           "city": "WHEATON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITE PLAINS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

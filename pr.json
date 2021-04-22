@@ -16,7 +16,7 @@
         {
           "city": "BAYAMON",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAGUAS",
@@ -46,17 +46,17 @@
         {
           "city": "GUAYNABO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANATI",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PONCE",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JUAN",
@@ -76,10 +76,10 @@
         {
           "city": "VEGA BAJA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
