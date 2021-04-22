@@ -116,7 +116,7 @@
         {
           "city": "CARLISLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARNEGIE",
@@ -211,7 +211,7 @@
         {
           "city": "EAST STROUDSBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTON",
@@ -251,12 +251,12 @@
         {
           "city": "FEASTERVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOLSOM",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRAZER",
@@ -671,7 +671,7 @@
         {
           "city": "SOMERSET",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH WILLIAMSPORT",
