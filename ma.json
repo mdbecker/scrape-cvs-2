@@ -251,7 +251,7 @@
         {
           "city": "FAIRHAVEN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FALL RIVER",
@@ -576,7 +576,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURYPORT",
@@ -801,7 +801,7 @@
         {
           "city": "SOUTH DENNIS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH EASTON",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTWOOD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
