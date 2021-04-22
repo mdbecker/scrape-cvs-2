@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALAMO",
@@ -31,7 +31,7 @@
         {
           "city": "ALBANY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALHAMBRA",
@@ -201,7 +201,7 @@
         {
           "city": "CAMERON PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMPBELL",
@@ -281,7 +281,7 @@
         {
           "city": "CITRUS HEIGHTS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CITY OF INDUSTRY",
@@ -331,7 +331,7 @@
         {
           "city": "COSTA MESA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COVINA",
@@ -366,12 +366,12 @@
         {
           "city": "DANVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -381,7 +381,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DISCOVERY BAY",
@@ -491,7 +491,7 @@
         {
           "city": "FELTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FILLMORE",
@@ -501,7 +501,7 @@
         {
           "city": "FOLSOM",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FONTANA",
@@ -581,7 +581,7 @@
         {
           "city": "GRANADA HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRANITE BAY",
@@ -621,7 +621,7 @@
         {
           "city": "HAYWARD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEALDSBURG",
@@ -661,7 +661,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -671,7 +671,7 @@
         {
           "city": "IMPERIAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIAN WELLS",
@@ -706,7 +706,7 @@
         {
           "city": "LA CANADA FLINTRIDGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA HABRA",
@@ -801,7 +801,7 @@
         {
           "city": "LAWNDALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEMON GROVE",
@@ -831,7 +831,7 @@
         {
           "city": "LOMPOC",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONG BEACH",
@@ -861,7 +861,7 @@
         {
           "city": "LYNWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADERA",
@@ -876,7 +876,7 @@
         {
           "city": "MANHATTAN BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANTECA",
@@ -991,7 +991,7 @@
         {
           "city": "MORAGA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MORENO VALLEY",
@@ -1151,7 +1151,7 @@
         {
           "city": "PALO ALTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARAMOUNT",
@@ -1451,7 +1451,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAFAEL",
@@ -1461,7 +1461,7 @@
         {
           "city": "SAN RAMON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAND CITY",
@@ -1546,7 +1546,7 @@
         {
           "city": "SEAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEBASTOPOL",
@@ -1566,7 +1566,7 @@
         {
           "city": "SIMI VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOLANA BEACH",
@@ -1596,7 +1596,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1656,7 +1656,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1756,7 +1756,7 @@
         {
           "city": "VICTORVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISALIA",
@@ -1771,7 +1771,7 @@
         {
           "city": "WALNUT CREEK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALNUT PARK",
@@ -1801,7 +1801,7 @@
         {
           "city": "WEST HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SACRAMENTO",
@@ -1821,7 +1821,7 @@
         {
           "city": "WHITTIER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILMINGTON",
