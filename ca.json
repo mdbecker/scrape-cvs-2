@@ -181,7 +181,7 @@
         {
           "city": "BURBANK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGAME",
@@ -211,7 +211,7 @@
         {
           "city": "CANOGA PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CANYON COUNTRY",
@@ -276,7 +276,7 @@
         {
           "city": "CHULA VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CITRUS HEIGHTS",
@@ -446,7 +446,7 @@
         {
           "city": "EL MONTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELK GROVE",
@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -661,7 +661,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -706,7 +706,7 @@
         {
           "city": "LA CANADA FLINTRIDGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA HABRA",
@@ -831,7 +831,7 @@
         {
           "city": "LOMPOC",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONG BEACH",
@@ -941,7 +941,7 @@
         {
           "city": "MISSION HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION VIEJO",
@@ -1001,7 +1001,7 @@
         {
           "city": "MORGAN HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT SHASTA",
@@ -1106,7 +1106,7 @@
         {
           "city": "ORANGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGEVALE",
@@ -1176,7 +1176,7 @@
         {
           "city": "PETALUMA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PICO RIVERA",
@@ -1201,12 +1201,12 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLACERVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLAYA VISTA",
@@ -1461,7 +1461,7 @@
         {
           "city": "SAN RAMON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAND CITY",
@@ -1536,17 +1536,17 @@
         {
           "city": "SAUSALITO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEBASTOPOL",
@@ -1566,7 +1566,7 @@
         {
           "city": "SIMI VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOLANA BEACH",
@@ -1656,7 +1656,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1671,7 +1671,7 @@
         {
           "city": "TORRANCE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRABUCO CANYON",
@@ -1721,7 +1721,7 @@
         {
           "city": "VACAVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALENCIA",
@@ -1741,7 +1741,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VENICE",
@@ -1801,7 +1801,7 @@
         {
           "city": "WEST HOLLYWOOD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST SACRAMENTO",
@@ -1846,12 +1846,12 @@
         {
           "city": "WOODLAND HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
