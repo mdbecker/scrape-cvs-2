@@ -11,7 +11,7 @@
         {
           "city": "BARRINGTON",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRISTOL",
@@ -26,7 +26,7 @@
         {
           "city": "CHARLESTOWN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COVENTRY",
@@ -96,7 +96,7 @@
         {
           "city": "PASCOAG",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWTUCKET",
@@ -136,7 +136,7 @@
         {
           "city": "WARREN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARWICK",
@@ -161,7 +161,7 @@
         {
           "city": "WYOMING",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
