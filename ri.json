@@ -16,7 +16,7 @@
         {
           "city": "BRISTOL",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTRAL FALLS",
@@ -26,7 +26,7 @@
         {
           "city": "CHARLESTOWN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COVENTRY",
@@ -96,7 +96,7 @@
         {
           "city": "PASCOAG",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWTUCKET",
@@ -131,7 +131,7 @@
         {
           "city": "TIVERTON",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -151,7 +151,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOONSOCKET",
@@ -161,7 +161,7 @@
         {
           "city": "WYOMING",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

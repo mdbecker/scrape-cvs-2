@@ -31,7 +31,7 @@
         {
           "city": "ATHENS",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATLANTA",
@@ -111,7 +111,7 @@
         {
           "city": "CARROLLTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARTERSVILLE",
@@ -171,7 +171,7 @@
         {
           "city": "CUMMING",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CUTHBERT",
@@ -386,7 +386,7 @@
         {
           "city": "MABLETON",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MACON",
@@ -401,7 +401,7 @@
         {
           "city": "MARIETTA",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARTINEZ",
@@ -506,7 +506,7 @@
         {
           "city": "ROSWELL",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT MARYS",
@@ -601,7 +601,7 @@
         {
           "city": "UNION CITY",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VIDALIA",
@@ -646,7 +646,7 @@
         {
           "city": "WOODSTOCK",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
