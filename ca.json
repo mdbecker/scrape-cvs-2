@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGOURA HILLS",
@@ -146,7 +146,7 @@
         {
           "city": "BERKELEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEVERLY HILLS",
@@ -221,7 +221,7 @@
         {
           "city": "CAPITOLA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARLSBAD",
@@ -381,7 +381,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DISCOVERY BAY",
@@ -566,12 +566,12 @@
         {
           "city": "GLENDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDORA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GOLETA",
@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -1011,7 +1011,7 @@
         {
           "city": "MOUNTAIN VIEW",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MURRIETA",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAK PARK",
@@ -1101,7 +1101,7 @@
         {
           "city": "ONTARIO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE",
@@ -1216,7 +1216,7 @@
         {
           "city": "PLEASANT HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLEASANTON",
@@ -1426,7 +1426,7 @@
         {
           "city": "SAN JOSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN LEANDRO",
@@ -1481,7 +1481,7 @@
         {
           "city": "SANTA BARBARA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA CLARA",
@@ -1586,7 +1586,7 @@
         {
           "city": "SONOMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SONORA",
@@ -1601,7 +1601,7 @@
         {
           "city": "SOUTH LAKE TAHOE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SPRING VALLEY",
@@ -1656,7 +1656,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1726,7 +1726,7 @@
         {
           "city": "VALENCIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VALLEJO",
