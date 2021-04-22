@@ -611,7 +611,7 @@
         {
           "city": "NORTH DARTMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH EASTON",
@@ -966,7 +966,7 @@
         {
           "city": "WESTPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTWOOD",
@@ -1035,6 +1035,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
