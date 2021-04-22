@@ -91,7 +91,7 @@
         {
           "city": "BEVERLY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BILLERICA",
@@ -136,7 +136,7 @@
         {
           "city": "BURLINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMBRIDGE",
@@ -226,7 +226,7 @@
         {
           "city": "EAST FALMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST LONGMEADOW",
@@ -526,7 +526,7 @@
         {
           "city": "MELROSE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METHUEN",
@@ -631,7 +631,7 @@
         {
           "city": "NORTHAMPTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHBOROUGH",
