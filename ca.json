@@ -371,7 +371,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEL MAR",
@@ -716,7 +716,7 @@
         {
           "city": "LA JOLLA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA MESA",
@@ -866,7 +866,7 @@
         {
           "city": "MADERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALIBU",
@@ -1721,7 +1721,7 @@
         {
           "city": "VACAVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALENCIA",
@@ -1781,7 +1781,7 @@
         {
           "city": "WATSONVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEAVERVILLE",
