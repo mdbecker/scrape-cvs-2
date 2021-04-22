@@ -86,7 +86,7 @@
         {
           "city": "ARCADIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCATA",
@@ -236,7 +236,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARPINTERIA",
@@ -371,7 +371,7 @@
         {
           "city": "DAVIS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEL MAR",
@@ -546,7 +546,7 @@
         {
           "city": "GALT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GARDEN GROVE",
@@ -626,7 +626,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -661,7 +661,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -696,7 +696,7 @@
         {
           "city": "JACKSON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KINGSBURG",
@@ -891,7 +891,7 @@
         {
           "city": "MARINA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARINA DEL REY",
@@ -1006,7 +1006,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -1101,7 +1101,7 @@
         {
           "city": "ONTARIO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORANGE",
@@ -1111,7 +1111,7 @@
         {
           "city": "ORANGEVALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORINDA",
@@ -1336,7 +1336,7 @@
         {
           "city": "ROCKLIN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROHNERT PARK",
@@ -1481,7 +1481,7 @@
         {
           "city": "SANTA BARBARA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA CLARA",
@@ -1566,7 +1566,7 @@
         {
           "city": "SIMI VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLANA BEACH",
@@ -1806,7 +1806,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTLAKE VILLAGE",
