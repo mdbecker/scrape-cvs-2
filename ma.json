@@ -111,7 +111,7 @@
         {
           "city": "BRAINTREE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
@@ -311,7 +311,7 @@
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENFIELD",
@@ -326,7 +326,7 @@
         {
           "city": "HADLEY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANOVER",
@@ -511,7 +511,7 @@
         {
           "city": "MATTAPAN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAYNARD",
@@ -581,7 +581,7 @@
         {
           "city": "NEEDHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BEDFORD",
