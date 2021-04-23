@@ -56,7 +56,7 @@
         {
           "city": "BROOKLYN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -161,7 +161,7 @@
         {
           "city": "GLASTONBURY",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRANBY",
@@ -241,7 +241,7 @@
         {
           "city": "MYSTIC",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NAUGATUCK",
@@ -326,7 +326,7 @@
         {
           "city": "PLAINFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLAINVILLE",
@@ -371,7 +371,7 @@
         {
           "city": "SHELTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIMSBURY",
@@ -411,12 +411,12 @@
         {
           "city": "STRATFORD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUFFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TERRYVILLE",
