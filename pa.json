@@ -511,7 +511,7 @@
         {
           "city": "LANGHORNE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANSDALE",
@@ -801,7 +801,7 @@
         {
           "city": "POTTSTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POTTSVILLE",
@@ -1131,7 +1131,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
