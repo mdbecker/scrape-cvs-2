@@ -334,11 +334,6 @@
           "status": "Available"
         },
         {
-          "city": "GREEN",
-          "state": "OH",
-          "status": "Fully Booked"
-        },
-        {
           "city": "GREENVILLE",
           "state": "OH",
           "status": "Fully Booked"
@@ -797,6 +792,11 @@
           "city": "TWINSBURG",
           "state": "OH",
           "status": "Available"
+        },
+        {
+          "city": "UNIONTOWN",
+          "state": "OH",
+          "status": "Fully Booked"
         },
         {
           "city": "UNIVERSITY HEIGHTS",
