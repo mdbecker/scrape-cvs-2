@@ -11,7 +11,7 @@
         {
           "city": "ARVADA",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AURORA",
@@ -21,7 +21,7 @@
         {
           "city": "BOULDER",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIGHTON",
@@ -31,7 +31,7 @@
         {
           "city": "CASTLE ROCK",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLORADO SPRINGS",
@@ -121,7 +121,7 @@
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SILVERTHORNE",
@@ -141,7 +141,7 @@
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
