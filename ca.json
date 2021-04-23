@@ -156,7 +156,7 @@
         {
           "city": "BERKELEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEVERLY HILLS",
@@ -211,7 +211,7 @@
         {
           "city": "CAMERON PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMPBELL",
@@ -271,7 +271,7 @@
         {
           "city": "CERRITOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICO",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DISCOVERY BAY",
@@ -496,7 +496,7 @@
         {
           "city": "EUREKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIR OAKS",
@@ -696,7 +696,7 @@
         {
           "city": "HUNTINGTON BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON PARK",
@@ -936,7 +936,7 @@
         {
           "city": "MARINA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARINA DEL REY",
@@ -1581,7 +1581,7 @@
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA",
@@ -1616,7 +1616,7 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIMI VALLEY",
@@ -1731,7 +1731,7 @@
         {
           "city": "TORRANCE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TRABUCO CANYON",
