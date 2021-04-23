@@ -31,7 +31,7 @@
         {
           "city": "BEACHWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLE MEAD",
@@ -41,7 +41,7 @@
         {
           "city": "BELLEVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERKELEY HEIGHTS",
@@ -76,7 +76,7 @@
         {
           "city": "BRIDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIGANTINE",
@@ -121,7 +121,7 @@
         {
           "city": "CHATHAM",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHERRY HILL",
@@ -136,7 +136,7 @@
         {
           "city": "CLARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -256,17 +256,17 @@
         {
           "city": "FAIR LAWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRLAWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRVIEW",
@@ -296,7 +296,7 @@
         {
           "city": "FREEHOLD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALLOWAY",
@@ -396,7 +396,7 @@
         {
           "city": "HILLSIDE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOBOKEN",
@@ -406,7 +406,7 @@
         {
           "city": "HOWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JACKSON",
@@ -421,12 +421,12 @@
         {
           "city": "KEARNY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KENDALL PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -451,7 +451,7 @@
         {
           "city": "LEDGEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEONIA",
@@ -501,7 +501,7 @@
         {
           "city": "MAHWAH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALAGA",
@@ -536,7 +536,7 @@
         {
           "city": "MAPLEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARGATE CITY",
@@ -586,7 +586,7 @@
         {
           "city": "METUCHEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLESEX",
@@ -616,12 +616,12 @@
         {
           "city": "MONMOUTH JUNCTION",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTVALE",
@@ -736,7 +736,7 @@
         {
           "city": "OCEAN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
@@ -806,7 +806,7 @@
         {
           "city": "POINT PLEASANT BEACH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -816,7 +816,7 @@
         {
           "city": "PRINCETON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RAMSEY",
@@ -851,12 +851,12 @@
         {
           "city": "RIVERTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROBBINSVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCHELLE PARK",
@@ -866,7 +866,7 @@
         {
           "city": "ROCKAWAY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSELLE",
@@ -956,7 +956,7 @@
         {
           "city": "SUMMIT",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SWEDESBORO",
@@ -986,7 +986,7 @@
         {
           "city": "TOTOWA",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRENTON",
@@ -1061,7 +1061,7 @@
         {
           "city": "WATCHUNG",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAYNE",
@@ -1096,7 +1096,7 @@
         {
           "city": "WEST WINDSOR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTAMPTON",
@@ -1141,7 +1141,7 @@
         {
           "city": "WOOD RIDGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODBRIDGE",
