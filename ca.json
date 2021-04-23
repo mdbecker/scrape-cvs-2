@@ -16,12 +16,12 @@
         {
           "city": "AGOURA HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALAMO",
@@ -66,7 +66,7 @@
         {
           "city": "ANGELS CAMP",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANTIOCH",
@@ -96,7 +96,7 @@
         {
           "city": "ARLETA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARROYO GRANDE",
@@ -156,7 +156,7 @@
         {
           "city": "BERKELEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEVERLY HILLS",
@@ -366,7 +366,7 @@
         {
           "city": "CUPERTINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CYPRESS",
@@ -671,7 +671,7 @@
         {
           "city": "HERMOSA BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HESPERIA",
@@ -936,7 +936,7 @@
         {
           "city": "MARINA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARINA DEL REY",
@@ -986,7 +986,7 @@
         {
           "city": "MISSION HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MISSION VIEJO",
@@ -1081,7 +1081,7 @@
         {
           "city": "NEWBURY PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWPORT BEACH",
@@ -1616,7 +1616,7 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIMI VALLEY",
@@ -1861,7 +1861,7 @@
         {
           "city": "WEST HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SACRAMENTO",
