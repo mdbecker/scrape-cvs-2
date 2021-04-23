@@ -241,7 +241,7 @@
         {
           "city": "MYSTIC",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NAUGATUCK",
@@ -271,7 +271,7 @@
         {
           "city": "NEW MILFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWINGTON",
@@ -281,7 +281,7 @@
         {
           "city": "NEWTOWN",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NIANTIC",
@@ -366,12 +366,12 @@
         {
           "city": "SEYMOUR",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHELTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIMSBURY",
@@ -476,7 +476,7 @@
         {
           "city": "WETHERSFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIMANTIC",

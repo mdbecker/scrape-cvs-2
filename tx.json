@@ -31,7 +31,7 @@
         {
           "city": "ALLEN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALTON",
@@ -221,7 +221,7 @@
         {
           "city": "CARROLLTON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARTHAGE",
@@ -511,7 +511,7 @@
         {
           "city": "GRAPEVINE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENVILLE",
@@ -611,7 +611,7 @@
         {
           "city": "KELLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KERRVILLE",
@@ -636,7 +636,7 @@
         {
           "city": "KINGWOOD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KYLE",
