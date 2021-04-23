@@ -9,12 +9,27 @@
     "data": {
       "IL": [
         {
+          "city": "ADDISON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "ALGONQUIN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "ALTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANTIOCH",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "ARLINGTON HEIGHTS",
           "state": "IL",
           "status": "Available"
         },
@@ -27,6 +42,16 @@
           "city": "BARRINGTON",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BARTLETT",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "BARTONVILLE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
@@ -54,14 +79,29 @@
           "status": "Available"
         },
         {
+          "city": "BETHALTO",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "BLOOMINGDALE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "BLOOMINGTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOLINGBROOK",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BOURBONNAIS",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "BRAIDWOOD",
@@ -82,6 +122,11 @@
           "city": "BUFFALO GROVE",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CAHOKIA",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "CALUMET CITY",
@@ -124,6 +169,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CHAMPAIGN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "CHARLESTON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "CHICAGO",
           "state": "IL",
           "status": "Available"
@@ -164,9 +219,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CRESTWOOD",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "CRYSTAL LAKE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DARIEN",
@@ -176,17 +236,22 @@
         {
           "city": "DECATUR",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEKALB",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DWIGHT",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "EAST PEORIA",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "EDWARDSVILLE",
@@ -206,12 +271,12 @@
         {
           "city": "ELMHURST",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EUREKA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVANSTON",
@@ -234,6 +299,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "FAIRVIEW HEIGHTS",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "FLORA",
           "state": "IL",
           "status": "Fully Booked"
@@ -241,7 +311,7 @@
         {
           "city": "FLOSSMOOR",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN PARK",
@@ -251,7 +321,12 @@
         {
           "city": "FREEPORT",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "GALESBURG",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "GILMAN",
@@ -269,9 +344,19 @@
           "status": "Available"
         },
         {
+          "city": "GODFREY",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "GRANITE CITY",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "GREENVILLE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "HAVANA",
@@ -282,6 +367,11 @@
           "city": "HERSCHER",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HICKORY HILLS",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "HIGHLAND",
@@ -304,9 +394,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HODGKINS",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "HOFFMAN ESTATES",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HOMEWOOD",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "HOOPESTON",
@@ -319,6 +419,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "JERSEYVILLE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "JOLIET",
           "state": "IL",
           "status": "Available"
@@ -326,7 +431,7 @@
         {
           "city": "KANKAKEE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEWANEE",
@@ -357,6 +462,11 @@
           "city": "LEMONT",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LINCOLN",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "LINCOLNWOOD",
@@ -404,9 +514,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MELROSE PARK",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "METAMORA",
@@ -426,7 +541,12 @@
         {
           "city": "MOKENA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MOLINE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "MOMENCE",
@@ -442,6 +562,11 @@
           "city": "MOUNT CARMEL",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MOUNT PROSPECT",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "MOUNT VERNON",
@@ -461,7 +586,7 @@
         {
           "city": "NEW LENOX",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTON",
@@ -476,7 +601,12 @@
         {
           "city": "NORMAL",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NORTH RIVERSIDE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "NORTHBROOK",
@@ -486,7 +616,7 @@
         {
           "city": "O FALLON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK FOREST",
@@ -494,9 +624,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "OAK LAWN",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "OAK PARK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLNEY",
@@ -506,17 +641,22 @@
         {
           "city": "OLYMPIA FIELDS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORLAND PARK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "OSWEGO",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "OTTAWA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALATINE",
@@ -551,7 +691,7 @@
         {
           "city": "PEORIA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEOTONE",
@@ -574,6 +714,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "QUINCY",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "RANTOUL",
           "state": "IL",
           "status": "Fully Booked"
@@ -591,7 +736,12 @@
         {
           "city": "ROCKFORD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "ROLLING MEADOWS",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "ROSCOE",
@@ -599,9 +749,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ROSEMONT",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "ROUND LAKE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALEM",
@@ -609,14 +764,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "SAVOY",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "SCHAUMBURG",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHELBYVILLE",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SHILOH",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "SHOREWOOD",
@@ -642,6 +807,16 @@
           "city": "STAUNTON",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "STERLING",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "STREAMWOOD",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "SULLIVAN",
@@ -674,6 +849,21 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WARRENVILLE",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "WASHINGTON",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "WATERLOO",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "WAUKEGAN",
           "state": "IL",
           "status": "Available"
@@ -697,6 +887,16 @@
           "city": "WILMINGTON",
           "state": "IL",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WOOD RIVER",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
+          "city": "WOODRIDGE",
+          "state": "IL",
+          "status": "Available"
         },
         {
           "city": "WORTH",

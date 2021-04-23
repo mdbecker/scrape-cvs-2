@@ -101,12 +101,12 @@
         {
           "city": "CENTREVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANTILLY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLOTTESVILLE",
@@ -131,7 +131,7 @@
         {
           "city": "CHESTER",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHRISTIANSBURG",
@@ -164,6 +164,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CULPEPER",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "DALE CITY",
           "state": "VA",
           "status": "Fully Booked"
@@ -186,7 +191,7 @@
         {
           "city": "DUMFRIES",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EMPORIA",
@@ -196,12 +201,12 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFAX STATION",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALLS CHURCH",
@@ -294,6 +299,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HILLSVILLE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "KILMARNOCK",
           "state": "VA",
           "status": "Available"
@@ -301,17 +311,22 @@
         {
           "city": "KING GEORGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEXINGTON",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LOCUST GROVE",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "LOUISA",
@@ -321,7 +336,7 @@
         {
           "city": "LURAY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNCHBURG",
@@ -331,7 +346,7 @@
         {
           "city": "MANASSAS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANASSAS PARK",
@@ -345,6 +360,11 @@
         },
         {
           "city": "MARTINSVILLE",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "MCLEAN",
           "state": "VA",
           "status": "Available"
         },
@@ -380,6 +400,11 @@
         },
         {
           "city": "NORTH TAZEWELL",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
+          "city": "NORTON",
           "state": "VA",
           "status": "Available"
         },
@@ -421,7 +446,7 @@
         {
           "city": "RESTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHLANDS",
@@ -451,12 +476,12 @@
         {
           "city": "RUTHER GLEN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALEM",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHFIELD",
@@ -481,7 +506,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAFFORD",
@@ -501,7 +526,7 @@
         {
           "city": "STERLING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STUART",

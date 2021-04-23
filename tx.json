@@ -16,7 +16,7 @@
         {
           "city": "ADDISON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO HEIGHTS",
@@ -36,7 +36,7 @@
         {
           "city": "ALTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALVARADO",
@@ -56,7 +56,7 @@
         {
           "city": "ANGLETON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNA",
@@ -96,12 +96,12 @@
         {
           "city": "AZLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALCH SPRINGS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALCONES HEIGHTS",
@@ -136,7 +136,7 @@
         {
           "city": "BEDFORD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEE CAVE",
@@ -201,7 +201,7 @@
         {
           "city": "BURLESON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMERON",
@@ -221,7 +221,7 @@
         {
           "city": "CARROLLTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARTHAGE",
@@ -241,7 +241,7 @@
         {
           "city": "CEDAR PARK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CELINA",
@@ -276,7 +276,7 @@
         {
           "city": "CLEBURNE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEVELAND",
@@ -296,17 +296,17 @@
         {
           "city": "CONROE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONVERSE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COPPELL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORINTH",
@@ -354,6 +354,11 @@
           "status": "Available"
         },
         {
+          "city": "DEER PARK",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "DEL RIO",
           "state": "TX",
           "status": "Fully Booked"
@@ -376,12 +381,17 @@
         {
           "city": "DONNA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "DUMAS",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "DUNCANVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDINBURG",
@@ -406,7 +416,7 @@
         {
           "city": "ENNIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EULESS",
@@ -431,12 +441,12 @@
         {
           "city": "FLOWER MOUND",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOREST HILL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORNEY",
@@ -539,6 +549,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HELOTES",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "HENDERSON",
           "state": "TX",
           "status": "Fully Booked"
@@ -566,12 +581,12 @@
         {
           "city": "HUTTO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IRVING",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACINTO CITY",
@@ -596,7 +611,7 @@
         {
           "city": "KELLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KERRVILLE",
@@ -611,7 +626,7 @@
         {
           "city": "KILLEEN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KINGSVILLE",
@@ -621,10 +636,15 @@
         {
           "city": "KINGWOOD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KYLE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "LA FERIA",
           "state": "TX",
           "status": "Available"
         },
@@ -669,6 +689,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LANTANA",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "LAREDO",
           "state": "TX",
           "status": "Available"
@@ -681,12 +706,17 @@
         {
           "city": "LEANDER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LEVELLAND",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "LEWISVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LIBERTY",
@@ -779,6 +809,11 @@
           "status": "Available"
         },
         {
+          "city": "MEXIA",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
           "city": "MIDLAND",
           "state": "TX",
           "status": "Available"
@@ -786,7 +821,7 @@
         {
           "city": "MIDLOTHIAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MINEOLA",
@@ -821,7 +856,12 @@
         {
           "city": "MURPHY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "NACOGDOCHES",
+          "state": "TX",
+          "status": "Available"
         },
         {
           "city": "NASSAU BAY",
@@ -916,7 +956,7 @@
         {
           "city": "PORTER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORTLAND",
@@ -991,7 +1031,7 @@
         {
           "city": "ROUND ROCK",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROWLETT",
@@ -1021,7 +1061,7 @@
         {
           "city": "SAN JUAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN MARCOS",
@@ -1101,7 +1141,7 @@
         {
           "city": "SPRING BRANCH",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STEPHENVILLE",
@@ -1121,12 +1161,12 @@
         {
           "city": "SUNNYVALE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAYLOR",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEMPLE",
@@ -1216,7 +1256,7 @@
         {
           "city": "WESLACO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST COLUMBIA",

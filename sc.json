@@ -31,7 +31,7 @@
         {
           "city": "BALLENTINE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BATESBURG",
@@ -41,7 +41,12 @@
         {
           "city": "BEECH ISLAND",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BELTON",
+          "state": "SC",
+          "status": "Available"
         },
         {
           "city": "BENNETTSVILLE",
@@ -71,7 +76,7 @@
         {
           "city": "CAYCE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLESTON",
@@ -156,7 +161,7 @@
         {
           "city": "FOUNTAIN INN",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAFFNEY",
@@ -224,6 +229,11 @@
           "status": "Available"
         },
         {
+          "city": "HONEA PATH",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "INDIAN LAND",
           "state": "SC",
           "status": "Available"
@@ -246,7 +256,7 @@
         {
           "city": "LADSON",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE CITY",
@@ -279,9 +289,14 @@
           "status": "Available"
         },
         {
+          "city": "LORIS",
+          "state": "SC",
+          "status": "Available"
+        },
+        {
           "city": "LYMAN",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARION",
@@ -291,7 +306,7 @@
         {
           "city": "MAULDIN",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONCKS CORNER",
@@ -301,7 +316,7 @@
         {
           "city": "MOORE",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT PLEASANT",
@@ -416,7 +431,7 @@
         {
           "city": "SPARTANBURG",
           "state": "SC",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUMMERVILLE",

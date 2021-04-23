@@ -11,7 +11,7 @@
         {
           "city": "AKRON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMELIA",
@@ -24,14 +24,24 @@
           "status": "Available"
         },
         {
+          "city": "ASHLAND",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "ASHTABULA",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "ATHENS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AURORA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVON",
@@ -54,9 +64,29 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BEDFORD",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "BELLEFONTAINE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "BELLEVUE",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "BELPRE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "BERLIN",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "BETHEL",
@@ -76,7 +106,12 @@
         {
           "city": "BOARDMAN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BOWLING GREEN",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "BRECKSVILLE",
@@ -104,6 +139,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CAMBRIDGE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "CANAL WINCHESTER",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "CANTON",
           "state": "OH",
           "status": "Available"
@@ -124,6 +169,11 @@
           "status": "Available"
         },
         {
+          "city": "CHESAPEAKE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "CHESTERLAND",
           "state": "OH",
           "status": "Fully Booked"
@@ -131,10 +181,15 @@
         {
           "city": "CHILLICOTHE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CINCINNATI",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "CIRCLEVILLE",
           "state": "OH",
           "status": "Available"
         },
@@ -164,6 +219,16 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COSHOCTON",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "CUYAHOGA FALLS",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "DAYTON",
           "state": "OH",
           "status": "Available"
@@ -181,7 +246,7 @@
         {
           "city": "DOVER",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOYLESTOWN",
@@ -191,7 +256,7 @@
         {
           "city": "DUBLIN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EATON",
@@ -205,6 +270,11 @@
         },
         {
           "city": "FAIRBORN",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "FAIRFIELD",
           "state": "OH",
           "status": "Available"
         },
@@ -226,7 +296,7 @@
         {
           "city": "FREMONT",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAHANNA",
@@ -276,7 +346,7 @@
         {
           "city": "GROVE CITY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMILTON",
@@ -289,12 +359,22 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HARTVILLE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "HEATH",
           "state": "OH",
           "status": "Fully Booked"
         },
         {
           "city": "HILLIARD",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "HILLSBORO",
           "state": "OH",
           "status": "Available"
         },
@@ -311,10 +391,20 @@
         {
           "city": "HUDSON",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INDEPENDENCE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "IRONTON",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "JACKSON",
           "state": "OH",
           "status": "Available"
         },
@@ -327,6 +417,11 @@
           "city": "KENT",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "KENTON",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "KETTERING",
@@ -351,7 +446,22 @@
         {
           "city": "LIMA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "LODI",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "LOGAN",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "LONDON",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "LORAIN",
@@ -386,12 +496,22 @@
         {
           "city": "MARION",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MARTINS FERRY",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "MARYSVILLE",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MASON",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "MAYFIELD HEIGHTS",
@@ -406,7 +526,7 @@
         {
           "city": "MEDINA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MENTOR",
@@ -426,12 +546,17 @@
         {
           "city": "MIDDLETOWN",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILFORD",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MOGADORE",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "MONTGOMERY",
@@ -441,7 +566,7 @@
         {
           "city": "MORAINE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT HEALTHY",
@@ -452,6 +577,11 @@
           "city": "MOUNT VERNON",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "NEW BOSTON",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "NEW LEBANON",
@@ -474,6 +604,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NORTH CANTON",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "NORTH OLMSTED",
           "state": "OH",
           "status": "Available"
@@ -484,6 +619,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "NORTHFIELD",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "NORWALK",
           "state": "OH",
           "status": "Fully Booked"
@@ -491,7 +631,7 @@
         {
           "city": "NORWOOD",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK HILL",
@@ -505,6 +645,11 @@
         },
         {
           "city": "OLMSTED TOWNSHIP",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "OREGON",
           "state": "OH",
           "status": "Available"
         },
@@ -524,6 +669,11 @@
           "status": "Available"
         },
         {
+          "city": "PARMA",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "PATASKALA",
           "state": "OH",
           "status": "Fully Booked"
@@ -534,14 +684,19 @@
           "status": "Available"
         },
         {
+          "city": "PORTSMOUTH",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "RAVENNA",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REYNOLDSBURG",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHMOND HEIGHTS",
@@ -554,14 +709,19 @@
           "status": "Available"
         },
         {
+          "city": "SAINT CLAIRSVILLE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "SANDUSKY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHAKER HEIGHTS",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHARONVILLE",
@@ -586,7 +746,7 @@
         {
           "city": "SPRINGBORO",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
@@ -594,9 +754,14 @@
           "status": "Available"
         },
         {
+          "city": "STEUBENVILLE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "STOW",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STREETSBORO",
@@ -607,6 +772,16 @@
           "city": "SUNBURY",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SYLVANIA",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
+          "city": "TIFFIN",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "TIPP CITY",
@@ -621,7 +796,7 @@
         {
           "city": "TWINSBURG",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNIVERSITY HEIGHTS",
@@ -654,9 +829,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "WASHINGTON COURT HOUSE",
+          "state": "OH",
+          "status": "Available"
+        },
+        {
           "city": "WAVERLY",
           "state": "OH",
           "status": "Fully Booked"
+        },
+        {
+          "city": "WEST CHESTER",
+          "state": "OH",
+          "status": "Available"
         },
         {
           "city": "WESTERVILLE",
@@ -676,7 +861,7 @@
         {
           "city": "WILLOUGHBY",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILMINGTON",
@@ -691,7 +876,7 @@
         {
           "city": "WOOSTER",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WORTHINGTON",
@@ -706,7 +891,7 @@
         {
           "city": "ZANESVILLE",
           "state": "OH",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

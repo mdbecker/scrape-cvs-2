@@ -21,7 +21,7 @@
         {
           "city": "ANNAPOLIS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHTON",
@@ -34,6 +34,11 @@
           "status": "Available"
         },
         {
+          "city": "BEL AIR",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "BELTSVILLE",
           "state": "MD",
           "status": "Fully Booked"
@@ -41,7 +46,7 @@
         {
           "city": "BETHESDA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOWIE",
@@ -54,14 +59,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BRYANS ROAD",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "BURTONSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALIFORNIA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMP SPRINGS",
@@ -72,6 +82,11 @@
           "city": "CAPITOL HEIGHTS",
           "state": "MD",
           "status": "Fully Booked"
+        },
+        {
+          "city": "CATONSVILLE",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "CHESAPEAKE BEACH",
@@ -99,6 +114,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "COCKEYSVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "COLLEGE PARK",
           "state": "MD",
           "status": "Available"
@@ -111,7 +131,12 @@
         {
           "city": "COLUMBIA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CROFTON",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "CUMBERLAND",
@@ -144,6 +169,11 @@
           "status": "Available"
         },
         {
+          "city": "EDGEWATER",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "EDGEWOOD",
           "state": "MD",
           "status": "Fully Booked"
@@ -154,12 +184,22 @@
           "status": "Available"
         },
         {
+          "city": "ELKRIDGE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "ELKTON",
           "state": "MD",
           "status": "Available"
         },
         {
           "city": "ELLICOTT CITY",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "ESSEX",
           "state": "MD",
           "status": "Available"
         },
@@ -196,7 +236,7 @@
         {
           "city": "GAITHERSBURG",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAMBRILLS",
@@ -211,7 +251,7 @@
         {
           "city": "GLEN BURNIE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENBELT",
@@ -229,6 +269,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HANOVER",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "HAVRE DE GRACE",
           "state": "MD",
           "status": "Available"
@@ -240,6 +285,16 @@
         },
         {
           "city": "HYATTSVILLE",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "JESSUP",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "KENSINGTON",
           "state": "MD",
           "status": "Available"
         },
@@ -259,6 +314,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LANGLEY PARK",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "LANHAM",
           "state": "MD",
           "status": "Available"
@@ -267,6 +327,11 @@
           "city": "LAUREL",
           "state": "MD",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LAVALE",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "LEONARDTOWN",
@@ -279,6 +344,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MIDDLE RIVER",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "MIDDLETOWN",
           "state": "MD",
           "status": "Fully Booked"
@@ -289,7 +359,17 @@
           "status": "Available"
         },
         {
+          "city": "MOUNT AIRY",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "NEW CARROLLTON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
+          "city": "NEW MARKET",
           "state": "MD",
           "status": "Available"
         },
@@ -309,19 +389,34 @@
           "status": "Available"
         },
         {
+          "city": "ODENTON",
+          "state": "MD",
+          "status": "Available"
+        },
+        {
           "city": "OWINGS MILLS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OXON HILL",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PARKVILLE",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "PASADENA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PERRY HALL",
+          "state": "MD",
+          "status": "Available"
         },
         {
           "city": "PIKESVILLE",
@@ -346,12 +441,12 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAT PLEASANT",
@@ -361,7 +456,7 @@
         {
           "city": "SEVERN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEVERNA PARK",
@@ -396,12 +491,12 @@
         {
           "city": "TOWSON",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UPPER MARLBORO",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALDORF",

@@ -51,7 +51,7 @@
         {
           "city": "AUSTELL",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAINBRIDGE",
@@ -84,7 +84,17 @@
           "status": "Fully Booked"
         },
         {
+          "city": "BLUE RIDGE",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "BOWDON",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "BREMEN",
           "state": "GA",
           "status": "Available"
         },
@@ -96,7 +106,7 @@
         {
           "city": "BRUNSWICK",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUFORD",
@@ -104,14 +114,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CALHOUN",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "CANTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARROLLTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARTERSVILLE",
@@ -151,7 +166,7 @@
         {
           "city": "CONYERS",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORDELE",
@@ -166,7 +181,7 @@
         {
           "city": "COVINGTON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CUMMING",
@@ -211,7 +226,7 @@
         {
           "city": "DOUGLASVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBLIN",
@@ -249,14 +264,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ELBERTON",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "ELLENWOOD",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVANS",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRBURN",
@@ -276,7 +296,7 @@
         {
           "city": "FLOWERY BRANCH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOREST PARK",
@@ -287,6 +307,11 @@
           "city": "FORSYTH",
           "state": "GA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "FORT OGLETHORPE",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "FORT VALLEY",
@@ -329,6 +354,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "HIRAM",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "HOSCHTON",
           "state": "GA",
           "status": "Fully Booked"
@@ -337,6 +367,11 @@
           "city": "HULL",
           "state": "GA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "JASPER",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "JEFFERSON",
@@ -351,7 +386,12 @@
         {
           "city": "JONESBORO",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "KENNESAW",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "KINGSLAND",
@@ -379,9 +419,19 @@
           "status": "Fully Booked"
         },
         {
+          "city": "LILBURN",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "LITHONIA",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "LOGANVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MABLETON",
@@ -391,7 +441,7 @@
         {
           "city": "MACON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANCHESTER",
@@ -406,12 +456,12 @@
         {
           "city": "MARTINEZ",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCDONOUGH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLEDGEVILLE",
@@ -437,6 +487,11 @@
           "city": "MONTICELLO",
           "state": "GA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "MORROW",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "MOULTRIE",
@@ -470,6 +525,11 @@
         },
         {
           "city": "POOLER",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "PORT WENTWORTH",
           "state": "GA",
           "status": "Available"
         },
@@ -526,7 +586,7 @@
         {
           "city": "SANDY SPRINGS",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAVANNAH",
@@ -541,7 +601,7 @@
         {
           "city": "SNELLVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STATESBORO",
@@ -579,9 +639,24 @@
           "status": "Fully Booked"
         },
         {
+          "city": "THOMASVILLE",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "THOMSON",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "TIFTON",
           "state": "GA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "TOCCOA",
+          "state": "GA",
+          "status": "Available"
         },
         {
           "city": "TRENTON",
@@ -600,6 +675,11 @@
         },
         {
           "city": "UNION CITY",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "VALDOSTA",
           "state": "GA",
           "status": "Available"
         },
