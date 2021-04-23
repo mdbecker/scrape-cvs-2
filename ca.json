@@ -126,7 +126,7 @@
         {
           "city": "AZUSA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAKERSFIELD",
@@ -141,7 +141,7 @@
         {
           "city": "BELL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERKELEY",
@@ -1071,7 +1071,7 @@
         {
           "city": "NOVATO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK PARK",
@@ -1101,7 +1101,7 @@
         {
           "city": "ONTARIO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE",
@@ -1806,7 +1806,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE VILLAGE",
