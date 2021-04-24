@@ -31,7 +31,7 @@
         {
           "city": "ALLEN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALTON",
@@ -371,7 +371,7 @@
         {
           "city": "DENTON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DICKINSON",
@@ -576,7 +576,7 @@
         {
           "city": "HURST",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUTTO",
@@ -611,7 +611,7 @@
         {
           "city": "KELLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KERRVILLE",
@@ -636,12 +636,12 @@
         {
           "city": "KINGWOOD",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KYLE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA FERIA",
@@ -881,7 +881,7 @@
         {
           "city": "NORTH RICHLAND HILLS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ODESSA",
@@ -1301,7 +1301,7 @@
         {
           "city": "WYLIE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ZAPATA",
