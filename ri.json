@@ -66,7 +66,7 @@
         {
           "city": "LINCOLN",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -111,7 +111,7 @@
         {
           "city": "PORTSMOUTH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROVIDENCE",
@@ -121,7 +121,7 @@
         {
           "city": "RIVERSIDE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RUMFORD",
@@ -171,7 +171,7 @@
         {
           "city": "WYOMING",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
