@@ -136,7 +136,7 @@
         {
           "city": "CLARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -846,7 +846,7 @@
         {
           "city": "RIVERDALE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERTON",
@@ -1101,7 +1101,7 @@
         {
           "city": "WESTAMPTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTFIELD",
