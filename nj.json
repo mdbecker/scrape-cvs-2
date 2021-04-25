@@ -136,7 +136,7 @@
         {
           "city": "CLARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -216,7 +216,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
@@ -586,7 +586,7 @@
         {
           "city": "METUCHEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLESEX",
@@ -606,7 +606,7 @@
         {
           "city": "MILLTOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLVILLE",
@@ -816,7 +816,7 @@
         {
           "city": "PRINCETON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RAMSEY",
@@ -866,7 +866,7 @@
         {
           "city": "ROCKAWAY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSELLE",
@@ -1031,7 +1031,7 @@
         {
           "city": "VILLAS",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VINELAND",
@@ -1081,12 +1081,12 @@
         {
           "city": "WEST CAPE MAY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NEW YORK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ORANGE",
