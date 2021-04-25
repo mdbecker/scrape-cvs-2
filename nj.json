@@ -41,7 +41,7 @@
         {
           "city": "BELLEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERKELEY HEIGHTS",
@@ -391,7 +391,7 @@
         {
           "city": "HILLSBOROUGH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILLSIDE",
@@ -421,7 +421,7 @@
         {
           "city": "KEARNY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KENDALL PARK",
@@ -451,7 +451,7 @@
         {
           "city": "LEDGEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEONIA",
@@ -816,7 +816,7 @@
         {
           "city": "PRINCETON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RAMSEY",
@@ -1081,12 +1081,12 @@
         {
           "city": "WEST CAPE MAY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST NEW YORK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ORANGE",
