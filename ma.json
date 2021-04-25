@@ -106,7 +106,7 @@
         {
           "city": "BOURNE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRAINTREE",
@@ -641,7 +641,7 @@
         {
           "city": "NORTHAMPTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHBOROUGH",
@@ -801,7 +801,7 @@
         {
           "city": "SOUTH ATTLEBORO",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH BOSTON",
@@ -821,7 +821,7 @@
         {
           "city": "SOUTH EASTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH HAMILTON",
@@ -926,7 +926,7 @@
         {
           "city": "WAREHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERTOWN",
@@ -1031,7 +1031,7 @@
         {
           "city": "WINCHESTER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINTHROP",
