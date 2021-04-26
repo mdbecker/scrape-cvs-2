@@ -21,7 +21,7 @@
         {
           "city": "AMITYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMSTERDAM",
@@ -231,7 +231,7 @@
         {
           "city": "COLLEGE POINT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIE",
@@ -386,7 +386,7 @@
         {
           "city": "FARMINGDALE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGTON",
@@ -911,7 +911,7 @@
         {
           "city": "PEEKSKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PELHAM MANOR",
@@ -1191,7 +1191,7 @@
         {
           "city": "VALLEY STREAM",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VESTAL",
