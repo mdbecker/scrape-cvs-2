@@ -11,7 +11,7 @@
         {
           "city": "ABINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ACTON",
@@ -26,7 +26,7 @@
         {
           "city": "ALLSTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMESBURY",
@@ -66,12 +66,12 @@
         {
           "city": "AUBURN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELCHERTOWN",
@@ -96,7 +96,7 @@
         {
           "city": "BILLERICA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOSTON",
@@ -111,7 +111,7 @@
         {
           "city": "BRAINTREE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRIDGEWATER",
@@ -121,7 +121,7 @@
         {
           "city": "BRIGHTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROCKTON",
@@ -136,12 +136,12 @@
         {
           "city": "BURLINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMBRIDGE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CANTON",
@@ -216,7 +216,7 @@
         {
           "city": "DRACUT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST BOSTON",
@@ -281,7 +281,7 @@
         {
           "city": "FRAMINGHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRANKLIN",
@@ -321,12 +321,12 @@
         {
           "city": "GROTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HADLEY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HANOVER",
@@ -356,7 +356,7 @@
         {
           "city": "HINGHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOLBROOK",
@@ -366,7 +366,7 @@
         {
           "city": "HOLDEN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOLLISTON",
@@ -411,7 +411,7 @@
         {
           "city": "KINGSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEVILLE",
@@ -446,7 +446,7 @@
         {
           "city": "LITTLETON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONGMEADOW",
@@ -521,7 +521,7 @@
         {
           "city": "MEDFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEDFORD",
@@ -536,7 +536,7 @@
         {
           "city": "MELROSE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METHUEN",
@@ -566,7 +566,7 @@
         {
           "city": "MILLIS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILTON",
@@ -711,7 +711,7 @@
         {
           "city": "QUINCY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANDOLPH",
@@ -871,7 +871,7 @@
         {
           "city": "STURBRIDGE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUDBURY",
@@ -911,7 +911,7 @@
         {
           "city": "WALPOLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALTHAM",
@@ -936,7 +936,7 @@
         {
           "city": "WAYLAND",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEBSTER",
@@ -1056,7 +1056,7 @@
         {
           "city": "WRENTHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
