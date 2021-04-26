@@ -776,7 +776,7 @@
         {
           "city": "PHOENIXVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
@@ -791,7 +791,7 @@
         {
           "city": "PLYMOUTH MEETING",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POCONO SUMMIT",
@@ -1131,7 +1131,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
