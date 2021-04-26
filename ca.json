@@ -196,7 +196,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALEXICO",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DISCOVERY BAY",
@@ -541,7 +541,7 @@
         {
           "city": "FOSTER CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOUNTAIN VALLEY",
@@ -981,7 +981,7 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION HILLS",
@@ -1861,7 +1861,7 @@
         {
           "city": "WEST HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SACRAMENTO",
