@@ -186,7 +186,7 @@
         {
           "city": "CLINTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COHASSET",
@@ -281,7 +281,7 @@
         {
           "city": "FRAMINGHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRANKLIN",
@@ -631,7 +631,7 @@
         {
           "city": "NORTH GRAFTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH READING",
@@ -801,7 +801,7 @@
         {
           "city": "SOUTH ATTLEBORO",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH BOSTON",
@@ -1031,7 +1031,7 @@
         {
           "city": "WINCHESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINTHROP",
