@@ -21,7 +21,7 @@
         {
           "city": "AMITYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMSTERDAM",
@@ -881,7 +881,7 @@
         {
           "city": "OSSINING",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OWEGO",
@@ -911,12 +911,12 @@
         {
           "city": "PEEKSKILL",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PELHAM MANOR",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENFIELD",
@@ -1086,7 +1086,7 @@
         {
           "city": "SELDEN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SETAUKET",
@@ -1191,7 +1191,7 @@
         {
           "city": "VALLEY STREAM",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VESTAL",
