@@ -281,7 +281,7 @@
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHINO HILLS",
@@ -981,12 +981,12 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION VIEJO",
@@ -1026,7 +1026,7 @@
         {
           "city": "MONTROSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOORPARK",
@@ -1506,7 +1506,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAFAEL",
@@ -1556,7 +1556,7 @@
         {
           "city": "SANTA FE SPRINGS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA MARIA",
@@ -1921,7 +1921,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
