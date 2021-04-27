@@ -26,7 +26,7 @@
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APPOMATTOX",
@@ -36,7 +36,7 @@
         {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHBURN",
@@ -96,7 +96,7 @@
         {
           "city": "BURKE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CENTREVILLE",
@@ -211,7 +211,7 @@
         {
           "city": "FALLS CHURCH",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMVILLE",
@@ -541,7 +541,7 @@
         {
           "city": "VIENNA",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VINTON",
