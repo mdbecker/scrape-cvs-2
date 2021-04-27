@@ -26,7 +26,7 @@
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APPOMATTOX",
@@ -101,12 +101,12 @@
         {
           "city": "CENTREVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANTILLY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLOTTESVILLE",
@@ -201,7 +201,7 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX STATION",
@@ -526,7 +526,7 @@
         {
           "city": "STERLING",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STUART",
