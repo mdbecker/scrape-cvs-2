@@ -196,7 +196,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CALEXICO",
@@ -381,7 +381,7 @@
         {
           "city": "DANA POINT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANVILLE",
@@ -541,7 +541,7 @@
         {
           "city": "FOSTER CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOUNTAIN VALLEY",
@@ -741,7 +741,7 @@
         {
           "city": "LA CANADA FLINTRIDGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA HABRA",
@@ -981,7 +981,7 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MISSION HILLS",
@@ -1086,7 +1086,7 @@
         {
           "city": "NEWPORT BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NIPOMO",
@@ -1626,7 +1626,7 @@
         {
           "city": "SOLANA BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLEDAD",
@@ -1656,7 +1656,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1736,7 +1736,7 @@
         {
           "city": "TRABUCO CANYON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TRACY",
@@ -1921,7 +1921,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
