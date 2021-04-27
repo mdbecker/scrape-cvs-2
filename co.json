@@ -21,7 +21,7 @@
         {
           "city": "BOULDER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIGHTON",
@@ -31,7 +31,7 @@
         {
           "city": "CASTLE ROCK",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLORADO SPRINGS",
@@ -41,12 +41,12 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT COLLINS",
@@ -76,7 +76,7 @@
         {
           "city": "HIGHLANDS RANCH",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKEWOOD",
@@ -121,7 +121,7 @@
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVERTHORNE",
@@ -131,7 +131,7 @@
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTMINSTER",
@@ -141,7 +141,7 @@
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
