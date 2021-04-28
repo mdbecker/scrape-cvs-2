@@ -106,7 +106,7 @@
         {
           "city": "BOURNE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRAINTREE",
@@ -301,7 +301,7 @@
         {
           "city": "GLOUCESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRANBY",
@@ -341,7 +341,7 @@
         {
           "city": "HARWICH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARWICHPORT",
@@ -601,7 +601,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH ANDOVER",
@@ -821,7 +821,7 @@
         {
           "city": "SOUTH EASTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH HAMILTON",
