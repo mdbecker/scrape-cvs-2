@@ -331,7 +331,7 @@
         {
           "city": "EAST MEADOW",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST NORTHPORT",
@@ -756,7 +756,7 @@
         {
           "city": "MILLER PLACE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILLERTON",
@@ -1081,7 +1081,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
@@ -1091,7 +1091,7 @@
         {
           "city": "SETAUKET",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHIRLEY",
@@ -1271,12 +1271,12 @@
         {
           "city": "WEST NYACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBURY",
