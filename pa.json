@@ -11,7 +11,7 @@
         {
           "city": "ABINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALIQUIPPA",
@@ -51,7 +51,7 @@
         {
           "city": "BALA CYNWYD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BANGOR",
@@ -336,7 +336,7 @@
         {
           "city": "FEASTERVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOLSOM",
@@ -776,7 +776,7 @@
         {
           "city": "PHOENIXVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PITTSBURGH",
@@ -801,7 +801,7 @@
         {
           "city": "POTTSTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POTTSVILLE",
@@ -1096,7 +1096,7 @@
         {
           "city": "WYNCOTE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYNNEWOOD",
@@ -1131,7 +1131,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
