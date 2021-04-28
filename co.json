@@ -31,7 +31,7 @@
         {
           "city": "CASTLE ROCK",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLORADO SPRINGS",
@@ -41,7 +41,7 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
@@ -121,7 +121,7 @@
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVERTHORNE",
@@ -131,7 +131,7 @@
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTMINSTER",
@@ -141,7 +141,7 @@
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
