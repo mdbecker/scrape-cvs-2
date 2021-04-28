@@ -41,7 +41,7 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALPINE",
@@ -66,7 +66,7 @@
         {
           "city": "ANGELS CAMP",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANTIOCH",
@@ -321,7 +321,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DISCOVERY BAY",
@@ -951,7 +951,7 @@
         {
           "city": "MARYSVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MCKINLEYVILLE",
@@ -1026,7 +1026,7 @@
         {
           "city": "MONTROSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOORPARK",
@@ -1051,7 +1051,7 @@
         {
           "city": "MOUNT SHASTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNTAIN VIEW",
@@ -1446,7 +1446,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIEGO",
@@ -1596,7 +1596,7 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
@@ -1736,7 +1736,7 @@
         {
           "city": "TRABUCO CANYON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRACY",
@@ -1916,12 +1916,12 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
