@@ -11,7 +11,7 @@
         {
           "city": "ADELANTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AGOURA HILLS",
@@ -46,7 +46,7 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANAHEIM",
@@ -196,7 +196,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CALEXICO",
@@ -236,7 +236,7 @@
         {
           "city": "CARLSBAD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARMEL",
@@ -431,7 +431,7 @@
         {
           "city": "EAGLE ROCK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PALO ALTO",
@@ -981,7 +981,7 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION HILLS",
@@ -1306,7 +1306,7 @@
         {
           "city": "RANCHO BERNARDO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO CORDOVA",
@@ -1916,12 +1916,12 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
