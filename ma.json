@@ -66,7 +66,7 @@
         {
           "city": "AUBURN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD",
@@ -276,7 +276,7 @@
         {
           "city": "FOXBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRAMINGHAM",
@@ -486,7 +486,7 @@
         {
           "city": "MARBLEHEAD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARLBOROUGH",
@@ -501,12 +501,12 @@
         {
           "city": "MARSTONS MILLS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MASHPEE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MATTAPAN",
@@ -661,7 +661,7 @@
         {
           "city": "NORWOOD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORLEANS",
@@ -731,7 +731,7 @@
         {
           "city": "REVERE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKLAND",
