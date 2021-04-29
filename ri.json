@@ -11,7 +11,7 @@
         {
           "city": "BARRINGTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRISTOL",
@@ -21,12 +21,12 @@
         {
           "city": "CENTRAL FALLS",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHARLESTOWN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COVENTRY",
@@ -36,12 +36,12 @@
         {
           "city": "CRANSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CUMBERLAND",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST GREENWICH",
@@ -51,7 +51,7 @@
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOCESTER",
@@ -61,7 +61,7 @@
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LINCOLN",
@@ -71,22 +71,22 @@
         {
           "city": "MIDDLETOWN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NARRAGANSETT",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWPORT",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH KINGSTOWN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH PROVIDENCE",
@@ -106,7 +106,7 @@
         {
           "city": "PAWTUCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PORTSMOUTH",
@@ -116,22 +116,22 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RUMFORD",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SMITHFIELD",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TIVERTON",
@@ -141,22 +141,22 @@
         {
           "city": "WAKEFIELD",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARREN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARWICK",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST WARWICK",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTERLY",
@@ -166,15 +166,15 @@
         {
           "city": "WOONSOCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYOMING",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

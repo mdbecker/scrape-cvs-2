@@ -11,42 +11,42 @@
         {
           "city": "BETHANY BEACH",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLAYMONT",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DOVER",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEWES",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETOWN",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILFORD",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CASTLE",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN VIEW",
@@ -56,20 +56,20 @@
         {
           "city": "REHOBOTH BEACH",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELBYVILLE",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILMINGTON",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
