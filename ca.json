@@ -41,12 +41,12 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -236,7 +236,7 @@
         {
           "city": "CARLSBAD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARMEL",
@@ -271,7 +271,7 @@
         {
           "city": "CERRITOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHICO",
@@ -331,7 +331,7 @@
         {
           "city": "COMMERCE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COMPTON",
@@ -366,7 +366,7 @@
         {
           "city": "CUPERTINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CYPRESS",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DISCOVERY BAY",
@@ -741,7 +741,7 @@
         {
           "city": "LA CANADA FLINTRIDGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA HABRA",
@@ -811,7 +811,7 @@
         {
           "city": "LAKE FOREST",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEPORT",
@@ -846,7 +846,7 @@
         {
           "city": "LEMON GROVE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LINCOLN",
@@ -906,7 +906,7 @@
         {
           "city": "LYNWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADERA",
@@ -986,12 +986,12 @@
         {
           "city": "MISSION HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION VIEJO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MODESTO",
@@ -1026,7 +1026,7 @@
         {
           "city": "MONTROSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOORPARK",
@@ -1151,7 +1151,7 @@
         {
           "city": "ORANGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGEVALE",
@@ -1436,7 +1436,7 @@
         {
           "city": "SAN BRUNO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN CARLOS",
@@ -1446,7 +1446,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN DIEGO",
@@ -1506,7 +1506,7 @@
         {
           "city": "SAN PEDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN RAFAEL",
@@ -1531,7 +1531,7 @@
         {
           "city": "SANTA ANA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA BARBARA",
@@ -1581,7 +1581,7 @@
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA",
@@ -1596,7 +1596,7 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
@@ -1626,7 +1626,7 @@
         {
           "city": "SOLANA BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOLEDAD",
@@ -1656,7 +1656,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1786,7 +1786,7 @@
         {
           "city": "VALENCIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VALLEJO",
@@ -1921,7 +1921,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
