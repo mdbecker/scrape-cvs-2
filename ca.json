@@ -271,7 +271,7 @@
         {
           "city": "CERRITOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICO",
@@ -321,7 +321,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -376,7 +376,7 @@
         {
           "city": "DALY CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANA POINT",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DISCOVERY BAY",
@@ -571,7 +571,7 @@
         {
           "city": "GALT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARDEN GROVE",
@@ -706,7 +706,7 @@
         {
           "city": "IMPERIAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIAN WELLS",
@@ -896,7 +896,7 @@
         {
           "city": "LOS BANOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LOS GATOS",
@@ -941,7 +941,7 @@
         {
           "city": "MARINA DEL REY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARTINEZ",
@@ -1541,17 +1541,17 @@
         {
           "city": "SANTA CLARA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA CLARITA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA CRUZ",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA FE SPRINGS",
@@ -1716,7 +1716,7 @@
         {
           "city": "TEMPLE CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THOUSAND OAKS",
@@ -1736,7 +1736,7 @@
         {
           "city": "TRABUCO CANYON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TRACY",
@@ -1801,7 +1801,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VENICE",
@@ -1876,12 +1876,12 @@
         {
           "city": "WESTMINSTER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITTIER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILMINGTON",
@@ -1921,7 +1921,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
