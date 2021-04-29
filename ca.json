@@ -46,12 +46,12 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANAHEIM HILLS",
@@ -166,7 +166,7 @@
         {
           "city": "BIG BEAR LAKE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BREA",
@@ -196,7 +196,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALEXICO",
@@ -246,7 +246,7 @@
         {
           "city": "CARMICHAEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARPINTERIA",
@@ -271,7 +271,7 @@
         {
           "city": "CERRITOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICO",
@@ -281,7 +281,7 @@
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHINO HILLS",
@@ -321,7 +321,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -376,7 +376,7 @@
         {
           "city": "DALY CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANA POINT",
@@ -516,7 +516,7 @@
         {
           "city": "FELTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FILLMORE",
@@ -591,7 +591,7 @@
         {
           "city": "GLENDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDORA",
@@ -606,7 +606,7 @@
         {
           "city": "GRANADA HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRAND TERRACE",
@@ -706,12 +706,12 @@
         {
           "city": "IMPERIAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIAN WELLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INDIO",
@@ -851,7 +851,7 @@
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVERMORE",
@@ -1026,7 +1026,7 @@
         {
           "city": "MONTROSE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOORPARK",
@@ -1071,7 +1071,7 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -1111,7 +1111,7 @@
         {
           "city": "NORWALK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NOVATO",
@@ -1246,7 +1246,7 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLACERVILLE",
@@ -1311,7 +1311,7 @@
         {
           "city": "RANCHO CORDOVA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RANCHO CUCAMONGA",
@@ -1656,7 +1656,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1801,7 +1801,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VENICE",
@@ -1871,7 +1871,7 @@
         {
           "city": "WESTLAKE VILLAGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTMINSTER",
@@ -1921,7 +1921,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
