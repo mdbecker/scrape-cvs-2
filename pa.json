@@ -31,7 +31,7 @@
         {
           "city": "AMBLER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMBRIDGE",
@@ -51,7 +51,7 @@
         {
           "city": "BALA CYNWYD",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BANGOR",
@@ -171,7 +171,7 @@
         {
           "city": "CHALFONT",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHAMBERSBURG",
@@ -206,7 +206,7 @@
         {
           "city": "COATESVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLUMBIA",
@@ -246,12 +246,12 @@
         {
           "city": "DICKSON CITY",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DOUGLASSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOVER",
@@ -266,7 +266,7 @@
         {
           "city": "DOYLESTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DRESHER",
@@ -436,7 +436,7 @@
         {
           "city": "HORSHAM",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUMMELSTOWN",
@@ -651,7 +651,7 @@
         {
           "city": "MORRISVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT CARMEL",
@@ -741,7 +741,7 @@
         {
           "city": "NOTTINGHAM",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OIL CITY",
@@ -791,7 +791,7 @@
         {
           "city": "PLYMOUTH MEETING",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "POCONO SUMMIT",
@@ -811,7 +811,7 @@
         {
           "city": "PROSPECT PARK",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUAKERTOWN",
@@ -856,7 +856,7 @@
         {
           "city": "SCHWENKSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCRANTON",
@@ -1131,7 +1131,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

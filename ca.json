@@ -46,7 +46,7 @@
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANAHEIM",
@@ -96,7 +96,7 @@
         {
           "city": "ARLETA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARROYO GRANDE",
@@ -321,7 +321,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLTON",
@@ -331,7 +331,7 @@
         {
           "city": "COMMERCE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COMPTON",
@@ -366,12 +366,12 @@
         {
           "city": "CUPERTINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CYPRESS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALY CITY",
@@ -401,7 +401,7 @@
         {
           "city": "DIAMOND BAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DISCOVERY BAY",
@@ -1086,7 +1086,7 @@
         {
           "city": "NEWPORT BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NIPOMO",
@@ -1306,7 +1306,7 @@
         {
           "city": "RANCHO BERNARDO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO CORDOVA",
@@ -1446,7 +1446,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN DIEGO",
@@ -1801,7 +1801,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VENICE",
@@ -1916,12 +1916,12 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
