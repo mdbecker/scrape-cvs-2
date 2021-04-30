@@ -241,7 +241,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
@@ -251,7 +251,7 @@
         {
           "city": "COPIAGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORAM",
@@ -341,12 +341,12 @@
         {
           "city": "EAST ROCKAWAY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EASTCHESTER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELMIRA",
@@ -641,7 +641,7 @@
         {
           "city": "LEVITTOWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEWISTON",
@@ -651,7 +651,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLE FALLS",
@@ -1081,7 +1081,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
@@ -1276,7 +1276,7 @@
         {
           "city": "WEST SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBURY",
