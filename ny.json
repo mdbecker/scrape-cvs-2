@@ -41,7 +41,7 @@
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURNDALE",
@@ -386,7 +386,7 @@
         {
           "city": "FARMINGDALE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGTON",
@@ -846,7 +846,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -1261,7 +1261,7 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ISLIP",
