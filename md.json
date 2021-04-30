@@ -41,12 +41,12 @@
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHESDA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOWIE",
@@ -121,7 +121,7 @@
         {
           "city": "COLLEGE PARK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLMAR MANOR",
@@ -196,7 +196,7 @@
         {
           "city": "ELLICOTT CITY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ESSEX",
@@ -241,7 +241,7 @@
         {
           "city": "GAMBRILLS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GERMANTOWN",
@@ -421,7 +421,7 @@
         {
           "city": "PIKESVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POOLESVILLE",
@@ -506,7 +506,7 @@
         {
           "city": "WALKERSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTMINSTER",
