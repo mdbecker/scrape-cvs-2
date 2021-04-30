@@ -16,7 +16,7 @@
         {
           "city": "BAYAMON",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAGUAS",
@@ -31,7 +31,7 @@
         {
           "city": "CONDADO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DORADO",
@@ -41,7 +41,7 @@
         {
           "city": "FAJARDO",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GUAYNABO",
@@ -61,7 +61,7 @@
         {
           "city": "SAN JUAN",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TOA BAJA",
@@ -71,7 +71,7 @@
         {
           "city": "VEGA ALTA",
           "state": "PR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VEGA BAJA",
@@ -80,6 +80,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
