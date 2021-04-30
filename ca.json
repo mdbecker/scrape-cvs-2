@@ -81,7 +81,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
@@ -166,12 +166,12 @@
         {
           "city": "BIG BEAR LAKE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BREA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRENTWOOD",
@@ -536,7 +536,7 @@
         {
           "city": "FOOTHILL RANCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOSTER CITY",
@@ -581,7 +581,7 @@
         {
           "city": "GARDENA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GILROY",
@@ -746,7 +746,7 @@
         {
           "city": "LA HABRA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA JOLLA",
@@ -901,7 +901,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LYNWOOD",
@@ -981,7 +981,7 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MISSION HILLS",
@@ -1441,7 +1441,7 @@
         {
           "city": "SAN CARLOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN CLEMENTE",
@@ -1471,7 +1471,7 @@
         {
           "city": "SAN GABRIEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JACINTO",
@@ -1551,7 +1551,7 @@
         {
           "city": "SANTA CRUZ",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA FE SPRINGS",
@@ -1596,7 +1596,7 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
@@ -1671,7 +1671,7 @@
         {
           "city": "STANTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STOCKTON",
@@ -1681,7 +1681,7 @@
         {
           "city": "STUDIO CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUN VALLEY",
@@ -1856,7 +1856,7 @@
         {
           "city": "WEST HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HOLLYWOOD",
