@@ -76,7 +76,7 @@
         {
           "city": "BELCHERTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLINGHAM",
@@ -106,7 +106,7 @@
         {
           "city": "BOURNE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRAINTREE",
@@ -176,7 +176,7 @@
         {
           "city": "CHESTNUT HILL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICOPEE",
@@ -306,7 +306,7 @@
         {
           "city": "GRANBY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREAT BARRINGTON",
@@ -356,7 +356,7 @@
         {
           "city": "HINGHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLBROOK",
@@ -401,7 +401,7 @@
         {
           "city": "IPSWICH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JAMAICA PLAIN",
@@ -411,7 +411,7 @@
         {
           "city": "KINGSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEVILLE",
@@ -661,7 +661,7 @@
         {
           "city": "NORWOOD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORLEANS",
@@ -681,7 +681,7 @@
         {
           "city": "PEABODY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEMBROKE",
@@ -846,7 +846,7 @@
         {
           "city": "SOUTHWICK",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPENCER",
@@ -896,7 +896,7 @@
         {
           "city": "TEWKSBURY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "UXBRIDGE",
@@ -911,7 +911,7 @@
         {
           "city": "WALPOLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALTHAM",
@@ -1031,7 +1031,7 @@
         {
           "city": "WINCHESTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINTHROP",
@@ -1056,7 +1056,7 @@
         {
           "city": "WRENTHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

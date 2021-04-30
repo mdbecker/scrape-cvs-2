@@ -201,7 +201,7 @@
         {
           "city": "CALEXICO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMARILLO",
@@ -236,7 +236,7 @@
         {
           "city": "CARLSBAD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARMEL",
@@ -276,17 +276,17 @@
         {
           "city": "CHICO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHINO HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHULA VISTA",
@@ -366,7 +366,7 @@
         {
           "city": "CUPERTINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CYPRESS",
@@ -706,7 +706,7 @@
         {
           "city": "IMPERIAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIAN WELLS",
@@ -811,7 +811,7 @@
         {
           "city": "LAKE FOREST",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEPORT",
@@ -921,7 +921,7 @@
         {
           "city": "MANHATTAN BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANTECA",
@@ -986,7 +986,7 @@
         {
           "city": "MISSION HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MISSION VIEJO",
@@ -1026,7 +1026,7 @@
         {
           "city": "MONTROSE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOORPARK",
@@ -1326,7 +1326,7 @@
         {
           "city": "RANCHO SANTA MARGARITA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RED BLUFF",
@@ -1501,7 +1501,7 @@
         {
           "city": "SAN MATEO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN PEDRO",
@@ -1581,7 +1581,7 @@
         {
           "city": "SANTEE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA",
@@ -1661,7 +1661,7 @@
         {
           "city": "SOUTH LAKE TAHOE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1691,7 +1691,7 @@
         {
           "city": "SUNNYVALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SYLMAR",
@@ -1736,7 +1736,7 @@
         {
           "city": "TRABUCO CANYON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRACY",
@@ -1876,7 +1876,7 @@
         {
           "city": "WESTMINSTER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITTIER",
@@ -1916,7 +1916,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUBA CITY",
