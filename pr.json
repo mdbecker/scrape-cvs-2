@@ -41,7 +41,7 @@
         {
           "city": "FAJARDO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GUAYNABO",
@@ -80,6 +80,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
