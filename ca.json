@@ -281,7 +281,7 @@
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHINO HILLS",
@@ -321,7 +321,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -596,7 +596,7 @@
         {
           "city": "GLENDORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOLETA",
@@ -796,7 +796,7 @@
         {
           "city": "LAGUNA NIGUEL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAGUNA WOODS",
@@ -806,7 +806,7 @@
         {
           "city": "LAKE ELSINORE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE FOREST",
@@ -846,12 +846,12 @@
         {
           "city": "LEMON GROVE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LINCOLN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVERMORE",
@@ -901,7 +901,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNWOOD",
@@ -916,7 +916,7 @@
         {
           "city": "MALIBU",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANHATTAN BEACH",
@@ -1551,12 +1551,12 @@
         {
           "city": "SANTA CRUZ",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA FE SPRINGS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA MARIA",
@@ -1596,7 +1596,7 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEAL BEACH",
@@ -1616,7 +1616,7 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIMI VALLEY",
@@ -1626,7 +1626,7 @@
         {
           "city": "SOLANA BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLEDAD",
@@ -1656,12 +1656,12 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH LAKE TAHOE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1681,7 +1681,7 @@
         {
           "city": "STUDIO CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUN VALLEY",
@@ -1876,7 +1876,7 @@
         {
           "city": "WESTMINSTER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITTIER",
@@ -1916,7 +1916,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
