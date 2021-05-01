@@ -16,7 +16,7 @@
         {
           "city": "ACTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGAWAM",
@@ -66,7 +66,7 @@
         {
           "city": "AUBURN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BEDFORD",
@@ -421,7 +421,7 @@
         {
           "city": "LANESBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWRENCE",
@@ -1041,7 +1041,7 @@
         {
           "city": "WOBURN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOLLASTON",
