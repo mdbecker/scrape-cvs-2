@@ -51,7 +51,7 @@
         {
           "city": "FORT COLLINS",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENDALE",
@@ -61,7 +61,7 @@
         {
           "city": "GLENWOOD SPRINGS",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRAND JUNCTION",
@@ -71,7 +71,7 @@
         {
           "city": "GREELEY",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HIGHLANDS RANCH",
@@ -106,7 +106,7 @@
         {
           "city": "MONTROSE",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARKER",
@@ -116,7 +116,7 @@
         {
           "city": "PUEBLO",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHERIDAN",
@@ -126,7 +126,7 @@
         {
           "city": "SILVERTHORNE",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THORNTON",
@@ -145,6 +145,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
