@@ -26,7 +26,7 @@
         {
           "city": "ALLSTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMESBURY",
@@ -71,12 +71,12 @@
         {
           "city": "BEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELCHERTOWN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELLINGHAM",
@@ -306,7 +306,7 @@
         {
           "city": "GRANBY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREAT BARRINGTON",
@@ -356,7 +356,7 @@
         {
           "city": "HINGHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOLBROOK",
@@ -386,7 +386,7 @@
         {
           "city": "HUDSON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYANNIS",
@@ -401,7 +401,7 @@
         {
           "city": "IPSWICH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JAMAICA PLAIN",
@@ -411,7 +411,7 @@
         {
           "city": "KINGSTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKEVILLE",
@@ -546,7 +546,7 @@
         {
           "city": "MIDDLEBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETON",
@@ -581,7 +581,7 @@
         {
           "city": "NEEDHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW BEDFORD",
@@ -611,7 +611,7 @@
         {
           "city": "NORTH ATTLEBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BILLERICA",
@@ -641,7 +641,7 @@
         {
           "city": "NORTHAMPTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHBOROUGH",
@@ -661,7 +661,7 @@
         {
           "city": "NORWOOD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORLEANS",
@@ -681,7 +681,7 @@
         {
           "city": "PEABODY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEMBROKE",
@@ -846,7 +846,7 @@
         {
           "city": "SOUTHWICK",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SPENCER",
@@ -921,7 +921,7 @@
         {
           "city": "WARE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAREHAM",
@@ -996,7 +996,7 @@
         {
           "city": "WESTWOOD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEYMOUTH",
