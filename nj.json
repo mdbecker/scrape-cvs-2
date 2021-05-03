@@ -416,7 +416,7 @@
         {
           "city": "JERSEY CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEARNY",
@@ -446,7 +446,7 @@
         {
           "city": "LAWRENCEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEDGEWOOD",
@@ -716,7 +716,7 @@
         {
           "city": "NUTLEY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAK RIDGE",
@@ -816,7 +816,7 @@
         {
           "city": "PRINCETON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RAMSEY",
@@ -1061,7 +1061,7 @@
         {
           "city": "WATCHUNG",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAYNE",
