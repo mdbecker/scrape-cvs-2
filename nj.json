@@ -46,7 +46,7 @@
         {
           "city": "BERKELEY HEIGHTS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERLIN",
@@ -216,7 +216,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
@@ -416,7 +416,7 @@
         {
           "city": "JERSEY CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEARNY",
@@ -1061,7 +1061,7 @@
         {
           "city": "WATCHUNG",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNE",
@@ -1141,7 +1141,7 @@
         {
           "city": "WOOD RIDGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODBRIDGE",
