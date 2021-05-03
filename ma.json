@@ -136,7 +136,7 @@
         {
           "city": "BURLINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMBRIDGE",
@@ -226,7 +226,7 @@
         {
           "city": "EAST BRIDGEWATER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST FALMOUTH",
@@ -711,7 +711,7 @@
         {
           "city": "QUINCY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANDOLPH",
@@ -1021,7 +1021,7 @@
         {
           "city": "WILMINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHENDON",
@@ -1041,7 +1041,7 @@
         {
           "city": "WOBURN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOLLASTON",
