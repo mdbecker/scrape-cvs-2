@@ -41,12 +41,12 @@
         {
           "city": "BELLEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERKELEY HEIGHTS",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BERLIN",
@@ -391,7 +391,7 @@
         {
           "city": "HILLSBOROUGH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILLSIDE",
@@ -451,7 +451,7 @@
         {
           "city": "LEDGEWOOD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEONIA",
@@ -696,7 +696,7 @@
         {
           "city": "NORTH BRUNSWICK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH PLAINFIELD",
