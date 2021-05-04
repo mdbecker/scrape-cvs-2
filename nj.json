@@ -41,7 +41,7 @@
         {
           "city": "BELLEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERKELEY HEIGHTS",
@@ -266,7 +266,7 @@
         {
           "city": "FAIRLAWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRVIEW",
@@ -401,7 +401,7 @@
         {
           "city": "HOBOKEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOWELL",
@@ -616,12 +616,12 @@
         {
           "city": "MONMOUTH JUNCTION",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTVALE",
@@ -956,7 +956,7 @@
         {
           "city": "SUMMIT",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SWEDESBORO",
@@ -986,7 +986,7 @@
         {
           "city": "TOTOWA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TRENTON",
@@ -1066,7 +1066,7 @@
         {
           "city": "WAYNE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WENONAH",
