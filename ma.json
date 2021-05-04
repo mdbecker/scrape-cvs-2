@@ -46,7 +46,7 @@
         {
           "city": "ARLINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHLAND",
@@ -136,7 +136,7 @@
         {
           "city": "BURLINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMBRIDGE",
@@ -191,7 +191,7 @@
         {
           "city": "COHASSET",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONCORD",
@@ -226,7 +226,7 @@
         {
           "city": "EAST BRIDGEWATER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST FALMOUTH",
@@ -321,7 +321,7 @@
         {
           "city": "GROTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HADLEY",
@@ -386,7 +386,7 @@
         {
           "city": "HUDSON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYANNIS",
@@ -481,7 +481,7 @@
         {
           "city": "MANSFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARBLEHEAD",
@@ -521,7 +521,7 @@
         {
           "city": "MEDFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MEDFORD",
@@ -591,7 +591,7 @@
         {
           "city": "NEWBURYPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTON",
@@ -646,7 +646,7 @@
         {
           "city": "NORTHBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTON",
@@ -826,7 +826,7 @@
         {
           "city": "SOUTH HAMILTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH WEYMOUTH",
@@ -986,7 +986,7 @@
         {
           "city": "WESTFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTPORT",
@@ -1001,12 +1001,12 @@
         {
           "city": "WEYMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITINSVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITMAN",
