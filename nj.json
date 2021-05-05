@@ -216,7 +216,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDISON",
@@ -386,7 +386,7 @@
         {
           "city": "HIGHLANDS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILLSBOROUGH",
@@ -416,12 +416,12 @@
         {
           "city": "JERSEY CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KEARNY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KENDALL PARK",
@@ -771,7 +771,7 @@
         {
           "city": "PASSAIC",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAULSBORO",
