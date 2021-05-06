@@ -11,12 +11,12 @@
         {
           "city": "ARVADA",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AURORA",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOULDER",
@@ -26,7 +26,7 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CASTLE ROCK",
@@ -41,7 +41,7 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEWATER",
@@ -61,22 +61,22 @@
         {
           "city": "GLENWOOD SPRINGS",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GRAND JUNCTION",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREELEY",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HIGHLANDS RANCH",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKEWOOD",
@@ -101,12 +101,12 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTROSE",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARKER",
@@ -116,12 +116,12 @@
         {
           "city": "PUEBLO",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SILVERTHORNE",
@@ -131,20 +131,20 @@
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTMINSTER",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
