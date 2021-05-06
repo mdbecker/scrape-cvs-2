@@ -11,12 +11,12 @@
         {
           "city": "ARVADA",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AURORA",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOULDER",
@@ -26,12 +26,12 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CASTLE ROCK",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLORADO SPRINGS",
@@ -41,42 +41,42 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT COLLINS",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENDALE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENWOOD SPRINGS",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRAND JUNCTION",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREELEY",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIGHLANDS RANCH",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -101,12 +101,12 @@
         {
           "city": "LOVELAND",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTROSE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARKER",
@@ -116,35 +116,35 @@
         {
           "city": "PUEBLO",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVERTHORNE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTMINSTER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -11,95 +11,95 @@
         {
           "city": "ALTOONA",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETTENDORF",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORALVILLE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COUNCIL BLUFFS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBUQUE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT DODGE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARION",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIOUX CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "URBANDALE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
