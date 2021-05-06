@@ -51,7 +51,7 @@
         {
           "city": "ASHLAND",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATHOL",
@@ -191,7 +191,7 @@
         {
           "city": "COHASSET",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONCORD",
@@ -226,12 +226,12 @@
         {
           "city": "EAST BRIDGEWATER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST FALMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST LONGMEADOW",
@@ -386,7 +386,7 @@
         {
           "city": "HUDSON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HYANNIS",
@@ -401,7 +401,7 @@
         {
           "city": "IPSWICH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JAMAICA PLAIN",
@@ -601,7 +601,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ANDOVER",
@@ -651,7 +651,7 @@
         {
           "city": "NORTHBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTON",
@@ -716,7 +716,7 @@
         {
           "city": "QUINCY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RANDOLPH",
@@ -926,7 +926,7 @@
         {
           "city": "WARE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAREHAM",
@@ -966,7 +966,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ROXBURY",
@@ -1011,7 +1011,7 @@
         {
           "city": "WHITINSVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITMAN",
