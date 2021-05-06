@@ -296,7 +296,7 @@
         {
           "city": "FREEHOLD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALLOWAY",
@@ -396,7 +396,7 @@
         {
           "city": "HILLSIDE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOBOKEN",
@@ -426,7 +426,7 @@
         {
           "city": "KENDALL PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -466,7 +466,7 @@
         {
           "city": "LINDEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE FERRY",
@@ -476,7 +476,7 @@
         {
           "city": "LITTLE SILVER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVINGSTON",
@@ -526,7 +526,7 @@
         {
           "city": "MANVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAPLE SHADE",
@@ -931,7 +931,7 @@
         {
           "city": "SOMERSET",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH PLAINFIELD",
@@ -951,12 +951,12 @@
         {
           "city": "STRATFORD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUMMIT",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SWEDESBORO",
@@ -1016,7 +1016,7 @@
         {
           "city": "VAUXHALL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "VENTNOR CITY",
@@ -1031,7 +1031,7 @@
         {
           "city": "VILLAS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VINELAND",
@@ -1111,7 +1111,7 @@
         {
           "city": "WESTWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHIPPANY",
