@@ -11,12 +11,12 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ADDISON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALAMO HEIGHTS",
@@ -216,7 +216,7 @@
         {
           "city": "CANYON LAKE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARROLLTON",
@@ -1016,7 +1016,7 @@
         {
           "city": "ROBSTOWN",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKPORT",
@@ -1026,7 +1026,7 @@
         {
           "city": "ROCKWALL",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSENBERG",
@@ -1216,7 +1216,7 @@
         {
           "city": "TYLER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "UNIVERSAL CITY",
