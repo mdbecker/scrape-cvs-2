@@ -11,12 +11,12 @@
         {
           "city": "ABILENE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ADDISON",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALAMO HEIGHTS",
@@ -41,7 +41,7 @@
         {
           "city": "ALVARADO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALVIN",
@@ -421,7 +421,7 @@
         {
           "city": "EULESS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIR OAKS RANCH",
