@@ -16,7 +16,7 @@
         {
           "city": "BRYANT",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONWAY",
@@ -26,32 +26,32 @@
         {
           "city": "FAYETTEVILLE",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT SMITH",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOT SPRINGS",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JONESBORO",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE ROCK",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH LITTLE ROCK",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARAGOULD",
@@ -61,7 +61,7 @@
         {
           "city": "ROGERS",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RUSSELLVILLE",
@@ -71,7 +71,7 @@
         {
           "city": "SHERWOOD",
           "state": "AR",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRINGDALE",
@@ -85,6 +85,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
