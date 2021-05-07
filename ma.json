@@ -16,7 +16,7 @@
         {
           "city": "ACTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AGAWAM",
@@ -601,7 +601,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ANDOVER",
@@ -966,7 +966,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ROXBURY",
@@ -1026,7 +1026,7 @@
         {
           "city": "WILMINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHENDON",
