@@ -306,7 +306,7 @@
         {
           "city": "GRANBY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREAT BARRINGTON",
@@ -536,7 +536,7 @@
         {
           "city": "MELROSE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "METHUEN",
@@ -601,7 +601,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH ANDOVER",
@@ -656,7 +656,7 @@
         {
           "city": "NORTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORWELL",
@@ -1046,7 +1046,7 @@
         {
           "city": "WOBURN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOLLASTON",
