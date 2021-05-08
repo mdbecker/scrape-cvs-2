@@ -11,7 +11,7 @@
         {
           "city": "ALBERTVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALICEVILLE",
@@ -31,7 +31,7 @@
         {
           "city": "ATHENS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATTALLA",
@@ -66,7 +66,7 @@
         {
           "city": "CALERA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMDEN",
@@ -91,7 +91,7 @@
         {
           "city": "CHILDERSBURG",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CITRONELLE",
@@ -101,12 +101,12 @@
         {
           "city": "COLUMBIANA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CULLMAN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAPHNE",
@@ -241,7 +241,7 @@
         {
           "city": "JACKSONVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANETT",
@@ -306,7 +306,7 @@
         {
           "city": "MUSCLE SHOALS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHPORT",
@@ -340,6 +340,11 @@
         },
         {
           "city": "PHENIX CITY",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
+          "city": "PIEDMONT",
           "state": "AL",
           "status": "Available"
         },
@@ -401,7 +406,7 @@
         {
           "city": "TALLADEGA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TALLASSEE",
@@ -446,7 +451,7 @@
         {
           "city": "WARRIOR",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

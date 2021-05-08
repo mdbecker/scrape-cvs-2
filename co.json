@@ -36,7 +36,7 @@
         {
           "city": "COLORADO SPRINGS",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DENVER",
@@ -86,7 +86,7 @@
         {
           "city": "LITTLETON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONE TREE",
@@ -125,6 +125,11 @@
         },
         {
           "city": "SILVERTHORNE",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
+          "city": "SUPERIOR",
           "state": "CO",
           "status": "Available"
         },

@@ -134,6 +134,11 @@
           "status": "Available"
         },
         {
+          "city": "CHESTERFIELD",
+          "state": "VA",
+          "status": "Available"
+        },
+        {
           "city": "CHRISTIANSBURG",
           "state": "VA",
           "status": "Available"
@@ -171,7 +176,7 @@
         {
           "city": "DALE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALEVILLE",
@@ -181,7 +186,7 @@
         {
           "city": "DANVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBLIN",
@@ -191,12 +196,12 @@
         {
           "city": "DUMFRIES",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EMPORIA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFAX",
@@ -251,7 +256,7 @@
         {
           "city": "GATE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN ALLEN",
@@ -266,7 +271,7 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARDY",
@@ -291,17 +296,22 @@
         {
           "city": "HERNDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIGHLAND SPRINGS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HILLSVILLE",
           "state": "VA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "HOPEWELL",
+          "state": "VA",
+          "status": "Available"
         },
         {
           "city": "KILMARNOCK",
@@ -371,7 +381,7 @@
         {
           "city": "MECHANICSVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDLOTHIAN",
@@ -391,7 +401,7 @@
         {
           "city": "NEWPORT NEWS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORFOLK",
@@ -411,7 +421,7 @@
         {
           "city": "OAKTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ONLEY",
@@ -441,7 +451,7 @@
         {
           "city": "PULASKI",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RESTON",
@@ -451,7 +461,7 @@
         {
           "city": "RICHLANDS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHMOND",
@@ -481,7 +491,7 @@
         {
           "city": "SALEM",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SMITHFIELD",
@@ -501,12 +511,12 @@
         {
           "city": "SOUTH RIDING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STAFFORD",
@@ -516,7 +526,7 @@
         {
           "city": "STAUNTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STEPHENS CITY",
@@ -596,7 +606,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

@@ -111,7 +111,7 @@
         {
           "city": "BUFORD",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALHOUN",
@@ -339,6 +339,11 @@
           "status": "Available"
         },
         {
+          "city": "GROVETOWN",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
           "city": "HARTWELL",
           "state": "GA",
           "status": "Available"
@@ -365,6 +370,11 @@
         },
         {
           "city": "HULL",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "JACKSON",
           "state": "GA",
           "status": "Available"
         },
@@ -516,7 +526,7 @@
         {
           "city": "PEACHTREE CITY",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PERRY",
@@ -581,7 +591,7 @@
         {
           "city": "SANDERSVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANDY SPRINGS",
@@ -611,7 +621,7 @@
         {
           "city": "STOCKBRIDGE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STONE MOUNTAIN",
