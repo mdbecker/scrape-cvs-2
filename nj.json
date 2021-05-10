@@ -111,7 +111,7 @@
         {
           "city": "CARTERET",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR GROVE",
@@ -396,12 +396,12 @@
         {
           "city": "HILLSIDE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOBOKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOWELL",
@@ -416,7 +416,7 @@
         {
           "city": "JERSEY CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEARNY",
@@ -466,7 +466,7 @@
         {
           "city": "LINDEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLE FERRY",
@@ -596,7 +596,7 @@
         {
           "city": "MIDDLETOWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLBURN",
@@ -681,7 +681,7 @@
         {
           "city": "NEWARK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ARLINGTON",
@@ -726,7 +726,7 @@
         {
           "city": "OAKHURST",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKLYN",
@@ -1086,7 +1086,7 @@
         {
           "city": "WEST NEW YORK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ORANGE",
@@ -1141,7 +1141,7 @@
         {
           "city": "WOOD RIDGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODBRIDGE",
