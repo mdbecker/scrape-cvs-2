@@ -36,12 +36,12 @@
         {
           "city": "ARMONK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURNDALE",
@@ -796,7 +796,7 @@
         {
           "city": "NEW CITY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW HARTFORD",
@@ -981,7 +981,7 @@
         {
           "city": "RED HOOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REGO PARK",
