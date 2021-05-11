@@ -1076,12 +1076,12 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURY PARK",
@@ -1881,7 +1881,7 @@
         {
           "city": "WESTLAKE VILLAGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTMINSTER",
