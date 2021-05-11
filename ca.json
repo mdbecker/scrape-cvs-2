@@ -201,7 +201,7 @@
         {
           "city": "CALEXICO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMARILLO",
@@ -486,7 +486,7 @@
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINO",
@@ -1076,12 +1076,12 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURY PARK",
@@ -1576,7 +1576,7 @@
         {
           "city": "SANTA MONICA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA PAULA",
