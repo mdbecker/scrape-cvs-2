@@ -81,7 +81,7 @@
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD HILLS",
@@ -326,7 +326,7 @@
         {
           "city": "EAST ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST MEADOW",
@@ -656,7 +656,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLE FALLS",
@@ -796,7 +796,7 @@
         {
           "city": "NEW CITY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW HARTFORD",
@@ -876,7 +876,7 @@
         {
           "city": "ORANGEBURG",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORCHARD PARK",
