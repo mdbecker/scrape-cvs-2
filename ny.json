@@ -36,12 +36,12 @@
         {
           "city": "ARMONK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURNDALE",
@@ -751,7 +751,7 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETOWN",
@@ -876,7 +876,7 @@
         {
           "city": "ORANGEBURG",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORCHARD PARK",
@@ -981,7 +981,7 @@
         {
           "city": "RED HOOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REGO PARK",
