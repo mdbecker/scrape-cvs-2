@@ -11,7 +11,7 @@
         {
           "city": "ALTOONA",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMES",
@@ -21,37 +21,37 @@
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETTENDORF",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORALVILLE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COUNCIL BLUFFS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DES MOINES",
@@ -71,10 +71,15 @@
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARION",
+          "state": "IA",
+          "status": "Available"
+        },
+        {
+          "city": "MASON CITY",
           "state": "IA",
           "status": "Available"
         },
@@ -86,7 +91,7 @@
         {
           "city": "URBANDALE",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERLOO",
@@ -96,7 +101,7 @@
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

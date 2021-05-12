@@ -26,7 +26,7 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CASTLE ROCK",
@@ -49,6 +49,11 @@
           "status": "Available"
         },
         {
+          "city": "ENGLEWOOD",
+          "state": "CO",
+          "status": "Available"
+        },
+        {
           "city": "FORT COLLINS",
           "state": "CO",
           "status": "Available"
@@ -61,12 +66,12 @@
         {
           "city": "GLENWOOD SPRINGS",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRAND JUNCTION",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREELEY",
@@ -81,7 +86,7 @@
         {
           "city": "LAKEWOOD",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLETON",
@@ -91,12 +96,12 @@
         {
           "city": "LONE TREE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONGMONT",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOVELAND",
@@ -106,7 +111,7 @@
         {
           "city": "MONTROSE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARKER",

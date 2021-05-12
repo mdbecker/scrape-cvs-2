@@ -9,6 +9,11 @@
     "data": {
       "AL": [
         {
+          "city": "ALABASTER",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
           "city": "ALBERTVILLE",
           "state": "AL",
           "status": "Available"
@@ -16,15 +21,20 @@
         {
           "city": "ALICEVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANDALUSIA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNISTON",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
+          "city": "ARAB",
           "state": "AL",
           "status": "Available"
         },
@@ -36,7 +46,7 @@
         {
           "city": "ATTALLA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURN",
@@ -76,17 +86,17 @@
         {
           "city": "CENTER POINT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTRE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CENTREVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHILDERSBURG",
@@ -95,6 +105,11 @@
         },
         {
           "city": "CITRONELLE",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
+          "city": "CLANTON",
           "state": "AL",
           "status": "Available"
         },
@@ -111,7 +126,7 @@
         {
           "city": "DAPHNE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DECATUR",
@@ -121,17 +136,17 @@
         {
           "city": "DEMOPOLIS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DOTHAN",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENTERPRISE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVERGREEN",
@@ -141,25 +156,30 @@
         {
           "city": "FAIRHOPE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLORENCE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOLEY",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FULTONDALE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GADSDEN",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
+          "city": "GARDENDALE",
           "state": "AL",
           "status": "Available"
         },
@@ -181,27 +201,27 @@
         {
           "city": "GREENVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GULF SHORES",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GUNTERSVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HALEYVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANCEVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTSELLE",
@@ -214,6 +234,11 @@
           "status": "Available"
         },
         {
+          "city": "HELENA",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
           "city": "HOMEWOOD",
           "state": "AL",
           "status": "Available"
@@ -221,7 +246,7 @@
         {
           "city": "HOOVER",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUEYTOWN",
@@ -244,6 +269,11 @@
           "status": "Available"
         },
         {
+          "city": "JASPER",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
           "city": "LANETT",
           "state": "AL",
           "status": "Fully Booked"
@@ -251,7 +281,7 @@
         {
           "city": "LEEDS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MADISON",
@@ -271,7 +301,7 @@
         {
           "city": "MILLBROOK",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOBILE",
@@ -281,7 +311,7 @@
         {
           "city": "MONTEVALLO",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTGOMERY",
@@ -301,7 +331,7 @@
         {
           "city": "MOUNTAIN BROOK",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUSCLE SHOALS",
@@ -311,12 +341,12 @@
         {
           "city": "NORTHPORT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ONEONTA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OPELIKA",
@@ -324,19 +354,29 @@
           "status": "Available"
         },
         {
+          "city": "ORANGE BEACH",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
           "city": "OXFORD",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OZARK",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PELHAM",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PELL CITY",
+          "state": "AL",
+          "status": "Available"
         },
         {
           "city": "PHENIX CITY",
@@ -356,12 +396,12 @@
         {
           "city": "PINSON",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANT GROVE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PRATTVILLE",
@@ -374,9 +414,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "ROBERTSDALE",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
           "city": "RUSSELLVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARALAND",
@@ -386,7 +431,7 @@
         {
           "city": "SCOTTSBORO",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEMMES",
@@ -396,12 +441,12 @@
         {
           "city": "SPANISH FORT",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SYLACAUGA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TALLADEGA",
@@ -411,22 +456,22 @@
         {
           "city": "TALLASSEE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TROY",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TRUSSVILLE",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TUSCALOOSA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TUSKEGEE",
@@ -441,15 +486,20 @@
         {
           "city": "VESTAVIA",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VESTAVIA HILLS",
           "state": "AL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARRIOR",
+          "state": "AL",
+          "status": "Available"
+        },
+        {
+          "city": "WETUMPKA",
           "state": "AL",
           "status": "Available"
         }

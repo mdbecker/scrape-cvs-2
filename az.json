@@ -19,6 +19,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "AVONDALE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
           "city": "BUCKEYE",
           "state": "AZ",
           "status": "Available"
@@ -36,12 +41,17 @@
         {
           "city": "CAREFREE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CASA GRANDE",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "CAVE CREEK",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANDLER",
@@ -56,17 +66,17 @@
         {
           "city": "DOUGLAS",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLAGSTAFF",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT MOHAVE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOUNTAIN HILLS",
@@ -86,7 +96,7 @@
         {
           "city": "GLOBE",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GOODYEAR",
@@ -96,12 +106,27 @@
         {
           "city": "GREEN VALLEY",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "KINGMAN",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "LAVEEN",
           "state": "AZ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LITCHFIELD PARK",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "MARICOPA",
+          "state": "AZ",
+          "status": "Available"
         },
         {
           "city": "MESA",
@@ -111,12 +136,12 @@
         {
           "city": "ORO VALLEY",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PARKER",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEORIA",
@@ -151,7 +176,7 @@
         {
           "city": "SEDONA",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SHOW LOW",
@@ -171,15 +196,20 @@
         {
           "city": "SUN CITY WEST",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUN LAKES",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SURPRISE",
+          "state": "AZ",
+          "status": "Available"
+        },
+        {
+          "city": "TAYLOR",
           "state": "AZ",
           "status": "Available"
         },
@@ -191,7 +221,7 @@
         {
           "city": "TOLLESON",
           "state": "AZ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TUCSON",

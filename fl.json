@@ -9,6 +9,11 @@
     "data": {
       "FL": [
         {
+          "city": "ALACHUA",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "ALTAMONTE SPRINGS",
           "state": "FL",
           "status": "Available"
@@ -16,22 +21,27 @@
         {
           "city": "APALACHICOLA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APOLLO BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APOPKA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "AUBURNDALE",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "AVENTURA",
@@ -46,7 +56,7 @@
         {
           "city": "BARTOW",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLE GLADE",
@@ -61,7 +71,12 @@
         {
           "city": "BEVERLY HILLS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "BIG PINE KEY",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "BOCA RATON",
@@ -86,7 +101,7 @@
         {
           "city": "BRANDON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROOKSVILLE",
@@ -96,7 +111,7 @@
         {
           "city": "BUSHNELL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALLAHAN",
@@ -126,12 +141,12 @@
         {
           "city": "CHATTAHOOCHEE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHIEFLAND",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHIPLEY",
@@ -141,7 +156,7 @@
         {
           "city": "CITRUS HILLS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEARWATER",
@@ -151,7 +166,7 @@
         {
           "city": "CLEARWATER BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLERMONT",
@@ -171,12 +186,12 @@
         {
           "city": "COCOA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COCONUT CREEK",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COCONUT GROVE",
@@ -201,17 +216,22 @@
         {
           "city": "CRAWFORDVILLE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "CRESTVIEW",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "CRYSTAL RIVER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DADE CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
@@ -226,12 +246,12 @@
         {
           "city": "DAYTONA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAYTONA BEACH SHORES",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEERFIELD BEACH",
@@ -251,22 +271,22 @@
         {
           "city": "DELTONA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DESTIN",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DORAL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUNEDIN",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUNNELLON",
@@ -281,12 +301,12 @@
         {
           "city": "EDGEWATER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENGLEWOOD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ESTERO",
@@ -301,12 +321,12 @@
         {
           "city": "FERNANDINA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLAGLER BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLEMING ISLAND",
@@ -326,7 +346,7 @@
         {
           "city": "FORT MYERS BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORT PIERCE",
@@ -336,7 +356,7 @@
         {
           "city": "FORT WALTON BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GAINESVILLE",
@@ -346,7 +366,7 @@
         {
           "city": "GREEN COVE SPRINGS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENACRES",
@@ -376,7 +396,7 @@
         {
           "city": "HEATHROW",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIALEAH",
@@ -386,17 +406,17 @@
         {
           "city": "HIGH SPRINGS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOBE SOUND",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLIDAY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLYWOOD",
@@ -406,7 +426,7 @@
         {
           "city": "HOLMES BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOMESTEAD",
@@ -421,12 +441,12 @@
         {
           "city": "HUDSON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IMMOKALEE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INDIALANTIC",
@@ -436,7 +456,7 @@
         {
           "city": "INTERLACHEN",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INVERNESS",
@@ -446,7 +466,7 @@
         {
           "city": "ISLAMORADA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSONVILLE",
@@ -456,7 +476,7 @@
         {
           "city": "JACKSONVILLE BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JASPER",
@@ -466,7 +486,7 @@
         {
           "city": "JENSEN BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JONESVILLE",
@@ -481,7 +501,7 @@
         {
           "city": "JUPITER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEY BISCAYNE",
@@ -489,14 +509,19 @@
           "status": "Available"
         },
         {
+          "city": "KEY LARGO",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "KEY WEST",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEYSTONE HEIGHTS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KISSIMMEE",
@@ -506,7 +531,7 @@
         {
           "city": "LADY LAKE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE BUTLER",
@@ -531,7 +556,7 @@
         {
           "city": "LAKE PLACID",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE WALES",
@@ -556,12 +581,12 @@
         {
           "city": "LAUDERHILL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEHIGH ACRES",
@@ -606,27 +631,32 @@
         {
           "city": "MADEIRA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MADISON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARCO ISLAND",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARGATE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "MARIANNA",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "MARY ESTHER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MELBOURNE",
@@ -664,6 +694,11 @@
           "status": "Available"
         },
         {
+          "city": "MIDDLEBURG",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
           "city": "MILTON",
           "state": "FL",
           "status": "Fully Booked"
@@ -681,12 +716,12 @@
         {
           "city": "MIRAMAR BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTICELLO",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT DORA",
@@ -701,7 +736,7 @@
         {
           "city": "NAVARRE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEPTUNE BEACH",
@@ -711,12 +746,12 @@
         {
           "city": "NEW PORT RICHEY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW SMYRNA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NICEVILLE",
@@ -726,17 +761,17 @@
         {
           "city": "NOKOMIS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH FORT MYERS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH MIAMI",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH MIAMI BEACH",
@@ -746,12 +781,12 @@
         {
           "city": "NORTH PALM BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH PORT",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKLAND PARK",
@@ -796,12 +831,12 @@
         {
           "city": "ORMOND BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OSPREY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OVIEDO",
@@ -811,7 +846,7 @@
         {
           "city": "PACE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALATKA",
@@ -836,12 +871,12 @@
         {
           "city": "PALM COAST",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM HARBOR",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM SPRINGS",
@@ -856,12 +891,12 @@
         {
           "city": "PALMETTO BAY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PANAMA CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PANAMA CITY BEACH",
@@ -871,7 +906,12 @@
         {
           "city": "PARKLAND",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "PARRISH",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "PEMBROKE PINES",
@@ -901,7 +941,7 @@
         {
           "city": "PLANT CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLANTATION",
@@ -911,12 +951,12 @@
         {
           "city": "POMPANO BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PONTE VEDRA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT CHARLOTTE",
@@ -941,7 +981,7 @@
         {
           "city": "PORT SAINT LUCIE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PUNTA GORDA",
@@ -966,7 +1006,7 @@
         {
           "city": "ROYAL PALM BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT AUGUSTINE",
@@ -976,12 +1016,17 @@
         {
           "city": "SAINT CLOUD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT JAMES CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SAINT PETE BEACH",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "SAINT PETERSBURG",
@@ -996,7 +1041,7 @@
         {
           "city": "SANIBEL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARASOTA",
@@ -1006,12 +1051,12 @@
         {
           "city": "SATELLITE BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEBRING",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEFFNER",
@@ -1021,12 +1066,12 @@
         {
           "city": "SEMINOLE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVER SPRINGS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH MIAMI",
@@ -1036,12 +1081,12 @@
         {
           "city": "SOUTH PASADENA",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING HILL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STARKE",
@@ -1061,7 +1106,12 @@
         {
           "city": "SUMMERFIELD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "SUN CITY CENTER",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "SUNNY ISLES BEACH",
@@ -1071,12 +1121,12 @@
         {
           "city": "SUNRISE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SURFSIDE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TALLAHASSEE",
@@ -1086,7 +1136,7 @@
         {
           "city": "TAMARAC",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAMPA",
@@ -1101,12 +1151,12 @@
         {
           "city": "TAVARES",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAVERNIER",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEMPLE TERRACE",
@@ -1136,7 +1186,7 @@
         {
           "city": "UNIVERSITY PARK",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VALRICO",
@@ -1161,7 +1211,7 @@
         {
           "city": "WEEKI WACHEE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WELLINGTON",
@@ -1181,7 +1231,7 @@
         {
           "city": "WEST MIAMI",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST PALM BEACH",
@@ -1201,17 +1251,22 @@
         {
           "city": "WILLISTON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "WILTON MANORS",
+          "state": "FL",
+          "status": "Available"
         },
         {
           "city": "WINDERMERE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINTER GARDEN",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINTER HAVEN",
@@ -1231,7 +1286,7 @@
         {
           "city": "ZEPHYRHILLS",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

@@ -71,7 +71,7 @@
         {
           "city": "CHESHIRE",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -174,6 +174,11 @@
           "status": "Available"
         },
         {
+          "city": "GROTON",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
           "city": "GUILFORD",
           "state": "CT",
           "status": "Fully Booked"
@@ -206,7 +211,7 @@
         {
           "city": "LITCHFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MADISON",
@@ -246,7 +251,7 @@
         {
           "city": "NAUGATUCK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BRITAIN",
@@ -266,7 +271,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW MILFORD",
@@ -346,7 +351,7 @@
         {
           "city": "RIDGEFIELD",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -361,7 +366,7 @@
         {
           "city": "ROCKY HILL",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEYMOUR",
