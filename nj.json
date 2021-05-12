@@ -131,7 +131,7 @@
         {
           "city": "CEDAR GROVE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
@@ -211,7 +211,7 @@
         {
           "city": "EAST RUTHERFORD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST WINDSOR",
@@ -321,7 +321,7 @@
         {
           "city": "GARFIELD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GARWOOD",
@@ -546,7 +546,7 @@
         {
           "city": "MANVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MAPLE SHADE",
@@ -711,7 +711,7 @@
         {
           "city": "NEW PROVIDENCE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWARK",

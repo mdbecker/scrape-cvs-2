@@ -26,7 +26,7 @@
         {
           "city": "AMSTERDAM",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARDSLEY",
@@ -686,7 +686,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLE FALLS",
@@ -781,7 +781,7 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETOWN",
@@ -1136,7 +1136,7 @@
         {
           "city": "SELDEN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SETAUKET",
@@ -1171,7 +1171,7 @@
         {
           "city": "SOUTH SETAUKET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTHAMPTON",
