@@ -26,7 +26,7 @@
         {
           "city": "ALLISON PARK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALTOONA",
@@ -366,7 +366,7 @@
         {
           "city": "GILBERTSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN MILLS",
@@ -466,7 +466,7 @@
         {
           "city": "JENKINTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JERSEY SHORE",
@@ -776,7 +776,7 @@
         {
           "city": "PERKASIE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PHILADELPHIA",
@@ -1041,7 +1041,7 @@
         {
           "city": "WAYNE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAYNESBORO",
