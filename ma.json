@@ -41,7 +41,7 @@
         {
           "city": "ANDOVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -166,12 +166,12 @@
         {
           "city": "CHARLTON CITY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELMSFORD",
@@ -236,7 +236,7 @@
         {
           "city": "EAST BRIDGEWATER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST FALMOUTH",
@@ -351,7 +351,7 @@
         {
           "city": "HARWICH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARWICHPORT",
@@ -566,7 +566,7 @@
         {
           "city": "MILFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLBURY",
@@ -611,7 +611,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ANDOVER",
@@ -921,7 +921,7 @@
         {
           "city": "WAKEFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALPOLE",
