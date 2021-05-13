@@ -81,7 +81,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCADIA",
@@ -326,17 +326,17 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COMMERCE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COMPTON",
@@ -486,7 +486,7 @@
         {
           "city": "EMERYVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINITAS",
@@ -806,7 +806,7 @@
         {
           "city": "LAGUNA BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAGUNA NIGUEL",
@@ -991,7 +991,7 @@
         {
           "city": "MILL VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILPITAS",
@@ -1086,7 +1086,7 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -1191,7 +1191,7 @@
         {
           "city": "PACIFIC PALISADES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM DESERT",
@@ -1261,7 +1261,7 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLACERVILLE",
@@ -1466,7 +1466,7 @@
         {
           "city": "SAN CLEMENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN DIEGO",
@@ -1696,7 +1696,7 @@
         {
           "city": "STANTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STOCKTON",
@@ -1706,7 +1706,7 @@
         {
           "city": "STUDIO CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUN VALLEY",
@@ -1926,7 +1926,7 @@
         {
           "city": "WINNETKA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODLAND",
@@ -1941,7 +1941,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUBA CITY",
