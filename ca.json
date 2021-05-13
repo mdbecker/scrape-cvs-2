@@ -21,12 +21,12 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALAMO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALBANY",
@@ -81,7 +81,7 @@
         {
           "city": "APTOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARCADIA",
@@ -326,7 +326,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -471,7 +471,7 @@
         {
           "city": "EL DORADO HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL MONTE",
@@ -511,7 +511,7 @@
         {
           "city": "FAIR OAKS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFIELD",
@@ -676,7 +676,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEMET",
@@ -696,7 +696,7 @@
         {
           "city": "HIGHLAND",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOLLISTER",
@@ -991,7 +991,7 @@
         {
           "city": "MILL VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILPITAS",
@@ -1116,7 +1116,7 @@
         {
           "city": "NORTH HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHRIDGE",
@@ -1136,7 +1136,7 @@
         {
           "city": "OAK PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAKDALE",
@@ -1191,7 +1191,7 @@
         {
           "city": "PACIFIC PALISADES",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALM DESERT",
@@ -1516,7 +1516,7 @@
         {
           "city": "SAN MARCOS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN MATEO",
@@ -1771,7 +1771,7 @@
         {
           "city": "TRUCKEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TUJUNGA",
@@ -1881,7 +1881,7 @@
         {
           "city": "WEST HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HOLLYWOOD",
@@ -1926,7 +1926,7 @@
         {
           "city": "WINNETKA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODLAND",
@@ -1941,7 +1941,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
