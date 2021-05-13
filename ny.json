@@ -21,7 +21,7 @@
         {
           "city": "AMITYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMSTERDAM",
@@ -86,7 +86,7 @@
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD HILLS",
@@ -96,7 +96,7 @@
         {
           "city": "BELLEROSE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLMORE",
@@ -291,7 +291,7 @@
         {
           "city": "DELMAR",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEPEW",
@@ -341,7 +341,7 @@
         {
           "city": "EAST NORTHPORT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST ROCKAWAY",
@@ -391,17 +391,17 @@
         {
           "city": "FALCONER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAR ROCKAWAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGDALE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGTON",
@@ -431,12 +431,12 @@
         {
           "city": "FLUSHING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOREST HILLS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FRANKLIN SQUARE",
@@ -516,7 +516,7 @@
         {
           "city": "GREENWICH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWOOD LAKE",
@@ -676,7 +676,7 @@
         {
           "city": "LEVITTOWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEWISTON",
@@ -796,7 +796,7 @@
         {
           "city": "MILLERTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MINEOLA",
@@ -826,7 +826,7 @@
         {
           "city": "NESCONSET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CITY",
@@ -871,7 +871,7 @@
         {
           "city": "NORTH BABYLON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BALDWIN",
@@ -941,7 +941,7 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWLING",
@@ -1006,7 +1006,7 @@
         {
           "city": "QUEENS VILLAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUEENSBURY",
@@ -1016,17 +1016,17 @@
         {
           "city": "RAVENA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RED HOOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REGO PARK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RENSSELAER",
@@ -1061,7 +1061,7 @@
         {
           "city": "ROCKVILLE CENTRE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKY POINT",
@@ -1076,7 +1076,7 @@
         {
           "city": "ROSLYN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROTTERDAM",
@@ -1126,17 +1126,17 @@
         {
           "city": "SCOTIA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SETAUKET",
@@ -1161,7 +1161,7 @@
         {
           "city": "SODUS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOMERS",
@@ -1211,7 +1211,7 @@
         {
           "city": "SYRACUSE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TARRYTOWN",
@@ -1311,7 +1311,7 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ISLIP",
@@ -1351,7 +1351,7 @@
         {
           "city": "WHITE PLAINS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITESTONE",
@@ -1396,7 +1396,7 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YORKTOWN HEIGHTS",
