@@ -51,17 +51,17 @@
         {
           "city": "AVON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALDWIN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALLSTON SPA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARDONIA",
@@ -86,7 +86,7 @@
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BEDFORD HILLS",
@@ -316,12 +316,12 @@
         {
           "city": "EAST GREENBUSH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST HAMPTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST HILLS",
@@ -366,7 +366,7 @@
         {
           "city": "ELMONT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELMSFORD",
@@ -426,7 +426,7 @@
         {
           "city": "FLORAL PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLUSHING",
@@ -481,7 +481,7 @@
         {
           "city": "GLENMONT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENVILLE",
@@ -541,7 +541,7 @@
         {
           "city": "HEMPSTEAD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEWLETT",
@@ -711,7 +711,7 @@
         {
           "city": "LYNBROOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MACEDON",
@@ -736,7 +736,7 @@
         {
           "city": "MANLIUS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANORVILLE",
@@ -781,7 +781,7 @@
         {
           "city": "MIDDLE VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
@@ -881,7 +881,7 @@
         {
           "city": "NORTH BAY SHORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BELLMORE",
@@ -946,7 +946,7 @@
         {
           "city": "PAWLING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEARL RIVER",
@@ -1086,7 +1086,7 @@
         {
           "city": "RYE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RYE BROOK",
@@ -1096,12 +1096,12 @@
         {
           "city": "SANBORN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SARATOGA SPRINGS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAUGERTIES",
@@ -1116,7 +1116,7 @@
         {
           "city": "SCARSDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCHENECTADY",
@@ -1216,7 +1216,7 @@
         {
           "city": "TARRYTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THORNWOOD",
@@ -1301,7 +1301,7 @@
         {
           "city": "WEBSTER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST BABYLON",
@@ -1316,7 +1316,7 @@
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
@@ -1376,7 +1376,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODSIDE",
