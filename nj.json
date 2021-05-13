@@ -21,12 +21,12 @@
         {
           "city": "ATLANTIC CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARNEGAT",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAYONNE",
@@ -81,7 +81,7 @@
         {
           "city": "BRICK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
@@ -121,7 +121,7 @@
         {
           "city": "CAPE MAY COURT HOUSE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARTERET",
@@ -181,7 +181,7 @@
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -231,7 +231,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
@@ -421,7 +421,7 @@
         {
           "city": "HOWELL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSON",
@@ -451,7 +451,7 @@
         {
           "city": "LAKEWOOD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAMBERTVILLE",
@@ -521,7 +521,7 @@
         {
           "city": "MAHWAH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALAGA",
@@ -651,7 +651,7 @@
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MONTVALE",
@@ -771,7 +771,7 @@
         {
           "city": "OCEAN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
@@ -846,7 +846,7 @@
         {
           "city": "POINT PLEASANT BEACH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -911,7 +911,7 @@
         {
           "city": "ROCKAWAY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROSELLE",
@@ -946,12 +946,12 @@
         {
           "city": "SECAUCUS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEWELL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHIP BOTTOM",
@@ -1056,7 +1056,7 @@
         {
           "city": "UPPER MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VAUXHALL",
@@ -1116,7 +1116,7 @@
         {
           "city": "WENONAH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST CALDWELL",
@@ -1146,7 +1146,7 @@
         {
           "city": "WESTAMPTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTFIELD",
@@ -1196,17 +1196,17 @@
         {
           "city": "WOODBURY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOOLWICH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
