@@ -51,7 +51,7 @@
         {
           "city": "BELLEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BERKELEY HEIGHTS",
@@ -106,12 +106,12 @@
         {
           "city": "BURLINGTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURLINGTON TOWNSHIP",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMDEN",
@@ -136,7 +136,7 @@
         {
           "city": "CHATHAM",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHERRY HILL",
@@ -276,7 +276,7 @@
         {
           "city": "FAIRFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRLAWN",
@@ -406,7 +406,7 @@
         {
           "city": "HILLSBOROUGH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HILLSIDE",
@@ -436,7 +436,7 @@
         {
           "city": "JERSEY CITY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KEARNY",
@@ -451,7 +451,7 @@
         {
           "city": "LAKEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAMBERTVILLE",
@@ -521,7 +521,7 @@
         {
           "city": "MAHWAH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALAGA",
@@ -606,7 +606,7 @@
         {
           "city": "METUCHEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLESEX",
@@ -631,7 +631,7 @@
         {
           "city": "MILLTOWN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILLVILLE",
@@ -651,7 +651,7 @@
         {
           "city": "MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTVALE",
@@ -691,7 +691,7 @@
         {
           "city": "MULLICA HILL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEPTUNE",
@@ -716,7 +716,7 @@
         {
           "city": "NEWARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH ARLINGTON",
@@ -946,7 +946,7 @@
         {
           "city": "SECAUCUS",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEWELL",
@@ -986,7 +986,7 @@
         {
           "city": "SPARTA",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STANHOPE",
@@ -1091,7 +1091,7 @@
         {
           "city": "WALL",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARETOWN",
@@ -1131,12 +1131,12 @@
         {
           "city": "WEST NEW YORK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ORANGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST WINDSOR",
@@ -1206,7 +1206,7 @@
         {
           "city": "WYCKOFF",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
