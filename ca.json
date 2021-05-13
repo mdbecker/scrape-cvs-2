@@ -36,7 +36,7 @@
         {
           "city": "ALHAMBRA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALISO VIEJO",
@@ -76,7 +76,7 @@
         {
           "city": "APPLE VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "APTOS",
@@ -256,7 +256,7 @@
         {
           "city": "CARSON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CASTRO VALLEY",
@@ -286,7 +286,7 @@
         {
           "city": "CHINO HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHULA VISTA",
@@ -301,7 +301,7 @@
         {
           "city": "CITY OF INDUSTRY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLAYTON",
@@ -431,7 +431,7 @@
         {
           "city": "DUARTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBLIN",
@@ -461,7 +461,7 @@
         {
           "city": "EL CENTRO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EL CERRITO",
@@ -491,7 +491,7 @@
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINO",
@@ -516,7 +516,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALLBROOK",
@@ -566,7 +566,7 @@
         {
           "city": "FREMONT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRESNO",
@@ -691,12 +691,12 @@
         {
           "city": "HESPERIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HIGHLAND",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLISTER",
@@ -721,7 +721,7 @@
         {
           "city": "IMPERIAL BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "INDIAN WELLS",
@@ -751,7 +751,7 @@
         {
           "city": "KINGSBURG",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA CANADA FLINTRIDGE",
@@ -876,12 +876,12 @@
         {
           "city": "LIVINGSTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LODI",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOMITA",
@@ -996,7 +996,7 @@
         {
           "city": "MILPITAS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MISSION HILLS",
@@ -1231,7 +1231,7 @@
         {
           "city": "PATTERSON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PETALUMA",
@@ -1426,7 +1426,7 @@
         {
           "city": "ROSEMEAD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSEVILLE",
@@ -1506,12 +1506,12 @@
         {
           "city": "SAN LEANDRO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN LUIS OBISPO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN MARCOS",
@@ -1581,7 +1581,7 @@
         {
           "city": "SANTA MARIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA MONICA",
@@ -1681,7 +1681,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1846,7 +1846,7 @@
         {
           "city": "VISALIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VISTA",
@@ -1946,7 +1946,7 @@
         {
           "city": "YUBA CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "YUCAIPA",
