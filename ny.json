@@ -266,12 +266,12 @@
         {
           "city": "CORNWALL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORTLAND",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CROTON ON HUDSON",
@@ -556,7 +556,7 @@
         {
           "city": "HILTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLBROOK",
@@ -581,7 +581,7 @@
         {
           "city": "HUDSON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUDSON FALLS",
@@ -736,7 +736,7 @@
         {
           "city": "MANLIUS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANORVILLE",
@@ -841,7 +841,7 @@
         {
           "city": "NEW HYDE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW ROCHELLE",
@@ -1356,7 +1356,7 @@
         {
           "city": "WHITESTONE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIAMSVILLE",
