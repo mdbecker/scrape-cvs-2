@@ -406,7 +406,7 @@
         {
           "city": "FARMINGTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FARMINGVILLE",
@@ -471,12 +471,12 @@
         {
           "city": "GLEN HEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENDALE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLENMONT",
@@ -1026,7 +1026,7 @@
         {
           "city": "REGO PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RENSSELAER",
@@ -1166,7 +1166,7 @@
         {
           "city": "SOMERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH SETAUKET",
@@ -1216,7 +1216,7 @@
         {
           "city": "TARRYTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THORNWOOD",
