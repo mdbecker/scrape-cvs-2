@@ -166,12 +166,12 @@
         {
           "city": "CHARLTON CITY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHELMSFORD",
@@ -226,7 +226,7 @@
         {
           "city": "DRACUT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST BOSTON",
@@ -281,7 +281,7 @@
         {
           "city": "FITCHBURG",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOXBOROUGH",
@@ -301,7 +301,7 @@
         {
           "city": "GARDNER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GEORGETOWN",
@@ -361,7 +361,7 @@
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HINGHAM",
@@ -426,7 +426,7 @@
         {
           "city": "LAKEVILLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LANESBOROUGH",
@@ -436,7 +436,7 @@
         {
           "city": "LAWRENCE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LENOX",
@@ -471,7 +471,7 @@
         {
           "city": "LUDLOW",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LUNENBURG",
@@ -706,7 +706,7 @@
         {
           "city": "PITTSFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLAINVILLE",
@@ -921,7 +921,7 @@
         {
           "city": "WAKEFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALPOLE",
@@ -936,7 +936,7 @@
         {
           "city": "WARE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WAREHAM",
@@ -976,7 +976,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ROXBURY",
@@ -1041,7 +1041,7 @@
         {
           "city": "WINCHENDON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHESTER",
