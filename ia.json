@@ -46,7 +46,7 @@
         {
           "city": "COUNCIL BLUFFS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
@@ -71,7 +71,7 @@
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARION",
@@ -91,7 +91,7 @@
         {
           "city": "URBANDALE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERLOO",
@@ -101,7 +101,7 @@
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
