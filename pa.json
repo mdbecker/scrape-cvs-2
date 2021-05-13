@@ -16,7 +16,7 @@
         {
           "city": "ALIQUIPPA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLENTOWN",
@@ -166,7 +166,7 @@
         {
           "city": "CAMP HILL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARBONDALE",
@@ -366,7 +366,7 @@
         {
           "city": "FAIRLESS HILLS",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FEASTERVILLE",
@@ -1076,7 +1076,7 @@
         {
           "city": "TEMPLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THORNDALE",
@@ -1196,7 +1196,7 @@
         {
           "city": "WOMELSDORF",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODLYN",
