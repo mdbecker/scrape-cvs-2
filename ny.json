@@ -31,7 +31,7 @@
         {
           "city": "ARDSLEY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARMONK",
@@ -41,7 +41,7 @@
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURNDALE",
@@ -91,7 +91,7 @@
         {
           "city": "BEDFORD HILLS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLEROSE",
@@ -101,7 +101,7 @@
         {
           "city": "BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELLPORT",
@@ -371,7 +371,7 @@
         {
           "city": "ELMSFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENDICOTT",
@@ -396,7 +396,7 @@
         {
           "city": "FAR ROCKAWAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGDALE",
@@ -416,7 +416,7 @@
         {
           "city": "FAYETTEVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FISHKILL",
@@ -821,7 +821,7 @@
         {
           "city": "MOUNT KISCO",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT VERNON",
@@ -956,7 +956,7 @@
         {
           "city": "PEARL RIVER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEEKSKILL",
@@ -1106,7 +1106,7 @@
         {
           "city": "SARATOGA SPRINGS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAUGERTIES",
@@ -1151,7 +1151,7 @@
         {
           "city": "SHIRLEY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SKANEATELES",
@@ -1361,7 +1361,7 @@
         {
           "city": "WHITESTONE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIAMSVILLE",
@@ -1386,7 +1386,7 @@
         {
           "city": "WOODSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSTOCK",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
