@@ -121,7 +121,7 @@
         {
           "city": "EAST HAMPTON",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HARTFORD",
@@ -321,7 +321,7 @@
         {
           "city": "OLD SAYBROOK",
           "state": "CT",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE",
@@ -475,6 +475,11 @@
         },
         {
           "city": "WEST HAVEN",
+          "state": "CT",
+          "status": "Available"
+        },
+        {
+          "city": "WESTPORT",
           "state": "CT",
           "status": "Available"
         },

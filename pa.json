@@ -259,6 +259,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "DALLAS",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "DANVILLE",
           "state": "PA",
           "status": "Available"
@@ -729,6 +734,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "MOUNT PLEASANT",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "MUNCY",
           "state": "PA",
           "status": "Available"
@@ -820,6 +830,11 @@
         },
         {
           "city": "OIL CITY",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "OLD FORGE",
           "state": "PA",
           "status": "Available"
         },
@@ -961,7 +976,7 @@
         {
           "city": "SCRANTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SECANE",
@@ -1081,7 +1096,7 @@
         {
           "city": "THORNDALE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TITUSVILLE",
@@ -1180,6 +1195,11 @@
         },
         {
           "city": "WILKINSBURG",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
+          "city": "WILLIAMSPORT",
           "state": "PA",
           "status": "Available"
         },

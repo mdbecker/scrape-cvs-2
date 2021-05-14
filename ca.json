@@ -116,7 +116,7 @@
         {
           "city": "ATASCADERO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ATWATER",
@@ -166,7 +166,7 @@
         {
           "city": "BIG BEAR LAKE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BREA",
@@ -176,7 +176,7 @@
         {
           "city": "BRENTWOOD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUELLTON",
@@ -201,7 +201,7 @@
         {
           "city": "CALEXICO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMARILLO",
@@ -211,7 +211,7 @@
         {
           "city": "CAMERON PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMPBELL",
@@ -286,7 +286,7 @@
         {
           "city": "CHINO HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHULA VISTA",
@@ -406,7 +406,7 @@
         {
           "city": "DEL MAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DIAMOND BAR",
@@ -441,7 +441,7 @@
         {
           "city": "EAGLE ROCK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PALO ALTO",
@@ -511,7 +511,7 @@
         {
           "city": "FAIR OAKS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
@@ -526,7 +526,7 @@
         {
           "city": "FELTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FILLMORE",
@@ -549,6 +549,11 @@
           "status": "Available"
         },
         {
+          "city": "FORT BRAGG",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
           "city": "FOSTER CITY",
           "state": "CA",
           "status": "Available"
@@ -556,7 +561,7 @@
         {
           "city": "FOUNTAIN VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOWLER",
@@ -581,7 +586,7 @@
         {
           "city": "GALT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARDEN GROVE",
@@ -696,12 +701,12 @@
         {
           "city": "HIGHLAND",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLISTER",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLLYWOOD",
@@ -731,7 +736,7 @@
         {
           "city": "INDIO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "INGLEWOOD",
@@ -776,7 +781,7 @@
         {
           "city": "LA MIRADA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA PUENTE",
@@ -786,7 +791,7 @@
         {
           "city": "LA QUINTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA VERNE",
@@ -831,7 +836,7 @@
         {
           "city": "LAKEPORT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
@@ -891,7 +896,7 @@
         {
           "city": "LOMPOC",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONG BEACH",
@@ -901,7 +906,7 @@
         {
           "city": "LOS ALAMITOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOS ANGELES",
@@ -911,7 +916,7 @@
         {
           "city": "LOS BANOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOS GATOS",
@@ -986,7 +991,7 @@
         {
           "city": "MERCED",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILL VALLEY",
@@ -1179,6 +1184,11 @@
           "status": "Available"
         },
         {
+          "city": "ORLAND",
+          "state": "CA",
+          "status": "Available"
+        },
+        {
           "city": "OROVILLE",
           "state": "CA",
           "status": "Available"
@@ -1341,7 +1351,7 @@
         {
           "city": "RANCHO MIRAGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO SANTA MARGARITA",
@@ -1386,7 +1396,7 @@
         {
           "city": "RIALTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHMOND",
@@ -1621,7 +1631,7 @@
         {
           "city": "SCOTTS VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEAL BEACH",
@@ -1676,7 +1686,7 @@
         {
           "city": "SOUTH EL MONTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
@@ -1931,7 +1941,7 @@
         {
           "city": "WOODLAND",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODLAND HILLS",

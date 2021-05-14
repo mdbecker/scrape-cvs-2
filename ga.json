@@ -91,12 +91,12 @@
         {
           "city": "BOWDON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BREMEN",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROOKHAVEN",
@@ -145,6 +145,11 @@
         },
         {
           "city": "CHATSWORTH",
+          "state": "GA",
+          "status": "Available"
+        },
+        {
+          "city": "CLAXTON",
           "state": "GA",
           "status": "Available"
         },
@@ -276,7 +281,7 @@
         {
           "city": "ELLENWOOD",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVANS",
@@ -366,7 +371,7 @@
         {
           "city": "HIRAM",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOSCHTON",
@@ -471,7 +476,7 @@
         {
           "city": "MARTINEZ",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCDONOUGH",
@@ -546,7 +551,7 @@
         {
           "city": "PORT WENTWORTH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POWDER SPRINGS",
@@ -661,7 +666,7 @@
         {
           "city": "THOMSON",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TIFTON",

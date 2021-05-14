@@ -81,7 +81,7 @@
         {
           "city": "BAYPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAYSIDE",
@@ -106,7 +106,7 @@
         {
           "city": "BELLPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHPAGE",
@@ -206,7 +206,7 @@
         {
           "city": "CHESTER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CICERO",
@@ -306,7 +306,7 @@
         {
           "city": "DUNKIRK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST AURORA",
@@ -336,7 +336,7 @@
         {
           "city": "EAST MEADOW",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST NORTHPORT",
@@ -391,7 +391,7 @@
         {
           "city": "FALCONER",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAR ROCKAWAY",
@@ -421,7 +421,7 @@
         {
           "city": "FISHKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLORAL PARK",
@@ -441,7 +441,7 @@
         {
           "city": "FRANKLIN SQUARE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEPORT",
@@ -456,7 +456,7 @@
         {
           "city": "GARDEN CITY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARNERVILLE",
@@ -470,6 +470,11 @@
         },
         {
           "city": "GLEN HEAD",
+          "state": "NY",
+          "status": "Available"
+        },
+        {
+          "city": "GLEN OAKS",
           "state": "NY",
           "status": "Available"
         },
@@ -496,7 +501,7 @@
         {
           "city": "GOSHEN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREAT NECK",
@@ -591,7 +596,7 @@
         {
           "city": "HUNTINGTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON STATION",
@@ -626,7 +631,7 @@
         {
           "city": "JAMAICA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JAMESTOWN",
@@ -636,7 +641,7 @@
         {
           "city": "JERICHO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSON CITY",
@@ -701,12 +706,12 @@
         {
           "city": "LONG BEACH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONG ISLAND CITY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNBROOK",
@@ -716,7 +721,7 @@
         {
           "city": "MACEDON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAHOPAC",
@@ -726,7 +731,7 @@
         {
           "city": "MALTA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAMARONECK",
@@ -766,7 +771,7 @@
         {
           "city": "MECHANICVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MEDFORD",
@@ -776,7 +781,7 @@
         {
           "city": "MERRICK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLE VILLAGE",
@@ -791,7 +796,7 @@
         {
           "city": "MILLER PLACE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLERTON",
@@ -866,7 +871,7 @@
         {
           "city": "NISKAYUNA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BABYLON",
@@ -881,7 +886,7 @@
         {
           "city": "NORTH BAY SHORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BELLMORE",
@@ -961,7 +966,7 @@
         {
           "city": "PELHAM MANOR",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PENFIELD",
@@ -976,12 +981,12 @@
         {
           "city": "PLAINVIEW",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLATTSBURGH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANT VALLEY",
@@ -1006,7 +1011,7 @@
         {
           "city": "QUEENS VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
@@ -1066,7 +1071,7 @@
         {
           "city": "ROCKY POINT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RONKONKOMA",
@@ -1176,7 +1181,7 @@
         {
           "city": "SOUTHAMPTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1226,7 +1231,7 @@
         {
           "city": "TONAWANDA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TROY",
@@ -1306,7 +1311,7 @@
         {
           "city": "WEST BABYLON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HEMPSTEAD",

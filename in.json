@@ -106,7 +106,7 @@
         {
           "city": "BROWNSBURG",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROWNSTOWN",
@@ -151,7 +151,7 @@
         {
           "city": "CLARKSVILLE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -195,6 +195,11 @@
         },
         {
           "city": "CULVER",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "DANVILLE",
           "state": "IN",
           "status": "Available"
         },
@@ -276,7 +281,7 @@
         {
           "city": "FRANKFORT",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN",
@@ -296,7 +301,7 @@
         {
           "city": "GOSHEN",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GRANGER",
@@ -386,7 +391,12 @@
         {
           "city": "KENTLAND",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
+        },
+        {
+          "city": "KNIGHTSTOWN",
+          "state": "IN",
+          "status": "Available"
         },
         {
           "city": "KNOX",
@@ -516,7 +526,7 @@
         {
           "city": "MOUNT VERNON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MUNCIE",
@@ -529,6 +539,11 @@
           "status": "Available"
         },
         {
+          "city": "NAPPANEE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "NASHVILLE",
           "state": "IN",
           "status": "Available"
@@ -536,7 +551,7 @@
         {
           "city": "NEW ALBANY",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW CARLISLE",
@@ -561,7 +576,7 @@
         {
           "city": "NEWBURGH",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NOBLESVILLE",
@@ -570,6 +585,11 @@
         },
         {
           "city": "NORTH JUDSON",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
+          "city": "NORTH MANCHESTER",
           "state": "IN",
           "status": "Available"
         },
@@ -654,9 +674,14 @@
           "status": "Fully Booked"
         },
         {
+          "city": "RUSHVILLE",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "SAINT JOHN",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALEM",
@@ -676,7 +701,7 @@
         {
           "city": "SELLERSBURG",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEYMOUR",
@@ -744,6 +769,11 @@
           "status": "Available"
         },
         {
+          "city": "VINCENNES",
+          "state": "IN",
+          "status": "Available"
+        },
+        {
           "city": "WABASH",
           "state": "IN",
           "status": "Available"
@@ -751,7 +781,7 @@
         {
           "city": "WALKERTON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARSAW",
@@ -771,7 +801,7 @@
         {
           "city": "WEST LAFAYETTE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTFIELD",

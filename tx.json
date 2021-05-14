@@ -41,7 +41,7 @@
         {
           "city": "ALTON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALVARADO",
@@ -61,7 +61,7 @@
         {
           "city": "ANGLETON",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNA",
@@ -106,7 +106,7 @@
         {
           "city": "BALCH SPRINGS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALCONES HEIGHTS",
@@ -165,6 +165,11 @@
         },
         {
           "city": "BEVERLY HILLS",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "BIG SPRING",
           "state": "TX",
           "status": "Available"
         },
@@ -261,7 +266,7 @@
         {
           "city": "CENTER",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANNELVIEW",
@@ -286,7 +291,7 @@
         {
           "city": "CLEBURNE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEVELAND",
@@ -396,7 +401,7 @@
         {
           "city": "DONNA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUMAS",
@@ -431,7 +436,7 @@
         {
           "city": "ENNIS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EULESS",
@@ -566,7 +571,7 @@
         {
           "city": "HELOTES",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HENDERSON",
@@ -601,7 +606,7 @@
         {
           "city": "HUTTO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IRVING",
@@ -626,7 +631,7 @@
         {
           "city": "KAUFMAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KELLER",
@@ -636,7 +641,7 @@
         {
           "city": "KERRVILLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KILGORE",
@@ -666,7 +671,7 @@
         {
           "city": "LA FERIA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA MARQUE",
@@ -745,6 +750,11 @@
         },
         {
           "city": "LINDALE",
+          "state": "TX",
+          "status": "Available"
+        },
+        {
+          "city": "LITTLE ELM",
           "state": "TX",
           "status": "Available"
         },
@@ -881,7 +891,7 @@
         {
           "city": "MURPHY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NACOGDOCHES",
@@ -896,7 +906,7 @@
         {
           "city": "NEDERLAND",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW BRAUNFELS",
@@ -916,7 +926,7 @@
         {
           "city": "ORANGE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALESTINE",
@@ -961,7 +971,7 @@
         {
           "city": "PITTSBURG",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLAINVIEW",
@@ -996,7 +1006,7 @@
         {
           "city": "PORTLAND",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PRINCETON",
@@ -1101,7 +1111,7 @@
         {
           "city": "SAN JUAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN MARCOS",
@@ -1146,7 +1156,7 @@
         {
           "city": "SHERMAN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILSBEE",
@@ -1201,12 +1211,12 @@
         {
           "city": "SUNNYVALE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TAYLOR",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEMPLE",
@@ -1216,7 +1226,7 @@
         {
           "city": "TERRELL",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEXARKANA",
@@ -1336,7 +1346,7 @@
         {
           "city": "WOODWAY",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYLIE",
