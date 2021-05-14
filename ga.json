@@ -101,7 +101,7 @@
         {
           "city": "BROOKHAVEN",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRUNSWICK",
@@ -686,7 +686,7 @@
         {
           "city": "TUCKER",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TYRONE",
@@ -746,7 +746,7 @@
         {
           "city": "WOODSTOCK",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
