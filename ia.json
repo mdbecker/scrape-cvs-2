@@ -16,7 +16,7 @@
         {
           "city": "AMES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANKENY",
@@ -26,17 +26,17 @@
         {
           "city": "BETTENDORF",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORALVILLE",
@@ -46,17 +46,17 @@
         {
           "city": "COUNCIL BLUFFS",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAVENPORT",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DES MOINES",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBUQUE",
@@ -76,17 +76,17 @@
         {
           "city": "MARION",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MASON CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIOUX CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "URBANDALE",
@@ -96,7 +96,7 @@
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST DES MOINES",
@@ -105,6 +105,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

@@ -66,12 +66,12 @@
         {
           "city": "BURTONSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALIFORNIA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CAMP SPRINGS",
@@ -141,7 +141,7 @@
         {
           "city": "CUMBERLAND",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAMASCUS",
@@ -176,7 +176,7 @@
         {
           "city": "EDGEWOOD",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELDERSBURG",
@@ -211,7 +211,7 @@
         {
           "city": "FOREST HILL",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORESTVILLE",
@@ -261,7 +261,7 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMPSTEAD",
@@ -281,7 +281,7 @@
         {
           "city": "HOLLYWOOD",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYATTSVILLE",
@@ -341,12 +341,12 @@
         {
           "city": "LEXINGTON PARK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MECHANICSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MIDDLE RIVER",
@@ -386,12 +386,12 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ODENTON",
@@ -421,7 +421,7 @@
         {
           "city": "PASADENA",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PERRY HALL",
@@ -451,7 +451,7 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SALISBURY",
@@ -486,12 +486,12 @@
         {
           "city": "SOLOMONS",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TANEYTOWN",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TEMPLE HILLS",
@@ -540,6 +540,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
