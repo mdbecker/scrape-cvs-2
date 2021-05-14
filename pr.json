@@ -36,12 +36,12 @@
         {
           "city": "DORADO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAJARDO",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GUAYNABO",
@@ -76,10 +76,10 @@
         {
           "city": "VEGA BAJA",
           "state": "PR",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

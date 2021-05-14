@@ -16,7 +16,7 @@
         {
           "city": "AMES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANKENY",
@@ -26,12 +26,12 @@
         {
           "city": "BETTENDORF",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR RAPIDS",
@@ -51,12 +51,12 @@
         {
           "city": "DAVENPORT",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBUQUE",
@@ -76,17 +76,17 @@
         {
           "city": "MARION",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MASON CITY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIOUX CITY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "URBANDALE",
@@ -96,15 +96,15 @@
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

@@ -66,12 +66,12 @@
         {
           "city": "BURTONSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CALIFORNIA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMP SPRINGS",
@@ -141,7 +141,7 @@
         {
           "city": "CUMBERLAND",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAMASCUS",
@@ -176,7 +176,7 @@
         {
           "city": "EDGEWOOD",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELDERSBURG",
@@ -281,7 +281,7 @@
         {
           "city": "HOLLYWOOD",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HYATTSVILLE",
@@ -341,7 +341,7 @@
         {
           "city": "LEXINGTON PARK",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MECHANICSVILLE",
@@ -386,12 +386,12 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ODENTON",
@@ -451,7 +451,7 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SALISBURY",
@@ -486,7 +486,7 @@
         {
           "city": "SOLOMONS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TANEYTOWN",
@@ -540,6 +540,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
