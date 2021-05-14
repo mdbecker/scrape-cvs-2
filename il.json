@@ -36,12 +36,12 @@
         {
           "city": "AURORA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARRINGTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARTLETT",
@@ -96,7 +96,7 @@
         {
           "city": "BOLINGBROOK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOURBONNAIS",
@@ -161,7 +161,7 @@
         {
           "city": "CAROL STREAM",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARY",
@@ -486,7 +486,7 @@
         {
           "city": "LAKE IN THE HILLS",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKE ZURICH",
@@ -671,7 +671,7 @@
         {
           "city": "NORTH AURORA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH RIVERSIDE",
@@ -711,7 +711,7 @@
         {
           "city": "OLYMPIA FIELDS",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORLAND PARK",
@@ -1001,7 +1001,7 @@
         {
           "city": "WOOD DALE",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOOD RIVER",
