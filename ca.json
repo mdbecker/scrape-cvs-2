@@ -41,7 +41,7 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALPINE",
@@ -86,7 +86,7 @@
         {
           "city": "ARCADIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARCATA",
@@ -141,7 +141,7 @@
         {
           "city": "BALDWIN PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELL",
@@ -326,7 +326,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLTON",
@@ -346,7 +346,7 @@
         {
           "city": "CONCORD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORONA",
@@ -531,7 +531,7 @@
         {
           "city": "FILLMORE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOLSOM",
@@ -576,7 +576,7 @@
         {
           "city": "FULLERTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GALT",
@@ -676,7 +676,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -716,7 +716,7 @@
         {
           "city": "HUNTINGTON PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "IMPERIAL BEACH",
@@ -816,7 +816,7 @@
         {
           "city": "LAGUNA WOODS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKE ELSINORE",
@@ -856,7 +856,7 @@
         {
           "city": "LAWNDALE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEMON GROVE",
@@ -876,7 +876,7 @@
         {
           "city": "LIVINGSTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LODI",
@@ -906,7 +906,7 @@
         {
           "city": "LOS ANGELES",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOS BANOS",
@@ -916,7 +916,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNWOOD",
@@ -946,7 +946,7 @@
         {
           "city": "MAR VISTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARINA",
@@ -971,7 +971,7 @@
         {
           "city": "MCKINLEYVILLE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MENIFEE",
@@ -991,7 +991,7 @@
         {
           "city": "MILL VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILPITAS",
@@ -1101,7 +1101,7 @@
         {
           "city": "NEWPORT BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NIPOMO",
@@ -1236,7 +1236,7 @@
         {
           "city": "PETALUMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PICO RIVERA",
@@ -1271,7 +1271,7 @@
         {
           "city": "PLAYA VISTA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANT HILL",
@@ -1321,7 +1321,7 @@
         {
           "city": "RAMONA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANCHO BERNARDO",
@@ -1346,7 +1346,7 @@
         {
           "city": "RANCHO SANTA MARGARITA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RED BLUFF",
@@ -1396,7 +1396,7 @@
         {
           "city": "RIPON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERBANK",
@@ -1416,7 +1416,7 @@
         {
           "city": "ROHNERT PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROLLING HILLS ESTATES",
@@ -1511,7 +1511,7 @@
         {
           "city": "SAN LUIS OBISPO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN MARCOS",
@@ -1571,12 +1571,12 @@
         {
           "city": "SANTA CRUZ",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA FE SPRINGS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA MARIA",
@@ -1591,7 +1591,7 @@
         {
           "city": "SANTA PAULA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA ROSA",
@@ -1681,7 +1681,7 @@
         {
           "city": "SOUTH GATE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH LAKE TAHOE",
@@ -1826,7 +1826,7 @@
         {
           "city": "VAN NUYS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VENICE",
@@ -1891,7 +1891,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE VILLAGE",

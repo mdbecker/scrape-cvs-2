@@ -66,7 +66,7 @@
         {
           "city": "BARDONIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
@@ -236,7 +236,7 @@
         {
           "city": "COLLEGE POINT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLONIE",
@@ -276,7 +276,7 @@
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANSVILLE",
@@ -321,7 +321,7 @@
         {
           "city": "EAST HAMPTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HILLS",
@@ -366,7 +366,7 @@
         {
           "city": "ELMONT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELMSFORD",
@@ -431,7 +431,7 @@
         {
           "city": "FLUSHING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOREST HILLS",
@@ -591,7 +591,7 @@
         {
           "city": "HUNTINGTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON STATION",
@@ -631,7 +631,7 @@
         {
           "city": "JAMESTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JERICHO",
@@ -801,7 +801,7 @@
         {
           "city": "MINEOLA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOHEGAN LAKE",
@@ -956,7 +956,7 @@
         {
           "city": "PEEKSKILL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PELHAM MANOR",
@@ -1006,7 +1006,7 @@
         {
           "city": "QUEENS VILLAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
@@ -1061,7 +1061,7 @@
         {
           "city": "ROCKVILLE CENTRE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKY POINT",
@@ -1076,7 +1076,7 @@
         {
           "city": "ROSLYN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROTTERDAM",
@@ -1131,7 +1131,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SELDEN",
@@ -1166,7 +1166,7 @@
         {
           "city": "SOMERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH SETAUKET",
@@ -1176,7 +1176,7 @@
         {
           "city": "SOUTHAMPTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
@@ -1206,7 +1206,7 @@
         {
           "city": "SYOSSET",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SYRACUSE",
@@ -1256,7 +1256,7 @@
         {
           "city": "WADING RIVER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALTON",
@@ -1396,12 +1396,12 @@
         {
           "city": "YONKERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
