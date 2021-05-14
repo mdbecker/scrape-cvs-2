@@ -16,7 +16,7 @@
         {
           "city": "ALIQUIPPA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLENTOWN",
@@ -36,7 +36,7 @@
         {
           "city": "AMBLER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AMBRIDGE",
@@ -116,7 +116,7 @@
         {
           "city": "BLUE BELL",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOOTHWYN",
@@ -176,7 +176,7 @@
         {
           "city": "CARLISLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARNEGIE",
@@ -291,12 +291,12 @@
         {
           "city": "DOYLESTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DRESHER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DREXEL HILL",
@@ -326,7 +326,7 @@
         {
           "city": "ELIZABETHTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELIZABETHVILLE",
@@ -341,7 +341,7 @@
         {
           "city": "EMMAUS",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENOLA",
@@ -396,7 +396,7 @@
         {
           "city": "GIBSONIA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GILBERTSVILLE",
@@ -621,7 +621,7 @@
         {
           "city": "LOCK HAVEN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MACUNGIE",
@@ -881,7 +881,7 @@
         {
           "city": "PHOENIXVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSBURGH",
@@ -941,7 +941,7 @@
         {
           "city": "RICHBORO",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RICHEYVILLE",
@@ -996,7 +996,7 @@
         {
           "city": "SHARON HILL",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHICKSHINNY",
@@ -1051,7 +1051,7 @@
         {
           "city": "SPRINGFIELD",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STATE COLLEGE",
@@ -1091,7 +1091,7 @@
         {
           "city": "TEMPLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THORNDALE",
@@ -1171,7 +1171,7 @@
         {
           "city": "WEST CHESTER",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST GROVE",
@@ -1206,7 +1206,7 @@
         {
           "city": "WILLOW GROVE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WIND GAP",
@@ -1226,7 +1226,7 @@
         {
           "city": "WYNCOTE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WYNNEWOOD",
@@ -1261,7 +1261,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
