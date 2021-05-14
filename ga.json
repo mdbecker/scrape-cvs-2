@@ -216,7 +216,7 @@
         {
           "city": "DAWSONVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DECATUR",
@@ -231,7 +231,7 @@
         {
           "city": "DOUGLASVILLE",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUBLIN",
@@ -301,12 +301,12 @@
         {
           "city": "FLOWERY BRANCH",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FOREST PARK",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FORSYTH",
@@ -551,7 +551,7 @@
         {
           "city": "POWDER SPRINGS",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RICHMOND HILL",
@@ -681,7 +681,7 @@
         {
           "city": "TUCKER",
           "state": "GA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TYRONE",
@@ -741,7 +741,7 @@
         {
           "city": "WOODSTOCK",
           "state": "GA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
