@@ -136,7 +136,7 @@
         {
           "city": "CHESTERTON",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHURUBUSCO",
@@ -226,7 +226,7 @@
         {
           "city": "EAST CHICAGO",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDINBURGH",
@@ -551,7 +551,7 @@
         {
           "city": "NEW HAVEN",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW PALESTINE",
@@ -651,7 +651,7 @@
         {
           "city": "ROSSVILLE",
           "state": "IN",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAINT JOHN",
@@ -801,7 +801,7 @@
         {
           "city": "ZIONSVILLE",
           "state": "IN",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
