@@ -21,7 +21,7 @@
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETTENDORF",
@@ -36,7 +36,7 @@
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORALVILLE",
@@ -71,7 +71,7 @@
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARION",
@@ -101,7 +101,7 @@
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
