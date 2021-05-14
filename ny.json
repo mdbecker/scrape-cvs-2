@@ -36,7 +36,7 @@
         {
           "city": "ARMONK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASTORIA",
@@ -61,7 +61,7 @@
         {
           "city": "BALLSTON SPA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARDONIA",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
@@ -321,7 +321,7 @@
         {
           "city": "EAST HAMPTON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST HILLS",
@@ -371,7 +371,7 @@
         {
           "city": "ELMSFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENDICOTT",
@@ -511,7 +511,7 @@
         {
           "city": "GREECE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENLAWN",
@@ -536,7 +536,7 @@
         {
           "city": "HARRISON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTSDALE",
@@ -801,7 +801,7 @@
         {
           "city": "MILLERTON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MINEOLA",
@@ -816,12 +816,12 @@
         {
           "city": "MONROE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT KISCO",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT VERNON",
@@ -996,7 +996,7 @@
         {
           "city": "PORT JEFFERSON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PORT JEFFERSON STATION",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1101,12 +1101,12 @@
         {
           "city": "SANBORN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SARATOGA SPRINGS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAUGERTIES",
@@ -1176,7 +1176,7 @@
         {
           "city": "SOUTH SETAUKET",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTHAMPTON",
@@ -1206,7 +1206,7 @@
         {
           "city": "SUNNYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SYOSSET",
@@ -1316,7 +1316,7 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ISLIP",
@@ -1361,7 +1361,7 @@
         {
           "city": "WHITESTONE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILLIAMSVILLE",
@@ -1386,7 +1386,7 @@
         {
           "city": "WOODSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSTOCK",
