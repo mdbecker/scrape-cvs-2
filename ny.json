@@ -31,7 +31,7 @@
         {
           "city": "ARDSLEY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARMONK",
@@ -61,7 +61,7 @@
         {
           "city": "BALLSTON SPA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARDONIA",
@@ -101,7 +101,7 @@
         {
           "city": "BELLMORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLPORT",
@@ -136,7 +136,7 @@
         {
           "city": "BROCKPORT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRONX",
@@ -196,7 +196,7 @@
         {
           "city": "CENTRAL ISLIP",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHEEKTOWAGA",
@@ -241,7 +241,7 @@
         {
           "city": "COLONIE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COMMACK",
@@ -356,7 +356,7 @@
         {
           "city": "ELMHURST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ELMIRA",
@@ -426,7 +426,7 @@
         {
           "city": "FLORAL PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FLUSHING",
@@ -511,7 +511,7 @@
         {
           "city": "GREECE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENLAWN",
@@ -536,7 +536,7 @@
         {
           "city": "HARRISON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARTSDALE",
@@ -566,7 +566,7 @@
         {
           "city": "HOLBROOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HONEOYE",
@@ -706,7 +706,7 @@
         {
           "city": "LONG BEACH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONG ISLAND CITY",
@@ -896,7 +896,7 @@
         {
           "city": "NORTH TONAWANDA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHPORT",
@@ -946,7 +946,7 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWLING",
@@ -1101,12 +1101,12 @@
         {
           "city": "SANBORN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SARATOGA SPRINGS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAUGERTIES",
@@ -1121,7 +1121,7 @@
         {
           "city": "SCARSDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCHENECTADY",
@@ -1171,7 +1171,7 @@
         {
           "city": "SOMERS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH SETAUKET",
@@ -1206,7 +1206,7 @@
         {
           "city": "SUNNYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SYOSSET",
@@ -1221,12 +1221,12 @@
         {
           "city": "TARRYTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "THORNWOOD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TONAWANDA",
@@ -1371,7 +1371,7 @@
         {
           "city": "WILLISTON PARK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILTON",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

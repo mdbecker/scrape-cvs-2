@@ -11,7 +11,7 @@
         {
           "city": "ABINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALIQUIPPA",
@@ -26,7 +26,7 @@
         {
           "city": "ALLISON PARK",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALTOONA",
@@ -56,7 +56,7 @@
         {
           "city": "BALA CYNWYD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BANGOR",
@@ -546,7 +546,7 @@
         {
           "city": "KUTZTOWN",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANCASTER",
@@ -556,7 +556,7 @@
         {
           "city": "LANDENBERG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LANDISVILLE",
@@ -796,7 +796,7 @@
         {
           "city": "NORRISTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH EAST",
@@ -811,7 +811,7 @@
         {
           "city": "NORTH WALES",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHAMPTON",
@@ -956,7 +956,7 @@
         {
           "city": "ROYERSFORD",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAYRE",
@@ -1111,7 +1111,7 @@
         {
           "city": "TUNKHANNOCK",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TURTLE CREEK",
@@ -1261,7 +1261,7 @@
         {
           "city": "ZIEGLERSVILLE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
