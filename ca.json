@@ -21,7 +21,7 @@
         {
           "city": "ALAMEDA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALAMO",
@@ -651,7 +651,7 @@
         {
           "city": "HACIENDA HEIGHTS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HALF MOON BAY",
@@ -1141,7 +1141,7 @@
         {
           "city": "OAK PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKDALE",
@@ -1221,7 +1221,7 @@
         {
           "city": "PALO ALTO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARAMOUNT",
@@ -1471,7 +1471,7 @@
         {
           "city": "SAN CARLOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN CLEMENTE",
@@ -1501,7 +1501,7 @@
         {
           "city": "SAN GABRIEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JACINTO",
@@ -1891,7 +1891,7 @@
         {
           "city": "WEST HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HOLLYWOOD",
@@ -1951,7 +1951,7 @@
         {
           "city": "YORBA LINDA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "YUBA CITY",
