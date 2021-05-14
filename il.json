@@ -36,12 +36,12 @@
         {
           "city": "AURORA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARRINGTON",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BARTLETT",
@@ -96,7 +96,7 @@
         {
           "city": "BOLINGBROOK",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOURBONNAIS",
@@ -581,7 +581,7 @@
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "METAMORA",
@@ -726,7 +726,7 @@
         {
           "city": "OTTAWA",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALATINE",

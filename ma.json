@@ -71,12 +71,12 @@
         {
           "city": "BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELCHERTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLINGHAM",
@@ -161,12 +161,12 @@
         {
           "city": "CHARLESTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLTON CITY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHATHAM",
@@ -181,7 +181,7 @@
         {
           "city": "CHELSEA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESTNUT HILL",
@@ -246,7 +246,7 @@
         {
           "city": "EAST LONGMEADOW",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST WAREHAM",
@@ -331,7 +331,7 @@
         {
           "city": "GROTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HADLEY",
@@ -431,7 +431,7 @@
         {
           "city": "LANESBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWRENCE",
@@ -571,7 +571,7 @@
         {
           "city": "MILLBURY",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLIS",
@@ -666,7 +666,7 @@
         {
           "city": "NORTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORWELL",
@@ -686,7 +686,7 @@
         {
           "city": "OXFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALMER",
@@ -741,7 +741,7 @@
         {
           "city": "READING",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REVERE",
@@ -796,7 +796,7 @@
         {
           "city": "SHARON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SHREWSBURY",
@@ -836,7 +836,7 @@
         {
           "city": "SOUTH EASTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH HAMILTON",
@@ -881,7 +881,7 @@
         {
           "city": "STOUGHTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STURBRIDGE",
@@ -956,7 +956,7 @@
         {
           "city": "WEBSTER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WELLESLEY",
@@ -1006,7 +1006,7 @@
         {
           "city": "WESTFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTPORT",
@@ -1046,7 +1046,7 @@
         {
           "city": "WINCHENDON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHESTER",
@@ -1056,7 +1056,7 @@
         {
           "city": "WINTHROP",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOBURN",
@@ -1076,7 +1076,7 @@
         {
           "city": "WRENTHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
