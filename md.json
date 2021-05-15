@@ -46,7 +46,7 @@
         {
           "city": "BELTSVILLE",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHESDA",
@@ -136,7 +136,7 @@
         {
           "city": "COLUMBIA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CROFTON",
@@ -481,12 +481,12 @@
         {
           "city": "SEVERNA PARK",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVER SPRING",
           "state": "MD",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLOMONS",
