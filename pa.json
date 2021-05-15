@@ -16,7 +16,7 @@
         {
           "city": "ALIQUIPPA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALLENTOWN",
@@ -601,7 +601,7 @@
         {
           "city": "LEWISBURG",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEWISTOWN",
@@ -811,7 +811,7 @@
         {
           "city": "NORTH WALES",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHAMPTON",
@@ -856,7 +856,7 @@
         {
           "city": "PARKESBURG",
           "state": "PA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PENNSBURG",
@@ -1171,7 +1171,7 @@
         {
           "city": "WEST CHESTER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST GROVE",
