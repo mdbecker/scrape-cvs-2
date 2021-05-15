@@ -61,7 +61,7 @@
         {
           "city": "ATTLEBORO",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURN",
@@ -71,7 +71,7 @@
         {
           "city": "BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELCHERTOWN",
@@ -116,7 +116,7 @@
         {
           "city": "BRAINTREE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
@@ -141,7 +141,7 @@
         {
           "city": "BURLINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMBRIDGE",
@@ -156,12 +156,12 @@
         {
           "city": "CARVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHARLESTOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHARLTON CITY",
@@ -171,7 +171,7 @@
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHELMSFORD",
@@ -206,7 +206,7 @@
         {
           "city": "CONCORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANVERS",
@@ -366,7 +366,7 @@
         {
           "city": "HINGHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOLBROOK",
@@ -431,7 +431,7 @@
         {
           "city": "LANESBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWRENCE",
@@ -451,7 +451,7 @@
         {
           "city": "LEXINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLETON",
@@ -501,7 +501,7 @@
         {
           "city": "MARLBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARSHFIELD",
@@ -626,7 +626,7 @@
         {
           "city": "NORTH ATTLEBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH BILLERICA",
@@ -676,7 +676,7 @@
         {
           "city": "NORWOOD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORLEANS",
@@ -721,7 +721,7 @@
         {
           "city": "PROVINCETOWN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUINCY",
@@ -741,7 +741,7 @@
         {
           "city": "READING",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REVERE",
@@ -976,7 +976,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ROXBURY",
@@ -1006,7 +1006,7 @@
         {
           "city": "WESTFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTPORT",
@@ -1031,7 +1031,7 @@
         {
           "city": "WHITMAN",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILBRAHAM",
