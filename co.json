@@ -26,12 +26,12 @@
         {
           "city": "BRIGHTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CASTLE ROCK",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLORADO SPRINGS",
@@ -41,7 +41,7 @@
         {
           "city": "DENVER",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDGEWATER",
@@ -86,17 +86,17 @@
         {
           "city": "LAKEWOOD",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLETON",
           "state": "CO",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LONE TREE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONGMONT",
