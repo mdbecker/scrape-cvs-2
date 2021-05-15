@@ -41,7 +41,7 @@
         {
           "city": "BEDMINSTER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLE MEAD",
@@ -101,7 +101,7 @@
         {
           "city": "BUDD LAKE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
@@ -161,12 +161,12 @@
         {
           "city": "CLIFTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLOSTER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CRESSKILL",
@@ -181,7 +181,7 @@
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -201,12 +201,12 @@
         {
           "city": "EAST HANOVER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST ORANGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST RUTHERFORD",
@@ -231,7 +231,7 @@
         {
           "city": "EDGEWATER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EDISON",
@@ -261,7 +261,7 @@
         {
           "city": "EVESHAM TOWNSHIP",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EWING",
@@ -376,7 +376,7 @@
         {
           "city": "HADDONFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAMILTON",
@@ -416,7 +416,7 @@
         {
           "city": "HOBOKEN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOWELL",
@@ -521,7 +521,7 @@
         {
           "city": "MAHWAH",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALAGA",
@@ -541,7 +541,7 @@
         {
           "city": "MANASQUAN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANVILLE",
@@ -696,7 +696,7 @@
         {
           "city": "NEPTUNE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW EGYPT",
@@ -761,7 +761,7 @@
         {
           "city": "OAKHURST",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OAKLYN",
@@ -771,7 +771,7 @@
         {
           "city": "OCEAN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
@@ -846,7 +846,7 @@
         {
           "city": "POINT PLEASANT BEACH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POMONA",
@@ -1136,7 +1136,7 @@
         {
           "city": "WEST ORANGE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST WINDSOR",
@@ -1206,7 +1206,7 @@
         {
           "city": "WYCKOFF",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
