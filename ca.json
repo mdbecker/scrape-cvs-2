@@ -41,12 +41,12 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -56,7 +56,7 @@
         {
           "city": "ANAHEIM HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANDERSON",
@@ -171,7 +171,7 @@
         {
           "city": "BREA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BRENTWOOD",
@@ -191,12 +191,12 @@
         {
           "city": "BURBANK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CALEXICO",
@@ -391,7 +391,7 @@
         {
           "city": "DANA POINT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANVILLE",
@@ -406,7 +406,7 @@
         {
           "city": "DEL MAR",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DIAMOND BAR",
@@ -436,7 +436,7 @@
         {
           "city": "DUBLIN",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAGLE ROCK",
@@ -491,7 +491,7 @@
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ENCINO",
@@ -546,7 +546,7 @@
         {
           "city": "FOOTHILL RANCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT BRAGG",
@@ -571,7 +571,7 @@
         {
           "city": "FREMONT",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRESNO",
@@ -581,7 +581,7 @@
         {
           "city": "FULLERTON",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GALT",
@@ -676,7 +676,7 @@
         {
           "city": "HAYWARD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEALDSBURG",
@@ -691,7 +691,7 @@
         {
           "city": "HERMOSA BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HESPERIA",
@@ -721,7 +721,7 @@
         {
           "city": "HUNTINGTON PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "IMPERIAL BEACH",
@@ -861,12 +861,12 @@
         {
           "city": "LAWNDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEMON GROVE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LINCOLN",
@@ -976,7 +976,7 @@
         {
           "city": "MCKINLEYVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MENIFEE",
@@ -1061,7 +1061,7 @@
         {
           "city": "MORENO VALLEY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MORGAN HILL",
@@ -1106,7 +1106,7 @@
         {
           "city": "NEWPORT BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NIPOMO",
@@ -1121,7 +1121,7 @@
         {
           "city": "NORTH HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHRIDGE",
@@ -1271,7 +1271,7 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLACERVILLE",
@@ -1376,7 +1376,7 @@
         {
           "city": "REDONDO BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDWOOD CITY",
@@ -1616,7 +1616,7 @@
         {
           "city": "SARATOGA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAUGUS",
@@ -1711,17 +1711,17 @@
         {
           "city": "STOCKTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STUDIO CITY",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SUN VALLEY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUNNYVALE",
@@ -1861,7 +1861,7 @@
         {
           "city": "VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALNUT CREEK",
@@ -1906,12 +1906,12 @@
         {
           "city": "WESTLAKE VILLAGE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTMINSTER",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITTIER",
