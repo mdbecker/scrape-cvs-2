@@ -41,7 +41,7 @@
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURNDALE",
@@ -51,7 +51,7 @@
         {
           "city": "AVON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALDWIN",
@@ -61,7 +61,7 @@
         {
           "city": "BALLSTON SPA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARDONIA",
@@ -236,7 +236,7 @@
         {
           "city": "COLLEGE POINT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
@@ -276,12 +276,12 @@
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANSVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEER PARK",
@@ -291,7 +291,7 @@
         {
           "city": "DELMAR",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DEPEW",
@@ -301,7 +301,7 @@
         {
           "city": "DOVER PLAINS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUNKIRK",
@@ -416,7 +416,7 @@
         {
           "city": "FAYETTEVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FISHKILL",
@@ -531,7 +531,7 @@
         {
           "city": "HAMBURG",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARRISON",
@@ -541,7 +541,7 @@
         {
           "city": "HARTSDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMPSTEAD",
@@ -726,7 +726,7 @@
         {
           "city": "MAHOPAC",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALTA",
@@ -821,7 +821,7 @@
         {
           "city": "MOUNT KISCO",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT VERNON",
@@ -926,7 +926,7 @@
         {
           "city": "OSSINING",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OWEGO",
@@ -936,7 +936,7 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OZONE PARK",
@@ -1041,7 +1041,7 @@
         {
           "city": "RHINEBECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIDGEWOOD",
@@ -1061,7 +1061,7 @@
         {
           "city": "ROCKAWAY BEACH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROCKVILLE CENTRE",
@@ -1136,7 +1136,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SELDEN",
@@ -1216,17 +1216,17 @@
         {
           "city": "SYRACUSE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TARRYTOWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "THORNWOOD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TONAWANDA",
@@ -1301,7 +1301,7 @@
         {
           "city": "WAYLAND",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEBSTER",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
