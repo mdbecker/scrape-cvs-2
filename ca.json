@@ -41,12 +41,12 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANAHEIM",
@@ -161,7 +161,7 @@
         {
           "city": "BEVERLY HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BIG BEAR LAKE",
@@ -196,7 +196,7 @@
         {
           "city": "BURLINGAME",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CALEXICO",
@@ -251,7 +251,7 @@
         {
           "city": "CARPINTERIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CARSON",
@@ -281,7 +281,7 @@
         {
           "city": "CHINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHINO HILLS",
@@ -301,7 +301,7 @@
         {
           "city": "CITY OF INDUSTRY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLAYTON",
@@ -326,7 +326,7 @@
         {
           "city": "COLMA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COLTON",
@@ -346,7 +346,7 @@
         {
           "city": "CONCORD",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORONA",
@@ -471,7 +471,7 @@
         {
           "city": "EL DORADO HILLS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EL MONTE",
@@ -486,12 +486,12 @@
         {
           "city": "EMERYVILLE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENCINITAS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ENCINO",
@@ -661,7 +661,7 @@
         {
           "city": "HANFORD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAWAIIAN GARDENS",
@@ -681,7 +681,7 @@
         {
           "city": "HEALDSBURG",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HEMET",
@@ -776,7 +776,7 @@
         {
           "city": "LA MESA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA MIRADA",
@@ -796,7 +796,7 @@
         {
           "city": "LA VERNE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LADERA RANCH",
@@ -856,12 +856,12 @@
         {
           "city": "LATHROP",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAWNDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LEMON GROVE",
@@ -961,7 +961,7 @@
         {
           "city": "MARINA DEL REY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARTINEZ",
@@ -1251,7 +1251,7 @@
         {
           "city": "PICO RIVERA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PINOLE",
@@ -1306,7 +1306,7 @@
         {
           "city": "PORT HUENEME",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORTER RANCH",
@@ -1371,12 +1371,12 @@
         {
           "city": "REDLANDS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDONDO BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REDWOOD CITY",
@@ -1546,7 +1546,7 @@
         {
           "city": "SAN RAMON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAND CITY",
@@ -1591,7 +1591,7 @@
         {
           "city": "SANTA MARIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA MONICA",
@@ -1711,7 +1711,7 @@
         {
           "city": "STOCKTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STUDIO CITY",
@@ -1736,7 +1736,7 @@
         {
           "city": "TAHOE CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TARZANA",
@@ -1781,7 +1781,7 @@
         {
           "city": "TRUCKEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TUJUNGA",
@@ -1861,7 +1861,7 @@
         {
           "city": "VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALNUT CREEK",
