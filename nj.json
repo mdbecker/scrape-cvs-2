@@ -36,7 +36,7 @@
         {
           "city": "BEACHWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDMINSTER",
@@ -146,7 +146,7 @@
         {
           "city": "CHESTER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLARK",
@@ -176,12 +176,12 @@
         {
           "city": "DELRAN",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DENVILLE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DEPTFORD",
@@ -201,7 +201,7 @@
         {
           "city": "EAST HANOVER",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST ORANGE",
@@ -221,7 +221,7 @@
         {
           "city": "EASTAMPTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EATONTOWN",
@@ -271,12 +271,12 @@
         {
           "city": "FAIR LAWN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRLAWN",
@@ -306,12 +306,12 @@
         {
           "city": "FRANKLIN PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEHOLD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GALLOWAY",
@@ -321,7 +321,7 @@
         {
           "city": "GARFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GARWOOD",
@@ -556,7 +556,7 @@
         {
           "city": "MAPLEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MARGATE CITY",
@@ -706,7 +706,7 @@
         {
           "city": "NEW MILFORD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW PROVIDENCE",
@@ -801,7 +801,7 @@
         {
           "city": "PARSIPPANY",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASSAIC",
@@ -876,7 +876,7 @@
         {
           "city": "RIDGEFIELD PARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RINGWOOD",
@@ -1016,7 +1016,7 @@
         {
           "city": "TEANECK",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TENAFLY",
@@ -1036,7 +1036,7 @@
         {
           "city": "TRENTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TURNERSVILLE",
@@ -1056,7 +1056,7 @@
         {
           "city": "UPPER MONTCLAIR",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VAUXHALL",
@@ -1111,7 +1111,7 @@
         {
           "city": "WAYNE",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WENONAH",
@@ -1136,7 +1136,7 @@
         {
           "city": "WEST ORANGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST WINDSOR",
@@ -1206,7 +1206,7 @@
         {
           "city": "WYCKOFF",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
