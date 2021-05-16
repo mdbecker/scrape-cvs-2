@@ -691,7 +691,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE FALLS",
@@ -726,7 +726,7 @@
         {
           "city": "MAHOPAC",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALTA",
@@ -861,7 +861,7 @@
         {
           "city": "NEWBURGH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NIAGARA FALLS",
@@ -901,7 +901,7 @@
         {
           "city": "NORTHPORT",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEANSIDE",
@@ -1211,7 +1211,7 @@
         {
           "city": "SYOSSET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SYRACUSE",
@@ -1321,7 +1321,7 @@
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST NYACK",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
