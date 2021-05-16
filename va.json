@@ -31,7 +31,7 @@
         {
           "city": "ANNANDALE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "APPOMATTOX",
@@ -46,7 +46,7 @@
         {
           "city": "ASHBURN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ASHLAND",
@@ -211,12 +211,12 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRFAX STATION",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALLS CHURCH",
@@ -251,7 +251,7 @@
         {
           "city": "GAINESVILLE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GALAX",
@@ -626,7 +626,7 @@
         {
           "city": "WOODBRIDGE",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSTOCK",
