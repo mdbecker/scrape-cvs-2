@@ -86,7 +86,7 @@
         {
           "city": "BELMONT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BEVERLY",
@@ -101,7 +101,7 @@
         {
           "city": "BLACKSTONE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOSTON",
@@ -161,7 +161,7 @@
         {
           "city": "CHARLESTOWN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHARLTON CITY",
@@ -171,7 +171,7 @@
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHELMSFORD",
@@ -216,7 +216,7 @@
         {
           "city": "DEDHAM",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DORCHESTER",
@@ -286,7 +286,7 @@
         {
           "city": "FOXBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRAMINGHAM",
@@ -351,17 +351,17 @@
         {
           "city": "HARWICH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARWICHPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVERHILL",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HINGHAM",
@@ -496,7 +496,7 @@
         {
           "city": "MARBLEHEAD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARLBOROUGH",
@@ -616,7 +616,7 @@
         {
           "city": "NORTH ANDOVER",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ATTLEBORO",
@@ -626,7 +626,7 @@
         {
           "city": "NORTH ATTLEBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH BILLERICA",
@@ -711,7 +711,7 @@
         {
           "city": "PLAINVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLYMOUTH",
@@ -746,7 +746,7 @@
         {
           "city": "REVERE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROCKLAND",
@@ -926,7 +926,7 @@
         {
           "city": "WALPOLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WALTHAM",
@@ -1041,7 +1041,7 @@
         {
           "city": "WILMINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WINCHENDON",
