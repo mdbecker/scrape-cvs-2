@@ -111,7 +111,7 @@
         {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BINGHAMTON",
@@ -266,7 +266,7 @@
         {
           "city": "CORNWALL",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CORTLAND",
@@ -516,7 +516,7 @@
         {
           "city": "GREENLAWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENWICH",
@@ -691,7 +691,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE FALLS",
@@ -1381,7 +1381,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSIDE",
