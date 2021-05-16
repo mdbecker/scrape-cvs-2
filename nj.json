@@ -101,12 +101,12 @@
         {
           "city": "BUDD LAKE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURLINGTON TOWNSHIP",
@@ -141,12 +141,12 @@
         {
           "city": "CHERRY HILL",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHESTER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLARK",
@@ -161,7 +161,7 @@
         {
           "city": "CLIFTON",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLOSTER",
@@ -311,7 +311,7 @@
         {
           "city": "FREEHOLD",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GALLOWAY",
@@ -801,7 +801,7 @@
         {
           "city": "PARSIPPANY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASSAIC",
@@ -1016,7 +1016,7 @@
         {
           "city": "TEANECK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TENAFLY",
@@ -1026,7 +1026,7 @@
         {
           "city": "TOMS RIVER",
           "state": "NJ",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TOTOWA",
@@ -1036,7 +1036,7 @@
         {
           "city": "TRENTON",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "TURNERSVILLE",
@@ -1166,7 +1166,7 @@
         {
           "city": "WHITING",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILDWOOD",
@@ -1206,7 +1206,7 @@
         {
           "city": "WYCKOFF",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },

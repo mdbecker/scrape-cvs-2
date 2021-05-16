@@ -111,7 +111,7 @@
         {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BINGHAMTON",
@@ -516,7 +516,7 @@
         {
           "city": "GREENLAWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENWICH",
@@ -601,7 +601,7 @@
         {
           "city": "HUNTINGTON STATION",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYDE PARK",
@@ -636,7 +636,7 @@
         {
           "city": "JAMESTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JERICHO",
@@ -691,7 +691,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LITTLE FALLS",
@@ -1211,7 +1211,7 @@
         {
           "city": "SYOSSET",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SYRACUSE",
@@ -1371,7 +1371,7 @@
         {
           "city": "WILLISTON PARK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WILTON",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
