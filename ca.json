@@ -41,12 +41,12 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALPINE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANAHEIM",
@@ -86,7 +86,7 @@
         {
           "city": "ARCADIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARCATA",
@@ -141,7 +141,7 @@
         {
           "city": "BALDWIN PARK",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELL",
@@ -301,7 +301,7 @@
         {
           "city": "CITY OF INDUSTRY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLAYTON",
@@ -341,7 +341,7 @@
         {
           "city": "COMPTON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONCORD",
@@ -391,7 +391,7 @@
         {
           "city": "DANA POINT",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANVILLE",
@@ -406,7 +406,7 @@
         {
           "city": "DEL MAR",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DIAMOND BAR",
@@ -431,7 +431,7 @@
         {
           "city": "DUARTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBLIN",
@@ -476,7 +476,7 @@
         {
           "city": "EL MONTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ELK GROVE",
@@ -546,7 +546,7 @@
         {
           "city": "FOOTHILL RANCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT BRAGG",
@@ -556,7 +556,7 @@
         {
           "city": "FOSTER CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FOUNTAIN VALLEY",
@@ -651,7 +651,7 @@
         {
           "city": "HACIENDA HEIGHTS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HALF MOON BAY",
@@ -676,7 +676,7 @@
         {
           "city": "HAYWARD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEALDSBURG",
@@ -786,7 +786,7 @@
         {
           "city": "LA PUENTE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LA QUINTA",
@@ -856,7 +856,7 @@
         {
           "city": "LATHROP",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAWNDALE",
@@ -1091,7 +1091,7 @@
         {
           "city": "NATIONAL CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWARK",
@@ -1201,7 +1201,7 @@
         {
           "city": "PACIFIC PALISADES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM DESERT",
@@ -1271,7 +1271,7 @@
         {
           "city": "PLACENTIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PLACERVILLE",
@@ -1426,7 +1426,7 @@
         {
           "city": "ROHNERT PARK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROLLING HILLS ESTATES",
@@ -1486,7 +1486,7 @@
         {
           "city": "SAN DIMAS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN FERNANDO",
@@ -1501,7 +1501,7 @@
         {
           "city": "SAN GABRIEL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAN JACINTO",
@@ -1651,7 +1651,7 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIMI VALLEY",
@@ -1661,7 +1661,7 @@
         {
           "city": "SOLANA BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOLEDAD",
@@ -1716,7 +1716,7 @@
         {
           "city": "STUDIO CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUN VALLEY",
@@ -1861,7 +1861,7 @@
         {
           "city": "VISTA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALNUT CREEK",
@@ -1891,7 +1891,7 @@
         {
           "city": "WEST HILLS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST HOLLYWOOD",
@@ -1901,7 +1901,7 @@
         {
           "city": "WEST SACRAMENTO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTLAKE VILLAGE",
