@@ -21,7 +21,7 @@
         {
           "city": "BOULDER",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BRIGHTON",
@@ -76,7 +76,7 @@
         {
           "city": "GREELEY",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIGHLANDS RANCH",
@@ -126,7 +126,7 @@
         {
           "city": "SHERIDAN",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SILVERTHORNE",
@@ -141,7 +141,7 @@
         {
           "city": "THORNTON",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTMINSTER",
@@ -151,7 +151,7 @@
         {
           "city": "WHEAT RIDGE",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
