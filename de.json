@@ -11,7 +11,7 @@
         {
           "city": "BEAR",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHANY BEACH",
@@ -41,7 +41,7 @@
         {
           "city": "MILFORD",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CASTLE",
@@ -51,7 +51,7 @@
         {
           "city": "NEWARK",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN VIEW",
@@ -71,7 +71,7 @@
         {
           "city": "WILMINGTON",
           "state": "DE",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
