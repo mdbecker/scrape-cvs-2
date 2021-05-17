@@ -126,7 +126,7 @@
         {
           "city": "BRIGHTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BROCKTON",
@@ -136,7 +136,7 @@
         {
           "city": "BROOKLINE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURLINGTON",
@@ -391,7 +391,7 @@
         {
           "city": "HOPKINTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUDSON",
@@ -481,7 +481,7 @@
         {
           "city": "LYNN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALDEN",
@@ -536,7 +536,7 @@
         {
           "city": "MEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEDWAY",
@@ -596,12 +596,12 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWBURYPORT",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTON",
@@ -636,7 +636,7 @@
         {
           "city": "NORTH DARTMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH EASTON",
@@ -656,7 +656,7 @@
         {
           "city": "NORTHAMPTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHBOROUGH",
@@ -701,7 +701,7 @@
         {
           "city": "PEMBROKE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PITTSFIELD",
@@ -756,17 +756,17 @@
         {
           "city": "ROSLINDALE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROWLEY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SALEM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SALISBURY",

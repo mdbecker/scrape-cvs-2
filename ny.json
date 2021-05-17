@@ -56,7 +56,7 @@
         {
           "city": "BALDWIN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BALLSTON SPA",
@@ -76,7 +76,7 @@
         {
           "city": "BAY SHORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAYPORT",
@@ -86,7 +86,7 @@
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BEDFORD HILLS",
@@ -101,7 +101,7 @@
         {
           "city": "BELLMORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLPORT",
@@ -111,7 +111,7 @@
         {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BINGHAMTON",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
@@ -256,7 +256,7 @@
         {
           "city": "COPIAGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORAM",
@@ -326,7 +326,7 @@
         {
           "city": "EAST HILLS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST ISLIP",
@@ -386,7 +386,7 @@
         {
           "city": "FAIRPORT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FALCONER",
@@ -461,7 +461,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN COVE",
@@ -536,7 +536,7 @@
         {
           "city": "HARRISON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTSDALE",
@@ -566,7 +566,7 @@
         {
           "city": "HOLBROOK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HONEOYE",
@@ -601,7 +601,7 @@
         {
           "city": "HUNTINGTON STATION",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HYDE PARK",
@@ -736,7 +736,7 @@
         {
           "city": "MAMARONECK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MANLIUS",
@@ -816,7 +816,7 @@
         {
           "city": "MONROE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT KISCO",
@@ -891,7 +891,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -901,7 +901,7 @@
         {
           "city": "NORTHPORT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEANSIDE",
@@ -936,17 +936,17 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OZONE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWLING",
@@ -991,7 +991,7 @@
         {
           "city": "PLEASANT VALLEY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT JEFFERSON",
@@ -1091,7 +1091,7 @@
         {
           "city": "RYE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RYE BROOK",
@@ -1116,7 +1116,7 @@
         {
           "city": "SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCARSDALE",
@@ -1161,7 +1161,7 @@
         {
           "city": "SMITHTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SODUS",
@@ -1316,17 +1316,17 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SAYVILLE",
@@ -1336,7 +1336,7 @@
         {
           "city": "WEST SENECA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBURY",
@@ -1381,7 +1381,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSIDE",
