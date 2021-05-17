@@ -56,7 +56,7 @@
         {
           "city": "BALDWIN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALLSTON SPA",
@@ -71,7 +71,7 @@
         {
           "city": "BATAVIA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAY SHORE",
@@ -86,7 +86,7 @@
         {
           "city": "BAYSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BEDFORD HILLS",
@@ -196,7 +196,7 @@
         {
           "city": "CENTRAL ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHEEKTOWAGA",
@@ -276,7 +276,7 @@
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANSVILLE",
@@ -566,7 +566,7 @@
         {
           "city": "HOLBROOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HONEOYE",
@@ -651,7 +651,7 @@
         {
           "city": "KATONAH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KEW GARDENS",
@@ -691,7 +691,7 @@
         {
           "city": "LINDENHURST",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LITTLE FALLS",
@@ -736,7 +736,7 @@
         {
           "city": "MAMARONECK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANLIUS",
@@ -891,7 +891,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -906,7 +906,7 @@
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLEAN",
@@ -941,7 +941,7 @@
         {
           "city": "OZONE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PATCHOGUE",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1091,7 +1091,7 @@
         {
           "city": "RYE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RYE BROOK",
@@ -1116,7 +1116,7 @@
         {
           "city": "SAYVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SCARSDALE",
@@ -1316,17 +1316,17 @@
         {
           "city": "WEST HEMPSTEAD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST SAYVILLE",
@@ -1381,7 +1381,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSIDE",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
