@@ -46,12 +46,12 @@
         {
           "city": "EAST GREENWICH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOCESTER",
@@ -101,12 +101,12 @@
         {
           "city": "NORTH SMITHFIELD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASCOAG",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWTUCKET",
@@ -121,7 +121,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERSIDE",
@@ -176,7 +176,7 @@
         {
           "city": "WYOMING",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
