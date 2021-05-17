@@ -26,7 +26,7 @@
         {
           "city": "ALAMO",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALBANY",
@@ -41,7 +41,7 @@
         {
           "city": "ALISO VIEJO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ALPINE",
@@ -106,7 +106,7 @@
         {
           "city": "ARTESIA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARVIN",
@@ -191,7 +191,7 @@
         {
           "city": "BURBANK",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BURLINGAME",
@@ -371,12 +371,12 @@
         {
           "city": "CULVER CITY",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CUPERTINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CYPRESS",
@@ -436,7 +436,7 @@
         {
           "city": "DUBLIN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAGLE ROCK",
@@ -496,7 +496,7 @@
         {
           "city": "ENCINO",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ESCONDIDO",
@@ -611,7 +611,7 @@
         {
           "city": "GLENDORA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GOLETA",
@@ -711,7 +711,7 @@
         {
           "city": "HOLLYWOOD",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUNTINGTON BEACH",
@@ -776,7 +776,7 @@
         {
           "city": "LA MESA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LA MIRADA",
@@ -801,7 +801,7 @@
         {
           "city": "LADERA RANCH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAFAYETTE",
@@ -811,7 +811,7 @@
         {
           "city": "LAGUNA BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAGUNA NIGUEL",
@@ -821,7 +821,7 @@
         {
           "city": "LAGUNA WOODS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE ELSINORE",
@@ -876,7 +876,7 @@
         {
           "city": "LIVERMORE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LIVINGSTON",
@@ -901,7 +901,7 @@
         {
           "city": "LONG BEACH",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LOS ALAMITOS",
@@ -921,7 +921,7 @@
         {
           "city": "LOS GATOS",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNWOOD",
@@ -981,7 +981,7 @@
         {
           "city": "MENIFEE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MENLO PARK",
@@ -1021,7 +1021,7 @@
         {
           "city": "MONROVIA",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTCLAIR",
@@ -1106,7 +1106,7 @@
         {
           "city": "NEWPORT BEACH",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NIPOMO",
@@ -1126,7 +1126,7 @@
         {
           "city": "NORTHRIDGE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORWALK",
@@ -1201,7 +1201,7 @@
         {
           "city": "PACIFIC PALISADES",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM DESERT",
@@ -1216,7 +1216,7 @@
         {
           "city": "PALMDALE",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALO ALTO",
@@ -1231,7 +1231,7 @@
         {
           "city": "PASADENA",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PASO ROBLES",
@@ -1421,7 +1421,7 @@
         {
           "city": "ROCKLIN",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROHNERT PARK",
@@ -1431,7 +1431,7 @@
         {
           "city": "ROLLING HILLS ESTATES",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ROSEMEAD",
@@ -1546,7 +1546,7 @@
         {
           "city": "SAN RAMON",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAND CITY",
@@ -1586,7 +1586,7 @@
         {
           "city": "SANTA FE SPRINGS",
           "state": "CA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANTA MARIA",
@@ -1651,7 +1651,7 @@
         {
           "city": "SIGNAL HILL",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SIMI VALLEY",
@@ -1686,7 +1686,7 @@
         {
           "city": "SOUTH EL MONTE",
           "state": "CA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH GATE",
