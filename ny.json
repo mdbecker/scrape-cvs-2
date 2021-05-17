@@ -41,7 +41,7 @@
         {
           "city": "ASTORIA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AUBURNDALE",
@@ -201,7 +201,7 @@
         {
           "city": "CHEEKTOWAGA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHESTER",
@@ -326,12 +326,12 @@
         {
           "city": "EAST HILLS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST ISLIP",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST MEADOW",
@@ -426,7 +426,7 @@
         {
           "city": "FLORAL PARK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FLUSHING",
@@ -576,7 +576,7 @@
         {
           "city": "HOPEWELL JUNCTION",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HOWARD BEACH",
@@ -726,7 +726,7 @@
         {
           "city": "MAHOPAC",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALTA",
@@ -831,7 +831,7 @@
         {
           "city": "NESCONSET",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CITY",
@@ -901,12 +901,12 @@
         {
           "city": "NORTHPORT",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLEAN",
@@ -941,7 +941,7 @@
         {
           "city": "OZONE PARK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PATCHOGUE",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1161,7 +1161,7 @@
         {
           "city": "SMITHTOWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SODUS",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
