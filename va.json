@@ -41,7 +41,7 @@
         {
           "city": "ARLINGTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHBURN",
@@ -56,7 +56,7 @@
         {
           "city": "BAILEYS CROSSROADS",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BASSETT",
@@ -201,7 +201,7 @@
         {
           "city": "DUMFRIES",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EMPORIA",
@@ -276,7 +276,7 @@
         {
           "city": "HAMPTON",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HARDY",
@@ -296,7 +296,7 @@
         {
           "city": "HENRICO",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HERNDON",
@@ -401,7 +401,7 @@
         {
           "city": "MIDLOTHIAN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONTPELIER",
@@ -641,7 +641,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

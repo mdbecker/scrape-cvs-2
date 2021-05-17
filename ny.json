@@ -76,7 +76,7 @@
         {
           "city": "BAY SHORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAYPORT",
@@ -201,7 +201,7 @@
         {
           "city": "CHEEKTOWAGA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHESTER",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COOPERSTOWN",
@@ -256,7 +256,7 @@
         {
           "city": "COPIAGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORAM",
@@ -461,7 +461,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN COVE",
@@ -536,7 +536,7 @@
         {
           "city": "HARRISON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARTSDALE",
@@ -726,7 +726,7 @@
         {
           "city": "MAHOPAC",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MALTA",
@@ -816,7 +816,7 @@
         {
           "city": "MONROE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT KISCO",
@@ -906,7 +906,7 @@
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLEAN",
@@ -936,12 +936,12 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OZONE PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PATCHOGUE",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1116,7 +1116,7 @@
         {
           "city": "SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCARSDALE",
@@ -1136,7 +1136,7 @@
         {
           "city": "SEAFORD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SELDEN",
@@ -1276,7 +1276,7 @@
         {
           "city": "WARWICK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WASHINGTONVILLE",
@@ -1371,7 +1371,7 @@
         {
           "city": "WILLISTON PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILTON",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
