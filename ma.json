@@ -46,12 +46,12 @@
         {
           "city": "ARLINGTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ASHLAND",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ATHOL",
@@ -61,7 +61,7 @@
         {
           "city": "ATTLEBORO",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AUBURN",
@@ -151,7 +151,7 @@
         {
           "city": "CANTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CARVER",
@@ -261,7 +261,7 @@
         {
           "city": "EVERETT",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FAIRHAVEN",
@@ -391,7 +391,7 @@
         {
           "city": "HOPKINTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUDSON",
@@ -506,7 +506,7 @@
         {
           "city": "MARSHFIELD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARSTONS MILLS",
@@ -556,7 +556,7 @@
         {
           "city": "MIDDLEBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETON",
@@ -566,7 +566,7 @@
         {
           "city": "MILFORD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MILLBURY",
@@ -631,7 +631,7 @@
         {
           "city": "NORTH BILLERICA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH DARTMOUTH",
@@ -701,7 +701,7 @@
         {
           "city": "PEMBROKE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PITTSFIELD",
@@ -741,7 +741,7 @@
         {
           "city": "READING",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "REVERE",
@@ -786,7 +786,7 @@
         {
           "city": "SCITUATE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEEKONK",
@@ -846,7 +846,7 @@
         {
           "city": "SOUTH WEYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SOUTH YARMOUTH",
@@ -1021,12 +1021,12 @@
         {
           "city": "WEYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITINSVILLE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WHITMAN",
