@@ -56,12 +56,12 @@
         {
           "city": "GLOCESTER",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENVILLE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JOHNSTON",
@@ -71,7 +71,7 @@
         {
           "city": "LINCOLN",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLETOWN",
@@ -116,7 +116,7 @@
         {
           "city": "PORTSMOUTH",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PROVIDENCE",
@@ -146,7 +146,7 @@
         {
           "city": "WAKEFIELD",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARREN",
@@ -156,7 +156,7 @@
         {
           "city": "WARWICK",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST WARWICK",
@@ -166,7 +166,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOONSOCKET",
@@ -180,6 +180,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
