@@ -101,7 +101,7 @@
         {
           "city": "BELLMORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLPORT",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COOPERSTOWN",
@@ -256,7 +256,7 @@
         {
           "city": "COPIAGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORAM",
@@ -276,7 +276,7 @@
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANSVILLE",
@@ -471,7 +471,7 @@
         {
           "city": "GLEN HEAD",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN OAKS",
@@ -566,7 +566,7 @@
         {
           "city": "HOLBROOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HONEOYE",
@@ -756,7 +756,7 @@
         {
           "city": "MASPETH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MASSAPEQUA",
@@ -891,7 +891,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -906,7 +906,7 @@
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLEAN",
@@ -946,12 +946,12 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAWLING",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEARL RIVER",
@@ -1161,7 +1161,7 @@
         {
           "city": "SMITHTOWN",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SODUS",
@@ -1271,7 +1271,7 @@
         {
           "city": "WANTAGH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WARWICK",
@@ -1281,7 +1281,7 @@
         {
           "city": "WASHINGTONVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERTOWN",
@@ -1321,7 +1321,7 @@
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
@@ -1336,7 +1336,7 @@
         {
           "city": "WEST SENECA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBURY",
@@ -1371,7 +1371,7 @@
         {
           "city": "WILLISTON PARK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILTON",
@@ -1381,7 +1381,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOODSIDE",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },

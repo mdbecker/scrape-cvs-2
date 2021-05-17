@@ -36,7 +36,7 @@
         {
           "city": "APPOMATTOX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -331,7 +331,7 @@
         {
           "city": "KING GEORGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -421,7 +421,7 @@
         {
           "city": "NORFOLK",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH TAZEWELL",
@@ -541,12 +541,12 @@
         {
           "city": "SOUTH RIDING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPOTSYLVANIA",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SPRINGFIELD",
