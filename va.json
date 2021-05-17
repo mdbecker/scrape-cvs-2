@@ -36,7 +36,7 @@
         {
           "city": "APPOMATTOX",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ARLINGTON",
@@ -46,7 +46,7 @@
         {
           "city": "ASHBURN",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ASHLAND",
@@ -86,7 +86,7 @@
         {
           "city": "BRISTOW",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROOKNEAL",
@@ -211,7 +211,7 @@
         {
           "city": "FAIRFAX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FAIRFAX STATION",
@@ -296,7 +296,7 @@
         {
           "city": "HENRICO",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HERNDON",
@@ -331,7 +331,7 @@
         {
           "city": "KING GEORGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -371,7 +371,7 @@
         {
           "city": "MANASSAS",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANASSAS PARK",
@@ -611,7 +611,7 @@
         {
           "city": "WILLIAMSBURG",
           "state": "VA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINCHESTER",
@@ -641,7 +641,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
