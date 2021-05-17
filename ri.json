@@ -31,7 +31,7 @@
         {
           "city": "COVENTRY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CRANSTON",
@@ -116,7 +116,7 @@
         {
           "city": "PORTSMOUTH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PROVIDENCE",
@@ -146,7 +146,7 @@
         {
           "city": "WAKEFIELD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -180,6 +180,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
