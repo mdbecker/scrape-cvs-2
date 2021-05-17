@@ -196,12 +196,12 @@
         {
           "city": "CENTRAL ISLIP",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHEEKTOWAGA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHESTER",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COOPERSTOWN",
@@ -461,7 +461,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN COVE",
@@ -516,7 +516,7 @@
         {
           "city": "GREENLAWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENWICH",
@@ -726,7 +726,7 @@
         {
           "city": "MAHOPAC",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MALTA",
@@ -756,12 +756,12 @@
         {
           "city": "MASPETH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MASSAPEQUA",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MATTITUCK",
@@ -936,7 +936,7 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OZONE PARK",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
