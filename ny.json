@@ -76,7 +76,7 @@
         {
           "city": "BAY SHORE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BAYPORT",
@@ -111,7 +111,7 @@
         {
           "city": "BETHPAGE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BINGHAMTON",
@@ -196,7 +196,7 @@
         {
           "city": "CENTRAL ISLIP",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHEEKTOWAGA",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
@@ -461,7 +461,7 @@
         {
           "city": "GARNERVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLEN COVE",
@@ -471,7 +471,7 @@
         {
           "city": "GLEN HEAD",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLEN OAKS",
@@ -716,7 +716,7 @@
         {
           "city": "LYNBROOK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MACEDON",
@@ -756,12 +756,12 @@
         {
           "city": "MASPETH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MASSAPEQUA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MATTITUCK",
@@ -816,7 +816,7 @@
         {
           "city": "MONROE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MOUNT KISCO",
@@ -906,7 +906,7 @@
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLEAN",
@@ -936,7 +936,7 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OZONE PARK",
@@ -1276,7 +1276,7 @@
         {
           "city": "WARWICK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WASHINGTONVILLE",
@@ -1321,7 +1321,7 @@
         {
           "city": "WEST ISLIP",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST NYACK",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
