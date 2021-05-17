@@ -21,12 +21,12 @@
         {
           "city": "ALAMO HEIGHTS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALEDO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALICE",
@@ -66,7 +66,7 @@
         {
           "city": "ANNA",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARANSAS PASS",
@@ -121,7 +121,7 @@
         {
           "city": "BASTROP",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BAY CITY",
@@ -151,7 +151,7 @@
         {
           "city": "BELLAIRE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELTON",
@@ -306,7 +306,7 @@
         {
           "city": "COMMERCE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CONROE",
@@ -361,7 +361,7 @@
         {
           "city": "DALLAS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DECATUR",
@@ -601,7 +601,7 @@
         {
           "city": "HURST",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUTTO",
@@ -686,7 +686,7 @@
         {
           "city": "LAGO VISTA",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LAKE JACKSON",
@@ -721,7 +721,7 @@
         {
           "city": "LAREDO",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEAGUE CITY",
@@ -786,7 +786,7 @@
         {
           "city": "LYTLE",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MAGNOLIA",
@@ -806,7 +806,7 @@
         {
           "city": "MARBLE FALLS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARSHALL",
@@ -821,7 +821,7 @@
         {
           "city": "MCALLEN",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCKINNEY",
@@ -841,7 +841,7 @@
         {
           "city": "MESQUITE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEXIA",
@@ -1036,7 +1036,7 @@
         {
           "city": "RICHLAND HILLS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RICHMOND",
@@ -1046,7 +1046,7 @@
         {
           "city": "RIVER OAKS",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ROANOKE",
@@ -1106,7 +1106,7 @@
         {
           "city": "SAN ANTONIO",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SAN JUAN",
@@ -1116,7 +1116,7 @@
         {
           "city": "SAN MARCOS",
           "state": "TX",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SANTA FE",
@@ -1291,7 +1291,7 @@
         {
           "city": "WAXAHACHIE",
           "state": "TX",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEATHERFORD",

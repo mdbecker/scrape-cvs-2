@@ -66,7 +66,7 @@
         {
           "city": "BARDONIA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
@@ -101,7 +101,7 @@
         {
           "city": "BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BELLPORT",
@@ -146,7 +146,7 @@
         {
           "city": "BRONXVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BROOKLYN",
@@ -246,7 +246,7 @@
         {
           "city": "COMMACK",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
@@ -276,7 +276,7 @@
         {
           "city": "CROTON ON HUDSON",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DANSVILLE",
@@ -651,7 +651,7 @@
         {
           "city": "KATONAH",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KEW GARDENS",
@@ -736,7 +736,7 @@
         {
           "city": "MAMARONECK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANLIUS",
@@ -891,7 +891,7 @@
         {
           "city": "NORTH BELLMORE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH TONAWANDA",
@@ -906,7 +906,7 @@
         {
           "city": "OCEANSIDE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OLEAN",
@@ -916,7 +916,7 @@
         {
           "city": "ORANGEBURG",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ORCHARD PARK",
@@ -936,7 +936,7 @@
         {
           "city": "OYSTER BAY",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OZONE PARK",
@@ -946,17 +946,17 @@
         {
           "city": "PATCHOGUE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAWLING",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEARL RIVER",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PEEKSKILL",
@@ -991,7 +991,7 @@
         {
           "city": "PLEASANT VALLEY",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORT JEFFERSON",
@@ -1006,7 +1006,7 @@
         {
           "city": "POUGHKEEPSIE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUEENS VILLAGE",
@@ -1091,7 +1091,7 @@
         {
           "city": "RYE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RYE BROOK",
@@ -1116,7 +1116,7 @@
         {
           "city": "SAYVILLE",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SCARSDALE",
@@ -1161,7 +1161,7 @@
         {
           "city": "SMITHTOWN",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SODUS",
@@ -1271,7 +1271,7 @@
         {
           "city": "WANTAGH",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARWICK",
@@ -1326,7 +1326,7 @@
         {
           "city": "WEST NYACK",
           "state": "NY",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST SAYVILLE",
@@ -1336,7 +1336,7 @@
         {
           "city": "WEST SENECA",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTBURY",
@@ -1381,7 +1381,7 @@
         {
           "city": "WOODMERE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODSIDE",
@@ -1406,7 +1406,7 @@
         {
           "city": "YORKTOWN HEIGHTS",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
