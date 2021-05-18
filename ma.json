@@ -101,7 +101,7 @@
         {
           "city": "BLACKSTONE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BOSTON",
@@ -391,7 +391,7 @@
         {
           "city": "HOPKINTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUDSON",
@@ -486,7 +486,7 @@
         {
           "city": "MALDEN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANSFIELD",
@@ -536,7 +536,7 @@
         {
           "city": "MEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MEDWAY",
@@ -631,7 +631,7 @@
         {
           "city": "NORTH BILLERICA",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH DARTMOUTH",
@@ -806,7 +806,7 @@
         {
           "city": "SOMERSET",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOMERVILLE",
@@ -881,7 +881,7 @@
         {
           "city": "STOUGHTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STURBRIDGE",
@@ -996,12 +996,12 @@
         {
           "city": "WESTBOROUGH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTFORD",
@@ -1026,7 +1026,7 @@
         {
           "city": "WHITINSVILLE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITMAN",
