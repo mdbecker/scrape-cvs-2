@@ -11,12 +11,12 @@
         {
           "city": "BEAR",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHANY BEACH",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLAYMONT",
@@ -26,7 +26,7 @@
         {
           "city": "DOVER",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEWES",
@@ -51,12 +51,12 @@
         {
           "city": "NEWARK",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OCEAN VIEW",
           "state": "DE",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "REHOBOTH BEACH",
@@ -75,6 +75,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }

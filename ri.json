@@ -31,7 +31,7 @@
         {
           "city": "COVENTRY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CRANSTON",
@@ -46,27 +46,27 @@
         {
           "city": "EAST GREENWICH",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLOCESTER",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREENVILLE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LINCOLN",
@@ -96,12 +96,12 @@
         {
           "city": "NORTH PROVIDENCE",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH SMITHFIELD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PASCOAG",
@@ -146,7 +146,7 @@
         {
           "city": "WAKEFIELD",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -166,7 +166,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOONSOCKET",
@@ -180,6 +180,6 @@
         }
       ]
     },
-    "isBookingCompleted": true
+    "isBookingCompleted": false
   }
 }
