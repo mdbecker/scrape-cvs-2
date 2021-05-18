@@ -256,12 +256,12 @@
         {
           "city": "DEERFIELD BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DELAND",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DELRAY BEACH",
@@ -336,7 +336,7 @@
         {
           "city": "FORT LAUDERDALE",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORT MYERS",
@@ -386,7 +386,7 @@
         {
           "city": "HALLANDALE BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAWTHORNE",
@@ -551,7 +551,7 @@
         {
           "city": "LAKE PARK",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LAKE PLACID",
@@ -741,7 +741,7 @@
         {
           "city": "NEPTUNE BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEW PORT RICHEY",
@@ -866,7 +866,7 @@
         {
           "city": "PALM CITY",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PALM COAST",
@@ -1016,7 +1016,7 @@
         {
           "city": "SAINT CLOUD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SAINT JAMES CITY",
@@ -1221,7 +1221,7 @@
         {
           "city": "WESLEY CHAPEL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST MELBOURNE",
@@ -1286,7 +1286,7 @@
         {
           "city": "ZEPHYRHILLS",
           "state": "FL",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
