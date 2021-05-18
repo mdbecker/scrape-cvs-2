@@ -31,7 +31,7 @@
         {
           "city": "ASHTON",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BALTIMORE",
@@ -76,7 +76,7 @@
         {
           "city": "CALIFORNIA",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CAMP SPRINGS",
@@ -86,7 +86,7 @@
         {
           "city": "CAPITOL HEIGHTS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CATONSVILLE",
@@ -121,7 +121,7 @@
         {
           "city": "COCKEYSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COLLEGE PARK",
@@ -146,7 +146,7 @@
         {
           "city": "CUMBERLAND",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DAMASCUS",
@@ -216,7 +216,7 @@
         {
           "city": "FOREST HILL",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FORESTVILLE",
@@ -266,7 +266,7 @@
         {
           "city": "HAGERSTOWN",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HAMPSTEAD",
@@ -286,7 +286,7 @@
         {
           "city": "HOLLYWOOD",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HYATTSVILLE",
@@ -346,12 +346,12 @@
         {
           "city": "LEXINGTON PARK",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MECHANICSVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLE RIVER",
@@ -391,12 +391,12 @@
         {
           "city": "OAKLAND",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OCEAN CITY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ODENTON",
@@ -416,7 +416,7 @@
         {
           "city": "OXON HILL",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PARKVILLE",
@@ -456,12 +456,12 @@
         {
           "city": "ROCKVILLE",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SALISBURY",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEABROOK",
@@ -471,7 +471,7 @@
         {
           "city": "SEAT PLEASANT",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEVERN",
@@ -491,7 +491,7 @@
         {
           "city": "SOLOMONS",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "TANEYTOWN",
@@ -521,7 +521,7 @@
         {
           "city": "WALDORF",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WALKERSVILLE",
@@ -545,6 +545,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

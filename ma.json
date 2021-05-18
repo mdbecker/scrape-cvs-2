@@ -106,7 +106,7 @@
         {
           "city": "BOSTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BOURNE",
@@ -171,7 +171,7 @@
         {
           "city": "CHATHAM",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CHELMSFORD",
@@ -191,7 +191,7 @@
         {
           "city": "CHICOPEE",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CLINTON",
@@ -316,12 +316,12 @@
         {
           "city": "GRANBY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREAT BARRINGTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENFIELD",
@@ -596,7 +596,7 @@
         {
           "city": "NEW BEDFORD",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEWBURYPORT",
@@ -611,7 +611,7 @@
         {
           "city": "NORTH ADAMS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTH ANDOVER",
@@ -656,7 +656,7 @@
         {
           "city": "NORTHAMPTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORTHBOROUGH",
@@ -681,7 +681,7 @@
         {
           "city": "ORLEANS",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OXFORD",
@@ -721,7 +721,7 @@
         {
           "city": "PROVINCETOWN",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "QUINCY",
@@ -771,7 +771,7 @@
         {
           "city": "SALISBURY",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SANDWICH",
@@ -841,7 +841,7 @@
         {
           "city": "SOUTH HAMILTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SOUTH WEYMOUTH",
@@ -976,7 +976,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST ROXBURY",
@@ -991,7 +991,7 @@
         {
           "city": "WEST YARMOUTH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTBOROUGH",
@@ -1080,6 +1080,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
