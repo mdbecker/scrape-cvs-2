@@ -341,7 +341,7 @@
         {
           "city": "HANOVER",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HANSON",
@@ -391,7 +391,7 @@
         {
           "city": "HOPKINTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HUDSON",
@@ -501,7 +501,7 @@
         {
           "city": "MARLBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARSHFIELD",
@@ -586,7 +586,7 @@
         {
           "city": "NATICK",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEEDHAM",
@@ -786,7 +786,7 @@
         {
           "city": "SCITUATE",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SEEKONK",
@@ -881,7 +881,7 @@
         {
           "city": "STOUGHTON",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STURBRIDGE",
@@ -976,7 +976,7 @@
         {
           "city": "WEST NEWTON",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WEST ROXBURY",
@@ -996,12 +996,12 @@
         {
           "city": "WESTBOROUGH",
           "state": "MA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTFIELD",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WESTFORD",
@@ -1021,7 +1021,7 @@
         {
           "city": "WEYMOUTH",
           "state": "MA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITINSVILLE",
