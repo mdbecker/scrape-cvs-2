@@ -146,7 +146,7 @@
         {
           "city": "FAIRFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "FARMINGTON",
@@ -171,12 +171,12 @@
         {
           "city": "GREENWICH",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GROTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GUILFORD",
@@ -191,7 +191,7 @@
         {
           "city": "HARTFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HEBRON",
@@ -211,17 +211,17 @@
         {
           "city": "LITCHFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MADISON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MANCHESTER",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MERIDEN",
@@ -256,7 +256,7 @@
         {
           "city": "NEW BRITAIN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW CANAAN",
@@ -271,7 +271,7 @@
         {
           "city": "NEW LONDON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NEW MILFORD",
@@ -296,12 +296,12 @@
         {
           "city": "NORTH HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORWALK",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "NORWICH",
@@ -311,7 +311,7 @@
         {
           "city": "OAKVILLE",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "OLD GREENWICH",
@@ -351,7 +351,7 @@
         {
           "city": "RIDGEFIELD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -366,7 +366,7 @@
         {
           "city": "ROCKY HILL",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SEYMOUR",
@@ -406,7 +406,7 @@
         {
           "city": "STAMFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "STORRS MANSFIELD",
@@ -416,7 +416,7 @@
         {
           "city": "STRATFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SUFFIELD",
@@ -471,17 +471,17 @@
         {
           "city": "WEST HARTFORD",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST HAVEN",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WESTPORT",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WETHERSFIELD",
@@ -496,7 +496,7 @@
         {
           "city": "WILTON",
           "state": "CT",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WINDSOR",
@@ -515,6 +515,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
