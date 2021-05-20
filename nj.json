@@ -96,7 +96,7 @@
         {
           "city": "BROWNS MILLS",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BUDD LAKE",
@@ -151,7 +151,7 @@
         {
           "city": "CLARK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
@@ -256,7 +256,7 @@
         {
           "city": "ENGLEWOOD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVESHAM TOWNSHIP",
@@ -331,7 +331,7 @@
         {
           "city": "GIBBSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLASSBORO",
@@ -346,7 +346,7 @@
         {
           "city": "GLOUCESTER CITY",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
@@ -466,7 +466,7 @@
         {
           "city": "LAWRENCEVILLE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEDGEWOOD",
@@ -506,12 +506,12 @@
         {
           "city": "LODI",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONG BRANCH",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LUMBERTON",
@@ -731,12 +731,12 @@
         {
           "city": "NORTH BRUNSWICK",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH PLAINFIELD",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH WILDWOOD",
@@ -756,7 +756,7 @@
         {
           "city": "OAK RIDGE",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "OAKHURST",
@@ -816,7 +816,7 @@
         {
           "city": "PENNSAUKEN",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEQUANNOCK",
@@ -836,7 +836,7 @@
         {
           "city": "PLAINSBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PLEASANTVILLE",
@@ -987,6 +987,11 @@
           "city": "SPARTA",
           "state": "NJ",
           "status": "Fully Booked"
+        },
+        {
+          "city": "SPRINGFIELD",
+          "state": "NJ",
+          "status": "Available"
         },
         {
           "city": "STANHOPE",
@@ -1181,7 +1186,7 @@
         {
           "city": "WILLINGBORO",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOOD RIDGE",

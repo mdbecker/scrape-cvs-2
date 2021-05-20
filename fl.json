@@ -61,7 +61,7 @@
         {
           "city": "BELLE GLADE",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BELLEVIEW",
@@ -176,7 +176,7 @@
         {
           "city": "CLEWISTON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "COCOA",
@@ -246,7 +246,7 @@
         {
           "city": "DAYTONA BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DAYTONA BEACH SHORES",
@@ -281,7 +281,7 @@
         {
           "city": "DORAL",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DUNEDIN",
@@ -291,7 +291,7 @@
         {
           "city": "DUNNELLON",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EAST PALATKA",
@@ -381,7 +381,7 @@
         {
           "city": "HAINES CITY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HALLANDALE BEACH",
@@ -431,7 +431,7 @@
         {
           "city": "HOMESTEAD",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HOMOSASSA",
@@ -606,7 +606,7 @@
         {
           "city": "LONGBOAT KEY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LONGWOOD",
@@ -616,7 +616,7 @@
         {
           "city": "LUTZ",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNN HAVEN",
@@ -776,7 +776,7 @@
         {
           "city": "NORTH MIAMI BEACH",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTH PALM BEACH",
@@ -811,7 +811,7 @@
         {
           "city": "OLDSMAR",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORANGE CITY",
@@ -991,7 +991,7 @@
         {
           "city": "QUINCY",
           "state": "FL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RIVERVIEW",
@@ -1020,6 +1020,11 @@
         },
         {
           "city": "SAINT JAMES CITY",
+          "state": "FL",
+          "status": "Available"
+        },
+        {
+          "city": "SAINT JOHNS",
           "state": "FL",
           "status": "Available"
         },

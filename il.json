@@ -86,7 +86,7 @@
         {
           "city": "BLOOMINGDALE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BLOOMINGTON",
@@ -201,7 +201,7 @@
         {
           "city": "CICERO",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CLINTON",
@@ -451,7 +451,7 @@
         {
           "city": "JERSEYVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JOLIET",
@@ -799,6 +799,11 @@
           "status": "Available"
         },
         {
+          "city": "RIVER FOREST",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "RIVERDALE",
           "state": "IL",
           "status": "Available"
@@ -946,7 +951,7 @@
         {
           "city": "WASHINGTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WATERLOO",

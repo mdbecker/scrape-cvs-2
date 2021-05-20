@@ -96,7 +96,7 @@
         {
           "city": "BETHEL PARK",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BETHLEHEM",
@@ -234,6 +234,11 @@
           "status": "Fully Booked"
         },
         {
+          "city": "CONSHOHOCKEN",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "COOPERSBURG",
           "state": "PA",
           "status": "Available"
@@ -256,7 +261,7 @@
         {
           "city": "CROYDON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALLAS",
@@ -309,6 +314,11 @@
           "status": "Available"
         },
         {
+          "city": "DUNMORE",
+          "state": "PA",
+          "status": "Available"
+        },
+        {
           "city": "EAST STROUDSBURG",
           "state": "PA",
           "status": "Available"
@@ -346,7 +356,7 @@
         {
           "city": "ENOLA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ERDENHEIM",
@@ -441,7 +451,7 @@
         {
           "city": "HATBORO",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HAVERTOWN",
@@ -491,7 +501,7 @@
         {
           "city": "HUMMELSTOWN",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HUNTINGDON VALLEY",
@@ -541,7 +551,7 @@
         {
           "city": "KINGSTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KUTZTOWN",
@@ -586,12 +596,17 @@
         {
           "city": "LEBANON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESPORT",
           "state": "PA",
           "status": "Fully Booked"
+        },
+        {
+          "city": "LEMOYNE",
+          "state": "PA",
+          "status": "Available"
         },
         {
           "city": "LEVITTOWN",
@@ -661,7 +676,7 @@
         {
           "city": "MCKEES ROCKS",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MCKEESPORT",
@@ -711,7 +726,7 @@
         {
           "city": "MONACA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MONROEVILLE",
@@ -781,7 +796,7 @@
         {
           "city": "NEW KENSINGTON",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NEWTOWN",
@@ -846,7 +861,7 @@
         {
           "city": "PALMYRA",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PAOLI",
@@ -906,7 +921,7 @@
         {
           "city": "POCONO SUMMIT",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "POTTSTOWN",
@@ -1126,7 +1141,7 @@
         {
           "city": "WARMINSTER",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WARREN",
@@ -1181,7 +1196,7 @@
         {
           "city": "WEXFORD",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WHITEHALL",
@@ -1191,7 +1206,7 @@
         {
           "city": "WILKES BARRE",
           "state": "PA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WILKINSBURG",
