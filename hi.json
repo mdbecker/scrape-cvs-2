@@ -21,7 +21,7 @@
         {
           "city": "EWA BEACH",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "HALEIWA",
@@ -41,12 +41,12 @@
         {
           "city": "HONOLULU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KAHULUI",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KAILUA",
@@ -56,17 +56,17 @@
         {
           "city": "KAILUA KONA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KAMUELA",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KANEOHE",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KAPAA",
@@ -81,7 +81,7 @@
         {
           "city": "KEAAU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "KIHEI",
@@ -101,12 +101,12 @@
         {
           "city": "LIHUE",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MILILANI",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PAHALA",
@@ -121,7 +121,7 @@
         {
           "city": "PEARL CITY",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PUKALANI",
@@ -136,20 +136,20 @@
         {
           "city": "WAIANAE",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAILUKU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WAIPAHU",
           "state": "HI",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }

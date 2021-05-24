@@ -31,12 +31,12 @@
         {
           "city": "COVENTRY",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CRANSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CUMBERLAND",
@@ -46,27 +46,27 @@
         {
           "city": "EAST GREENWICH",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "EAST PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GLOCESTER",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "GREENVILLE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "JOHNSTON",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "LINCOLN",
@@ -111,7 +111,7 @@
         {
           "city": "PAWTUCKET",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "PORTSMOUTH",
@@ -121,7 +121,7 @@
         {
           "city": "PROVIDENCE",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "RIVERSIDE",
@@ -166,7 +166,7 @@
         {
           "city": "WESTERLY",
           "state": "RI",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WOONSOCKET",
@@ -180,6 +180,6 @@
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
