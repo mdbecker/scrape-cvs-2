@@ -11,7 +11,7 @@
         {
           "city": "ADDISON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ALGONQUIN",
@@ -31,7 +31,7 @@
         {
           "city": "ARLINGTON HEIGHTS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AURORA",
@@ -46,12 +46,12 @@
         {
           "city": "BARTLETT",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BARTONVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
@@ -71,7 +71,7 @@
         {
           "city": "BELLEVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "BENSENVILLE",
@@ -181,7 +181,7 @@
         {
           "city": "CHARLESTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHICAGO",
@@ -231,7 +231,7 @@
         {
           "city": "CRYSTAL LAKE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DANVILLE",
@@ -291,7 +291,7 @@
         {
           "city": "EUREKA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "EVANSTON",
@@ -326,12 +326,12 @@
         {
           "city": "FLOSSMOOR",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN PARK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FREEPORT",
@@ -361,7 +361,7 @@
         {
           "city": "GLENDALE HEIGHTS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GLENVIEW",
@@ -381,7 +381,7 @@
         {
           "city": "GREENVILLE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "GURNEE",
@@ -394,6 +394,11 @@
           "status": "Available"
         },
         {
+          "city": "HENRY",
+          "state": "IL",
+          "status": "Available"
+        },
+        {
           "city": "HERSCHER",
           "state": "IL",
           "status": "Available"
@@ -401,7 +406,7 @@
         {
           "city": "HICKORY HILLS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIGHLAND",
@@ -441,7 +446,7 @@
         {
           "city": "HOOPESTON",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "JACKSONVILLE",
@@ -461,7 +466,7 @@
         {
           "city": "KANKAKEE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KEWANEE",
@@ -506,7 +511,7 @@
         {
           "city": "LINCOLN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LINCOLNWOOD",
@@ -581,7 +586,7 @@
         {
           "city": "MENDOTA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "METAMORA",
@@ -601,7 +606,7 @@
         {
           "city": "MOKENA",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOLINE",
@@ -626,7 +631,7 @@
         {
           "city": "MOUNT PROSPECT",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MOUNT VERNON",
@@ -676,7 +681,7 @@
         {
           "city": "NORTH RIVERSIDE",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "NORTHBROOK",
@@ -711,7 +716,7 @@
         {
           "city": "OLYMPIA FIELDS",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ORLAND PARK",
@@ -756,7 +761,7 @@
         {
           "city": "PEKIN",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PEORIA",
@@ -791,7 +796,7 @@
         {
           "city": "QUINCY",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "RANTOUL",
@@ -896,12 +901,12 @@
         {
           "city": "STERLING",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STREAMWOOD",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SULLIVAN",
@@ -926,7 +931,7 @@
         {
           "city": "TINLEY PARK",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "URBANA",
@@ -1011,7 +1016,7 @@
         {
           "city": "WOOD RIVER",
           "state": "IL",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WOODRIDGE",
