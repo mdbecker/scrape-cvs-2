@@ -11,17 +11,17 @@
         {
           "city": "ALTOONA",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "AMES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "ANKENY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "BETTENDORF",
@@ -31,17 +31,17 @@
         {
           "city": "CEDAR FALLS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CEDAR RAPIDS",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "CORALVILLE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "COUNCIL BLUFFS",
@@ -56,7 +56,7 @@
         {
           "city": "DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "DUBUQUE",
@@ -71,7 +71,7 @@
         {
           "city": "IOWA CITY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "MARION",
@@ -81,7 +81,7 @@
         {
           "city": "MASON CITY",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "SIOUX CITY",
@@ -91,20 +91,20 @@
         {
           "city": "URBANDALE",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WATERLOO",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         },
         {
           "city": "WEST DES MOINES",
           "state": "IA",
-          "status": "Available"
+          "status": "Fully Booked"
         }
       ]
     },
-    "isBookingCompleted": false
+    "isBookingCompleted": true
   }
 }
