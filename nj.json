@@ -821,10 +821,15 @@
         {
           "city": "PHILLIPSBURG",
           "state": "NJ",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PISCATAWAY",
+          "state": "NJ",
+          "status": "Available"
+        },
+        {
+          "city": "PLAINFIELD",
           "state": "NJ",
           "status": "Available"
         },
