@@ -26,7 +26,7 @@
         {
           "city": "AMHERST",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ANNANDALE",
@@ -36,7 +36,7 @@
         {
           "city": "APPOMATTOX",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ARLINGTON",
@@ -106,7 +106,7 @@
         {
           "city": "CENTREVILLE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHANTILLY",
@@ -141,7 +141,7 @@
         {
           "city": "CHESTERFIELD",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "CHRISTIANSBURG",
@@ -181,7 +181,7 @@
         {
           "city": "DALE CITY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "DALEVILLE",
@@ -216,7 +216,7 @@
         {
           "city": "FAIRFAX STATION",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "FALLS CHURCH",
@@ -281,7 +281,7 @@
         {
           "city": "HARDY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HARRISONBURG",
@@ -301,7 +301,7 @@
         {
           "city": "HERNDON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "HIGHLAND SPRINGS",
@@ -321,12 +321,12 @@
         {
           "city": "KILMARNOCK",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "KING GEORGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LEESBURG",
@@ -351,7 +351,7 @@
         {
           "city": "LURAY",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "LYNCHBURG",
@@ -386,7 +386,7 @@
         {
           "city": "MCLEAN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "MECHANICSVILLE",
@@ -431,7 +431,7 @@
         {
           "city": "OAKTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "ONLEY",
@@ -441,17 +441,17 @@
         {
           "city": "ORANGE",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PALMYRA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PETERSBURG",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "PORTSMOUTH",
@@ -536,7 +536,7 @@
         {
           "city": "SOUTH RIDING",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "SPOTSYLVANIA",
@@ -556,7 +556,7 @@
         {
           "city": "STAUNTON",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "STEPHENS CITY",
@@ -576,12 +576,12 @@
         {
           "city": "SUFFOLK",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VIENNA",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "VINTON",
@@ -626,7 +626,7 @@
         {
           "city": "WOODSTOCK",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "WYTHEVILLE",
@@ -636,7 +636,7 @@
         {
           "city": "YORKTOWN",
           "state": "VA",
-          "status": "Fully Booked"
+          "status": "Available"
         }
       ]
     },
