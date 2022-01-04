@@ -10,1043 +10,1459 @@
       "IL": [
         {
           "city": "ADDISON",
+          "pctAvailable": "-2.66%",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked",
+          "totalAvailable": "-15"
         },
         {
           "city": "ALGONQUIN",
+          "pctAvailable": "18.22%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "117"
         },
         {
           "city": "ALTON",
+          "pctAvailable": "91.50%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1746"
         },
         {
           "city": "ANTIOCH",
+          "pctAvailable": "47.34%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "267"
         },
         {
           "city": "ARLINGTON HEIGHTS",
+          "pctAvailable": "52.29%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1092"
         },
         {
           "city": "AURORA",
+          "pctAvailable": "29.80%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1122"
         },
         {
           "city": "BARRINGTON",
+          "pctAvailable": "52.58%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "915"
         },
         {
           "city": "BARTLETT",
+          "pctAvailable": "30.59%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "603"
         },
         {
           "city": "BARTONVILLE",
+          "pctAvailable": "90.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1134"
         },
         {
           "city": "BATAVIA",
+          "pctAvailable": "8.37%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "48"
         },
         {
           "city": "BEACH PARK",
+          "pctAvailable": "56.98%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "306"
         },
         {
           "city": "BEECHER",
+          "pctAvailable": "57.76%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "279"
         },
         {
           "city": "BELLEVILLE",
+          "pctAvailable": "81.40%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2601"
         },
         {
           "city": "BENSENVILLE",
+          "pctAvailable": "15.13%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "84"
         },
         {
           "city": "BENTON",
+          "pctAvailable": "92.11%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "561"
         },
         {
           "city": "BETHALTO",
+          "pctAvailable": "86.15%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "504"
         },
         {
           "city": "BLOOMINGDALE",
+          "pctAvailable": "51.27%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "843"
         },
         {
           "city": "BLOOMINGTON",
+          "pctAvailable": "34.86%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "501"
         },
         {
           "city": "BOLINGBROOK",
+          "pctAvailable": "36.15%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "693"
         },
         {
           "city": "BOURBONNAIS",
+          "pctAvailable": "60.20%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "345"
         },
         {
           "city": "BRAIDWOOD",
+          "pctAvailable": "67.03%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "360"
         },
         {
           "city": "BRIDGEVIEW",
+          "pctAvailable": "7.56%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "42"
         },
         {
           "city": "BROADVIEW",
+          "pctAvailable": "17.60%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "132"
         },
         {
           "city": "BROOKFIELD",
+          "pctAvailable": "10.99%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "129"
         },
         {
           "city": "BUFFALO GROVE",
+          "pctAvailable": "20.19%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "123"
         },
         {
           "city": "CAHOKIA",
+          "pctAvailable": "94.87%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "555"
         },
         {
           "city": "CALUMET CITY",
+          "pctAvailable": "51.70%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "819"
         },
         {
           "city": "CANTON",
+          "pctAvailable": "92.17%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "495"
         },
         {
           "city": "CARBONDALE",
+          "pctAvailable": "96.11%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1113"
         },
         {
           "city": "CARLYLE",
+          "pctAvailable": "93.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "558"
         },
         {
           "city": "CARMI",
+          "pctAvailable": "98.78%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "486"
         },
         {
           "city": "CAROL STREAM",
+          "pctAvailable": "9.96%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "78"
         },
         {
           "city": "CARY",
+          "pctAvailable": "53.65%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "882"
         },
         {
           "city": "CENTRALIA",
+          "pctAvailable": "94.05%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "522"
         },
         {
           "city": "CHAMPAIGN",
+          "pctAvailable": "79.32%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1554"
         },
         {
           "city": "CHARLESTON",
+          "pctAvailable": "84.28%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "708"
         },
         {
           "city": "CHICAGO",
+          "pctAvailable": "24.22%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "13995"
         },
         {
           "city": "CHICAGO HEIGHTS",
+          "pctAvailable": "28.64%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "159"
         },
         {
           "city": "CHILLICOTHE",
+          "pctAvailable": "88.10%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "489"
         },
         {
           "city": "CICERO",
+          "pctAvailable": "7.25%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "108"
         },
         {
           "city": "CLINTON",
+          "pctAvailable": "89.38%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "480"
         },
         {
           "city": "COAL CITY",
+          "pctAvailable": "53.63%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "288"
         },
         {
           "city": "COLLINSVILLE",
+          "pctAvailable": "70.23%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1770"
         },
         {
           "city": "COLUMBIA",
+          "pctAvailable": "69.28%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1164"
         },
         {
           "city": "CRESTWOOD",
+          "pctAvailable": "14.02%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "69"
         },
         {
           "city": "CRYSTAL LAKE",
+          "pctAvailable": "38.25%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1338"
         },
         {
           "city": "DANVILLE",
+          "pctAvailable": "86.70%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "528"
         },
         {
           "city": "DARIEN",
+          "pctAvailable": "8.38%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "45"
         },
         {
           "city": "DECATUR",
+          "pctAvailable": "81.34%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2067"
         },
         {
           "city": "DEKALB",
+          "pctAvailable": "38.10%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "423"
         },
         {
           "city": "DOWNERS GROVE",
+          "pctAvailable": "37.96%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1140"
         },
         {
           "city": "DWIGHT",
+          "pctAvailable": "88.80%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "333"
         },
         {
           "city": "EAST PEORIA",
+          "pctAvailable": "71.63%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1053"
         },
         {
           "city": "EDWARDSVILLE",
+          "pctAvailable": "61.30%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "732"
         },
         {
           "city": "EL PASO",
+          "pctAvailable": "75.96%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "294"
         },
         {
           "city": "ELGIN",
+          "pctAvailable": "4.14%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "51"
         },
         {
           "city": "ELMHURST",
+          "pctAvailable": "22.44%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "297"
         },
         {
           "city": "EUREKA",
+          "pctAvailable": "91.87%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "543"
         },
         {
           "city": "EVANSTON",
+          "pctAvailable": "15.92%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "615"
         },
         {
           "city": "EVERGREEN PARK",
+          "pctAvailable": "9.89%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "54"
         },
         {
           "city": "FAIRBURY",
+          "pctAvailable": "92.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "414"
         },
         {
           "city": "FAIRFIELD",
+          "pctAvailable": "99.01%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "603"
         },
         {
           "city": "FAIRVIEW HEIGHTS",
+          "pctAvailable": "63.78%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "687"
         },
         {
           "city": "FLORA",
+          "pctAvailable": "100.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "609"
         },
         {
           "city": "FLOSSMOOR",
+          "pctAvailable": "16.94%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "123"
         },
         {
           "city": "FRANKLIN PARK",
+          "pctAvailable": "2.23%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "12"
         },
         {
           "city": "FREEPORT",
+          "pctAvailable": "90.30%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1677"
         },
         {
           "city": "GALESBURG",
+          "pctAvailable": "95.14%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "588"
         },
         {
           "city": "GENEVA",
+          "pctAvailable": "52.21%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1203"
         },
         {
           "city": "GILMAN",
+          "pctAvailable": "95.39%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "435"
         },
         {
           "city": "GLEN ELLYN",
+          "pctAvailable": "22.76%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "168"
         },
         {
           "city": "GLENDALE HEIGHTS",
+          "pctAvailable": "43.10%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1143"
         },
         {
           "city": "GLENVIEW",
+          "pctAvailable": "18.42%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "105"
         },
         {
           "city": "GODFREY",
+          "pctAvailable": "88.86%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1269"
         },
         {
           "city": "GRANITE CITY",
+          "pctAvailable": "85.83%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1818"
         },
         {
           "city": "GREENVILLE",
+          "pctAvailable": "97.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "582"
         },
         {
           "city": "GURNEE",
+          "pctAvailable": "-0.52%",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked",
+          "totalAvailable": "-3"
         },
         {
           "city": "HAVANA",
+          "pctAvailable": "93.40%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "552"
         },
         {
           "city": "HENRY",
+          "pctAvailable": "81.73%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "282"
         },
         {
           "city": "HERSCHER",
+          "pctAvailable": "96.89%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "375"
         },
         {
           "city": "HICKORY HILLS",
+          "pctAvailable": "8.24%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "45"
         },
         {
           "city": "HIGHLAND",
+          "pctAvailable": "82.06%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1428"
         },
         {
           "city": "HIGHLAND PARK",
+          "pctAvailable": "51.11%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1239"
         },
         {
           "city": "HILLSBORO",
+          "pctAvailable": "98.37%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "546"
         },
         {
           "city": "HILLSIDE",
+          "pctAvailable": "-0.28%",
           "state": "IL",
-          "status": "Available"
+          "status": "Fully Booked",
+          "totalAvailable": "-3"
         },
         {
           "city": "HODGKINS",
+          "pctAvailable": "19.62%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "126"
         },
         {
           "city": "HOFFMAN ESTATES",
+          "pctAvailable": "8.57%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "36"
         },
         {
           "city": "HOMEWOOD",
+          "pctAvailable": "34.57%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "222"
         },
         {
           "city": "HOOPESTON",
+          "pctAvailable": "95.07%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "579"
         },
         {
           "city": "JACKSONVILLE",
+          "pctAvailable": "94.08%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "573"
         },
         {
           "city": "JERSEYVILLE",
+          "pctAvailable": "97.45%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "690"
         },
         {
           "city": "JOLIET",
+          "pctAvailable": "21.17%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "345"
         },
         {
           "city": "KANKAKEE",
+          "pctAvailable": "78.32%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "477"
         },
         {
           "city": "KEWANEE",
+          "pctAvailable": "92.07%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "453"
         },
         {
           "city": "LACON",
+          "pctAvailable": "93.04%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "321"
         },
         {
           "city": "LAKE BLUFF",
+          "pctAvailable": "29.63%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "144"
         },
         {
           "city": "LAKE FOREST",
+          "pctAvailable": "34.97%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "213"
         },
         {
           "city": "LAKE IN THE HILLS",
+          "pctAvailable": "52.20%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1278"
         },
         {
           "city": "LAKE ZURICH",
+          "pctAvailable": "6.70%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "33"
         },
         {
           "city": "LAWRENCEVILLE",
+          "pctAvailable": "99.01%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "603"
         },
         {
           "city": "LEMONT",
+          "pctAvailable": "12.70%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "117"
         },
         {
           "city": "LINCOLN",
+          "pctAvailable": "88.67%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "540"
         },
         {
           "city": "LINCOLNWOOD",
+          "pctAvailable": "52.43%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "906"
         },
         {
           "city": "LINDENHURST",
+          "pctAvailable": "7.44%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "42"
         },
         {
           "city": "LOCKPORT",
+          "pctAvailable": "52.06%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "906"
         },
         {
           "city": "LOMBARD",
+          "pctAvailable": "14.65%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "288"
         },
         {
           "city": "LONG GROVE",
+          "pctAvailable": "21.46%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "228"
         },
         {
           "city": "LOVES PARK",
+          "pctAvailable": "83.25%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "507"
         },
         {
           "city": "MACHESNEY PARK",
+          "pctAvailable": "77.57%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "882"
         },
         {
           "city": "MACOMB",
+          "pctAvailable": "95.56%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "582"
         },
         {
           "city": "MAHOMET",
+          "pctAvailable": "92.17%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "495"
         },
         {
           "city": "MANTENO",
+          "pctAvailable": "66.48%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "375"
         },
         {
           "city": "MARION",
+          "pctAvailable": "93.70%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "714"
         },
         {
           "city": "MATTOON",
+          "pctAvailable": "90.76%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "708"
         },
         {
           "city": "MCHENRY",
+          "pctAvailable": "49.18%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "909"
         },
         {
           "city": "MELROSE PARK",
+          "pctAvailable": "16.35%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "105"
         },
         {
           "city": "MENDOTA",
+          "pctAvailable": "75.23%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "948"
         },
         {
           "city": "METAMORA",
+          "pctAvailable": "91.87%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "339"
         },
         {
           "city": "MIDLOTHIAN",
+          "pctAvailable": "15.27%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "MILAN",
+          "pctAvailable": "87.68%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "534"
         },
         {
           "city": "MOKENA",
+          "pctAvailable": "44.82%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1131"
         },
         {
           "city": "MOLINE",
+          "pctAvailable": "89.21%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "918"
         },
         {
           "city": "MOMENCE",
+          "pctAvailable": "92.81%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "426"
         },
         {
           "city": "MORTON",
+          "pctAvailable": "42.36%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "258"
         },
         {
           "city": "MORTON GROVE",
+          "pctAvailable": "7.14%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "39"
         },
         {
           "city": "MOUNT CARMEL",
+          "pctAvailable": "95.07%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "579"
         },
         {
           "city": "MOUNT PROSPECT",
+          "pctAvailable": "52.20%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1278"
         },
         {
           "city": "MOUNT VERNON",
+          "pctAvailable": "94.66%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "585"
         },
         {
           "city": "MUNDELEIN",
+          "pctAvailable": "16.14%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "276"
         },
         {
           "city": "NAPERVILLE",
+          "pctAvailable": "37.19%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1284"
         },
         {
           "city": "NEW LENOX",
+          "pctAvailable": "24.91%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "429"
         },
         {
           "city": "NEWTON",
+          "pctAvailable": "98.17%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "483"
         },
         {
           "city": "NILES",
+          "pctAvailable": "42.55%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1938"
         },
         {
           "city": "NORMAL",
+          "pctAvailable": "54.03%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1125"
         },
         {
           "city": "NORRIDGE",
+          "pctAvailable": "5.60%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "42"
         },
         {
           "city": "NORTH AURORA",
+          "pctAvailable": "14.28%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "78"
         },
         {
           "city": "NORTH RIVERSIDE",
+          "pctAvailable": "48.87%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1126"
         },
         {
           "city": "NORTHBROOK",
+          "pctAvailable": "37.69%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1356"
         },
         {
           "city": "O FALLON",
+          "pctAvailable": "57.35%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "819"
         },
         {
           "city": "OAK FOREST",
+          "pctAvailable": "9.89%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "54"
         },
         {
           "city": "OAK LAWN",
+          "pctAvailable": "8.53%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "42"
         },
         {
           "city": "OAK PARK",
+          "pctAvailable": "7.58%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "150"
         },
         {
           "city": "OLNEY",
+          "pctAvailable": "96.05%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "585"
         },
         {
           "city": "OLYMPIA FIELDS",
+          "pctAvailable": "50.54%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "837"
         },
         {
           "city": "ORLAND PARK",
+          "pctAvailable": "19.67%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "324"
         },
         {
           "city": "OSWEGO",
+          "pctAvailable": "14.01%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "90"
         },
         {
           "city": "OTTAWA",
+          "pctAvailable": "21.67%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "132"
         },
         {
           "city": "PALATINE",
+          "pctAvailable": "46.04%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1326"
         },
         {
           "city": "PALOS HEIGHTS",
+          "pctAvailable": "15.64%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "84"
         },
         {
           "city": "PARIS",
+          "pctAvailable": "92.11%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "561"
         },
         {
           "city": "PARK FOREST",
+          "pctAvailable": "21.84%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "135"
         },
         {
           "city": "PARK RIDGE",
+          "pctAvailable": "2.43%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "18"
         },
         {
           "city": "PEKIN",
+          "pctAvailable": "88.08%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "732"
         },
         {
           "city": "PEORIA",
+          "pctAvailable": "81.57%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2484"
         },
         {
           "city": "PEORIA HEIGHTS",
+          "pctAvailable": "82.12%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "441"
         },
         {
           "city": "PEOTONE",
+          "pctAvailable": "46.40%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "213"
         },
         {
           "city": "PERU",
+          "pctAvailable": "78.45%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2589"
         },
         {
           "city": "PLAINFIELD",
+          "pctAvailable": "18.14%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "276"
         },
         {
           "city": "PONTIAC",
+          "pctAvailable": "91.35%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "507"
         },
         {
           "city": "QUINCY",
+          "pctAvailable": "92.66%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "606"
         },
         {
           "city": "RANTOUL",
+          "pctAvailable": "94.11%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "480"
         },
         {
           "city": "RIVER FOREST",
+          "pctAvailable": "48.54%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "800"
         },
         {
           "city": "RIVERDALE",
+          "pctAvailable": "16.75%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "99"
         },
         {
           "city": "ROCK ISLAND",
+          "pctAvailable": "86.50%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "519"
         },
         {
           "city": "ROCKFORD",
+          "pctAvailable": "87.44%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "4386"
         },
         {
           "city": "ROLLING MEADOWS",
+          "pctAvailable": "5.82%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "36"
         },
         {
           "city": "ROSCOE",
+          "pctAvailable": "76.19%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "336"
         },
         {
           "city": "ROSEMONT",
+          "pctAvailable": "11.68%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "75"
         },
         {
           "city": "ROUND LAKE",
+          "pctAvailable": "34.29%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "249"
         },
         {
           "city": "SAINT CHARLES",
+          "pctAvailable": "43.86%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "879"
         },
         {
           "city": "SALEM",
+          "pctAvailable": "97.87%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "552"
         },
         {
           "city": "SAVOY",
+          "pctAvailable": "91.36%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1047"
         },
         {
           "city": "SCHAUMBURG",
+          "pctAvailable": "47.56%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3129"
         },
         {
           "city": "SHELBYVILLE",
+          "pctAvailable": "96.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "576"
         },
         {
           "city": "SHILOH",
+          "pctAvailable": "76.82%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "378"
         },
         {
           "city": "SHOREWOOD",
+          "pctAvailable": "40.29%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1075"
         },
         {
           "city": "SKOKIE",
+          "pctAvailable": "4.79%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "SOUTH ELGIN",
+          "pctAvailable": "40.24%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "897"
         },
         {
           "city": "SPRINGFIELD",
+          "pctAvailable": "88.91%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "4932"
         },
         {
           "city": "STAUNTON",
+          "pctAvailable": "84.53%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "492"
         },
         {
           "city": "STERLING",
+          "pctAvailable": "84.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "504"
         },
         {
           "city": "STREAMWOOD",
+          "pctAvailable": "1.60%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "18"
         },
         {
           "city": "SULLIVAN",
+          "pctAvailable": "80.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "312"
         },
         {
           "city": "SWANSEA",
+          "pctAvailable": "95.61%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1176"
         },
         {
           "city": "TAYLORVILLE",
+          "pctAvailable": "92.50%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "555"
         },
         {
           "city": "THIRD LAKE",
+          "pctAvailable": "33.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "201"
         },
         {
           "city": "TINLEY PARK",
+          "pctAvailable": "41.24%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1569"
         },
         {
           "city": "URBANA",
+          "pctAvailable": "75.13%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "861"
         },
         {
           "city": "VERNON HILLS",
+          "pctAvailable": "4.18%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "24"
         },
         {
           "city": "VILLA PARK",
+          "pctAvailable": "21.67%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "WARRENVILLE",
+          "pctAvailable": "15.24%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "75"
         },
         {
           "city": "WASHINGTON",
+          "pctAvailable": "86.00%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "516"
         },
         {
           "city": "WATERLOO",
+          "pctAvailable": "81.53%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "477"
         },
         {
           "city": "WATSEKA",
+          "pctAvailable": "96.55%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "588"
         },
         {
           "city": "WAUKEGAN",
+          "pctAvailable": "52.35%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "867"
         },
         {
           "city": "WEST FRANKFORT",
+          "pctAvailable": "92.61%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "564"
         },
         {
           "city": "WESTVILLE",
+          "pctAvailable": "86.59%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "504"
         },
         {
           "city": "WHEATON",
+          "pctAvailable": "46.64%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2124"
         },
         {
           "city": "WHEELING",
+          "pctAvailable": "19.58%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "84"
         },
         {
           "city": "WILLOWBROOK",
+          "pctAvailable": "51.58%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1077"
         },
         {
           "city": "WILMETTE",
+          "pctAvailable": "52.69%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "879"
         },
         {
           "city": "WILMINGTON",
+          "pctAvailable": "45.25%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "243"
         },
         {
           "city": "WOOD DALE",
+          "pctAvailable": "7.92%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "39"
         },
         {
           "city": "WOOD RIVER",
+          "pctAvailable": "80.27%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "525"
         },
         {
           "city": "WOODRIDGE",
+          "pctAvailable": "11.92%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "162"
         },
         {
           "city": "WORTH",
+          "pctAvailable": "16.50%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "102"
         },
         {
           "city": "YORKVILLE",
+          "pctAvailable": "15.18%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "87"
         },
         {
           "city": "ZION",
+          "pctAvailable": "64.80%",
           "state": "IL",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "348"
         }
       ]
     },
