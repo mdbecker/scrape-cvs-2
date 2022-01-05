@@ -10,68 +10,94 @@
       "DE": [
         {
           "city": "BEAR",
+          "pctAvailable": "4.58%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "30"
         },
         {
           "city": "BETHANY BEACH",
+          "pctAvailable": "95.12%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "468"
         },
         {
           "city": "CLAYMONT",
+          "pctAvailable": "20.19%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "123"
         },
         {
           "city": "DOVER",
+          "pctAvailable": "32.21%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "516"
         },
         {
           "city": "LEWES",
+          "pctAvailable": "79.31%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "483"
         },
         {
           "city": "MIDDLETOWN",
+          "pctAvailable": "22.93%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "150"
         },
         {
           "city": "MILFORD",
+          "pctAvailable": "62.08%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "339"
         },
         {
           "city": "NEW CASTLE",
+          "pctAvailable": "27.47%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "150"
         },
         {
           "city": "NEWARK",
+          "pctAvailable": "23.21%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "537"
         },
         {
           "city": "OCEAN VIEW",
+          "pctAvailable": "66.50%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "405"
         },
         {
           "city": "REHOBOTH BEACH",
+          "pctAvailable": "86.70%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "528"
         },
         {
           "city": "SELBYVILLE",
+          "pctAvailable": "90.57%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "519"
         },
         {
           "city": "WILMINGTON",
+          "pctAvailable": "20.77%",
           "state": "DE",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "804"
         }
       ]
     },
