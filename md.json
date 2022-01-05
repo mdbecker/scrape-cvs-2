@@ -10,538 +10,752 @@
       "MD": [
         {
           "city": "ABERDEEN",
+          "pctAvailable": "1.57%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "9"
         },
         {
           "city": "ABINGDON",
+          "pctAvailable": "6.79%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "42"
         },
         {
           "city": "ANNAPOLIS",
+          "pctAvailable": "58.00%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3912"
         },
         {
           "city": "ARNOLD",
+          "pctAvailable": "47.49%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "852"
         },
         {
           "city": "ASHTON",
+          "pctAvailable": "54.72%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "834"
         },
         {
           "city": "BALTIMORE",
+          "pctAvailable": "19.86%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3537"
         },
         {
           "city": "BEL AIR",
+          "pctAvailable": "44.24%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1383"
         },
         {
           "city": "BELTSVILLE",
+          "pctAvailable": "59.89%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1326"
         },
         {
           "city": "BETHESDA",
+          "pctAvailable": "62.22%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "4032"
         },
         {
           "city": "BOWIE",
+          "pctAvailable": "44.95%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2992"
         },
         {
           "city": "BOYDS",
+          "pctAvailable": "47.33%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "798"
         },
         {
           "city": "BRANDYWINE",
+          "pctAvailable": "40.00%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "300"
         },
         {
           "city": "BRYANS ROAD",
+          "pctAvailable": "63.40%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "837"
         },
         {
           "city": "BURTONSVILLE",
+          "pctAvailable": "28.81%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "357"
         },
         {
           "city": "CALIFORNIA",
+          "pctAvailable": "59.63%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "873"
         },
         {
           "city": "CAMP SPRINGS",
+          "pctAvailable": "28.45%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "210"
         },
         {
           "city": "CAPITOL HEIGHTS",
+          "pctAvailable": "35.53%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "258"
         },
         {
           "city": "CATONSVILLE",
+          "pctAvailable": "-1.73%",
           "state": "MD",
-          "status": "Available"
+          "status": "Fully Booked",
+          "totalAvailable": "-9"
         },
         {
           "city": "CHESAPEAKE BEACH",
+          "pctAvailable": "59.24%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "471"
         },
         {
           "city": "CHESTER",
+          "pctAvailable": "68.78%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1329"
         },
         {
           "city": "CHEVY CHASE",
+          "pctAvailable": "35.15%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "135"
         },
         {
           "city": "CLARKSVILLE",
+          "pctAvailable": "44.93%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "705"
         },
         {
           "city": "CLINTON",
+          "pctAvailable": "70.04%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1326"
         },
         {
           "city": "COCKEYSVILLE",
+          "pctAvailable": "43.97%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "657"
         },
         {
           "city": "COLLEGE PARK",
+          "pctAvailable": "56.40%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1506"
         },
         {
           "city": "COLMAR MANOR",
+          "pctAvailable": "42.43%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "303"
         },
         {
           "city": "COLUMBIA",
+          "pctAvailable": "23.21%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "753"
         },
         {
           "city": "CROFTON",
+          "pctAvailable": "42.68%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1032"
         },
         {
           "city": "CUMBERLAND",
+          "pctAvailable": "81.74%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "309"
         },
         {
           "city": "DAMASCUS",
+          "pctAvailable": "42.37%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "525"
         },
         {
           "city": "DERWOOD",
+          "pctAvailable": "26.03%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "189"
         },
         {
           "city": "DISTRICT HEIGHTS",
+          "pctAvailable": "47.53%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1506"
         },
         {
           "city": "DUNKIRK",
+          "pctAvailable": "68.67%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "888"
         },
         {
           "city": "EASTON",
+          "pctAvailable": "78.60%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1896"
         },
         {
           "city": "EDGEWATER",
+          "pctAvailable": "37.01%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "312"
         },
         {
           "city": "EDGEWOOD",
+          "pctAvailable": "12.94%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "87"
         },
         {
           "city": "ELDERSBURG",
+          "pctAvailable": "40.30%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "723"
         },
         {
           "city": "ELKRIDGE",
+          "pctAvailable": "64.88%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "981"
         },
         {
           "city": "ELKTON",
+          "pctAvailable": "5.85%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "33"
         },
         {
           "city": "ELLICOTT CITY",
+          "pctAvailable": "19.47%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "762"
         },
         {
           "city": "ESSEX",
+          "pctAvailable": "56.90%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "717"
         },
         {
           "city": "FALLSTON",
+          "pctAvailable": "18.44%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "207"
         },
         {
           "city": "FOREST HILL",
+          "pctAvailable": "8.31%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "FORESTVILLE",
+          "pctAvailable": "37.19%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "270"
         },
         {
           "city": "FORT WASHINGTON",
+          "pctAvailable": "38.89%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "636"
         },
         {
           "city": "FREDERICK",
+          "pctAvailable": "55.42%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "6294"
         },
         {
           "city": "FULTON",
+          "pctAvailable": "53.24%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "936"
         },
         {
           "city": "GAITHERSBURG",
+          "pctAvailable": "55.67%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "5904"
         },
         {
           "city": "GAMBRILLS",
+          "pctAvailable": "28.50%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "183"
         },
         {
           "city": "GERMANTOWN",
+          "pctAvailable": "50.88%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3009"
         },
         {
           "city": "GLEN BURNIE",
+          "pctAvailable": "38.37%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1560"
         },
         {
           "city": "GREENBELT",
+          "pctAvailable": "43.19%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1248"
         },
         {
           "city": "HAGERSTOWN",
+          "pctAvailable": "76.38%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "5280"
         },
         {
           "city": "HAMPSTEAD",
+          "pctAvailable": "15.27%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "HANOVER",
+          "pctAvailable": "57.09%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1062"
         },
         {
           "city": "HAVRE DE GRACE",
+          "pctAvailable": "11.17%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "63"
         },
         {
           "city": "HOLLYWOOD",
+          "pctAvailable": "56.17%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "273"
         },
         {
           "city": "HYATTSVILLE",
+          "pctAvailable": "47.58%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2811"
         },
         {
           "city": "JESSUP",
+          "pctAvailable": "25.18%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "201"
         },
         {
           "city": "KENSINGTON",
+          "pctAvailable": "39.33%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "951"
         },
         {
           "city": "LA PLATA",
+          "pctAvailable": "63.07%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2388"
         },
         {
           "city": "LANDOVER",
+          "pctAvailable": "31.81%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "231"
         },
         {
           "city": "LANDOVER HILLS",
+          "pctAvailable": "66.14%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1014"
         },
         {
           "city": "LANHAM",
+          "pctAvailable": "56.61%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1053"
         },
         {
           "city": "LAUREL",
+          "pctAvailable": "44.98%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2367"
         },
         {
           "city": "LAVALE",
+          "pctAvailable": "84.58%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "576"
         },
         {
           "city": "LEONARDTOWN",
+          "pctAvailable": "79.67%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1023"
         },
         {
           "city": "LEXINGTON PARK",
+          "pctAvailable": "70.95%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "894"
         },
         {
           "city": "MECHANICSVILLE",
+          "pctAvailable": "50.24%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "306"
         },
         {
           "city": "MIDDLE RIVER",
+          "pctAvailable": "54.85%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "915"
         },
         {
           "city": "MIDDLETOWN",
+          "pctAvailable": "40.36%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "264"
         },
         {
           "city": "MILLERSVILLE",
+          "pctAvailable": "50.00%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1662"
         },
         {
           "city": "MOUNT AIRY",
+          "pctAvailable": "18.80%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "123"
         },
         {
           "city": "NEW CARROLLTON",
+          "pctAvailable": "11.92%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "78"
         },
         {
           "city": "NEW MARKET",
+          "pctAvailable": "40.30%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "705"
         },
         {
           "city": "NOTTINGHAM",
+          "pctAvailable": "54.67%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "912"
         },
         {
           "city": "OAKLAND",
+          "pctAvailable": "96.33%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "630"
         },
         {
           "city": "OCEAN CITY",
+          "pctAvailable": "78.94%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1350"
         },
         {
           "city": "ODENTON",
+          "pctAvailable": "39.46%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "489"
         },
         {
           "city": "OLNEY",
+          "pctAvailable": "49.77%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1965"
         },
         {
           "city": "OWINGS MILLS",
+          "pctAvailable": "17.05%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "309"
         },
         {
           "city": "OXON HILL",
+          "pctAvailable": "52.59%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1551"
         },
         {
           "city": "PARKVILLE",
+          "pctAvailable": "54.74%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1662"
         },
         {
           "city": "PASADENA",
+          "pctAvailable": "25.69%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "474"
         },
         {
           "city": "PERRY HALL",
+          "pctAvailable": "52.29%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1092"
         },
         {
           "city": "PIKESVILLE",
+          "pctAvailable": "13.61%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "78"
         },
         {
           "city": "POOLESVILLE",
+          "pctAvailable": "37.19%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "270"
         },
         {
           "city": "REISTERSTOWN",
+          "pctAvailable": "23.72%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "294"
         },
         {
           "city": "RIVERDALE",
+          "pctAvailable": "55.91%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "993"
         },
         {
           "city": "ROCKVILLE",
+          "pctAvailable": "51.18%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "7515"
         },
         {
           "city": "SALISBURY",
+          "pctAvailable": "67.53%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "774"
         },
         {
           "city": "SEABROOK",
+          "pctAvailable": "54.56%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "681"
         },
         {
           "city": "SEAT PLEASANT",
+          "pctAvailable": "39.66%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "288"
         },
         {
           "city": "SEVERN",
+          "pctAvailable": "33.53%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "846"
         },
         {
           "city": "SEVERNA PARK",
+          "pctAvailable": "29.50%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "231"
         },
         {
           "city": "SILVER SPRING",
+          "pctAvailable": "50.80%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "6621"
         },
         {
           "city": "SOLOMONS",
+          "pctAvailable": "75.00%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "423"
         },
         {
           "city": "TANEYTOWN",
+          "pctAvailable": "30.73%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "201"
         },
         {
           "city": "TEMPLE HILLS",
+          "pctAvailable": "44.73%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "357"
         },
         {
           "city": "THURMONT",
+          "pctAvailable": "38.42%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "234"
         },
         {
           "city": "TOWSON",
+          "pctAvailable": "21.85%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1268"
         },
         {
           "city": "UPPER MARLBORO",
+          "pctAvailable": "35.83%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1476"
         },
         {
           "city": "WALDORF",
+          "pctAvailable": "52.47%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2511"
         },
         {
           "city": "WALKERSVILLE",
+          "pctAvailable": "42.85%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "234"
         },
         {
           "city": "WESTMINSTER",
+          "pctAvailable": "34.57%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "834"
         },
         {
           "city": "WHEATON",
+          "pctAvailable": "63.87%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2610"
         },
         {
           "city": "WHITE PLAINS",
+          "pctAvailable": "44.22%",
           "state": "MD",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "528"
         }
       ]
     },
