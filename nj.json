@@ -10,1641 +10,1198 @@
       "NJ": [
         {
           "city": "ABERDEEN",
-          "pctAvailable": "58.01%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1455"
+          "status": "Available"
+        },
+        {
+          "city": "ABSECON",
+          "state": "NJ",
+          "status": "Fully Booked"
+        },
+        {
+          "city": "ATLANTIC CITY",
+          "state": "NJ",
+          "status": "Fully Booked"
         },
         {
           "city": "BARNEGAT",
-          "pctAvailable": "59.04%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "705"
+          "status": "Available"
         },
         {
           "city": "BAYONNE",
-          "pctAvailable": "46.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1221"
+          "status": "Available"
         },
         {
           "city": "BEACHWOOD",
-          "pctAvailable": "65.92%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "447"
+          "status": "Available"
         },
         {
           "city": "BEDMINSTER",
-          "pctAvailable": "5.10%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "87"
+          "status": "Available"
         },
         {
           "city": "BELLE MEAD",
-          "pctAvailable": "52.15%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1377"
+          "status": "Available"
         },
         {
           "city": "BELLEVILLE",
-          "pctAvailable": "13.18%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "72"
+          "status": "Available"
         },
         {
           "city": "BERKELEY HEIGHTS",
-          "pctAvailable": "9.36%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "BERLIN",
-          "pctAvailable": "51.60%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "435"
+          "status": "Available"
         },
         {
           "city": "BERNARDSVILLE",
-          "pctAvailable": "6.50%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "48"
+          "status": "Available"
         },
         {
           "city": "BLACKWOOD",
-          "pctAvailable": "58.57%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1137"
+          "status": "Available"
         },
         {
           "city": "BLOOMFIELD",
-          "pctAvailable": "43.33%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1317"
+          "status": "Available"
         },
         {
           "city": "BRICK",
-          "pctAvailable": "54.12%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1122"
+          "status": "Available"
         },
         {
           "city": "BRIDGEWATER",
-          "pctAvailable": "5.80%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "93"
+          "status": "Available"
         },
         {
           "city": "BRIGANTINE",
-          "pctAvailable": "84.57%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "477"
+          "status": "Available"
         },
         {
           "city": "BROWNS MILLS",
-          "pctAvailable": "62.63%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "714"
+          "status": "Available"
         },
         {
           "city": "BUDD LAKE",
-          "pctAvailable": "0.45%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "3"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON",
-          "pctAvailable": "50.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "246"
+          "status": "Available"
         },
         {
           "city": "BURLINGTON TOWNSHIP",
-          "pctAvailable": "44.50%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "243"
+          "status": "Available"
         },
         {
           "city": "CAMDEN",
-          "pctAvailable": "49.02%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "378"
+          "status": "Available"
         },
         {
           "city": "CAPE MAY COURT HOUSE",
-          "pctAvailable": "83.53%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1263"
+          "status": "Available"
         },
         {
           "city": "CARTERET",
-          "pctAvailable": "54.89%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "975"
+          "status": "Available"
         },
         {
           "city": "CEDAR GROVE",
-          "pctAvailable": "37.53%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "804"
+          "status": "Available"
         },
         {
           "city": "CHATHAM",
-          "pctAvailable": "14.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "174"
+          "status": "Available"
         },
         {
           "city": "CHERRY HILL",
-          "pctAvailable": "60.38%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "3123"
+          "status": "Available"
         },
         {
           "city": "CHESTER",
-          "pctAvailable": "53.71%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "999"
+          "status": "Available"
         },
         {
           "city": "CLARK",
-          "pctAvailable": "1.15%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "12"
+          "status": "Available"
         },
         {
           "city": "CLEMENTON",
-          "pctAvailable": "68.90%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "492"
+          "status": "Available"
         },
         {
           "city": "CLIFTON",
-          "pctAvailable": "44.97%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "3531"
+          "status": "Available"
         },
         {
           "city": "CLOSTER",
-          "pctAvailable": "26.63%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "294"
+          "status": "Available"
         },
         {
           "city": "CRESSKILL",
-          "pctAvailable": "7.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "DELRAN",
-          "pctAvailable": "75.65%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1035"
+          "status": "Available"
         },
         {
           "city": "DENVILLE",
-          "pctAvailable": "16.54%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "141"
+          "status": "Available"
         },
         {
           "city": "DEPTFORD",
-          "pctAvailable": "57.60%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "216"
+          "status": "Available"
         },
         {
           "city": "DUMONT",
-          "pctAvailable": "22.63%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "258"
+          "status": "Available"
         },
         {
           "city": "EAST BRUNSWICK",
-          "pctAvailable": "40.42%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "965"
+          "status": "Available"
         },
         {
           "city": "EAST HANOVER",
-          "pctAvailable": "48.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1401"
+          "status": "Available"
         },
         {
           "city": "EAST ORANGE",
-          "pctAvailable": "16.74%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "108"
+          "status": "Available"
         },
         {
           "city": "EAST RUTHERFORD",
-          "pctAvailable": "60.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1500"
+          "status": "Available"
         },
         {
           "city": "EAST WINDSOR",
-          "pctAvailable": "50.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2460"
+          "status": "Available"
         },
         {
           "city": "EASTAMPTON",
-          "pctAvailable": "35.13%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "195"
+          "status": "Available"
         },
         {
           "city": "EATONTOWN",
-          "pctAvailable": "48.02%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "840"
+          "status": "Available"
         },
         {
           "city": "EDGEWATER",
-          "pctAvailable": "22.75%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "342"
+          "status": "Available"
         },
         {
           "city": "EDISON",
-          "pctAvailable": "3.19%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "54"
+          "status": "Available"
         },
         {
           "city": "EGG HARBOR TOWNSHIP",
-          "pctAvailable": "80.52%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1761"
+          "status": "Available"
         },
         {
           "city": "ELIZABETH",
-          "pctAvailable": "42.34%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2283"
+          "status": "Available"
         },
         {
           "city": "ELMWOOD PARK",
-          "pctAvailable": "52.19%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "927"
+          "status": "Available"
         },
         {
           "city": "ENGLEWOOD",
-          "pctAvailable": "53.45%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1347"
+          "status": "Available"
         },
         {
           "city": "EWING",
-          "pctAvailable": "45.97%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1506"
+          "status": "Available"
         },
         {
           "city": "FAIR LAWN",
-          "pctAvailable": "26.41%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "966"
+          "status": "Available"
         },
         {
           "city": "FAIRFIELD",
-          "pctAvailable": "29.87%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "147"
+          "status": "Available"
         },
         {
           "city": "FAIRLAWN",
-          "pctAvailable": "16.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "90"
+          "status": "Available"
         },
         {
           "city": "FAIRVIEW",
-          "pctAvailable": "52.90%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "984"
+          "status": "Available"
         },
         {
           "city": "FLEMINGTON",
-          "pctAvailable": "49.72%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2409"
+          "status": "Available"
         },
         {
           "city": "FLORHAM PARK",
-          "pctAvailable": "7.17%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "45"
+          "status": "Available"
         },
         {
           "city": "FORT LEE",
-          "pctAvailable": "52.12%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "3270"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN PARK",
-          "pctAvailable": "53.70%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1347"
+          "status": "Available"
         },
         {
           "city": "FREEHOLD",
-          "pctAvailable": "35.30%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "663"
+          "status": "Available"
         },
         {
           "city": "GALLOWAY",
-          "pctAvailable": "51.80%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "948"
+          "status": "Available"
         },
         {
           "city": "GARFIELD",
-          "pctAvailable": "12.45%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "GARWOOD",
-          "pctAvailable": "11.81%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "90"
+          "status": "Available"
         },
         {
           "city": "GIBBSBORO",
-          "pctAvailable": "46.58%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "327"
+          "status": "Available"
         },
         {
           "city": "GLASSBORO",
-          "pctAvailable": "63.16%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2089"
+          "status": "Available"
         },
         {
           "city": "GLEN ROCK",
-          "pctAvailable": "53.60%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1383"
+          "status": "Available"
         },
         {
           "city": "GLOUCESTER CITY",
-          "pctAvailable": "68.90%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1323"
+          "status": "Available"
         },
         {
           "city": "GREEN BROOK",
-          "pctAvailable": "3.88%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "HACKENSACK",
-          "pctAvailable": "11.69%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "252"
+          "status": "Available"
         },
         {
           "city": "HACKETTSTOWN",
-          "pctAvailable": "36.82%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "813"
+          "status": "Available"
         },
         {
           "city": "HADDON HEIGHTS",
-          "pctAvailable": "69.26%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "534"
+          "status": "Available"
         },
         {
           "city": "HADDON TOWNSHIP",
-          "pctAvailable": "74.33%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "999"
+          "status": "Available"
         },
         {
           "city": "HADDONFIELD",
-          "pctAvailable": "68.80%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "483"
+          "status": "Available"
         },
         {
           "city": "HAMILTON",
-          "pctAvailable": "42.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1752"
+          "status": "Available"
         },
         {
           "city": "HASKELL",
-          "pctAvailable": "3.78%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "27"
+          "status": "Available"
         },
         {
           "city": "HAZLET",
-          "pctAvailable": "26.93%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "471"
+          "status": "Available"
         },
         {
           "city": "HAZLET TOWNSHIP",
-          "pctAvailable": "44.66%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "552"
+          "status": "Available"
         },
         {
           "city": "HIGHLANDS",
-          "pctAvailable": "33.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "216"
+          "status": "Available"
         },
         {
           "city": "HILLSBOROUGH",
-          "pctAvailable": "6.88%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "45"
+          "status": "Available"
         },
         {
           "city": "HILLSIDE",
-          "pctAvailable": "5.04%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "33"
+          "status": "Available"
         },
         {
           "city": "HOBOKEN",
-          "pctAvailable": "12.96%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "390"
+          "status": "Available"
         },
         {
           "city": "HOWELL",
-          "pctAvailable": "50.77%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "588"
+          "status": "Available"
         },
         {
           "city": "JACKSON",
-          "pctAvailable": "42.88%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "786"
+          "status": "Available"
         },
         {
           "city": "JAMESBURG",
-          "pctAvailable": "10.09%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "66"
+          "status": "Available"
         },
         {
           "city": "JERSEY CITY",
-          "pctAvailable": "33.83%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1767"
+          "status": "Available"
         },
         {
           "city": "KEARNY",
-          "pctAvailable": "24.86%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "408"
+          "status": "Available"
         },
         {
           "city": "KENDALL PARK",
-          "pctAvailable": "8.12%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "48"
+          "status": "Available"
         },
         {
           "city": "LAKEWOOD",
-          "pctAvailable": "44.97%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "618"
+          "status": "Available"
         },
         {
           "city": "LAMBERTVILLE",
-          "pctAvailable": "21.62%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "120"
+          "status": "Available"
         },
         {
           "city": "LANOKA HARBOR",
-          "pctAvailable": "70.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "840"
+          "status": "Available"
         },
         {
           "city": "LAWRENCEVILLE",
-          "pctAvailable": "43.34%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1065"
+          "status": "Available"
         },
         {
           "city": "LEDGEWOOD",
-          "pctAvailable": "29.22%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "420"
+          "status": "Available"
         },
         {
           "city": "LEONIA",
-          "pctAvailable": "58.07%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1942"
+          "status": "Available"
         },
         {
           "city": "LINCOLN PARK",
-          "pctAvailable": "52.15%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1308"
+          "status": "Available"
         },
         {
           "city": "LINDEN",
-          "pctAvailable": "3.01%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "48"
+          "status": "Available"
         },
         {
           "city": "LITTLE FERRY",
-          "pctAvailable": "53.69%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "741"
+          "status": "Available"
         },
         {
           "city": "LITTLE SILVER",
-          "pctAvailable": "16.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "96"
+          "status": "Available"
         },
         {
           "city": "LIVINGSTON",
-          "pctAvailable": "47.84%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1497"
+          "status": "Available"
         },
         {
           "city": "LODI",
-          "pctAvailable": "54.85%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "678"
+          "status": "Available"
         },
         {
           "city": "LONG BRANCH",
-          "pctAvailable": "67.44%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1740"
+          "status": "Available"
         },
         {
           "city": "LUMBERTON",
-          "pctAvailable": "24.27%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "126"
+          "status": "Available"
         },
         {
           "city": "MAHWAH",
-          "pctAvailable": "6.02%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "45"
+          "status": "Available"
         },
         {
           "city": "MALAGA",
-          "pctAvailable": "75.41%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1086"
+          "status": "Available"
         },
         {
           "city": "MANAHAWKIN",
-          "pctAvailable": "43.90%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "216"
+          "status": "Available"
         },
         {
           "city": "MANALAPAN",
-          "pctAvailable": "27.80%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "825"
+          "status": "Available"
         },
         {
           "city": "MANASQUAN",
-          "pctAvailable": "44.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "738"
+          "status": "Available"
+        },
+        {
+          "city": "MANVILLE",
+          "state": "NJ",
+          "status": "Fully Booked"
         },
         {
           "city": "MAPLE SHADE",
-          "pctAvailable": "42.14%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "306"
+          "status": "Available"
         },
         {
           "city": "MAPLEWOOD",
-          "pctAvailable": "-2.08%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "-10"
+          "status": "Available"
         },
         {
           "city": "MARGATE CITY",
-          "pctAvailable": "84.04%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "474"
+          "status": "Available"
         },
         {
           "city": "MARLBORO",
-          "pctAvailable": "64.88%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "981"
+          "status": "Available"
         },
         {
           "city": "MARLTON",
-          "pctAvailable": "48.95%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1833"
+          "status": "Available"
         },
         {
           "city": "MARMORA",
-          "pctAvailable": "72.86%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "717"
+          "status": "Available"
         },
         {
           "city": "MATAWAN",
-          "pctAvailable": "53.85%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "963"
+          "status": "Available"
         },
         {
           "city": "MAYS LANDING",
-          "pctAvailable": "34.58%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "414"
+          "status": "Available"
         },
         {
           "city": "MEDFORD",
-          "pctAvailable": "48.89%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1197"
+          "status": "Available"
         },
         {
           "city": "MENDHAM",
-          "pctAvailable": "-16.44%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "-98"
+          "status": "Available"
         },
         {
           "city": "MERCHANTVILLE",
-          "pctAvailable": "50.42%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "354"
+          "status": "Available"
+        },
+        {
+          "city": "METUCHEN",
+          "state": "NJ",
+          "status": "Fully Booked"
         },
         {
           "city": "MIDDLESEX",
-          "pctAvailable": "0.54%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "3"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
-          "pctAvailable": "52.69%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1407"
+          "status": "Available"
         },
         {
           "city": "MIDLAND PARK",
-          "pctAvailable": "51.97%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1341"
+          "status": "Available"
         },
         {
           "city": "MILLBURN",
-          "pctAvailable": "7.25%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "54"
+          "status": "Available"
         },
         {
           "city": "MILLTOWN",
-          "pctAvailable": "7.92%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "39"
+          "status": "Available"
         },
         {
           "city": "MILLVILLE",
-          "pctAvailable": "65.08%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "699"
+          "status": "Available"
         },
         {
           "city": "MONMOUTH JUNCTION",
-          "pctAvailable": "8.87%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "MONROE TOWNSHIP",
-          "pctAvailable": "53.86%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1422"
+          "status": "Available"
         },
         {
           "city": "MONTCLAIR",
-          "pctAvailable": "53.89%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1224"
+          "status": "Available"
         },
         {
           "city": "MONTVALE",
-          "pctAvailable": "10.03%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "255"
+          "status": "Available"
         },
         {
           "city": "MOORESTOWN",
-          "pctAvailable": "48.54%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "549"
+          "status": "Available"
         },
         {
           "city": "MORGANVILLE",
-          "pctAvailable": "54.36%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1905"
+          "status": "Available"
         },
         {
           "city": "MORRISTOWN",
-          "pctAvailable": "8.04%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "96"
+          "status": "Available"
         },
         {
           "city": "MOUNT EPHRAIM",
-          "pctAvailable": "73.41%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2229"
+          "status": "Available"
         },
         {
           "city": "MOUNT HOLLY",
-          "pctAvailable": "37.15%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "243"
+          "status": "Available"
         },
         {
           "city": "MOUNT LAUREL",
-          "pctAvailable": "68.08%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2259"
+          "status": "Available"
         },
         {
           "city": "MULLICA HILL",
-          "pctAvailable": "50.84%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "720"
+          "status": "Available"
         },
         {
           "city": "NEPTUNE",
-          "pctAvailable": "33.61%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "240"
+          "status": "Available"
         },
         {
           "city": "NEW EGYPT",
-          "pctAvailable": "26.84%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "207"
+          "status": "Available"
         },
         {
           "city": "NEW MILFORD",
-          "pctAvailable": "37.22%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1233"
+          "status": "Available"
         },
         {
           "city": "NEW PROVIDENCE",
-          "pctAvailable": "4.71%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "42"
+          "status": "Available"
         },
         {
           "city": "NEWARK",
-          "pctAvailable": "32.02%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "906"
+          "status": "Available"
         },
         {
           "city": "NORTH ARLINGTON",
-          "pctAvailable": "55.43%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2448"
+          "status": "Available"
         },
         {
           "city": "NORTH BERGEN",
-          "pctAvailable": "25.78%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "789"
+          "status": "Available"
         },
         {
           "city": "NORTH BRUNSWICK",
-          "pctAvailable": "39.57%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1344"
+          "status": "Available"
         },
         {
           "city": "NORTH PLAINFIELD",
-          "pctAvailable": "47.63%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "999"
+          "status": "Available"
         },
         {
           "city": "NORTH WILDWOOD",
-          "pctAvailable": "75.16%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "336"
+          "status": "Available"
         },
         {
           "city": "NORTHVALE",
-          "pctAvailable": "18.14%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "153"
+          "status": "Available"
+        },
+        {
+          "city": "NUTLEY",
+          "state": "NJ",
+          "status": "Fully Booked"
         },
         {
           "city": "OAK RIDGE",
-          "pctAvailable": "58.06%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1440"
+          "status": "Available"
         },
         {
           "city": "OAKHURST",
-          "pctAvailable": "67.75%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1683"
+          "status": "Available"
         },
         {
           "city": "OAKLYN",
-          "pctAvailable": "42.43%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "303"
+          "status": "Available"
         },
         {
           "city": "OCEAN",
-          "pctAvailable": "51.17%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "654"
+          "status": "Available"
         },
         {
           "city": "OCEAN CITY",
-          "pctAvailable": "82.55%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "738"
+          "status": "Available"
         },
         {
           "city": "OCEAN VIEW",
-          "pctAvailable": "71.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "891"
+          "status": "Available"
         },
         {
           "city": "OLD BRIDGE",
-          "pctAvailable": "52.61%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1389"
+          "status": "Available"
         },
         {
           "city": "OLD TAPPAN",
-          "pctAvailable": "5.46%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "39"
+          "status": "Available"
         },
         {
           "city": "PARAMUS",
-          "pctAvailable": "47.05%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1485"
+          "status": "Available"
         },
         {
           "city": "PARSIPPANY",
-          "pctAvailable": "46.55%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1095"
+          "status": "Available"
         },
         {
           "city": "PASSAIC",
-          "pctAvailable": "53.34%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1434"
+          "status": "Available"
         },
         {
           "city": "PAULSBORO",
-          "pctAvailable": "59.77%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "321"
+          "status": "Available"
         },
         {
           "city": "PENNSAUKEN",
-          "pctAvailable": "50.44%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1014"
+          "status": "Available"
         },
         {
           "city": "PEQUANNOCK",
-          "pctAvailable": "53.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1380"
+          "status": "Available"
         },
         {
           "city": "PHILLIPSBURG",
-          "pctAvailable": "35.04%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "492"
+          "status": "Available"
         },
         {
           "city": "PISCATAWAY",
-          "pctAvailable": "54.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1011"
+          "status": "Available"
         },
         {
           "city": "PLAINFIELD",
-          "pctAvailable": "8.25%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "54"
+          "status": "Available"
         },
         {
           "city": "PLAINSBORO",
-          "pctAvailable": "54.11%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1461"
+          "status": "Available"
         },
         {
           "city": "PLEASANTVILLE",
-          "pctAvailable": "79.33%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "426"
+          "status": "Available"
         },
         {
           "city": "POINT PLEASANT BEACH",
-          "pctAvailable": "54.78%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "429"
+          "status": "Available"
         },
         {
           "city": "POMONA",
-          "pctAvailable": "81.91%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "462"
+          "status": "Available"
         },
         {
           "city": "PRINCETON",
-          "pctAvailable": "32.16%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1518"
+          "status": "Available"
         },
         {
           "city": "RAHWAY",
-          "pctAvailable": "54.24%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1647"
+          "status": "Available"
         },
         {
           "city": "RAMSEY",
-          "pctAvailable": "52.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1335"
+          "status": "Available"
         },
         {
           "city": "RANDOLPH",
-          "pctAvailable": "1.83%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "12"
+          "status": "Available"
         },
         {
           "city": "RIDGEFIELD PARK",
-          "pctAvailable": "28.81%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "357"
+          "status": "Available"
         },
         {
           "city": "RINGWOOD",
-          "pctAvailable": "15.56%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "120"
+          "status": "Available"
         },
         {
           "city": "RIVER EDGE",
-          "pctAvailable": "54.09%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1428"
+          "status": "Available"
         },
         {
           "city": "RIVERDALE",
-          "pctAvailable": "14.95%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "96"
+          "status": "Available"
         },
         {
           "city": "RIVERTON",
-          "pctAvailable": "63.60%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "498"
+          "status": "Available"
         },
         {
           "city": "ROBBINSVILLE",
-          "pctAvailable": "6.70%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "36"
+          "status": "Available"
         },
         {
           "city": "ROCHELLE PARK",
-          "pctAvailable": "53.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "660"
+          "status": "Available"
         },
         {
           "city": "ROCKAWAY",
-          "pctAvailable": "21.67%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "327"
+          "status": "Available"
         },
         {
           "city": "ROSELLE",
-          "pctAvailable": "5.03%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "42"
+          "status": "Available"
         },
         {
           "city": "RUNNEMEDE",
-          "pctAvailable": "66.89%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "594"
+          "status": "Available"
         },
         {
           "city": "SADDLE BROOK",
-          "pctAvailable": "54.76%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "966"
+          "status": "Available"
         },
         {
           "city": "SCOTCH PLAINS",
-          "pctAvailable": "-0.41%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "-3"
+          "status": "Available"
         },
         {
           "city": "SEA ISLE CITY",
-          "pctAvailable": "83.79%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "450"
+          "status": "Available"
         },
         {
           "city": "SEASIDE HEIGHTS",
-          "pctAvailable": "82.11%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "606"
+          "status": "Available"
         },
         {
           "city": "SECAUCUS",
-          "pctAvailable": "71.83%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2181"
+          "status": "Available"
         },
         {
           "city": "SEWELL",
-          "pctAvailable": "60.97%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1392"
+          "status": "Available"
         },
         {
           "city": "SHIP BOTTOM",
-          "pctAvailable": "74.43%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "594"
+          "status": "Available"
         },
         {
           "city": "SICKLERVILLE",
-          "pctAvailable": "51.34%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "915"
+          "status": "Available"
         },
         {
           "city": "SOMERS POINT",
-          "pctAvailable": "66.56%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1704"
+          "status": "Available"
         },
         {
           "city": "SOMERSET",
-          "pctAvailable": "6.18%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "72"
+          "status": "Available"
         },
         {
           "city": "SOUTH PLAINFIELD",
-          "pctAvailable": "38.33%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1410"
+          "status": "Available"
         },
         {
           "city": "SPARTA",
-          "pctAvailable": "53.96%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "816"
+          "status": "Available"
         },
         {
           "city": "SPRINGFIELD",
-          "pctAvailable": "-14.13%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "-68"
+          "status": "Available"
         },
         {
           "city": "STANHOPE",
-          "pctAvailable": "29.83%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "213"
+          "status": "Available"
         },
         {
           "city": "STRATFORD",
-          "pctAvailable": "35.65%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "276"
+          "status": "Available"
         },
         {
           "city": "SUMMIT",
-          "pctAvailable": "11.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "72"
+          "status": "Available"
         },
         {
           "city": "SWEDESBORO",
-          "pctAvailable": "59.25%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1200"
+          "status": "Available"
         },
         {
           "city": "TABERNACLE",
-          "pctAvailable": "65.59%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "429"
+          "status": "Available"
         },
         {
           "city": "TEANECK",
-          "pctAvailable": "58.61%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "3586"
+          "status": "Available"
         },
         {
           "city": "TENAFLY",
-          "pctAvailable": "52.10%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1338"
+          "status": "Available"
         },
         {
           "city": "TOMS RIVER",
-          "pctAvailable": "64.77%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2532"
+          "status": "Available"
         },
         {
           "city": "TOTOWA",
-          "pctAvailable": "30.26%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "375"
+          "status": "Available"
         },
         {
           "city": "TRENTON",
-          "pctAvailable": "48.19%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1482"
+          "status": "Available"
         },
         {
           "city": "TURNERSVILLE",
-          "pctAvailable": "81.09%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "399"
+          "status": "Available"
         },
         {
           "city": "UNION",
-          "pctAvailable": "38.63%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2049"
+          "status": "Available"
         },
         {
           "city": "UNION CITY",
-          "pctAvailable": "45.39%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1581"
+          "status": "Available"
         },
         {
           "city": "UPPER MONTCLAIR",
-          "pctAvailable": "28.43%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "459"
+          "status": "Available"
         },
         {
           "city": "VAUXHALL",
-          "pctAvailable": "5.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "27"
+          "status": "Available"
         },
         {
           "city": "VENTNOR CITY",
-          "pctAvailable": "38.84%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "282"
+          "status": "Available"
         },
         {
           "city": "VERNON",
-          "pctAvailable": "12.10%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "102"
+          "status": "Available"
         },
         {
           "city": "VILLAS",
-          "pctAvailable": "83.25%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "507"
+          "status": "Available"
         },
         {
           "city": "VINELAND",
-          "pctAvailable": "64.06%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1578"
+          "status": "Available"
         },
         {
           "city": "VOORHEES",
-          "pctAvailable": "49.35%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "693"
+          "status": "Available"
         },
         {
           "city": "WALL",
-          "pctAvailable": "52.76%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "630"
+          "status": "Available"
         },
         {
           "city": "WARETOWN",
-          "pctAvailable": "44.95%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "321"
+          "status": "Available"
         },
         {
           "city": "WASHINGTON",
-          "pctAvailable": "4.24%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "33"
+          "status": "Available"
         },
         {
           "city": "WATCHUNG",
-          "pctAvailable": "4.19%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Available"
         },
         {
           "city": "WAYNE",
-          "pctAvailable": "42.11%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2130"
+          "status": "Available"
         },
         {
           "city": "WENONAH",
-          "pctAvailable": "41.28%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "348"
+          "status": "Available"
         },
         {
           "city": "WEST CALDWELL",
-          "pctAvailable": "23.12%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "306"
+          "status": "Available"
         },
         {
           "city": "WEST CAPE MAY",
-          "pctAvailable": "91.48%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "516"
+          "status": "Available"
         },
         {
           "city": "WEST NEW YORK",
-          "pctAvailable": "29.52%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "240"
+          "status": "Available"
         },
         {
           "city": "WEST ORANGE",
-          "pctAvailable": "46.60%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "2058"
+          "status": "Available"
         },
         {
           "city": "WEST WINDSOR",
-          "pctAvailable": "9.49%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "51"
+          "status": "Available"
         },
         {
           "city": "WESTAMPTON",
-          "pctAvailable": "60.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "333"
+          "status": "Available"
         },
         {
           "city": "WESTFIELD",
-          "pctAvailable": "12.09%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "78"
+          "status": "Available"
         },
         {
           "city": "WESTWOOD",
-          "pctAvailable": "6.53%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "81"
+          "status": "Available"
         },
         {
           "city": "WHIPPANY",
-          "pctAvailable": "0.98%",
           "state": "NJ",
-          "status": "Fully Booked",
-          "totalAvailable": "6"
+          "status": "Available"
         },
         {
           "city": "WHITING",
-          "pctAvailable": "51.71%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "588"
+          "status": "Available"
         },
         {
           "city": "WILDWOOD",
-          "pctAvailable": "75.00%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "423"
+          "status": "Available"
         },
         {
           "city": "WILLIAMSTOWN",
-          "pctAvailable": "54.52%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "849"
+          "status": "Available"
         },
         {
           "city": "WILLINGBORO",
-          "pctAvailable": "21.50%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "129"
+          "status": "Available"
         },
         {
           "city": "WOOD RIDGE",
-          "pctAvailable": "10.56%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "78"
+          "status": "Available"
         },
         {
           "city": "WOODBRIDGE",
-          "pctAvailable": "53.75%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "1419"
+          "status": "Available"
         },
         {
           "city": "WOODBURY",
-          "pctAvailable": "45.20%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "693"
+          "status": "Available"
         },
         {
           "city": "WYCKOFF",
-          "pctAvailable": "45.06%",
           "state": "NJ",
-          "status": "Available",
-          "totalAvailable": "945"
+          "status": "Available"
         }
       ]
     },
