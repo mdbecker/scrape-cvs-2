@@ -10,73 +10,101 @@
       "PR": [
         {
           "city": "ARECIBO",
+          "pctAvailable": "60.99%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "849"
         },
         {
           "city": "BAYAMON",
+          "pctAvailable": "56.47%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3246"
         },
         {
           "city": "CAGUAS",
+          "pctAvailable": "60.30%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1317"
         },
         {
           "city": "CAROLINA",
+          "pctAvailable": "55.89%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1521"
         },
         {
           "city": "CONDADO",
+          "pctAvailable": "44.91%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "318"
         },
         {
           "city": "DORADO",
+          "pctAvailable": "1.04%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "9"
         },
         {
           "city": "FAJARDO",
+          "pctAvailable": "80.95%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "816"
         },
         {
           "city": "GUAYNABO",
+          "pctAvailable": "67.64%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2502"
         },
         {
           "city": "MANATI",
+          "pctAvailable": "60.42%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1182"
         },
         {
           "city": "PONCE",
+          "pctAvailable": "59.29%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "804"
         },
         {
           "city": "SAN JUAN",
+          "pctAvailable": "49.33%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1215"
         },
         {
           "city": "TOA BAJA",
+          "pctAvailable": "72.43%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2199"
         },
         {
           "city": "VEGA ALTA",
+          "pctAvailable": "7.73%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "93"
         },
         {
           "city": "VEGA BAJA",
+          "pctAvailable": "60.35%",
           "state": "PR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1137"
         }
       ]
     },
