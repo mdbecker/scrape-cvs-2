@@ -10,1977 +10,1418 @@
       "NY": [
         {
           "city": "ALBANY",
-          "pctAvailable": "54.01%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "4040"
+          "status": "Available"
         },
         {
           "city": "AMHERST",
-          "pctAvailable": "56.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2688"
+          "status": "Available"
         },
         {
           "city": "AMITYVILLE",
-          "pctAvailable": "29.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "971"
+          "status": "Available"
         },
         {
           "city": "AMSTERDAM",
-          "pctAvailable": "35.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "192"
+          "status": "Available"
         },
         {
           "city": "ARDSLEY",
-          "pctAvailable": "55.38%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1285"
+          "status": "Available"
         },
         {
           "city": "ARMONK",
-          "pctAvailable": "54.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1011"
+          "status": "Available"
         },
         {
           "city": "ASTORIA",
-          "pctAvailable": "8.36%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "264"
+          "status": "Available"
+        },
+        {
+          "city": "AUBURNDALE",
+          "state": "NY",
+          "status": "Fully Booked"
         },
         {
           "city": "AVON",
-          "pctAvailable": "10.84%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "69"
+          "status": "Available"
         },
         {
           "city": "BALDWIN",
-          "pctAvailable": "51.66%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1302"
+          "status": "Available"
         },
         {
           "city": "BALLSTON SPA",
-          "pctAvailable": "33.41%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "417"
+          "status": "Available"
         },
         {
           "city": "BARDONIA",
-          "pctAvailable": "21.18%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "129"
+          "status": "Available"
         },
         {
           "city": "BATAVIA",
-          "pctAvailable": "20.88%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "213"
+          "status": "Available"
         },
         {
           "city": "BAY SHORE",
-          "pctAvailable": "29.86%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "888"
+          "status": "Available"
         },
         {
           "city": "BAYPORT",
-          "pctAvailable": "6.42%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "42"
+          "status": "Available"
         },
         {
           "city": "BAYSIDE",
-          "pctAvailable": "51.99%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2583"
+          "status": "Available"
         },
         {
           "city": "BEDFORD HILLS",
-          "pctAvailable": "8.37%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "51"
+          "status": "Available"
         },
         {
           "city": "BELLEROSE",
-          "pctAvailable": "54.84%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1053"
+          "status": "Available"
         },
         {
           "city": "BELLMORE",
-          "pctAvailable": "52.38%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1320"
+          "status": "Available"
         },
         {
           "city": "BELLPORT",
-          "pctAvailable": "4.12%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "27"
+          "status": "Available"
         },
         {
           "city": "BETHPAGE",
-          "pctAvailable": "52.29%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1743"
+          "status": "Available"
         },
         {
           "city": "BINGHAMTON",
-          "pctAvailable": "81.41%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "6492"
+          "status": "Available"
         },
         {
           "city": "BLASDELL",
-          "pctAvailable": "70.29%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1839"
+          "status": "Available"
         },
         {
           "city": "BOHEMIA",
-          "pctAvailable": "7.11%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "60"
+          "status": "Available"
         },
         {
           "city": "BRIARCLIFF MANOR",
-          "pctAvailable": "0.00%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available"
         },
         {
           "city": "BROCKPORT",
-          "pctAvailable": "12.29%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "66"
+          "status": "Available"
         },
         {
           "city": "BRONX",
-          "pctAvailable": "19.46%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "3039"
+          "status": "Available"
         },
         {
           "city": "BRONXVILLE",
-          "pctAvailable": "4.80%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "84"
+          "status": "Available"
         },
         {
           "city": "BROOKLYN",
-          "pctAvailable": "31.73%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "11010"
+          "status": "Available"
         },
         {
           "city": "BUFFALO",
-          "pctAvailable": "47.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1419"
+          "status": "Available"
         },
         {
           "city": "BURNT HILLS",
-          "pctAvailable": "26.10%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "159"
+          "status": "Available"
         },
         {
           "city": "CAIRO",
-          "pctAvailable": "40.08%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "273"
+          "status": "Available"
         },
         {
           "city": "CAMBRIA HEIGHTS",
-          "pctAvailable": "55.17%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "768"
+          "status": "Available"
         },
         {
           "city": "CARMEL",
-          "pctAvailable": "9.57%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "123"
+          "status": "Available"
         },
         {
           "city": "CEDARHURST",
-          "pctAvailable": "4.77%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "CENTER MORICHES",
-          "pctAvailable": "4.86%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "90"
+          "status": "Available"
         },
         {
           "city": "CENTEREACH",
-          "pctAvailable": "51.25%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1353"
+          "status": "Available"
         },
         {
           "city": "CENTRAL ISLIP",
-          "pctAvailable": "46.38%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2616"
+          "status": "Available"
         },
         {
           "city": "CHEEKTOWAGA",
-          "pctAvailable": "44.51%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "219"
+          "status": "Available"
         },
         {
           "city": "CHESTER",
-          "pctAvailable": "7.74%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "96"
+          "status": "Available"
         },
         {
           "city": "CICERO",
-          "pctAvailable": "1.64%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "9"
+          "status": "Available"
         },
         {
           "city": "CLIFTON PARK",
-          "pctAvailable": "34.60%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1221"
+          "status": "Available"
         },
         {
           "city": "CLINTON",
-          "pctAvailable": "83.45%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1407"
+          "status": "Available"
         },
         {
           "city": "COBLESKILL",
-          "pctAvailable": "65.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "360"
+          "status": "Available"
         },
         {
           "city": "COHOES",
-          "pctAvailable": "61.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "408"
+          "status": "Available"
         },
         {
           "city": "COLLEGE POINT",
-          "pctAvailable": "7.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "153"
+          "status": "Available"
         },
         {
           "city": "COLONIE",
-          "pctAvailable": "57.55%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "960"
+          "status": "Available"
         },
         {
           "city": "COMMACK",
-          "pctAvailable": "30.88%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "705"
+          "status": "Available"
         },
         {
           "city": "COOPERSTOWN",
-          "pctAvailable": "70.95%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "381"
+          "status": "Available"
         },
         {
           "city": "COPIAGUE",
-          "pctAvailable": "43.62%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1746"
+          "status": "Available"
         },
         {
           "city": "CORAM",
-          "pctAvailable": "7.40%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "60"
+          "status": "Available"
         },
         {
           "city": "CORNWALL",
-          "pctAvailable": "55.24%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1370"
+          "status": "Available"
         },
         {
           "city": "CORTLAND",
-          "pctAvailable": "4.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "CROTON ON HUDSON",
-          "pctAvailable": "9.57%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "54"
+          "status": "Available"
         },
         {
           "city": "DANSVILLE",
-          "pctAvailable": "56.38%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "318"
+          "status": "Available"
         },
         {
           "city": "DEER PARK",
-          "pctAvailable": "6.91%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "132"
+          "status": "Available"
         },
         {
           "city": "DELMAR",
-          "pctAvailable": "71.46%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1728"
+          "status": "Available"
         },
         {
           "city": "DEPEW",
-          "pctAvailable": "48.10%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "495"
+          "status": "Available"
         },
         {
           "city": "DOVER PLAINS",
-          "pctAvailable": "22.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "129"
+          "status": "Available"
         },
         {
           "city": "DUNKIRK",
-          "pctAvailable": "62.96%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1209"
+          "status": "Available"
         },
         {
           "city": "EAST AURORA",
-          "pctAvailable": "73.92%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1863"
+          "status": "Available"
         },
         {
           "city": "EAST GREENBUSH",
-          "pctAvailable": "39.36%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "261"
+          "status": "Available"
         },
         {
           "city": "EAST HAMPTON",
-          "pctAvailable": "9.62%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "153"
+          "status": "Available"
         },
         {
           "city": "EAST HILLS",
-          "pctAvailable": "52.73%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1329"
+          "status": "Available"
         },
         {
           "city": "EAST ISLIP",
-          "pctAvailable": "44.61%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "684"
+          "status": "Available"
         },
         {
           "city": "EAST MEADOW",
-          "pctAvailable": "47.94%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "735"
+          "status": "Available"
         },
         {
           "city": "EAST NORTHPORT",
-          "pctAvailable": "6.02%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "108"
+          "status": "Available"
         },
         {
           "city": "EAST ROCKAWAY",
-          "pctAvailable": "14.42%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "216"
+          "status": "Available"
         },
         {
           "city": "EASTCHESTER",
-          "pctAvailable": "14.16%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "249"
+          "status": "Available"
         },
         {
           "city": "ELMHURST",
-          "pctAvailable": "9.50%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "69"
+          "status": "Available"
         },
         {
           "city": "ELMIRA",
-          "pctAvailable": "74.86%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "429"
+          "status": "Available"
         },
         {
           "city": "ELMONT",
-          "pctAvailable": "8.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "168"
+          "status": "Available"
         },
         {
           "city": "ELMSFORD",
-          "pctAvailable": "3.84%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "21"
+          "status": "Available"
         },
         {
           "city": "ENDICOTT",
-          "pctAvailable": "81.09%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "3036"
+          "status": "Available"
         },
         {
           "city": "ENDWELL",
-          "pctAvailable": "73.81%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1218"
+          "status": "Available"
         },
         {
           "city": "FAIRPORT",
-          "pctAvailable": "34.56%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "759"
+          "status": "Available"
         },
         {
           "city": "FALCONER",
-          "pctAvailable": "87.44%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2256"
+          "status": "Available"
         },
         {
           "city": "FAR ROCKAWAY",
-          "pctAvailable": "6.73%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "84"
+          "status": "Available"
         },
         {
           "city": "FARMINGDALE",
-          "pctAvailable": "6.69%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "144"
+          "status": "Available"
         },
         {
           "city": "FARMINGTON",
-          "pctAvailable": "57.76%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1116"
+          "status": "Available"
         },
         {
           "city": "FARMINGVILLE",
-          "pctAvailable": "10.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "90"
+          "status": "Available"
         },
         {
           "city": "FAYETTEVILLE",
-          "pctAvailable": "1.04%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "6"
+          "status": "Available"
         },
         {
           "city": "FISHKILL",
-          "pctAvailable": "2.85%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "21"
+          "status": "Available"
         },
         {
           "city": "FLORAL PARK",
-          "pctAvailable": "50.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "906"
+          "status": "Available"
         },
         {
           "city": "FLUSHING",
-          "pctAvailable": "13.10%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "228"
+          "status": "Available"
         },
         {
           "city": "FOREST HILLS",
-          "pctAvailable": "14.17%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1137"
+          "status": "Available"
         },
         {
           "city": "FRANKLIN SQUARE",
-          "pctAvailable": "52.11%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1407"
+          "status": "Available"
         },
         {
           "city": "FREEPORT",
-          "pctAvailable": "28.78%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "684"
+          "status": "Available"
         },
         {
           "city": "FRESH MEADOWS",
-          "pctAvailable": "8.65%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "108"
+          "status": "Available"
         },
         {
           "city": "GARDEN CITY",
-          "pctAvailable": "7.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "99"
+          "status": "Available"
         },
         {
           "city": "GARNERVILLE",
-          "pctAvailable": "53.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "477"
+          "status": "Available"
         },
         {
           "city": "GLEN COVE",
-          "pctAvailable": "33.74%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1971"
+          "status": "Available"
         },
         {
           "city": "GLEN HEAD",
-          "pctAvailable": "5.33%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "45"
+          "status": "Available"
         },
         {
           "city": "GLEN OAKS",
-          "pctAvailable": "5.97%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "GLENDALE",
-          "pctAvailable": "54.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1047"
+          "status": "Available"
         },
         {
           "city": "GLENMONT",
-          "pctAvailable": "60.18%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "399"
+          "status": "Available"
         },
         {
           "city": "GLENVILLE",
-          "pctAvailable": "27.06%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "177"
+          "status": "Available"
         },
         {
           "city": "GLOVERSVILLE",
-          "pctAvailable": "65.16%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1212"
+          "status": "Available"
         },
         {
           "city": "GOSHEN",
-          "pctAvailable": "7.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "90"
+          "status": "Available"
         },
         {
           "city": "GREAT NECK",
-          "pctAvailable": "37.17%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1305"
+          "status": "Available"
         },
         {
           "city": "GREECE",
-          "pctAvailable": "58.37%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1506"
+          "status": "Available"
         },
         {
           "city": "GREENLAWN",
-          "pctAvailable": "54.57%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1921"
+          "status": "Available"
         },
         {
           "city": "GREENWICH",
-          "pctAvailable": "40.39%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "246"
+          "status": "Available"
         },
         {
           "city": "GREENWOOD LAKE",
-          "pctAvailable": "12.71%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "66"
+          "status": "Available"
         },
         {
           "city": "HAMBURG",
-          "pctAvailable": "40.43%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "564"
+          "status": "Available"
         },
         {
           "city": "HARRISON",
-          "pctAvailable": "50.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "624"
+          "status": "Available"
         },
         {
           "city": "HARTSDALE",
-          "pctAvailable": "3.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Available"
         },
         {
           "city": "HEMPSTEAD",
-          "pctAvailable": "3.71%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "33"
+          "status": "Available"
         },
         {
           "city": "HEWLETT",
-          "pctAvailable": "38.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1170"
+          "status": "Available"
         },
         {
           "city": "HICKSVILLE",
-          "pctAvailable": "33.20%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1599"
+          "status": "Available"
         },
         {
           "city": "HILTON",
-          "pctAvailable": "63.26%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1617"
+          "status": "Available"
         },
         {
           "city": "HOLBROOK",
-          "pctAvailable": "45.59%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "699"
+          "status": "Available"
         },
         {
           "city": "HONEOYE",
-          "pctAvailable": "38.20%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "243"
+          "status": "Available"
         },
         {
           "city": "HOPEWELL JUNCTION",
-          "pctAvailable": "7.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "135"
+          "status": "Available"
         },
         {
           "city": "HOWARD BEACH",
-          "pctAvailable": "53.59%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1029"
+          "status": "Available"
         },
         {
           "city": "HUDSON",
-          "pctAvailable": "26.69%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "330"
+          "status": "Available"
         },
         {
           "city": "HUDSON FALLS",
-          "pctAvailable": "71.42%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "390"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON",
-          "pctAvailable": "7.05%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "117"
+          "status": "Available"
         },
         {
           "city": "HUNTINGTON STATION",
-          "pctAvailable": "8.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "273"
+          "status": "Available"
         },
         {
           "city": "HYDE PARK",
-          "pctAvailable": "40.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "765"
+          "status": "Available"
         },
         {
           "city": "INWOOD",
-          "pctAvailable": "12.26%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "153"
+          "status": "Available"
         },
         {
           "city": "ISLIP TERRACE",
-          "pctAvailable": "51.79%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1299"
+          "status": "Available"
         },
         {
           "city": "ITHACA",
-          "pctAvailable": "3.37%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "75"
+          "status": "Available"
         },
         {
           "city": "JACKSON HEIGHTS",
-          "pctAvailable": "26.12%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "870"
+          "status": "Available"
         },
         {
           "city": "JAMAICA",
-          "pctAvailable": "11.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "426"
+          "status": "Available"
         },
         {
           "city": "JAMESTOWN",
-          "pctAvailable": "82.58%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1266"
+          "status": "Available"
         },
         {
           "city": "JERICHO",
-          "pctAvailable": "9.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "111"
+          "status": "Available"
         },
         {
           "city": "JOHNSON CITY",
-          "pctAvailable": "76.66%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1242"
+          "status": "Available"
         },
         {
           "city": "KATONAH",
-          "pctAvailable": "4.85%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "30"
+          "status": "Available"
         },
         {
           "city": "KEW GARDENS",
-          "pctAvailable": "53.16%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1812"
+          "status": "Available"
         },
         {
           "city": "KINGS PARK",
-          "pctAvailable": "9.21%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "KINGSTON",
-          "pctAvailable": "11.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "177"
+          "status": "Available"
         },
         {
           "city": "LARCHMONT",
-          "pctAvailable": "1.92%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "LATHAM",
-          "pctAvailable": "33.96%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "537"
+          "status": "Available"
         },
         {
           "city": "LAWRENCE",
-          "pctAvailable": "12.61%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "81"
+          "status": "Available"
         },
         {
           "city": "LEVITTOWN",
-          "pctAvailable": "6.14%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "156"
+          "status": "Available"
         },
         {
           "city": "LEWISTON",
-          "pctAvailable": "65.40%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "363"
+          "status": "Available"
         },
         {
           "city": "LINDENHURST",
-          "pctAvailable": "30.08%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "834"
+          "status": "Available"
         },
         {
           "city": "LITTLE FALLS",
-          "pctAvailable": "79.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "435"
+          "status": "Available"
         },
         {
           "city": "LIVERPOOL",
-          "pctAvailable": "4.39%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "LONG BEACH",
-          "pctAvailable": "9.44%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "117"
+          "status": "Available"
         },
         {
           "city": "LONG ISLAND CITY",
-          "pctAvailable": "56.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "753"
+          "status": "Available"
         },
         {
           "city": "LYNBROOK",
-          "pctAvailable": "50.34%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1329"
+          "status": "Available"
         },
         {
           "city": "MACEDON",
-          "pctAvailable": "29.18%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "162"
+          "status": "Available"
         },
         {
           "city": "MAHOPAC",
-          "pctAvailable": "60.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1176"
+          "status": "Available"
         },
         {
           "city": "MALTA",
-          "pctAvailable": "73.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1293"
+          "status": "Available"
         },
         {
           "city": "MAMARONECK",
-          "pctAvailable": "23.24%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "129"
+          "status": "Available"
         },
         {
           "city": "MANLIUS",
-          "pctAvailable": "-1.03%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "-6"
+          "status": "Available"
         },
         {
           "city": "MANORVILLE",
-          "pctAvailable": "52.14%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "876"
+          "status": "Available"
         },
         {
           "city": "MARGARETVILLE",
-          "pctAvailable": "38.23%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "195"
+          "status": "Available"
         },
         {
           "city": "MARLBORO",
-          "pctAvailable": "14.37%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "72"
+          "status": "Available"
         },
         {
           "city": "MASPETH",
-          "pctAvailable": "55.92%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "510"
+          "status": "Available"
         },
         {
           "city": "MASSAPEQUA",
-          "pctAvailable": "51.90%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1065"
+          "status": "Available"
         },
         {
           "city": "MATTITUCK",
-          "pctAvailable": "7.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "60"
+          "status": "Available"
         },
         {
           "city": "MECHANICVILLE",
-          "pctAvailable": "47.70%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "312"
+          "status": "Available"
         },
         {
           "city": "MEDFORD",
-          "pctAvailable": "9.15%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "147"
+          "status": "Available"
         },
         {
           "city": "MERRICK",
-          "pctAvailable": "35.30%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "843"
+          "status": "Available"
         },
         {
           "city": "MIDDLE VILLAGE",
-          "pctAvailable": "70.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2148"
+          "status": "Available"
         },
         {
           "city": "MIDDLETOWN",
-          "pctAvailable": "7.17%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "198"
+          "status": "Available"
         },
         {
           "city": "MILLER PLACE",
-          "pctAvailable": "12.28%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "MILLERTON",
-          "pctAvailable": "24.46%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "138"
+          "status": "Available"
         },
         {
           "city": "MINEOLA",
-          "pctAvailable": "29.45%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "948"
+          "status": "Available"
         },
         {
           "city": "MOHEGAN LAKE",
-          "pctAvailable": "0.85%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "6"
+          "status": "Available"
         },
         {
           "city": "MONROE",
-          "pctAvailable": "7.57%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "159"
+          "status": "Available"
         },
         {
           "city": "MOUNT KISCO",
-          "pctAvailable": "47.30%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "948"
+          "status": "Available"
         },
         {
           "city": "MOUNT VERNON",
-          "pctAvailable": "4.07%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "81"
+          "status": "Available"
         },
         {
           "city": "NESCONSET",
-          "pctAvailable": "9.12%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "78"
+          "status": "Available"
         },
         {
           "city": "NEW CITY",
-          "pctAvailable": "7.02%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "93"
+          "status": "Available"
         },
         {
           "city": "NEW HARTFORD",
-          "pctAvailable": "5.48%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "27"
+          "status": "Available"
         },
         {
           "city": "NEW HYDE PARK",
-          "pctAvailable": "50.22%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2313"
+          "status": "Available"
         },
         {
           "city": "NEW ROCHELLE",
-          "pctAvailable": "5.68%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "299"
+          "status": "Available"
         },
         {
           "city": "NEW YORK",
-          "pctAvailable": "37.84%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "29916"
+          "status": "Available"
         },
         {
           "city": "NEWBURGH",
-          "pctAvailable": "6.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "111"
+          "status": "Available"
         },
         {
           "city": "NIAGARA FALLS",
-          "pctAvailable": "60.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "627"
+          "status": "Available"
         },
         {
           "city": "NISKAYUNA",
-          "pctAvailable": "52.88%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "660"
+          "status": "Available"
         },
         {
           "city": "NORTH BABYLON",
-          "pctAvailable": "53.12%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1020"
+          "status": "Available"
         },
         {
           "city": "NORTH BALDWIN",
-          "pctAvailable": "3.43%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "60"
+          "status": "Available"
         },
         {
           "city": "NORTH BAY SHORE",
-          "pctAvailable": "-8.05%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "-49"
+          "status": "Available"
         },
         {
           "city": "NORTH BELLMORE",
-          "pctAvailable": "34.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1065"
+          "status": "Available"
         },
         {
           "city": "NORTH TONAWANDA",
-          "pctAvailable": "54.19%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "291"
+          "status": "Available"
         },
         {
           "city": "NORTHPORT",
-          "pctAvailable": "38.05%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1370"
+          "status": "Available"
         },
         {
           "city": "OCEANSIDE",
-          "pctAvailable": "61.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "3468"
+          "status": "Available"
         },
         {
           "city": "OLEAN",
-          "pctAvailable": "65.12%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "549"
+          "status": "Available"
         },
         {
           "city": "ORANGEBURG",
-          "pctAvailable": "3.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "ORCHARD PARK",
-          "pctAvailable": "33.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "165"
+          "status": "Available"
         },
         {
           "city": "OSSINING",
-          "pctAvailable": "58.92%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "891"
+          "status": "Available"
         },
         {
           "city": "OWEGO",
-          "pctAvailable": "79.80%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "960"
+          "status": "Available"
         },
         {
           "city": "OYSTER BAY",
-          "pctAvailable": "54.30%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1401"
+          "status": "Available"
         },
         {
           "city": "OZONE PARK",
-          "pctAvailable": "55.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2646"
+          "status": "Available"
         },
         {
           "city": "PATCHOGUE",
-          "pctAvailable": "4.81%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "75"
+          "status": "Available"
         },
         {
           "city": "PAWLING",
-          "pctAvailable": "50.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "384"
+          "status": "Available"
         },
         {
           "city": "PEARL RIVER",
-          "pctAvailable": "61.70%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "933"
+          "status": "Available"
         },
         {
           "city": "PEEKSKILL",
-          "pctAvailable": "6.33%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "123"
+          "status": "Available"
         },
         {
           "city": "PELHAM MANOR",
-          "pctAvailable": "9.36%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "PENFIELD",
-          "pctAvailable": "54.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "969"
+          "status": "Available"
         },
         {
           "city": "PENN YAN",
-          "pctAvailable": "72.52%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "396"
+          "status": "Available"
         },
         {
           "city": "PLAINVIEW",
-          "pctAvailable": "38.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1488"
+          "status": "Available"
         },
         {
           "city": "PLATTSBURGH",
-          "pctAvailable": "35.07%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "201"
+          "status": "Available"
         },
         {
           "city": "PLEASANT VALLEY",
-          "pctAvailable": "5.43%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "36"
+          "status": "Available"
         },
         {
           "city": "PORT JEFFERSON",
-          "pctAvailable": "8.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "60"
+          "status": "Available"
         },
         {
           "city": "PORT JEFFERSON STATION",
-          "pctAvailable": "7.89%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "207"
+          "status": "Available"
         },
         {
           "city": "POUGHKEEPSIE",
-          "pctAvailable": "4.60%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "QUEENS VILLAGE",
-          "pctAvailable": "52.66%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1599"
+          "status": "Available"
         },
         {
           "city": "QUEENSBURY",
-          "pctAvailable": "82.91%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "3945"
+          "status": "Available"
         },
         {
           "city": "RAVENA",
-          "pctAvailable": "56.15%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "342"
+          "status": "Available"
         },
         {
           "city": "RED HOOK",
-          "pctAvailable": "12.31%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "75"
+          "status": "Available"
         },
         {
           "city": "REGO PARK",
-          "pctAvailable": "13.46%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "168"
+          "status": "Available"
         },
         {
           "city": "RENSSELAER",
-          "pctAvailable": "45.75%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "501"
+          "status": "Available"
         },
         {
           "city": "RHINEBECK",
-          "pctAvailable": "41.26%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "255"
+          "status": "Available"
         },
         {
           "city": "RIDGEWOOD",
-          "pctAvailable": "30.97%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1194"
+          "status": "Available"
         },
         {
           "city": "RIVERHEAD",
-          "pctAvailable": "4.08%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "63"
+          "status": "Available"
         },
         {
           "city": "ROCHESTER",
-          "pctAvailable": "38.55%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "4875"
+          "status": "Available"
         },
         {
           "city": "ROCKAWAY BEACH",
-          "pctAvailable": "11.72%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "141"
+          "status": "Available"
         },
         {
           "city": "ROCKVILLE CENTRE",
-          "pctAvailable": "33.82%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "819"
+          "status": "Available"
         },
         {
           "city": "ROCKY POINT",
-          "pctAvailable": "8.59%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "57"
+          "status": "Available"
         },
         {
           "city": "RONKONKOMA",
-          "pctAvailable": "5.92%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "93"
+          "status": "Available"
         },
         {
           "city": "ROSLYN HEIGHTS",
-          "pctAvailable": "71.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2172"
+          "status": "Available"
         },
         {
           "city": "ROTTERDAM",
-          "pctAvailable": "33.93%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "225"
+          "status": "Available"
         },
         {
           "city": "RYE",
-          "pctAvailable": "6.31%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "72"
+          "status": "Available"
         },
         {
           "city": "RYE BROOK",
-          "pctAvailable": "26.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "321"
+          "status": "Available"
         },
         {
           "city": "SANBORN",
-          "pctAvailable": "48.60%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "261"
+          "status": "Available"
         },
         {
           "city": "SARATOGA SPRINGS",
-          "pctAvailable": "69.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1656"
+          "status": "Available"
         },
         {
           "city": "SAUGERTIES",
-          "pctAvailable": "20.81%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "138"
+          "status": "Available"
         },
         {
           "city": "SAYVILLE",
-          "pctAvailable": "4.07%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "21"
+          "status": "Available"
         },
         {
           "city": "SCARSDALE",
-          "pctAvailable": "40.90%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1383"
+          "status": "Available"
         },
         {
           "city": "SCHENECTADY",
-          "pctAvailable": "40.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2430"
+          "status": "Available"
         },
         {
           "city": "SCOTIA",
-          "pctAvailable": "25.79%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "171"
+          "status": "Available"
         },
         {
           "city": "SEAFORD",
-          "pctAvailable": "50.68%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "777"
+          "status": "Available"
         },
         {
           "city": "SELDEN",
-          "pctAvailable": "9.61%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "144"
+          "status": "Available"
         },
         {
           "city": "SETAUKET",
-          "pctAvailable": "15.41%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "123"
+          "status": "Available"
         },
         {
           "city": "SHIRLEY",
-          "pctAvailable": "54.60%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2728"
+          "status": "Available"
         },
         {
           "city": "SKANEATELES",
-          "pctAvailable": "3.29%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Available"
         },
         {
           "city": "SMITHTOWN",
-          "pctAvailable": "20.21%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1029"
+          "status": "Available"
         },
         {
           "city": "SODUS",
-          "pctAvailable": "42.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "252"
+          "status": "Available"
         },
         {
           "city": "SOMERS",
-          "pctAvailable": "3.67%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "24"
+          "status": "Available"
         },
         {
           "city": "SOUTH SETAUKET",
-          "pctAvailable": "10.74%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "69"
+          "status": "Available"
         },
         {
           "city": "SOUTHAMPTON",
-          "pctAvailable": "53.84%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1008"
+          "status": "Available"
         },
         {
           "city": "SPRING VALLEY",
-          "pctAvailable": "21.02%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "258"
+          "status": "Available"
         },
         {
           "city": "STATEN ISLAND",
-          "pctAvailable": "47.33%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "14622"
+          "status": "Available"
         },
         {
           "city": "STONY POINT",
-          "pctAvailable": "20.18%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "132"
+          "status": "Available"
         },
         {
           "city": "SUFFERN",
-          "pctAvailable": "5.66%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "75"
+          "status": "Available"
         },
         {
           "city": "SUNNYSIDE",
-          "pctAvailable": "56.54%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "855"
+          "status": "Available"
         },
         {
           "city": "SYOSSET",
-          "pctAvailable": "36.01%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "939"
+          "status": "Available"
         },
         {
           "city": "SYRACUSE",
-          "pctAvailable": "0.61%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "6"
+          "status": "Available"
         },
         {
           "city": "TARRYTOWN",
-          "pctAvailable": "14.38%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "258"
+          "status": "Available"
         },
         {
           "city": "THORNWOOD",
-          "pctAvailable": "6.65%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "84"
+          "status": "Available"
         },
         {
           "city": "TONAWANDA",
-          "pctAvailable": "49.18%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "273"
+          "status": "Available"
         },
         {
           "city": "TROY",
-          "pctAvailable": "37.35%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "669"
+          "status": "Available"
         },
         {
           "city": "VALATIE",
-          "pctAvailable": "35.29%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "234"
+          "status": "Available"
         },
         {
           "city": "VALLEY STREAM",
-          "pctAvailable": "10.81%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "465"
+          "status": "Available"
         },
         {
           "city": "VESTAL",
-          "pctAvailable": "80.90%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "3194"
+          "status": "Available"
         },
         {
           "city": "VICTOR",
-          "pctAvailable": "57.86%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1104"
+          "status": "Available"
         },
         {
           "city": "WADING RIVER",
-          "pctAvailable": "6.25%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "78"
+          "status": "Available"
         },
         {
           "city": "WALTON",
-          "pctAvailable": "63.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "378"
+          "status": "Available"
         },
         {
           "city": "WANTAGH",
-          "pctAvailable": "10.07%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "165"
+          "status": "Available"
         },
         {
           "city": "WARWICK",
-          "pctAvailable": "17.24%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "105"
+          "status": "Available"
         },
         {
           "city": "WASHINGTONVILLE",
-          "pctAvailable": "0.00%",
           "state": "NY",
-          "status": "Fully Booked",
-          "totalAvailable": "0"
+          "status": "Available"
         },
         {
           "city": "WATERTOWN",
-          "pctAvailable": "73.82%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "423"
+          "status": "Available"
         },
         {
           "city": "WATERVILLE",
-          "pctAvailable": "70.95%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "381"
+          "status": "Available"
         },
         {
           "city": "WATKINS GLEN",
-          "pctAvailable": "2.50%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "15"
+          "status": "Available"
         },
         {
           "city": "WAYLAND",
-          "pctAvailable": "49.16%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "264"
+          "status": "Available"
         },
         {
           "city": "WEBSTER",
-          "pctAvailable": "41.44%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1257"
+          "status": "Available"
         },
         {
           "city": "WEST BABYLON",
-          "pctAvailable": "9.32%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "231"
+          "status": "Available"
         },
         {
           "city": "WEST HEMPSTEAD",
-          "pctAvailable": "41.02%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1519"
+          "status": "Available"
         },
         {
           "city": "WEST ISLIP",
-          "pctAvailable": "7.19%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "174"
+          "status": "Available"
         },
         {
           "city": "WEST NYACK",
-          "pctAvailable": "16.46%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "81"
+          "status": "Available"
         },
         {
           "city": "WEST SAYVILLE",
-          "pctAvailable": "8.89%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "75"
+          "status": "Available"
         },
         {
           "city": "WEST SENECA",
-          "pctAvailable": "66.10%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1182"
+          "status": "Available"
         },
         {
           "city": "WESTBURY",
-          "pctAvailable": "35.09%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1194"
+          "status": "Available"
         },
         {
           "city": "WESTFIELD",
-          "pctAvailable": "69.96%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "552"
+          "status": "Available"
         },
         {
           "city": "WESTHAMPTON BEACH",
-          "pctAvailable": "10.87%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "93"
+          "status": "Available"
         },
         {
           "city": "WHITE PLAINS",
-          "pctAvailable": "29.60%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "2106"
+          "status": "Available"
         },
         {
           "city": "WHITEHALL",
-          "pctAvailable": "84.09%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "444"
+          "status": "Available"
         },
         {
           "city": "WHITESTONE",
-          "pctAvailable": "34.53%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1005"
+          "status": "Available"
         },
         {
           "city": "WILLIAMSVILLE",
-          "pctAvailable": "25.94%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "123"
+          "status": "Available"
         },
         {
           "city": "WILLISTON PARK",
-          "pctAvailable": "52.85%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1332"
+          "status": "Available"
         },
         {
           "city": "WILTON",
-          "pctAvailable": "84.47%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1485"
+          "status": "Available"
         },
         {
           "city": "WOODMERE",
-          "pctAvailable": "54.81%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1059"
+          "status": "Available"
         },
         {
           "city": "WOODSIDE",
-          "pctAvailable": "55.00%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "1023"
+          "status": "Available"
         },
         {
           "city": "WOODSTOCK",
-          "pctAvailable": "32.96%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "177"
+          "status": "Available"
         },
         {
           "city": "WYNANTSKILL",
-          "pctAvailable": "42.98%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "285"
+          "status": "Available"
         },
         {
           "city": "YONKERS",
-          "pctAvailable": "11.16%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "558"
+          "status": "Available"
         },
         {
           "city": "YORKTOWN HEIGHTS",
-          "pctAvailable": "5.02%",
           "state": "NY",
-          "status": "Available",
-          "totalAvailable": "36"
+          "status": "Available"
         }
       ]
     },
