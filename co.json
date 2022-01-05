@@ -10,148 +10,206 @@
       "CO": [
         {
           "city": "ARVADA",
+          "pctAvailable": "26.37%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "144"
         },
         {
           "city": "AURORA",
+          "pctAvailable": "40.82%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2136"
         },
         {
           "city": "BOULDER",
+          "pctAvailable": "12.56%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "72"
         },
         {
           "city": "BRIGHTON",
+          "pctAvailable": "19.37%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "111"
         },
         {
           "city": "CASTLE ROCK",
+          "pctAvailable": "31.05%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "450"
         },
         {
           "city": "COLORADO SPRINGS",
+          "pctAvailable": "80.27%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "6570"
         },
         {
           "city": "DENVER",
+          "pctAvailable": "27.87%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2412"
         },
         {
           "city": "EDGEWATER",
+          "pctAvailable": "14.66%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "84"
         },
         {
           "city": "ENGLEWOOD",
+          "pctAvailable": "18.22%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "117"
         },
         {
           "city": "FORT COLLINS",
+          "pctAvailable": "35.82%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "489"
         },
         {
           "city": "GLENDALE",
+          "pctAvailable": "7.76%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "48"
         },
         {
           "city": "GLENWOOD SPRINGS",
+          "pctAvailable": "36.64%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "210"
         },
         {
           "city": "GRAND JUNCTION",
+          "pctAvailable": "78.00%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "234"
         },
         {
           "city": "GREELEY",
+          "pctAvailable": "38.74%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "222"
         },
         {
           "city": "HIGHLANDS RANCH",
+          "pctAvailable": "46.29%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "936"
         },
         {
           "city": "LAKEWOOD",
+          "pctAvailable": "35.16%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "480"
         },
         {
           "city": "LITTLETON",
+          "pctAvailable": "19.81%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "252"
         },
         {
           "city": "LONE TREE",
+          "pctAvailable": "22.47%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "234"
         },
         {
           "city": "LONGMONT",
+          "pctAvailable": "6.80%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "39"
         },
         {
           "city": "LOVELAND",
+          "pctAvailable": "54.65%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "792"
         },
         {
           "city": "MONTROSE",
+          "pctAvailable": "85.36%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "420"
         },
         {
           "city": "PARKER",
+          "pctAvailable": "34.81%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1224"
         },
         {
           "city": "PUEBLO",
+          "pctAvailable": "89.32%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "552"
         },
         {
           "city": "SHERIDAN",
+          "pctAvailable": "41.19%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "519"
         },
         {
           "city": "SILVERTHORNE",
+          "pctAvailable": "39.63%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "195"
         },
         {
           "city": "SUPERIOR",
+          "pctAvailable": "-67.14%",
           "state": "CO",
-          "status": "Fully Booked"
+          "status": "Fully Booked",
+          "totalAvailable": "-47"
         },
         {
           "city": "THORNTON",
+          "pctAvailable": "23.56%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "135"
         },
         {
           "city": "WESTMINSTER",
+          "pctAvailable": "38.94%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "777"
         },
         {
           "city": "WHEAT RIDGE",
+          "pctAvailable": "15.70%",
           "state": "CO",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "90"
         }
       ]
     },
