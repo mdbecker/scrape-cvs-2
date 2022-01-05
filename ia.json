@@ -10,98 +10,136 @@
       "IA": [
         {
           "city": "ALTOONA",
+          "pctAvailable": "78.53%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "450"
         },
         {
           "city": "AMES",
+          "pctAvailable": "82.03%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1014"
         },
         {
           "city": "ANKENY",
+          "pctAvailable": "84.74%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "933"
         },
         {
           "city": "BETTENDORF",
+          "pctAvailable": "82.11%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "537"
         },
         {
           "city": "CEDAR FALLS",
+          "pctAvailable": "92.09%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1014"
         },
         {
           "city": "CEDAR RAPIDS",
+          "pctAvailable": "82.70%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3300"
         },
         {
           "city": "CORALVILLE",
+          "pctAvailable": "82.85%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "348"
         },
         {
           "city": "COUNCIL BLUFFS",
+          "pctAvailable": "85.09%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1713"
         },
         {
           "city": "DAVENPORT",
+          "pctAvailable": "83.70%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1356"
         },
         {
           "city": "DES MOINES",
+          "pctAvailable": "88.10%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1800"
         },
         {
           "city": "DUBUQUE",
+          "pctAvailable": "94.66%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "426"
         },
         {
           "city": "FORT DODGE",
+          "pctAvailable": "97.97%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1158"
         },
         {
           "city": "IOWA CITY",
+          "pctAvailable": "81.69%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "897"
         },
         {
           "city": "MARION",
+          "pctAvailable": "93.11%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "609"
         },
         {
           "city": "MASON CITY",
+          "pctAvailable": "93.28%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1500"
         },
         {
           "city": "SIOUX CITY",
+          "pctAvailable": "93.71%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "537"
         },
         {
           "city": "URBANDALE",
+          "pctAvailable": "78.64%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "873"
         },
         {
           "city": "WATERLOO",
+          "pctAvailable": "95.31%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1527"
         },
         {
           "city": "WEST DES MOINES",
+          "pctAvailable": "85.71%",
           "state": "IA",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "792"
         }
       ]
     },
