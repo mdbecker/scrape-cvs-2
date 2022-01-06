@@ -10,10 +10,10 @@
       "MA": [
         {
           "city": "ABINGTON",
-          "pctAvailable": "33.33%",
+          "pctAvailable": "33.87%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "186"
+          "totalAvailable": "189"
         },
         {
           "city": "ACTON",
@@ -24,24 +24,24 @@
         },
         {
           "city": "AGAWAM",
-          "pctAvailable": "19.83%",
+          "pctAvailable": "20.01%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "660"
+          "totalAvailable": "666"
         },
         {
           "city": "ALLSTON",
-          "pctAvailable": "41.52%",
+          "pctAvailable": "40.27%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "999"
+          "totalAvailable": "969"
         },
         {
           "city": "AMESBURY",
-          "pctAvailable": "15.45%",
+          "pctAvailable": "16.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "108"
+          "totalAvailable": "114"
         },
         {
           "city": "AMHERST",
@@ -52,17 +52,17 @@
         },
         {
           "city": "ANDOVER",
-          "pctAvailable": "54.24%",
+          "pctAvailable": "54.14%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "3258"
+          "totalAvailable": "3252"
         },
         {
           "city": "ARLINGTON",
-          "pctAvailable": "11.41%",
+          "pctAvailable": "10.76%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "210"
+          "totalAvailable": "198"
         },
         {
           "city": "ASHLAND",
@@ -80,10 +80,10 @@
         },
         {
           "city": "ATTLEBORO",
-          "pctAvailable": "11.01%",
+          "pctAvailable": "9.25%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "150"
+          "totalAvailable": "126"
         },
         {
           "city": "AUBURN",
@@ -94,10 +94,10 @@
         },
         {
           "city": "BEDFORD",
-          "pctAvailable": "16.14%",
+          "pctAvailable": "16.92%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "123"
+          "totalAvailable": "129"
         },
         {
           "city": "BELCHERTOWN",
@@ -108,24 +108,24 @@
         },
         {
           "city": "BELLINGHAM",
-          "pctAvailable": "2.96%",
+          "pctAvailable": "0.42%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "21"
+          "status": "Fully Booked",
+          "totalAvailable": "3"
         },
         {
           "city": "BELMONT",
-          "pctAvailable": "44.91%",
+          "pctAvailable": "43.23%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2727"
+          "totalAvailable": "2625"
         },
         {
           "city": "BEVERLY",
-          "pctAvailable": "32.91%",
+          "pctAvailable": "32.06%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "933"
+          "totalAvailable": "909"
         },
         {
           "city": "BILLERICA",
@@ -136,31 +136,31 @@
         },
         {
           "city": "BLACKSTONE",
-          "pctAvailable": "53.92%",
+          "pctAvailable": "53.03%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "906"
+          "totalAvailable": "891"
         },
         {
           "city": "BOSTON",
-          "pctAvailable": "38.31%",
+          "pctAvailable": "37.46%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "8244"
+          "totalAvailable": "8061"
         },
         {
           "city": "BOURNE",
-          "pctAvailable": "22.81%",
+          "pctAvailable": "23.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "141"
+          "totalAvailable": "144"
         },
         {
           "city": "BRAINTREE",
-          "pctAvailable": "44.84%",
+          "pctAvailable": "44.34%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2139"
+          "totalAvailable": "2115"
         },
         {
           "city": "BRIDGEWATER",
@@ -171,115 +171,115 @@
         },
         {
           "city": "BRIGHTON",
-          "pctAvailable": "6.92%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "129"
-        },
-        {
-          "city": "BROCKTON",
-          "pctAvailable": "34.95%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "2480"
-        },
-        {
-          "city": "BROOKLINE",
-          "pctAvailable": "16.73%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "489"
-        },
-        {
-          "city": "BURLINGTON",
-          "pctAvailable": "32.72%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1173"
-        },
-        {
-          "city": "CAMBRIDGE",
-          "pctAvailable": "41.72%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "4596"
-        },
-        {
-          "city": "CANTON",
-          "pctAvailable": "2.83%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "54"
-        },
-        {
-          "city": "CARVER",
-          "pctAvailable": "12.21%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "81"
-        },
-        {
-          "city": "CHARLESTOWN",
-          "pctAvailable": "4.84%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "87"
-        },
-        {
-          "city": "CHARLTON",
-          "pctAvailable": "4.97%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "33"
-        },
-        {
-          "city": "CHATHAM",
-          "pctAvailable": "8.82%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "45"
-        },
-        {
-          "city": "CHELMSFORD",
-          "pctAvailable": "6.35%",
+          "pctAvailable": "6.11%",
           "state": "MA",
           "status": "Available",
           "totalAvailable": "114"
         },
         {
-          "city": "CHELSEA",
-          "pctAvailable": "7.76%",
+          "city": "BROCKTON",
+          "pctAvailable": "34.88%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "105"
+          "totalAvailable": "2475"
+        },
+        {
+          "city": "BROOKLINE",
+          "pctAvailable": "15.81%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "462"
+        },
+        {
+          "city": "BURLINGTON",
+          "pctAvailable": "32.46%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1164"
+        },
+        {
+          "city": "CAMBRIDGE",
+          "pctAvailable": "41.66%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "4590"
+        },
+        {
+          "city": "CANTON",
+          "pctAvailable": "-0.78%",
+          "state": "MA",
+          "status": "Fully Booked",
+          "totalAvailable": "-15"
+        },
+        {
+          "city": "CARVER",
+          "pctAvailable": "13.12%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "87"
+        },
+        {
+          "city": "CHARLESTOWN",
+          "pctAvailable": "4.68%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "84"
+        },
+        {
+          "city": "CHARLTON",
+          "pctAvailable": "3.62%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "24"
+        },
+        {
+          "city": "CHATHAM",
+          "pctAvailable": "6.47%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "33"
+        },
+        {
+          "city": "CHELMSFORD",
+          "pctAvailable": "3.17%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "57"
+        },
+        {
+          "city": "CHELSEA",
+          "pctAvailable": "8.20%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "111"
         },
         {
           "city": "CHESTNUT HILL",
-          "pctAvailable": "18.69%",
+          "pctAvailable": "20.13%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "507"
+          "totalAvailable": "546"
         },
         {
           "city": "CHICOPEE",
-          "pctAvailable": "43.14%",
+          "pctAvailable": "42.92%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1143"
+          "totalAvailable": "1137"
         },
         {
           "city": "CLINTON",
-          "pctAvailable": "8.47%",
+          "pctAvailable": "8.23%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "105"
+          "totalAvailable": "102"
         },
         {
           "city": "COHASSET",
-          "pctAvailable": "31.38%",
+          "pctAvailable": "32.44%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "177"
+          "totalAvailable": "183"
         },
         {
           "city": "CONCORD",
@@ -290,59 +290,59 @@
         },
         {
           "city": "DANVERS",
-          "pctAvailable": "7.98%",
+          "pctAvailable": "7.29%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "279"
+          "totalAvailable": "255"
         },
         {
           "city": "DEDHAM",
-          "pctAvailable": "40.15%",
+          "pctAvailable": "38.91%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1554"
+          "totalAvailable": "1506"
         },
         {
           "city": "DORCHESTER",
-          "pctAvailable": "15.65%",
+          "pctAvailable": "15.55%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "924"
+          "totalAvailable": "918"
         },
         {
           "city": "DRACUT",
-          "pctAvailable": "10.46%",
+          "pctAvailable": "9.86%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "261"
+          "totalAvailable": "246"
         },
         {
           "city": "EAST BOSTON",
-          "pctAvailable": "8.73%",
+          "pctAvailable": "8.01%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "108"
+          "totalAvailable": "99"
         },
         {
           "city": "EAST BRIDGEWATER",
-          "pctAvailable": "34.15%",
+          "pctAvailable": "33.45%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "582"
+          "totalAvailable": "570"
         },
         {
           "city": "EAST FALMOUTH",
-          "pctAvailable": "15.76%",
+          "pctAvailable": "16.25%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "96"
+          "totalAvailable": "99"
         },
         {
           "city": "EAST LONGMEADOW",
-          "pctAvailable": "38.55%",
+          "pctAvailable": "38.13%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "273"
+          "totalAvailable": "270"
         },
         {
           "city": "EAST WAREHAM",
@@ -374,87 +374,87 @@
         },
         {
           "city": "FALL RIVER",
-          "pctAvailable": "30.60%",
+          "pctAvailable": "30.40%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1359"
+          "totalAvailable": "1350"
         },
         {
           "city": "FALMOUTH",
-          "pctAvailable": "13.40%",
+          "pctAvailable": "13.27%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "324"
+          "totalAvailable": "321"
         },
         {
           "city": "FITCHBURG",
-          "pctAvailable": "35.13%",
+          "pctAvailable": "33.33%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1110"
+          "totalAvailable": "1053"
         },
         {
           "city": "FOXBOROUGH",
-          "pctAvailable": "43.48%",
+          "pctAvailable": "42.96%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1011"
+          "totalAvailable": "999"
         },
         {
           "city": "FRAMINGHAM",
-          "pctAvailable": "19.05%",
+          "pctAvailable": "17.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1077"
+          "totalAvailable": "978"
         },
         {
           "city": "FRANKLIN",
-          "pctAvailable": "38.34%",
+          "pctAvailable": "38.89%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1668"
+          "totalAvailable": "1692"
         },
         {
           "city": "GARDNER",
-          "pctAvailable": "5.21%",
+          "pctAvailable": "4.98%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "69"
+          "totalAvailable": "66"
         },
         {
           "city": "GEORGETOWN",
-          "pctAvailable": "7.69%",
+          "pctAvailable": "8.14%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "51"
+          "totalAvailable": "54"
         },
         {
           "city": "GLOUCESTER",
-          "pctAvailable": "54.69%",
+          "pctAvailable": "55.21%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1275"
+          "totalAvailable": "1287"
         },
         {
           "city": "GRANBY",
-          "pctAvailable": "32.44%",
+          "pctAvailable": "31.91%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "183"
+          "totalAvailable": "180"
         },
         {
           "city": "GREAT BARRINGTON",
-          "pctAvailable": "68.09%",
+          "pctAvailable": "67.58%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "813"
+          "totalAvailable": "807"
         },
         {
           "city": "GREENFIELD",
-          "pctAvailable": "8.80%",
+          "pctAvailable": "8.31%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "213"
+          "totalAvailable": "201"
         },
         {
           "city": "GROTON",
@@ -465,17 +465,17 @@
         },
         {
           "city": "HADLEY",
-          "pctAvailable": "43.57%",
+          "pctAvailable": "41.42%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "183"
+          "totalAvailable": "174"
         },
         {
           "city": "HANOVER",
-          "pctAvailable": "1.70%",
+          "pctAvailable": "-4.26%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "18"
+          "status": "Fully Booked",
+          "totalAvailable": "-45"
         },
         {
           "city": "HANSON",
@@ -486,66 +486,66 @@
         },
         {
           "city": "HARWICH",
-          "pctAvailable": "10.37%",
+          "pctAvailable": "9.90%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "66"
+          "totalAvailable": "63"
         },
         {
           "city": "HARWICHPORT",
-          "pctAvailable": "10.52%",
+          "pctAvailable": "9.56%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "66"
+          "totalAvailable": "60"
         },
         {
           "city": "HAVERHILL",
-          "pctAvailable": "43.86%",
+          "pctAvailable": "42.62%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2979"
+          "totalAvailable": "2895"
         },
         {
           "city": "HINGHAM",
-          "pctAvailable": "37.26%",
+          "pctAvailable": "36.77%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "465"
+          "totalAvailable": "459"
         },
         {
           "city": "HOLBROOK",
-          "pctAvailable": "50.71%",
+          "pctAvailable": "50.00%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1269"
+          "totalAvailable": "1251"
         },
         {
           "city": "HOLDEN",
-          "pctAvailable": "12.38%",
+          "pctAvailable": "12.84%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "81"
+          "totalAvailable": "84"
         },
         {
           "city": "HOLLISTON",
-          "pctAvailable": "22.71%",
+          "pctAvailable": "22.97%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "261"
+          "totalAvailable": "264"
         },
         {
           "city": "HOLYOKE",
-          "pctAvailable": "53.11%",
+          "pctAvailable": "52.51%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1866"
+          "totalAvailable": "1845"
         },
         {
           "city": "HOPKINTON",
-          "pctAvailable": "53.35%",
+          "pctAvailable": "52.54%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1383"
+          "totalAvailable": "1362"
         },
         {
           "city": "HUDSON",
@@ -556,17 +556,17 @@
         },
         {
           "city": "HYANNIS",
-          "pctAvailable": "38.25%",
+          "pctAvailable": "37.58%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1197"
+          "totalAvailable": "1176"
         },
         {
           "city": "HYDE PARK",
-          "pctAvailable": "1.83%",
+          "pctAvailable": "-4.58%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "12"
+          "status": "Fully Booked",
+          "totalAvailable": "-30"
         },
         {
           "city": "IPSWICH",
@@ -577,31 +577,31 @@
         },
         {
           "city": "JAMAICA PLAIN",
-          "pctAvailable": "26.82%",
+          "pctAvailable": "26.18%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "375"
+          "totalAvailable": "366"
         },
         {
           "city": "KINGSTON",
-          "pctAvailable": "31.86%",
+          "pctAvailable": "31.73%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "735"
+          "totalAvailable": "732"
         },
         {
           "city": "LAKEVILLE",
-          "pctAvailable": "5.91%",
+          "pctAvailable": "6.40%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "36"
+          "totalAvailable": "39"
         },
         {
           "city": "LANESBOROUGH",
-          "pctAvailable": "33.53%",
+          "pctAvailable": "32.92%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "165"
+          "totalAvailable": "162"
         },
         {
           "city": "LAWRENCE",
@@ -612,17 +612,17 @@
         },
         {
           "city": "LENOX",
-          "pctAvailable": "35.27%",
+          "pctAvailable": "35.81%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "582"
+          "totalAvailable": "591"
         },
         {
           "city": "LEOMINSTER",
-          "pctAvailable": "33.63%",
+          "pctAvailable": "32.50%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2319"
+          "totalAvailable": "2241"
         },
         {
           "city": "LEXINGTON",
@@ -640,59 +640,59 @@
         },
         {
           "city": "LONGMEADOW",
-          "pctAvailable": "54.16%",
+          "pctAvailable": "53.54%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1308"
+          "totalAvailable": "1293"
         },
         {
           "city": "LOWELL",
-          "pctAvailable": "7.36%",
+          "pctAvailable": "6.56%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "303"
+          "totalAvailable": "270"
         },
         {
           "city": "LUDLOW",
-          "pctAvailable": "3.16%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "21"
-        },
-        {
-          "city": "LUNENBURG",
-          "pctAvailable": "9.63%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "63"
-        },
-        {
-          "city": "LYNN",
-          "pctAvailable": "31.20%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "894"
-        },
-        {
-          "city": "MALDEN",
-          "pctAvailable": "10.75%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "336"
-        },
-        {
-          "city": "MANSFIELD",
-          "pctAvailable": "34.73%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "840"
-        },
-        {
-          "city": "MARBLEHEAD",
-          "pctAvailable": "0.42%",
+          "pctAvailable": "0.45%",
           "state": "MA",
           "status": "Fully Booked",
           "totalAvailable": "3"
+        },
+        {
+          "city": "LUNENBURG",
+          "pctAvailable": "10.09%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "66"
+        },
+        {
+          "city": "LYNN",
+          "pctAvailable": "31.41%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "900"
+        },
+        {
+          "city": "MALDEN",
+          "pctAvailable": "10.27%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "321"
+        },
+        {
+          "city": "MANSFIELD",
+          "pctAvailable": "35.36%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "855"
+        },
+        {
+          "city": "MARBLEHEAD",
+          "pctAvailable": "-0.85%",
+          "state": "MA",
+          "status": "Fully Booked",
+          "totalAvailable": "-6"
         },
         {
           "city": "MARLBOROUGH",
@@ -703,17 +703,17 @@
         },
         {
           "city": "MARSHFIELD",
-          "pctAvailable": "41.27%",
+          "pctAvailable": "42.85%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "546"
+          "totalAvailable": "567"
         },
         {
           "city": "MARSTONS MILLS",
-          "pctAvailable": "23.11%",
+          "pctAvailable": "22.64%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "147"
+          "totalAvailable": "144"
         },
         {
           "city": "MASHPEE",
@@ -724,164 +724,164 @@
         },
         {
           "city": "MATTAPAN",
-          "pctAvailable": "4.36%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "27"
-        },
-        {
-          "city": "MAYNARD",
-          "pctAvailable": "5.01%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "90"
-        },
-        {
-          "city": "MEDFIELD",
-          "pctAvailable": "20.56%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "264"
-        },
-        {
-          "city": "MEDFORD",
-          "pctAvailable": "5.34%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "276"
-        },
-        {
-          "city": "MEDWAY",
-          "pctAvailable": "31.77%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "570"
-        },
-        {
-          "city": "MELROSE",
-          "pctAvailable": "38.32%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1251"
-        },
-        {
-          "city": "METHUEN",
-          "pctAvailable": "7.60%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "315"
-        },
-        {
-          "city": "MIDDLEBOROUGH",
-          "pctAvailable": "42.32%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "711"
-        },
-        {
-          "city": "MIDDLETON",
-          "pctAvailable": "2.00%",
+          "pctAvailable": "1.94%",
           "state": "MA",
           "status": "Available",
           "totalAvailable": "12"
         },
         {
-          "city": "MILFORD",
-          "pctAvailable": "34.92%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "2169"
-        },
-        {
-          "city": "MILLBURY",
-          "pctAvailable": "9.18%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "111"
-        },
-        {
-          "city": "MILLIS",
-          "pctAvailable": "34.20%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "393"
-        },
-        {
-          "city": "MILTON",
-          "pctAvailable": "49.76%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "621"
-        },
-        {
-          "city": "NATICK",
-          "pctAvailable": "6.70%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "162"
-        },
-        {
-          "city": "NEEDHAM",
-          "pctAvailable": "41.04%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1443"
-        },
-        {
-          "city": "NEW BEDFORD",
-          "pctAvailable": "42.85%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1377"
-        },
-        {
-          "city": "NEWBURYPORT",
-          "pctAvailable": "52.67%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1122"
-        },
-        {
-          "city": "NEWTON",
-          "pctAvailable": "42.32%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1944"
-        },
-        {
-          "city": "NORTH ADAMS",
-          "pctAvailable": "9.70%",
+          "city": "MAYNARD",
+          "pctAvailable": "3.34%",
           "state": "MA",
           "status": "Available",
           "totalAvailable": "60"
         },
         {
-          "city": "NORTH ANDOVER",
-          "pctAvailable": "58.15%",
+          "city": "MEDFIELD",
+          "pctAvailable": "21.02%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2151"
+          "totalAvailable": "270"
+        },
+        {
+          "city": "MEDFORD",
+          "pctAvailable": "3.02%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "156"
+        },
+        {
+          "city": "MEDWAY",
+          "pctAvailable": "32.77%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "588"
+        },
+        {
+          "city": "MELROSE",
+          "pctAvailable": "38.23%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1248"
+        },
+        {
+          "city": "METHUEN",
+          "pctAvailable": "7.24%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "300"
+        },
+        {
+          "city": "MIDDLEBOROUGH",
+          "pctAvailable": "41.60%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "699"
+        },
+        {
+          "city": "MIDDLETON",
+          "pctAvailable": "-1.00%",
+          "state": "MA",
+          "status": "Fully Booked",
+          "totalAvailable": "-6"
+        },
+        {
+          "city": "MILFORD",
+          "pctAvailable": "33.57%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "2085"
+        },
+        {
+          "city": "MILLBURY",
+          "pctAvailable": "9.42%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "114"
+        },
+        {
+          "city": "MILLIS",
+          "pctAvailable": "33.94%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "390"
+        },
+        {
+          "city": "MILTON",
+          "pctAvailable": "49.27%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "615"
+        },
+        {
+          "city": "NATICK",
+          "pctAvailable": "3.72%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "90"
+        },
+        {
+          "city": "NEEDHAM",
+          "pctAvailable": "41.21%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1449"
+        },
+        {
+          "city": "NEW BEDFORD",
+          "pctAvailable": "43.23%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1389"
+        },
+        {
+          "city": "NEWBURYPORT",
+          "pctAvailable": "52.25%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1113"
+        },
+        {
+          "city": "NEWTON",
+          "pctAvailable": "41.34%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1899"
+        },
+        {
+          "city": "NORTH ADAMS",
+          "pctAvailable": "7.76%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "48"
+        },
+        {
+          "city": "NORTH ANDOVER",
+          "pctAvailable": "58.07%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "2148"
         },
         {
           "city": "NORTH ATTLEBORO",
-          "pctAvailable": "38.46%",
+          "pctAvailable": "39.45%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "930"
+          "totalAvailable": "954"
         },
         {
           "city": "NORTH ATTLEBOROUGH",
-          "pctAvailable": "39.50%",
+          "pctAvailable": "40.74%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "192"
+          "totalAvailable": "198"
         },
         {
           "city": "NORTH BILLERICA",
-          "pctAvailable": "7.19%",
+          "pctAvailable": "4.68%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "129"
+          "totalAvailable": "84"
         },
         {
           "city": "NORTH DARTMOUTH",
@@ -892,10 +892,10 @@
         },
         {
           "city": "NORTH EASTON",
-          "pctAvailable": "28.68%",
+          "pctAvailable": "27.77%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "666"
+          "totalAvailable": "645"
         },
         {
           "city": "NORTH GRAFTON",
@@ -906,10 +906,10 @@
         },
         {
           "city": "NORTH READING",
-          "pctAvailable": "52.98%",
+          "pctAvailable": "52.36%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1812"
+          "totalAvailable": "1791"
         },
         {
           "city": "NORTHAMPTON",
@@ -927,17 +927,17 @@
         },
         {
           "city": "NORTON",
-          "pctAvailable": "23.19%",
+          "pctAvailable": "22.81%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "183"
+          "totalAvailable": "180"
         },
         {
           "city": "NORWELL",
-          "pctAvailable": "21.56%",
+          "pctAvailable": "22.93%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "141"
+          "totalAvailable": "150"
         },
         {
           "city": "NORWOOD",
@@ -955,115 +955,115 @@
         },
         {
           "city": "OXFORD",
-          "pctAvailable": "52.79%",
+          "pctAvailable": "52.64%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1020"
+          "totalAvailable": "1017"
         },
         {
           "city": "PALMER",
-          "pctAvailable": "15.83%",
+          "pctAvailable": "16.74%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "105"
+          "totalAvailable": "111"
         },
         {
           "city": "PEABODY",
-          "pctAvailable": "8.94%",
+          "pctAvailable": "8.46%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "276"
+          "totalAvailable": "261"
         },
         {
           "city": "PEMBROKE",
-          "pctAvailable": "3.08%",
+          "pctAvailable": "-0.88%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "21"
+          "status": "Fully Booked",
+          "totalAvailable": "-6"
         },
         {
           "city": "PITTSFIELD",
-          "pctAvailable": "11.89%",
+          "pctAvailable": "11.45%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "81"
+          "totalAvailable": "78"
         },
         {
           "city": "PLAINVILLE",
-          "pctAvailable": "31.13%",
+          "pctAvailable": "31.92%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "354"
+          "totalAvailable": "363"
         },
         {
           "city": "PLYMOUTH",
-          "pctAvailable": "4.85%",
+          "pctAvailable": "4.10%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "156"
+          "totalAvailable": "132"
         },
         {
           "city": "PROVINCETOWN",
-          "pctAvailable": "33.49%",
+          "pctAvailable": "33.00%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "204"
+          "totalAvailable": "201"
         },
         {
           "city": "QUINCY",
-          "pctAvailable": "22.98%",
+          "pctAvailable": "22.36%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "444"
+          "totalAvailable": "432"
         },
         {
           "city": "RANDOLPH",
-          "pctAvailable": "47.27%",
+          "pctAvailable": "47.51%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1143"
+          "totalAvailable": "1149"
         },
         {
           "city": "RAYNHAM",
-          "pctAvailable": "2.89%",
+          "pctAvailable": "1.20%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "36"
+          "totalAvailable": "15"
         },
         {
           "city": "READING",
-          "pctAvailable": "9.36%",
+          "pctAvailable": "9.19%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "168"
+          "totalAvailable": "165"
         },
         {
           "city": "REVERE",
-          "pctAvailable": "41.60%",
+          "pctAvailable": "42.06%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1086"
+          "totalAvailable": "1098"
         },
         {
           "city": "ROCKLAND",
-          "pctAvailable": "27.89%",
+          "pctAvailable": "25.75%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "195"
+          "totalAvailable": "180"
         },
         {
           "city": "ROSLINDALE",
-          "pctAvailable": "46.41%",
+          "pctAvailable": "45.05%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1125"
+          "totalAvailable": "1092"
         },
         {
           "city": "ROWLEY",
-          "pctAvailable": "21.44%",
+          "pctAvailable": "21.69%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "258"
+          "totalAvailable": "261"
         },
         {
           "city": "SALEM",
@@ -1074,38 +1074,38 @@
         },
         {
           "city": "SALISBURY",
-          "pctAvailable": "2.71%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "18"
-        },
-        {
-          "city": "SANDWICH",
-          "pctAvailable": "14.35%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "180"
-        },
-        {
-          "city": "SAUGUS",
-          "pctAvailable": "33.90%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1014"
-        },
-        {
-          "city": "SCITUATE",
-          "pctAvailable": "4.78%",
+          "pctAvailable": "4.07%",
           "state": "MA",
           "status": "Available",
           "totalAvailable": "27"
         },
         {
-          "city": "SEEKONK",
-          "pctAvailable": "51.51%",
+          "city": "SANDWICH",
+          "pctAvailable": "14.11%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1122"
+          "totalAvailable": "177"
+        },
+        {
+          "city": "SAUGUS",
+          "pctAvailable": "34.00%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1017"
+        },
+        {
+          "city": "SCITUATE",
+          "pctAvailable": "2.66%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "15"
+        },
+        {
+          "city": "SEEKONK",
+          "pctAvailable": "51.92%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "1131"
         },
         {
           "city": "SHARON",
@@ -1116,52 +1116,52 @@
         },
         {
           "city": "SHREWSBURY",
-          "pctAvailable": "52.60%",
+          "pctAvailable": "51.98%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "3333"
+          "totalAvailable": "3294"
         },
         {
           "city": "SOMERSET",
-          "pctAvailable": "59.53%",
+          "pctAvailable": "59.45%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2210"
+          "totalAvailable": "2207"
         },
         {
           "city": "SOMERVILLE",
-          "pctAvailable": "16.56%",
+          "pctAvailable": "16.06%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "594"
+          "totalAvailable": "576"
         },
         {
           "city": "SOUTH ATTLEBORO",
-          "pctAvailable": "62.51%",
+          "pctAvailable": "62.23%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1311"
+          "totalAvailable": "1305"
         },
         {
           "city": "SOUTH BOSTON",
-          "pctAvailable": "6.86%",
+          "pctAvailable": "7.72%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "48"
+          "totalAvailable": "54"
         },
         {
           "city": "SOUTH DARTMOUTH",
-          "pctAvailable": "52.86%",
+          "pctAvailable": "51.98%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "360"
+          "totalAvailable": "354"
         },
         {
           "city": "SOUTH DENNIS",
-          "pctAvailable": "21.14%",
+          "pctAvailable": "22.02%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "144"
+          "totalAvailable": "150"
         },
         {
           "city": "SOUTH EASTON",
@@ -1179,59 +1179,59 @@
         },
         {
           "city": "SOUTH WEYMOUTH",
-          "pctAvailable": "34.82%",
+          "pctAvailable": "36.11%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "489"
+          "totalAvailable": "507"
         },
         {
           "city": "SOUTH YARMOUTH",
-          "pctAvailable": "10.25%",
+          "pctAvailable": "9.25%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "123"
+          "totalAvailable": "111"
         },
         {
           "city": "SOUTHBRIDGE",
-          "pctAvailable": "2.29%",
+          "pctAvailable": "2.75%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "15"
+          "totalAvailable": "18"
         },
         {
           "city": "SOUTHWICK",
-          "pctAvailable": "39.10%",
+          "pctAvailable": "41.89%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "210"
+          "totalAvailable": "225"
         },
         {
           "city": "SPENCER",
-          "pctAvailable": "54.88%",
+          "pctAvailable": "54.54%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1449"
+          "totalAvailable": "1440"
         },
         {
           "city": "SPRINGFIELD",
-          "pctAvailable": "46.20%",
+          "pctAvailable": "45.80%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "4182"
+          "totalAvailable": "4146"
         },
         {
           "city": "STONEHAM",
-          "pctAvailable": "46.06%",
+          "pctAvailable": "45.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1458"
+          "totalAvailable": "1434"
         },
         {
           "city": "STOUGHTON",
-          "pctAvailable": "12.92%",
+          "pctAvailable": "10.97%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "159"
+          "totalAvailable": "135"
         },
         {
           "city": "STURBRIDGE",
@@ -1242,17 +1242,17 @@
         },
         {
           "city": "SUDBURY",
-          "pctAvailable": "10.89%",
+          "pctAvailable": "11.13%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "135"
+          "totalAvailable": "138"
         },
         {
           "city": "SWAMPSCOTT",
-          "pctAvailable": "34.75%",
+          "pctAvailable": "35.21%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "906"
+          "totalAvailable": "918"
         },
         {
           "city": "SWANSEA",
@@ -1263,87 +1263,87 @@
         },
         {
           "city": "TAUNTON",
-          "pctAvailable": "20.11%",
+          "pctAvailable": "19.19%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "660"
+          "totalAvailable": "630"
         },
         {
           "city": "TEWKSBURY",
-          "pctAvailable": "7.39%",
+          "pctAvailable": "6.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "102"
+          "totalAvailable": "87"
         },
         {
           "city": "UXBRIDGE",
-          "pctAvailable": "61.73%",
+          "pctAvailable": "61.18%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1689"
+          "totalAvailable": "1674"
         },
         {
           "city": "WAKEFIELD",
-          "pctAvailable": "59.83%",
+          "pctAvailable": "59.30%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "3930"
+          "totalAvailable": "3895"
         },
         {
           "city": "WALPOLE",
-          "pctAvailable": "39.20%",
+          "pctAvailable": "39.33%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "948"
+          "totalAvailable": "951"
         },
         {
           "city": "WALTHAM",
-          "pctAvailable": "27.77%",
+          "pctAvailable": "26.28%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1230"
+          "totalAvailable": "1164"
         },
         {
           "city": "WARE",
-          "pctAvailable": "2.42%",
+          "pctAvailable": "1.69%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "30"
+          "totalAvailable": "21"
         },
         {
           "city": "WAREHAM",
-          "pctAvailable": "25.00%",
+          "pctAvailable": "23.23%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "426"
+          "totalAvailable": "396"
         },
         {
           "city": "WATERTOWN",
-          "pctAvailable": "44.45%",
+          "pctAvailable": "42.75%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2973"
+          "totalAvailable": "2859"
         },
         {
           "city": "WAYLAND",
-          "pctAvailable": "3.04%",
+          "pctAvailable": "2.03%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "36"
+          "totalAvailable": "24"
         },
         {
           "city": "WEBSTER",
-          "pctAvailable": "52.64%",
+          "pctAvailable": "52.17%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1017"
+          "totalAvailable": "1008"
         },
         {
           "city": "WELLESLEY",
-          "pctAvailable": "11.03%",
+          "pctAvailable": "9.93%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "273"
+          "totalAvailable": "246"
         },
         {
           "city": "WEST BOYLSTON",
@@ -1354,52 +1354,52 @@
         },
         {
           "city": "WEST BRIDGEWATER",
-          "pctAvailable": "3.25%",
+          "pctAvailable": "2.53%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "54"
+          "totalAvailable": "42"
         },
         {
           "city": "WEST NEWTON",
-          "pctAvailable": "6.07%",
+          "pctAvailable": "0.23%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "78"
+          "status": "Fully Booked",
+          "totalAvailable": "3"
         },
         {
           "city": "WEST ROXBURY",
-          "pctAvailable": "38.25%",
+          "pctAvailable": "38.10%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "762"
+          "totalAvailable": "759"
         },
         {
           "city": "WEST SPRINGFIELD",
-          "pctAvailable": "40.31%",
+          "pctAvailable": "38.58%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "837"
+          "totalAvailable": "801"
         },
         {
           "city": "WEST YARMOUTH",
-          "pctAvailable": "21.08%",
+          "pctAvailable": "20.54%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "117"
+          "totalAvailable": "114"
         },
         {
           "city": "WESTBOROUGH",
-          "pctAvailable": "45.48%",
+          "pctAvailable": "44.37%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1479"
+          "totalAvailable": "1443"
         },
         {
           "city": "WESTFIELD",
-          "pctAvailable": "34.72%",
+          "pctAvailable": "33.58%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1101"
+          "totalAvailable": "1065"
         },
         {
           "city": "WESTFORD",
@@ -1410,101 +1410,101 @@
         },
         {
           "city": "WESTPORT",
-          "pctAvailable": "6.40%",
+          "pctAvailable": "4.43%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "39"
+          "totalAvailable": "27"
         },
         {
           "city": "WESTWOOD",
-          "pctAvailable": "41.26%",
+          "pctAvailable": "43.37%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "822"
+          "totalAvailable": "864"
         },
         {
           "city": "WEYMOUTH",
-          "pctAvailable": "22.47%",
+          "pctAvailable": "21.57%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "600"
+          "totalAvailable": "576"
         },
         {
           "city": "WHITINSVILLE",
-          "pctAvailable": "52.48%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "1014"
-        },
-        {
-          "city": "WHITMAN",
-          "pctAvailable": "22.90%",
-          "state": "MA",
-          "status": "Available",
-          "totalAvailable": "156"
-        },
-        {
-          "city": "WILBRAHAM",
-          "pctAvailable": "53.06%",
+          "pctAvailable": "51.08%",
           "state": "MA",
           "status": "Available",
           "totalAvailable": "987"
         },
         {
-          "city": "WILMINGTON",
-          "pctAvailable": "27.04%",
+          "city": "WHITMAN",
+          "pctAvailable": "21.14%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "795"
+          "totalAvailable": "144"
+        },
+        {
+          "city": "WILBRAHAM",
+          "pctAvailable": "52.25%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "972"
+        },
+        {
+          "city": "WILMINGTON",
+          "pctAvailable": "25.91%",
+          "state": "MA",
+          "status": "Available",
+          "totalAvailable": "762"
         },
         {
           "city": "WINCHENDON",
-          "pctAvailable": "7.38%",
+          "pctAvailable": "5.91%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "45"
+          "totalAvailable": "36"
         },
         {
           "city": "WINCHESTER",
-          "pctAvailable": "15.88%",
+          "pctAvailable": "16.73%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "111"
+          "totalAvailable": "117"
         },
         {
           "city": "WINTHROP",
-          "pctAvailable": "1.94%",
+          "pctAvailable": "-0.97%",
           "state": "MA",
-          "status": "Available",
-          "totalAvailable": "12"
+          "status": "Fully Booked",
+          "totalAvailable": "-6"
         },
         {
           "city": "WOBURN",
-          "pctAvailable": "35.29%",
+          "pctAvailable": "34.33%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "1098"
+          "totalAvailable": "1068"
         },
         {
           "city": "WOLLASTON",
-          "pctAvailable": "31.26%",
+          "pctAvailable": "30.76%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "756"
+          "totalAvailable": "744"
         },
         {
           "city": "WORCESTER",
-          "pctAvailable": "22.68%",
+          "pctAvailable": "21.50%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "2529"
+          "totalAvailable": "2397"
         },
         {
           "city": "WRENTHAM",
-          "pctAvailable": "49.74%",
+          "pctAvailable": "49.91%",
           "state": "MA",
           "status": "Available",
-          "totalAvailable": "870"
+          "totalAvailable": "873"
         }
       ]
     },
