@@ -10,83 +10,115 @@
       "AR": [
         {
           "city": "BELLA VISTA",
+          "pctAvailable": "95.27%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "666"
         },
         {
           "city": "BRYANT",
+          "pctAvailable": "89.10%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "981"
         },
         {
           "city": "CONWAY",
+          "pctAvailable": "93.75%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "2748"
         },
         {
           "city": "FAYETTEVILLE",
+          "pctAvailable": "86.03%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "924"
         },
         {
           "city": "FORT SMITH",
+          "pctAvailable": "80.48%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "396"
         },
         {
           "city": "HOT SPRINGS",
+          "pctAvailable": "99.32%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1314"
         },
         {
           "city": "JONESBORO",
+          "pctAvailable": "96.99%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1839"
         },
         {
           "city": "LITTLE ROCK",
+          "pctAvailable": "91.33%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1455"
         },
         {
           "city": "NORTH LITTLE ROCK",
+          "pctAvailable": "95.63%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1446"
         },
         {
           "city": "PARAGOULD",
+          "pctAvailable": "97.85%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "684"
         },
         {
           "city": "ROGERS",
+          "pctAvailable": "89.73%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "3096"
         },
         {
           "city": "RUSSELLVILLE",
+          "pctAvailable": "96.99%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "678"
         },
         {
           "city": "SHERWOOD",
+          "pctAvailable": "93.08%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "525"
         },
         {
           "city": "SPRINGDALE",
+          "pctAvailable": "95.70%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "669"
         },
         {
           "city": "TEXARKANA",
+          "pctAvailable": "97.27%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "1287"
         },
         {
           "city": "VAN BUREN",
+          "pctAvailable": "97.68%",
           "state": "AR",
-          "status": "Available"
+          "status": "Available",
+          "totalAvailable": "507"
         }
       ]
     },
