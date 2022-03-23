@@ -46,7 +46,7 @@
         {
           "city": "AUBURNDALE",
           "state": "NY",
-          "status": "Fully Booked"
+          "status": "Available"
         },
         {
           "city": "AVON",
@@ -295,11 +295,6 @@
         },
         {
           "city": "DEPEW",
-          "state": "NY",
-          "status": "Available"
-        },
-        {
-          "city": "DOUGLASTON",
           "state": "NY",
           "status": "Available"
         },
@@ -830,11 +825,6 @@
         },
         {
           "city": "MONROE",
-          "state": "NY",
-          "status": "Available"
-        },
-        {
-          "city": "MONSEY",
           "state": "NY",
           "status": "Available"
         },
@@ -1375,11 +1365,6 @@
         },
         {
           "city": "WHITE PLAINS",
-          "state": "NY",
-          "status": "Available"
-        },
-        {
-          "city": "WHITEHALL",
           "state": "NY",
           "status": "Available"
         },
